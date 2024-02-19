@@ -4,7 +4,7 @@
   "version": "1.1",
   "release": "2022-04-01",
   "strategy": "Mymeara Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Aspect Warrior formations, Titans, Knights und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Aspect Warrior formations, Titans, Knights und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Avatar (Mymeara)",
     "May not Garrison (Mymeara)",
@@ -246,7 +246,7 @@
       {
         "name": "Firestorm",
         "description": "Ersetze eine Falcon mit einemFirestorm",
-        "points": "Free"
+        "points": "Kostenlos"
       },
       {
         "name": "Farseer",

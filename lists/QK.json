@@ -28,10 +28,10 @@
         ]
       },
       {
-        "name": "Synchronisierter Icarus Maschinenkanone",
+        "name": "Synchronisierte Icarus Maschinenkanone",
         "type": "CH",
         "weapons": [
-          "Synchronisierter Icarus Maschinenkanone"
+          "Synchronisierte Icarus Maschinenkanone"
         ],
         "specialRules": [
         ]
@@ -46,7 +46,7 @@
         ]
       },
       {
-        "name": "Armiger Knight-Warglaive",
+        "name": "Armiger Schwertknappe Knight-Warglaive",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -64,7 +64,7 @@
         ]
       },
       {
-        "name": "Armiger Knight-Helverin",
+        "name": "Armiger Speerknappen",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -81,7 +81,7 @@
         ]
       },
       {
-        "name": "Armiger Relic Knight-Moirax",
+        "name": "Armiger Schwertknappe Relic Knight-Moirax",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -102,7 +102,7 @@
         "notes": "Must be armed with either Lightning Locks, oder Volkite Veuglaire und Gyges Siege Claw"
       },
       {
-        "name": "Questoris Knight-Paladin",
+        "name": "Questoris Paladinritter",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -121,7 +121,7 @@
         ]
       },
       {
-        "name": "Questoris Knight-Errant",
+        "name": "Questoris Knight-Fahrender Ritter",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -140,7 +140,7 @@
         ]
       },
       {
-        "name": "Questoris Knight-Crusader",
+        "name": "Questoris Kreuzritter",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -159,14 +159,14 @@
         ]
       },
       {
-        "name": "Questoris Knight-Gallant",
+        "name": "Questoris Duellritter",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Synchronisierter Icarus Maschinenkanone",
+          "Synchronisierte Icarus Maschinenkanone",
           "Thunderstrike Gauntlet",
           "Reaper Kettenschwert"
         ],
@@ -179,7 +179,7 @@
         ]
       },
       {
-        "name": "Questoris Knight-Warden",
+        "name": "Questoris Wächterritter",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -288,7 +288,7 @@
         ]
       },
       {
-        "name": "Dominus Knight-Castellan",
+        "name": "Kastellanritter",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "name": "Dominus Knight-Valiant",
+        "name": "Breschenritter",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -473,7 +473,7 @@
         ]
       },
       {
-        "name": "Knight-Paladin",
+        "name": "Paladinritter",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -527,7 +527,7 @@
         ]
       },
       {
-        "name": "Knight-Errant",
+        "name": "Knight-Fahrender Ritter",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -545,7 +545,7 @@
         ]
       },
       {
-        "name": "Knight-Warden Demolisher",
+        "name": "Wächterritter Demolisher",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -562,7 +562,7 @@
         ]
       },
       {
-        "name": "Knight-Warden Vanquisher",
+        "name": "Wächterritter Vanquisher",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -578,7 +578,7 @@
         ]
       },
       {
-        "name": "Knight-Warden Skysweeper",
+        "name": "Wächterritter Skysweeper",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,

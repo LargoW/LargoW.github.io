@@ -6,7 +6,7 @@
   "armyforge": "EAR_Chaos_BlackLegion",
   "intro": "The Black Legion is meant to cover a wide variety of Undivided Chaos Space Marine Warbands und armies, und thus has access to a wider variety of unit types than other CSM lists.",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "All Black Legion Core, Elite und Unterstützungsverbände, as well as all Traitor Titan formations, have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "All Black Legion Core, Elite und Unterstützungsverbände, as well as all Traitor Titan formations, have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Summoning",
     "Black Legion Summoning Rules",

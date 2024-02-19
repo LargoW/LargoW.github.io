@@ -6368,7 +6368,7 @@
       ]
     },
     {
-      "name": "Knight Power Lanze",
+      "name": "Ritter Power Lanze",
       "modes": [
         {
           "Feuerkraft": "Handfeuerwaffen",
@@ -6390,7 +6390,7 @@
       ]
     },
     {
-      "name": "Knight Psychic Lanze",
+      "name": "Ritter Psychic Lanze",
       "modes": [
         {
           "Feuerkraft": "1BP",
@@ -6412,7 +6412,7 @@
       ]
     },
     {
-      "name": "Knight Kettenschwert",
+      "name": "Ritter Kettenschwert",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -6424,7 +6424,7 @@
       ]
     },
     {
-      "name": "Knight Power Gauntlet",
+      "name": "Ritter Power Gauntlet",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -8869,7 +8869,7 @@
       ]
     },
     {
-      "name": "Knight Pulse Laser",
+      "name": "Ritter Pulse Laser",
       "modes": [
         {
           "Feuerkraft": "2x AT3+",
@@ -8880,7 +8880,7 @@
       ]
     },
     {
-      "name": "Knight Close Combat Weapons",
+      "name": "Ritter Close Combat Weapons",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -11678,7 +11678,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Icarus Maschinenkanone",
+      "name": "Synchronisierte Icarus Maschinenkanone",
       "modes": [
         {
           "Feuerkraft": "AP5+/AT6+/AA6+",

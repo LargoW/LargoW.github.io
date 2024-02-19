@@ -6,7 +6,7 @@
   "armyforge": "EAR_Ork_BadMoonsGargants",
   "intro": "Unlike the very rigid formations used by the Imperium, Ork formations vary widely in both size und composition. The rules für creating Ork formations reflect this. The most common type of Ork formation is the warband. Other more specialised formations do exist, such as Kults of Speed und Blitz Brigades. The different types of Ork formations you may choose are shown on the army list that follows.</p><p>Some Ork formations come in different sizes: Normal, Big & 'Uge. A Big formation is double in size und a 'Uge formation is triple. If there is a limitation to formation Erweiterungen, then the limit is doubled für a big formation und tripled für a ’uge formation. Für example, a normal sized Kult of Speed can include 0–1 Oddboy, a big Kult of Speed can include 0–2, und a 'Uge Kult of Speed can include 0–3.",
   "strategy": "Ork Armeen haben einen Strategiewert von 3.",
-  "Initiative": "All Verbände haben eine Initiative von 3+.",
+  "Initiative": "All Verbände haben eine Initiativewert von 3+.",
   "specialRules": [
     "Mob Rule",
     "Power of the Waaagh!",

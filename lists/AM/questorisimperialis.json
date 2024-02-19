@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_KnightWorld",
   "strategy": "Knight World Armeen haben einen Strategiewert von 2.",
-  "Initiative": "All Verbände haben eine Initiative von 2+. In addition, all Knight Household formations are subject to the 'Bravery' special rule.",
+  "Initiative": "All Verbände haben eine Initiativewert von 2+. In addition, all Knight Household formations are subject to the 'Bravery' special rule.",
   "specialRules": [
     "Bravery",
     "Fortified Positions"
@@ -16,13 +16,13 @@
       "units": [
         "Seneschal",
         "Knight-Baron",
-        "Knight-Paladin",
+        "Paladinritter",
         "Knight-Castellan",
         "Knight-Lancer",
-        "Knight-Warden Demolisher",
-        "Knight-Warden Vanquisher",
-        "Knight-Warden Skysweeper",
-        "Knight-Errant"
+        "Wächterritter Demolisher",
+        "Wächterritter Vanquisher",
+        "Wächterritter Skysweeper",
+        "Knight-Fahrender Ritter"
       ],
       "unitRules": [
         "Ion Shield (x)",
@@ -85,7 +85,7 @@
           "points": 300
         },
         {
-          "name": "Errant Household",
+          "name": "Fahrender Ritter Household",
           "units": "Drei Knight-Errants",
           "extraUnits": [
             "Seneschal",
@@ -103,7 +103,7 @@
           "points": 350
         },
         {
-          "name": "Warden Household",
+          "name": "Wächterritter Household",
           "units": "Vier Knight-Wardens (any combination of configurations)",
           "extraUnits": [
             "Seneschal",

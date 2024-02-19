@@ -6,7 +6,7 @@
   "armyforge": "EAR_Eldar_Exodites",
   "intro": "The following army list allows you to field an Exodite Eldar army.",
   "strategy": "Exodite Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Exodite Warhost formations und Eldar Knights have an initiative rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Exodite Warhost formations und Eldar Knights have an initiative rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Farsight",
     "Great Drake",
@@ -77,7 +77,7 @@
         {
           "name": "1 Wraithgate",
           "units": "Ersetze eine objective marker in the Eldar player's half of the table mit einemWraithgate, this counts as an objective marker und a Webway Portal which may not be attacked oder damaged in any way. ",
-          "points": "Free"
+          "points": "Kostenlos"
         }
       ]
     },

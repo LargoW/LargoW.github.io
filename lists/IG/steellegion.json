@@ -5,7 +5,7 @@
   "release": "2022-09-29",
   "armyforge": "EAR_ImperialGuard_SteelLegion",
   "strategy": "Stahlegion Armeen haben einen Strategiewert von 2.",
-  "Initiative": "Collegia Titanica Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Mut, Disziplin und Loyalität"
   ],

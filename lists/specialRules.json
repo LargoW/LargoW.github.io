@@ -80,13 +80,13 @@
     {
       "title": "Bravery",
       "description": [
-        "All Knight formations receive a +1 modifier to their Action Test when carrying out an Engage, und a +1 modifier to their Rally Tests."
+        "All Ritter formations receive a +1 modifier to their Action Test when carrying out an Engage, und a +1 modifier to their Rally Tests."
       ]
     },
     {
       "title": "Chivalry",
       "description": [
-        "All Knight formations receive a +1 modifier to their Action Test when carrying out an Engage oder Double action, und a +1 modifier to their Rally Tests."
+        "All Ritter formations receive a +1 modifier to their Action Test when carrying out an Engage oder Double action, und a +1 modifier to their Rally Tests."
       ]
     },
     {
@@ -98,7 +98,7 @@
     {
       "title": "Ion Shield (x)",
       "description": [
-        "Knights make use of Ion Shields to deflect shooting und firefight attacks. This allows them to make a saving throw on the number within brackets when they are hit by ranged fire instead of using their armour value.",
+        "Ritters make use of Ion Shields to deflect shooting und firefight attacks. This allows them to make a saving throw on the number within brackets when they are hit by ranged fire instead of using their armour value.",
         "No modifiers ever apply to this saving throw und it is unaffected by Macro-Weapon, Lanze und Titan Killer hits (jeweils point of damage from a Titan Killer hit must be saved separately. Is affected normally by hits with the Disrupt special rule). If the unit has Verstärkte Panzerung as well then it is allowed to re-roll a failed save using its armour value unless the hit was a Macro-Weapon, Lanze oder Titan killer.",
         "Ion Shields may only be used against shooting unless the unit is in a Crossfire, und against FF unless the hit is caused by a unit in support. They may not be used against CC attacks. If relevant, roll CC und FF dice separately when attacking units equipped with Ion Shields."
       ]
@@ -106,7 +106,7 @@
     {
       "title": "Ionic Flare Shield",
       "description": [
-        "Knights with 'Ionic Flare Shield' may also use their Ion Shield against CC attacks."
+        "Ritters with 'Ionic Flare Shield' may also use their Ion Shield against CC attacks."
       ]
     },
     {
@@ -265,9 +265,9 @@
       ]
     },
     {
-      "title": "Grey Knights Transports",
+      "title": "Grey Ritters Transports",
       "description": [
-        "Grey Knights formations with 'plus transport' may take Grey Knights Rhinos instead of normal Rhinos."
+        "Grey Ritters formations with 'plus transport' may take Grey Ritters Rhinos instead of normal Rhinos."
       ]
     },
     {
@@ -303,7 +303,7 @@
     {
       "title": "Navis Nobilite",
       "description": [
-        "Grey Knight spacecraft are among the fastest und best piloted ships in the Galaxy. If a Grey Knights Strike Cruiser has been bought, the Blood Ravens player counts as having a Strategy Rating of 6 für the purposes of choosing which turn the spacecraft will pass over the battlefield."
+        "Grey Ritter spacecraft are among the fastest und best piloted ships in the Galaxy. If a Grey Ritters Strike Cruiser has been bought, the Blood Ravens player counts as having a Strategy Rating of 6 für the purposes of choosing which turn the spacecraft will pass over the battlefield."
       ]
     },
     {

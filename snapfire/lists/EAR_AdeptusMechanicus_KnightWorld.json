@@ -27,10 +27,10 @@
 
 	],
 	"upgrades":[
-		{"id":10, "name":"Knight-Paladin with Seneschal",		"pts":100},
+		{"id":10, "name":"Paladinritter with Seneschal",		"pts":100},
 		{"id":11, "name":"Knight-Baron",						"pts":150},
 		{"id":12, "name":"Seneschal",							"pts":25},
-		{"id":13, "name":"Knight-Paladin",					"pts":75},
+		{"id":13, "name":"Paladinritter",					"pts":75},
 		{"id":14, "name":"Knight-Castellan (Twin Lascannon)",					"pts":125},
 		{"id":24, "name":"Knight-Castellan (Multi Barreled Autocannon)",					"pts":125},
 		{"id":15, "name":"Knight-Lancer",						"pts":100},

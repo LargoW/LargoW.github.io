@@ -27,7 +27,7 @@
 			{ "id":520, "name":"Brass Scorpions", "units":"2 Brass Scorpions", "pts":250, "upgrades":[] },
 			{ "id":521, "name":"Silver Towers", "units":"4 Silver Towers", "pts":250, "upgrades":[] },
 			{ "id":522, "name":"Blight Drones", "units":"6 Blight Drones", "pts":300, "upgrades":[] },
-			{ "id":523, "name":"Daemon Knights", "units":"4 Daemon Knights", "pts":250, "upgrades":[] }
+			{ "id":523, "name":"Daemon Ritters", "units":"4 Daemon Ritters", "pts":250, "upgrades":[] }
 		]},
 		{"name":"CHAOS NAVY <br/> Max 33%", "formations":[
 			{ "id":531, "name":"Hell Blade Squadron", "units":"3 Hell Blade Interceptors", "pts":200},

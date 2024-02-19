@@ -4,7 +4,7 @@
   "version": "Alpha 0.8.4",
   "release": "2022-04-01",
   "strategy": "Craftworld Saim-Hann Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Shining Spears, Aspect Warriors, Crimson Hunters, Titans, und the Avatar Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Shining Spears, Aspect Warriors, Crimson Hunters, Titans, und the Avatar Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Avatar (Saim-Hann)",
     "May not Garrison (Saim-Hann)",
@@ -91,7 +91,7 @@
           "name": "Wild Rider Warhost",
           "units": "Nine Saim-Hann Wild Riders",
           "extraUnits": [
-            "Ersetze any number of Wild Riders with Saim-Hann Vypers: Free",
+            "Ersetze any number of Wild Riders with Saim-Hann Vypers: Kostenlos",
             "Ersetze eine unit of Wild Riders mit einemBeritten Farseer: 25 Punkte",
             "(0-1 pro army) Ersetze eine unit of Wild Riders mit einemWild Rider Chieftain: 50 Punkte"
           ],
@@ -138,7 +138,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Free",
+            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos",
             "Füge fünf Guardians to the formation: 75 Punkte"
           ],
           "points": 250

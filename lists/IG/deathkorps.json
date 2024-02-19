@@ -5,7 +5,7 @@
   "release": "2022-09-29",
   "armyforge": "EAR_ImperialGuard_DKoK",
   "strategy": "DKoK Armeen haben einen Strategiewert von 2.",
-  "Initiative": "Collegia Titanica Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Mut, Disziplin und Loyalität",
     "Fortified Positions"
@@ -128,7 +128,7 @@
           "name": "Artillerie Emplacement",
           "units": "Vier Medusa Guns, vier Gun Emplacements",
           "extraUnits": [
-            "Ersetze vier Gun Emplacements with vier Trojans: Free",
+            "Ersetze vier Gun Emplacements with vier Trojans: Kostenlos",
             "Ersetze vier Medusa Guns with vier Earthshaker Guns: 50 Punkte"
           ],
           "points": 225
@@ -137,7 +137,7 @@
           "name": "Flak Emplacement",
           "units": "Vier Heavy AA Guns, vier Gun Emplacements",
           "Erweiterungen": [
-            "Ersetze vier Gun Emplacements with vier Trojans: Free"
+            "Ersetze vier Gun Emplacements with vier Trojans: Kostenlos"
           ],
           "points": 175
         },
@@ -181,7 +181,7 @@
           "name": "Grenadier Kompanie",
           "units": "Ein DKoK Befehlshaber mit einem Kommissar, sieben Grenadiers, vier Storm Chimären",
           "extraUnits": [
-            "Ersetze vier Storm Chimären mit einemGorgon: Free",
+            "Ersetze vier Storm Chimären mit einemGorgon: Kostenlos",
             "Bane Wolf"
           ],
           "points": 325

@@ -4,7 +4,7 @@
   "version": "0.5.0",
   "release": "2022-04-01",
   "strategy": "Necron Armeen haben einen Strategiewert von 2.",
-  "Initiative": "All Necron Verbände haben eine Initiative von 1+.",
+  "Initiative": "All Necron Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
     "Necron Reserves",
     "Necron Garrisons",
@@ -105,7 +105,7 @@
           "points": 275
         },
         {
-          "name": "Blade Maniple",
+          "name": "Blade Manipel",
           "units": "Sechs Tomb Blades",
           "Erweiterungen": [
             "Listed Below"
@@ -113,7 +113,7 @@
           "points": 200
         },
         {
-          "name": "Iudicium Maniple",
+          "name": "Iudicium Manipel",
           "units": "Fünf Doomsday Arks oder fünf Annihilation Barges",
           "Erweiterungen": [
             "Listed Below"
@@ -121,7 +121,7 @@
           "points": 225
         },
         {
-          "name": "Eques Maniple",
+          "name": "Eques Manipel",
           "units": "Any sechs of the following units: Destroyers, Heavy Destroyers",
           "Erweiterungen": [
             "Listed Below"
@@ -129,7 +129,7 @@
           "points": 300
         },
         {
-          "name": "Monolith Maniple",
+          "name": "Monolith Manipel",
           "units": "Zwei Monoliths und zwei Obelisks",
           "Erweiterungen": [
             "Listed Below"
@@ -137,7 +137,7 @@
           "points": 250
         },
         {
-          "name": "Stalker Maniple",
+          "name": "Stalker Manipel",
           "units": "Vier Triarch Stalkers",
           "Erweiterungen": [
             "Listed Below"
@@ -145,7 +145,7 @@
           "points": 200
         },
         {
-          "name": "Sentry Maniple",
+          "name": "Sentry Manipel",
           "units": "Vier Sentry Pylons.",
           "Erweiterungen": [
             "Listed Below"
@@ -161,7 +161,7 @@
           "points": 275
         },
         {
-          "name": "Letum Maniple",
+          "name": "Letum Manipel",
           "units": "Vier Death Marks",
           "Erweiterungen": [
             "Listed Below"
@@ -275,7 +275,7 @@
         ]
       },
       {
-        "name": "Iudicium Maniple",
+        "name": "Iudicium Manipel",
         "options": [
           {
             "description": "Füge eine Command barge mit einemLord Character",
@@ -284,7 +284,7 @@
         ]
       },
       {
-        "name": "Eques Maniple",
+        "name": "Eques Manipel",
         "options": [
           {
             "description": "Füge Ein Necron Lord",
@@ -297,7 +297,7 @@
         ]
       },
       {
-        "name": "Monolith Maniple",
+        "name": "Monolith Manipel",
         "options": [
           {
             "description": "Füge eine Obelisk",
@@ -310,7 +310,7 @@
         ]
       },
       {
-        "name": "Stalker Maniple",
+        "name": "Stalker Manipel",
         "options": [
           {
             "description": "Füge 0-2 Seraptek Heavy Construct",

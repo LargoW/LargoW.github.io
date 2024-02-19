@@ -14,7 +14,7 @@
 			{"id":552, "name":"Warhound Titan Pack",	"pts":500, "upgrades":[82]}
 		]},
 		{"name":"SUPPORT FORMATIONS <br/> Max 1 Support Formation for each Battle or Scout Titan formation <br/> Max 1 Lysander Fighter for each Warmonger Titan", "formations":[
-			{"id":561, "name":"Forge Knight Maniple",			"pts":250, "units":"5 Forge Knights", "upgrades":[]},
+			{"id":561, "name":"Forge Ritter Maniple",			"pts":250, "units":"5 Forge Ritters", "upgrades":[]},
 			{"id":562, "name":"Crusader Scout Maniple",			"pts":150, "units":"4 Crusader Robots", "upgrades":[]},
 			{"id":563, "name":"Thunderbolt Squadron",	"pts":150, "units":"2 Thunderbolt Fighters", "upgrades":[]},
 			{"id":564, "name":"Marauder Squadron",		"pts":250, "units":"2 Marauder Bombers", "upgrades":[]},

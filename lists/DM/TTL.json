@@ -4,7 +4,7 @@
   "version": "0.8.0",
   "release": "2022-04-01",
   "strategy": "Dark Mechanicus Armeen haben einen Strategiewert von 3.",
-  "Initiative": "All Battle Titan und Chaos Warhound Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "All Battle Titan und Chaos Warhound Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "TTL Eternal Animosity"
   ],
@@ -193,7 +193,7 @@
           "points": 225
         },
         {
-          "name": "Hell-Forge Maniple",
+          "name": "Hell-Forge Manipel",
           "units": "Ein Hellwright, eleven Chaos Squats",
           "extraUnits": [
             "Füge sechs Chaos Rhinos: 50 Punkte"

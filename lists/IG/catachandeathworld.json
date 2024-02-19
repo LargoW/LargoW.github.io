@@ -4,7 +4,7 @@
   "version": "0.7.2",
   "release": "2022-04-01",
   "strategy": "Catachan Jungle Fighter Armeen haben einen Strategiewert von 3.",
-  "Initiative": "All Verbände haben eine Initiative von 2+.",
+  "Initiative": "All Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Catachan Befehlshabers"
   ],

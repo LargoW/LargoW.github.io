@@ -4,7 +4,7 @@
   "version": "0.5.1",
   "release": "2022-04-01",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "The Word Bearers Retinue und all Word Bearers Elite Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "The Word Bearers Retinue und all Word Bearers Elite Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Summoning",
     "Word Bearers Summoning Rules",
@@ -48,7 +48,7 @@
         "Defiler",
         "Death Wheel",
         "Forgefiend",
-        "Knight-Dreadblade"
+        "Ritter-Dreadblade"
       ],
       "unitRules": [
         "Daemon Engine (x)",
@@ -211,7 +211,7 @@
       "formations": [
         {
           "name": "0-1 Dreadblade",
-          "units": "Daemonic Pact, eine Knight-Dreadblade of any configuration",
+          "units": "Daemonic Pact, eine Ritter-Dreadblade of any configuration",
           "extraUnits": [
           ],
           "points": 250

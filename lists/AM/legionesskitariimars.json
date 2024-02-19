@@ -4,7 +4,7 @@
   "version": "0.7.0",
   "release": "2022-04-01",
   "strategy": "The Legiones Skitarii have a Strategy Rating of 3.",
-  "Initiative": "Collegia Titanica Verbände haben eine Initiative von 1+. All other formations have a Initiative Rating of 2+. In addition, the Questoris Banner formation is subject to the 'Chivalry' special rule.",
+  "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. All other formations have a Initiative Rating of 2+. In addition, the Questoris Banner formation is subject to the 'Chivalry' special rule.",
   "specialRules": [
     "Tunnelgräber"
   ],
@@ -45,11 +45,11 @@
     {
       "from": "QK.json",
       "units": [
-        "Questoris Knight-Paladin",
-        "Questoris Knight-Errant",
-        "Questoris Knight-Crusader",
-        "Questoris Knight-Gallant",
-        "Questoris Knight-Warden"
+        "Questoris Paladinritter",
+        "Questoris Knight-Fahrender Ritter",
+        "Questoris Kreuzritter",
+        "Questoris Duellritter",
+        "Questoris Wächterritter"
       ],
       "unitRules": [
         "Schwergepanzertes Fahrzeug (H-AV)",
@@ -74,10 +74,10 @@
       "name": "Legiones Mars Core Formations",
       "formations": [
         {
-          "name": "Vanguard Maniple",
+          "name": "Vanguard Manipel",
           "units": "Ein Magos, neun Skitarii Vanguards",
           "extraUnits": [
-            "Ersetze vier Skitarii Vanguards with vier Rapiers: Free",
+            "Ersetze vier Skitarii Vanguards with vier Rapiers: Kostenlos",
             "Füge bis zu zwei Onager Dunecrawlers: 50 Punkte jeweils",
             "Füge bis zu zwei Skorpius Disintegrators: 50 Punkte jeweils",
             "Oberbefehlshaber",
@@ -112,7 +112,7 @@
           "points": 150
         },
         {
-          "name": "Kastelan Maniple",
+          "name": "Kastelan Manipel",
           "units": "Ein Tech-Priest, fünf Kastelan Robots",
           "extraUnits": [
             "Füge bis zu zwei Kastelan Robots für 25 Punkte jeweils"
@@ -120,18 +120,18 @@
           "points": 175
         },
         {
-          "name": "Kataphron Maniple",
+          "name": "Kataphron Manipel",
           "units": "Ein Tech-Priest, fünf Kataphron Breacher Battle Servitors oder fünf Kataphron Destroyer Battle Servitors",
           "extraUnits": [],
           "points": 250
         },
         {
-          "name": "Onager Maniple",
+          "name": "Onager Manipel",
           "units": "Ein Onager Dunecrawlers with Icarus Array, drei Onager Dunecrawlers with another single configuration",
           "points": 225
         },
         {
-          "name": "Skorpius Maniple",
+          "name": "Skorpius Manipel",
           "units": "Vier Skorpius Disintegrators",
           "extraUnits": [
             "Füge bis zu zwei Skorpius Disintegrators: 50 Punkte jeweils"
@@ -236,7 +236,7 @@
         "options": [
           {
             "description": "Ersetze the Ordinatus Armageddon mit einem Ordinatus Mars (Sonic Disruptor)",
-            "points": "Free"
+            "points": "Kostenlos"
           }
         ]
       },

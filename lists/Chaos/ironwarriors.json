@@ -5,7 +5,7 @@
   "release": "2022-09-29",
   "armyforge": "EAR_Chaos_IronWarriors",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Dark Mechanicus und Chaos Navy Verbände haben eine Initiative von 2+. Alle anderen Verbände haben eine Initiative von 1+.",
+  "Initiative": "Dark Mechanicus und Chaos Navy Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
     "Iron Warriors Dreadclaws",
     "Iron Warriors Characters"

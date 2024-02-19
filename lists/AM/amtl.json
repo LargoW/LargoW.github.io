@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_AMTL",
   "strategy": "Collegia Titanica Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Battle Titan formations und the Warhounds formation have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+. In addition, the Questoris Banner formation is subject to the 'Chivalry' special rule.",
+  "Initiative": "Battle Titan formations und the Warhounds formation have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+. In addition, the Questoris Banner formation is subject to the 'Chivalry' special rule.",
   "specialRules": [
   ],
   "units": [
@@ -56,11 +56,11 @@
     {
       "from": "QK.json",
       "units": [
-        "Questoris Knight-Paladin",
-        "Questoris Knight-Errant",
-        "Questoris Knight-Crusader",
-        "Questoris Knight-Gallant",
-        "Questoris Knight-Warden"
+        "Questoris Paladinritter",
+        "Questoris Knight-Fahrender Ritter",
+        "Questoris Kreuzritter",
+        "Questoris Duellritter",
+        "Questoris Wächterritter"
       ],
       "unitRules": [
         "Schwergepanzertes Fahrzeug (H-AV)",
@@ -137,7 +137,7 @@
           "points": 175
         },
         {
-          "name": "Kastelan Maniple",
+          "name": "Kastelan Manipel",
           "units": "Fünf Kastelan Robots, eine Tech-Priest",
           "extraUnits": [
             "Füge bis zu zwei Kastelan Robots: 25 Punkte jeweils"
@@ -145,7 +145,7 @@
           "points": 175
         },
         {
-          "name": "Castellax Maniple",
+          "name": "Castellax Manipel",
           "units": "Ein Tech-Priest, vier Castellax Battle-Automata",
           "extraUnits": [
           ],

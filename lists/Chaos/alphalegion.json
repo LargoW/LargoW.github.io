@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_AlphaLegion",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4. Alpha Legion armies are also subject to 'The Harrowing' special rule.",
-  "Initiative": "Cultist Coven und Cultist Support Verbände haben eine Initiative von 2+. Alle anderen Verbände haben eine Initiative von 1+.",
+  "Initiative": "Cultist Coven und Cultist Support Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
     "The Harrowing",
     "Alpha Legion Transports",

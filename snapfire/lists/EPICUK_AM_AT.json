@@ -5,14 +5,14 @@
 "by":"EA-Ragnarok",
 "sections":[
 {
-"name":"TITANS & KNIGHTS",
+"name":"TITANS & RitterS",
 "formations":[
         {"id":501,"name":"Warlord Battle Titan","pts":850, "upgrades":[10,11,12]},
         {"id":502,"name":"Reaver Battle Titan","pts":650, "upgrades":[10,11,12]},
         {"id":503,"name":"Warhound Pack","pts":550, "upgrades":[]},
         {"id":504,"name":"Warhound","pts":300, "upgrades":[]},
-        {"id":505,"name":"Questoris Knight", "pts":0, "upgrades":[13,14,15, 40,41,42]},
-        {"id":506,"name":"Cerastus Knight", "pts":0, "upgrades":[13,14, 45]}
+        {"id":505,"name":"Questoris Ritter", "pts":0, "upgrades":[13,14,15, 40,41,42]},
+        {"id":506,"name":"Cerastus Ritter", "pts":0, "upgrades":[13,14, 45]}
 ]},
 {"name":"AUXILIA",
 "formations":[
@@ -24,13 +24,13 @@
         {"id":11,"name":"Veteran Princeps","pts":25},
         {"id":12,"name":"Carapace Multilasers","pts":50},
 
-        {"id":13,"name":"Knight Seneschal","pts":25},
-        {"id":14,"name":"Knight Seasoned Veteran","pts":25},
+        {"id":13,"name":"Ritter Seneschal","pts":25},
+        {"id":14,"name":"Ritter Seasoned Veteran","pts":25},
         {"id":15,"name":"Carapace Rocket Launcher","pts":50},
 
         {"id":40,"name":"Questoris w/ Rapid Fire Battle Cannon","pts":175},
-        {"id":41,"name":"Questoris w/ Knight Thermal Cannon","pts":175},
-        {"id":42,"name":"Questoris w/ Knight Gatling Cannon","pts":175},
+        {"id":41,"name":"Questoris w/ Ritter Thermal Cannon","pts":175},
+        {"id":42,"name":"Questoris w/ Ritter Gatling Cannon","pts":175},
 
         {"id":45,"name":"Cerastus Lancer","pts":175},
 

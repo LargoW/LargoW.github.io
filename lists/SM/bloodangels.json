@@ -6,7 +6,7 @@
   "armyforge": "EAR_AdeptusAstartes_BloodAngels",
   "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Blood Angels Space Marine chapter oder any of its successor chapters. The Blood Angels are well-known across the galaxy für their bloodthirsty nature in battle, und feared für the curse of the flawed gene-seed they carry.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
-  "Initiative": "All Verbände haben eine Initiative von 1+.",
+  "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Blood Angels detachments und Aircraft formations.",
   "specialRules": [
     "Space Marine Transports",
@@ -236,7 +236,7 @@
       {
         "name": "Trikes",
         "description": "Ersetze any number of Assault Bikes mit einem equal number of Trikes oder Melter Bikes",
-        "points": "Free"
+        "points": "Kostenlos"
       },
       {
         "name": "Befehlshaber",

@@ -4,7 +4,7 @@
   "version": "0.6.0",
   "release": "2022-04-01",
   "strategy": "Valhallan Ice Warrior Armeen haben einen Strategiewert von 2.",
-  "Initiative": "Ministorum Mission Verbände haben eine Initiative von 1+. All other formations have a Initiative Rating of 2+.",
+  "Initiative": "Ministorum Mission Verbände haben eine Initiativewert von 1+. All other formations have a Initiative Rating of 2+.",
   "specialRules": [
     "Mut, Disziplin und Loyalität",
     "Grim Demeanour",

@@ -6,7 +6,7 @@
   "armyforge": "EAR_Tau_SaCea",
   "intro": "The Sa'cea Tau army list lets you field a Tau army from the Sa'cea Sept.",
   "strategy": "Tau Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Crisis Battlesuit und Manta Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Crisis Battlesuit und Manta Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Tiger Shark Gun Drones"
   ],

@@ -6,7 +6,7 @@
   "armyforge": "EAR_AdeptusAstartes_DarkAngels",
   "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Dark Angels Space Marine chapter oder any of its successor chapters.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
-  "Initiative": "All Verbände haben eine Initiative von 1+.",
+  "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Dark Angels detachments.",
   "specialRules": [
     "Telemetrieempfänger",
@@ -215,7 +215,7 @@
       {
         "name": "Trikes",
         "description": "Ersetze any number of Assault Bikes mit einem equal number of Trikes",
-        "points": "Free"
+        "points": "Kostenlos"
       },
       {
         "name": "Deathwing Knights",

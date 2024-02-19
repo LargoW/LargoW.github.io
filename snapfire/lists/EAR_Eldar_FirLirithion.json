@@ -17,7 +17,7 @@
 	 ]},
       {"name": "FIR LIRITHION TROUPES <br/> Max 3 for each Battle or Scout Titan formation", "formations": [
 	    {"id": 531, "name": "Engines of Vaul", "pts": 50, "upgrades": [17,18,19, 11]},
-	    {"id": 534, "name": "Wraithknights", "pts": 300, "upgrades": []},
+	    {"id": 534, "name": "WraithRitters", "pts": 300, "upgrades": []},
         {"id": 535, "name": "Spirit Guard Wraithhost", "pts": 225, "units": "Spiritseer", "upgrades": [41,47,48,49,55]}
 	]},
       {"name": "CRAFTWORLD NAVY <br/> Max 25%", "formations": [
@@ -54,9 +54,9 @@
       {"id": 65, "name": "Eldar Titan Power Fist", "pts": 0},
       {"id": 66, "name": "Ashuna-Valcry'le", "pts": 0},
 
-      {"id": 75, "name": "2 Wraithknights (Twin Heavy Wraithcannon)", "pts": 0},
-      {"id": 76, "name": "2 Wraithknights (Ghostglaive and Scattershield)", "pts": 0},
-      {"id": 77, "name": "2 Wraithknights (Suncannon)", "pts": 0}
+      {"id": 75, "name": "2 WraithRitters (Twin Heavy Wraithcannon)", "pts": 0},
+      {"id": 76, "name": "2 WraithRitters (Ghostglaive and Scattershield)", "pts": 0},
+      {"id": 77, "name": "2 WraithRitters (Suncannon)", "pts": 0}
 
    ],
    "formationConstraints": [

@@ -5,7 +5,7 @@
   "release": "2022-09-29",
   "armyforge": "EAR_Chaos_StD",
   "strategy": "Slaves to Darkness Armeen haben einen Strategiewert von 1.",
-  "Initiative": "Chaos Space Marine Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Chaos Space Marine Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Summoning",
     "Slaves to Darkness Summoning Rules",
@@ -79,7 +79,7 @@
         "Defiler",
         "Vernichter",
         "Death Wheel",
-        "Hell-Knight",
+        "Hell-Ritter",
         "Hell-Scourge",
         "Plague Tower",
         "Plague Reaper",
@@ -215,8 +215,8 @@
           "points": 300
         },
         {
-          "name": "Hell-Knights",
-          "units": "Drei Hell-Knights",
+          "name": "Hell-Ritters",
+          "units": "Drei Hell-Ritters",
           "points": 325
         },
         {

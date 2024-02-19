@@ -4,7 +4,7 @@
   "version": "0.6.0",
   "release": "2022-04-01",
   "strategy": "Deathwatch Armeen haben einen Strategiewert von 5.",
-  "Initiative": "Ordo Xenos und Planetary Defense Force Verbände haben eine Initiative von 2+. Alle anderen Verbände haben eine Initiative von 1+.",
+  "Initiative": "Ordo Xenos und Planetary Defense Force Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Deathwatch detachments und Aircraft formations.",
   "specialRules": [
     "Ad Hoc Detachments",

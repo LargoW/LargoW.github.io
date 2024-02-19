@@ -40,7 +40,7 @@
         ]
       },
       {
-        "name": "Dragon Knight",
+        "name": "Dragon Ritter",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -55,7 +55,7 @@
         ]
       },
       {
-        "name": "Wind Knight",
+        "name": "Wind Ritter",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -154,14 +154,14 @@
         ]
       },
       {
-        "name": "Fire Gale Knight",
+        "name": "Fire Gale Ritter",
         "type": "H-AV",
         "speed": 25,
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Knight Psychic Lanze",
-          "Knight Pulse Laser"
+          "Ritter Psychic Lanze",
+          "Ritter Pulse Laser"
         ],
         "specialRules": [
           "Holofield (4+)",
@@ -170,14 +170,14 @@
         ]
       },
       {
-        "name": "Bright Stallion Knight",
+        "name": "Bright Stallion Ritter",
         "type": "H-AV",
         "speed": 35,
         "armour": 5,
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Knight Psychic Lanze"
+          "Ritter Psychic Lanze"
         ],
         "specialRules": [
           "Holofield (4+)",
@@ -187,15 +187,15 @@
         ]
       },
       {
-        "name": "Towering Destroyer Knight",
+        "name": "Towering Destroyer Ritter",
         "type": "H-AV",
         "speed": 30,
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Knight Psychic Lanze",
+          "Ritter Psychic Lanze",
           "Scatter Laser",
-          "Knight Close Combat Weapons"
+          "Ritter Close Combat Weapons"
         ],
         "specialRules": [
           "Holofield (4+)",

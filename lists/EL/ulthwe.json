@@ -6,7 +6,7 @@
   "armyforge": "EAR_Eldar_Ulthwe",
   "intro": "The following army list allows you to field an Eldar army from the Ulthwé Craftworld.",
   "strategy": "Craftworld Eldar Armeen haben einen Strategiewert von 4. Craftworld Ulthwé are also subject to the 'Seers of Ulthwé' special rule.",
-  "Initiative": "Ulthwé Warhosts, Aspect Warriors, Wraith Knights, Titans und the Avatar Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Ulthwé Warhosts, Aspect Warriors, Wraith Knights, Titans und the Avatar Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Seers of Ulthwé",
     "Avatar (Ulthwé)",
@@ -86,7 +86,7 @@
           "units": "Ersetze eine objective marker in the Eldar player's half of the table mit einemWraithgate, this counts as an objective marker und a Webway Portal which may not be attacked oder damaged in any way.",
           "extraUnits": [
           ],
-          "points": "Free"
+          "points": "Kostenlos"
         }
       ]
     },
@@ -98,7 +98,7 @@
           "units": "Zwei Farseers, sechs Eldar Guardians",
           "extraUnits": [
             "Seer Council",
-            "Ersetze bis zu drei Eldar Guardians mit einem equal number of Eldar Heavy Weapon Platform units: Free",
+            "Ersetze bis zu drei Eldar Guardians mit einem equal number of Eldar Heavy Weapon Platform units: Kostenlos",
             "Ersetze bis zu drei Eldar Guardians with Support Weapons Platforms (all armed with the same weapon): 25 Punkte jeweils",
             "Füge zwei Eldar Wraithguards: 75 Punkte",
             "Füge bis zu drei Eldar Wraithlords: 50 Punkte jeweils"
@@ -110,7 +110,7 @@
           "units": "Zwei Farseers, sechs Eldar Guardians und vier Wave Serpents",
           "extraUnits": [
             "Seer Council",
-            "Ersetze bis zu drei Eldar Guardians mit einem equal number of Eldar Heavy Weapon Platform units: Free",
+            "Ersetze bis zu drei Eldar Guardians mit einem equal number of Eldar Heavy Weapon Platform units: Kostenlos",
             "Ersetze any number of Wave Serpents with zwei Falcons jeweils: 50 Punkte jeweils",
             "Ersetze eine Wave Serpent with zwei Firestorms: 75 Punkte"
           ],
@@ -134,7 +134,7 @@
             "name": "Windriders",
             "units": "Sechs Eldar Jetbikes",
             "extraUnits": [
-              "Ersetze bis zu sechs Eldar Jetbikes with Vypers: Free"
+              "Ersetze bis zu sechs Eldar Jetbikes with Vypers: Kostenlos"
             ],
             "points": 200
         },
@@ -180,7 +180,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Free"
+            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos"
           ],
           "points": 250
         }

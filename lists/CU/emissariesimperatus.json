@@ -4,7 +4,7 @@
   "version": "1.1",
   "release": "2022-04-01",
   "strategy": "Adeptus Custodes Armeen haben einen Strategiewert von 5.",
-  "Initiative": "All Verbände haben eine Initiative von 1+.",
+  "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
     "Adeptus Custodians"
   ],

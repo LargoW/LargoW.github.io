@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_Squats_WodanazStronghold",
   "strategy": "Squat Armeen haben einen Strategiewert von 2.",
-  "Initiative": "All Verbände haben eine Initiative von 2+.",
+  "Initiative": "All Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Tunnelgräber",
     "Tunneling Transports"
@@ -93,7 +93,7 @@
           "units": "Sechs Squat Bikers",
           "extraUnits": [
             "Füge eine Guildmaster Trike: 25 Punkte",
-            "Ersetze bis zu drei Squat Bikers with Squat Trikes: Free"
+            "Ersetze bis zu drei Squat Bikers with Squat Trikes: Kostenlos"
           ],
           "points": 175
         },
@@ -135,7 +135,7 @@
           "points": 250
         },
         {
-          "name": "Kastelan Maniple",
+          "name": "Kastelan Manipel",
           "units": "Ein Squat Tech-Priest, fünf Kastelan Robots",
           "extraUnits": [
             "Füge bis zu zwei Kastelan Robots: 25 Punkte jeweils"
@@ -231,7 +231,7 @@
         "options": [
           {
             "description": "Termites",
-            "points": "Free"
+            "points": "Kostenlos"
           },
           {
             "description": "Land Raiders",
@@ -257,7 +257,7 @@
           },
           {
             "description": "Hellbore Transport (bought separately)",
-            "points": "Free"
+            "points": "Kostenlos"
           },
           {
             "description": "Leviathan",

@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_WorldEaters",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "All World Eaters Core und Elite Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "All World Eaters Core und Elite Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Summoning",
     "World Eaters Summoning Rules",
@@ -286,7 +286,7 @@
         "options": [
           {
             "description": "Ersetze vier Chaos Rhinos with Dreadclaws",
-            "points": "Free"
+            "points": "Kostenlos"
           },
           {
             "description": "Ersetze vier Chaos Rhinos with zwei Chaos Spartan Assault Panzers",
@@ -299,7 +299,7 @@
         "options": [
           {
             "description": "Füge Dreadclaws to the formation",
-            "points": "Free"
+            "points": "Kostenlos"
           },
           {
             "description": "Füge zwei Chaos Spartan Assault Panzers",

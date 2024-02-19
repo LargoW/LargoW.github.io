@@ -6,7 +6,7 @@
   "armyforge": "EAR_Tau_ViorLa",
   "intro": "The Vior'la Tau army list lets you field a Tau army from the Vior'la Sept. The Vior'la is focused on the larger Tau Battlesuits, with support options largely restricted to other suits, und drones.",
   "strategy": "Tau Armeen haben einen Strategiewert von 3.",
-  "Initiative": "XV8 Crisis Battlesuit, XV10 Heavy Battlesuit Cadres und KV128 Stormsurge und KX139 Supremacy Armour have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "XV8 Crisis Battlesuit, XV10 Heavy Battlesuit Cadres und KV128 Stormsurge und KX139 Supremacy Armour have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Tiger Shark Gun Drones"
   ],
@@ -107,7 +107,7 @@
           "name": "Drone Group",
           "units": "Acht Gun Drones",
           "extraUnits": [
-            "Ersetze zwei Gun Drones with zwei Rakete Drones oder zwei Shield Drones (Free), oder zwei Marker Drones (25 Punkte)"
+            "Ersetze zwei Gun Drones with zwei Rakete Drones oder zwei Shield Drones (Kostenlos), oder zwei Marker Drones (25 Punkte)"
           ],
           "points": 150
         },

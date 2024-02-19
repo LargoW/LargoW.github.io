@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_LegionesSkitariiMetalica",
   "strategy": "The Legiones Skitarii have a Strategy Rating of 3.",
-  "Initiative": "Collegia Titanica Verbände haben eine Initiative von 1+. All other formations have a Initiative Rating of 2+.",
+  "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. All other formations have a Initiative Rating of 2+.",
   "specialRules": [
   ],
   "usage": [
@@ -45,7 +45,7 @@
     {
       "from": "QK.json",
       "units": [
-        "Knight-Paladin"
+        "Paladinritter"
       ],
       "unitRules": [
         "Bravery",
@@ -73,10 +73,10 @@
       "name": "Legiones Metalica Core Formations",
       "formations": [
         {
-          "name": "Hypaspist Maniple",
+          "name": "Hypaspist Manipel",
           "units": "Ein Magos, neun Hypaspists",
           "extraUnits": [
-            "Ersetze drei Hypaspists with drei Rapiers: Free",
+            "Ersetze drei Hypaspists with drei Rapiers: Kostenlos",
             "Ersetze zwei Hypaspists with zwei Sagitarii: 25 Punkte",
             "Minoris",
             "Oberbefehlshaber",
@@ -102,7 +102,7 @@
           "points": 150
         },
         {
-          "name": "Kastelan Maniple",
+          "name": "Kastelan Manipel",
           "units": "Ein Tech-Priest, fünf Kastelan Robots",
           "extraUnits": [
             "Füge bis zu zwei Kastelan Robots für 25 Punkte jeweils"
@@ -110,21 +110,21 @@
           "points": 175
         },
         {
-          "name": "Castellax Maniple",
+          "name": "Castellax Manipel",
           "units": "Ein Tech-Priest, vier Castellax Battle-Automata",
           "extraUnits": [
           ],
           "points": 175
         },
         {
-          "name": "Praetorian Maniple",
+          "name": "Praetorian Manipel",
           "units": "Ein Tech-Priest, fünf Praetorian Combat Servitors",
           "extraUnits": [
           ],
           "points": 250
         },
         {
-          "name": "Cataphractii Maniple",
+          "name": "Cataphractii Manipel",
           "units": "Sechs Leman Russ, Leman Russ Demolisher oder Leman Russ Executioners",
           "extraUnits": [
             "Hydra"
@@ -242,7 +242,7 @@
       {
         "name": "Ordinatus Mars",
         "description": "Ersetze the Ordinatus Armageddon mit einem Ordinatus Mars (Sonic Disruptor)",
-        "points": "Free"
+        "points": "Kostenlos"
       },
       {
         "name": "Ordinatus Golgotha",

@@ -4,7 +4,7 @@
   "version": "0.6.5",
   "release": "2022-04-01",
   "strategy": "Tyranid Armeen haben einen Strategiewert von 1.",
-  "Initiative": "The Cult Kompanie und all Cult Support Verbände haben eine Initiative von 2+, und are subject to the 'Brood Brothers' special rule. All other formations have an Initative Rating of 1+.",
+  "Initiative": "The Cult Kompanie und all Cult Support Verbände haben eine Initiativewert von 2+, und are subject to the 'Brood Brothers' special rule. All other formations have an Initative Rating of 1+.",
   "specialRules": [
     "Broodcoven",
     "Broodmind",
@@ -59,7 +59,7 @@
           "units": "Ein Genestealer Patriarch, drei Genestealers, drei Hybrid Acolytes",
           "extraUnits": [
             "Füge vier Coven Limousines (75 Punkte) oder vier Coven Goliaths (125 Punkte)",
-            "Ersetze drei Genestealers with drei Hybrid Acolytes, oder drei Hybrid Acolytes with drei Genestealers: Free",
+            "Ersetze drei Genestealers with drei Hybrid Acolytes, oder drei Hybrid Acolytes with drei Genestealers: Kostenlos",
             "Hybrid Aberrants",
             "Coven Flak"
           ],

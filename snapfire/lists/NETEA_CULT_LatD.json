@@ -13,7 +13,7 @@
 		]},
 			{"name":"DAEMON ENGINES & TRAITOR SUPPORT <br/> Max 1 for each Stigmatus Coven. Must be of the same faction, or of Chaos Undivided", "formations":[
 			{"id":555, "name":"Slaanesh Scout Titans",				"pts":0, 						"upgrades":[58,59]},
-			{"id":556, "name":"Slaanesh Daemon Knights",			"pts":275, "units":"4 Daemon Knights", 			"upgrades":[]},
+			{"id":556, "name":"Slaanesh Daemon Ritters",			"pts":275, "units":"4 Daemon Ritters", 			"upgrades":[]},
 			{"id":551, "name":"Khorne Lord of Battles",			"pts":0, 						"upgrades":[54]},
 			{"id":552, "name":"Khorne Assault Engines",			"pts":300, "units":"4 Demonic Assault Engines", "upgrades":[]},
 			{"id":553, "name":"Nurgle Plague Tower",				"pts":0, 						"upgrades":[56]},

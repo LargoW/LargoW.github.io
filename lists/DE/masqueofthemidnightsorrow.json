@@ -4,7 +4,7 @@
   "version": "1.0.Beta",
   "release": "2023-03-08",
   "strategy": "Dark Eldar Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Wraithkind Kabals, Harlequins, und Tormentor Titan Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Wraithkind Kabals, Harlequins, und Tormentor Titan Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Fleet of Foot",
     "Hit und Run",
@@ -171,7 +171,7 @@
           "name": "Harlequin Masque",
           "units": "Ein Shadowseer, drei Harlequin Troupes, eine Death Jesters, vier Starweavers",
           "extraUnits": [
-              "Ersetze vier Starweavers with zwei Harlequin Troupe und eine Death Jesters: Free",
+              "Ersetze vier Starweavers with zwei Harlequin Troupe und eine Death Jesters: Kostenlos",
              "Füge bis zu drei Skyweaver Jetbikes: 25 Punkte jeweils",
              "(0-1 in the army) Füge eine Solitaire to a Harlequin Troupe: 50 Punkte"
           ],
@@ -260,7 +260,7 @@
         "name": "Wraithkind Transport",
         "description": "Any combination of transport options may be taken to transport a formation, as long as no vehicle has an empty transport slot if possible. Not all units in a formation require a transport vehicle. Transport options selected may only transport units from the same formation.",
         "points": [
-          "Raiders: Free",
+          "Raiders: Kostenlos",
           "Tantalus: 25 Punkte",
           "0-1 Barge of Pleasure: 125 Punkte"
         ]

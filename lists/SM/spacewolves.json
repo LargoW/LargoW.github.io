@@ -4,7 +4,7 @@
   "version": "0.6.0",
   "release": "2022-04-01",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
-  "Initiative": "All Verbände haben eine Initiative von 1+.",
+  "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Space Wolves detachments und Aircraft formations. <i>Pack Mentality</i> applies to all Core und Elite Packs.",
   "specialRules": [
     "Pack Mentality",

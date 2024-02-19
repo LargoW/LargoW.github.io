@@ -6,7 +6,7 @@
   "armyforge": "EAR_AdeptusAstartes_Ravenguard",
   "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Raven Guard Space Marine chapter oder any of its successor chapters. The Raven Guard specialise in guerrilla warfare, moving behind enemy lines with unrivalled stealth, und striking with precise application of force.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
-  "Initiative": "All Verbände haben eine Initiative von 1+.",
+  "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
     "Land Speeder Escort",
     "Space Marine Transports",

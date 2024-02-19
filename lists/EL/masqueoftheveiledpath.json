@@ -4,7 +4,7 @@
   "version": "0.6.2",
   "release": "2022-04-01",
   "strategy": "Eldar Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Aspect Warriors, Harlequins, Crimson Hunters, Skathach Wraithknights und the Avatar Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Aspect Warriors, Harlequins, Crimson Hunters, Skathach Wraithknights und the Avatar Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
       "Avatar (Lugganath)",
     "May not Garrison (Lugganath)",
@@ -137,7 +137,7 @@
           "name": "Corsair Aufklärers",
           "units": "Vier Ghost Walkers",
           "extraUnits": [
-            "Ersetze vier Ghost Walkers with vier Wasp Walkers: Free"
+            "Ersetze vier Ghost Walkers with vier Wasp Walkers: Kostenlos"
           ],
           "points": 150
         },
@@ -161,7 +161,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Free",
+            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos",
             "OR",
             "Füge fünf Guardians to the formation: 50 Punkte"
           ],

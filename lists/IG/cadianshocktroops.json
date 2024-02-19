@@ -4,7 +4,7 @@
   "version": "0.6.2",
   "release": "2022-04-01",
   "strategy": "Cadian Shock Troops Armeen haben einen Strategiewert von 2.",
-  "Initiative": "Collegia Titanica Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Mut, Disziplin und Loyalität"
   ],

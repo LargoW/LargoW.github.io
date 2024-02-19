@@ -4,7 +4,7 @@
   "version": "Alpha 0.6.0",
   "release": "2022-04-01",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "All Verbände haben eine Initiative von 1+.",
+  "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
     "In Midnight Clad",
     "Summoning",

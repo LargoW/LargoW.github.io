@@ -17,11 +17,11 @@
      ]},
 	 		{"name":"Deathwing & Ravenwing Strike Detachments", "formations": [
 		    { "id":511, "name":"Deathwing Terminators", "units":"4 Deathwing Terminators",        "pts":350, "upgrades":[13,14,15,16,22] },
-			{ "id":521, "name":"Ravenwing Attack", "units":"1x Ravenwing Black Knights, 3x Ravenwing Land Speeder",        "pts":325, "upgrades":[13,14,15,16] }
+			{ "id":521, "name":"Ravenwing Attack", "units":"1x Ravenwing Black Ritters, 3x Ravenwing Land Speeder",        "pts":325, "upgrades":[13,14,15,16] }
      ]},
 	 		{"name":"Deathwing & Ravenwing Specialist Detachments (Four Specialist Detachments may be taken for each Strike Detachment)", "formations": [
 			{ "id":513, "name":"Deathwing Overwatch", "units":"4 Deathwing Cyclone Terminators",        "pts":350, "upgrades":[13,14] },
-			{ "id":514, "name":"Deathwing Knights", "units":"3 Deathwing Knights, 1 Deathwing Terminators, 1 Interrogator Chaplain, 1 Librarian",        "pts":375, "upgrades":[] },
+			{ "id":514, "name":"Deathwing Ritters", "units":"3 Deathwing Ritters, 1 Deathwing Terminators, 1 Interrogator Chaplain, 1 Librarian",        "pts":375, "upgrades":[] },
 			{ "id":515, "name":"Deathwing Dreadnoughts", "units":"5 Deathwing Dreadnoughts plus Transport",        "pts":300, "upgrades":[] },	  
 			{ "id":516, "name":"Deathwing Land Raiders", "units":"3 Deathwing Land Raiders",        "pts":275, "upgrades":[13,14] },	 
 			{ "id":522, "name":"Ravenwing Support",       "pts":200, "upgrades":[] }

@@ -4,7 +4,7 @@
   "version": "1.0.Beta",
   "release": "2023-03-08",
   "strategy": "An unmixed Daemonic Incursion army (only consisting of daemonic formations belonging to a single Chaos Power) has a Strategy Rating of 1, while a mixed Daemonic Incursion army has a Strategy Rating of 0.",
-  "Initiative": "Exalted Greater Daemon Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Exalted Greater Daemon Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Summoning",
     "Daemonic Incursion Summoning Rules",

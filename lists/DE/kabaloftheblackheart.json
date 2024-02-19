@@ -5,7 +5,7 @@
   "release": "2023-01-28",
   "armyforge": "EAR_DarkEldar_KabaloftheBlackHeart",
   "strategy": "Kabal of the Black Heart Armeen haben einen Strategiewert von 4.",
-  "Initiative": "All Black Heart Kabal formations, as well as the Wych Cult und Executioner formations, have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "All Black Heart Kabal formations, as well as the Wych Cult und Executioner formations, have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Fleet of Foot",
     "Hit und Run",
@@ -258,7 +258,7 @@
         "name": "Black Heart Transport",
         "description": "Any combination of transport options may be taken to transport a formation, as long as no vehicle has any empty transport slot if possible. Not all units in a formation require a transport vehicle. Transport options selected may only transport units from the same formation.",
         "points": [
-          "Raiders: Free",
+          "Raiders: Kostenlos",
           "Zwei Venoms: 25 Punkte",
           "0-1 Barge of Pleasure: 125 Punkte"
         ]

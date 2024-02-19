@@ -4,7 +4,7 @@
   "version": "Alpha 0.7.0",
   "release": "2022-04-01",
   "strategy": "Tyranid Armeen haben einen Strategiewert von 1.",
-  "Initiative": "The Nexus Spawn Swarm has an Initiative Rating of 1+. All other Tyranid Verbände haben eine Initiative von 2+. In addition, all formations are subject to the 'Broodmind' special rule.",
+  "Initiative": "The Nexus Spawn Swarm has an Initiative Rating of 1+. All other Tyranid Verbände haben eine Initiativewert von 2+. In addition, all formations are subject to the 'Broodmind' special rule.",
   "specialRules": [
     "Synapse",
     "Hive Mind Locus",
@@ -91,9 +91,9 @@
           "units": "Ein Hive Tyrant",
           "extraUnits": [
             "Zwei to vier Instinctive Swarms (except Spawner)",
-            "Ersetze a Hive Tyrant mit einemHive Tyrant Shrike: Free",
+            "Ersetze a Hive Tyrant mit einemHive Tyrant Shrike: Kostenlos",
             "0-1 Hive Tyrant in the army may be replaced mit einemSwarmlord: 75 Punkte",
-            "Ersetze a Swarmlord mit einemSwarm Lord Shrike: Free"
+            "Ersetze a Swarmlord mit einemSwarm Lord Shrike: Kostenlos"
           ],
           "points": 150
         },
@@ -103,7 +103,7 @@
           "extraUnits": [
             "Zwei to vier Instinctive Swarms (except Spawner)",
             "1+ Gaunts, Gargoyles oder Biovores must be chosen",
-            "Any Tyranid Warriors may be upgraded to Tyranid Warrior Shrikes: Free"
+            "Any Tyranid Warriors may be upgraded to Tyranid Warrior Shrikes: Kostenlos"
           ],
           "points": 100
         }
@@ -166,7 +166,7 @@
           "name": "Infiltrator Swarm",
           "units": "Vier Lictors",
           "extraUnits": [
-            "Ersetze vier Lictors with vier Dimachaerons: Free"
+            "Ersetze vier Lictors with vier Dimachaerons: Kostenlos"
           ],
           "points": 225
         }
@@ -188,7 +188,7 @@
           "name": "Bio-Vessel",
           "units": "Ein Razorfiend",
           "extraUnits": [
-            "Ersetze the Razorfiend mit einemHive Ship: Free"
+            "Ersetze the Razorfiend mit einemHive Ship: Kostenlos"
           ],
           "points": 150
         }

@@ -31,7 +31,7 @@
 		]},
 
 		{"name":"CRAFTWORLD TITANS & NAVY <br/> Max 33%", "formations":[
-			{"id":540, "name":"Skathach Wraithknights",	"pts":350, "upgrades":[]},
+			{"id":540, "name":"Skathach WraithRitters",	"pts":350, "upgrades":[]},
 			{"id":540, "name":"Crimson Aerie",	"pts":250, "units":"2 Nightshade Interceptors", "upgrades":[]},
 			{"id":544, "name":"Hemlock Aerie",	"pts":225, "units":"2 Hemlock Wraithfighters", "upgrades":[]},
 			{"id":542, "name":"Corsair Vampire Hunter","pts":225, "units":"Corsair Vampire Hunter", "upgrades":[]},
@@ -66,8 +66,8 @@
 
 		{"id":60, "name":"Wraithgate", 				"pts":75},
 
-		{"id": 75, "name": "2 Skathach Wraithknights (Twin Deathshroud Cannon)", "pts": 0},
-        {"id": 76, "name": "2 Skathach Wraithknights (Twin Inferno Lance)", "pts": 0}
+		{"id": 75, "name": "2 Skathach WraithRitters (Twin Deathshroud Cannon)", "pts": 0},
+        {"id": 76, "name": "2 Skathach WraithRitters (Twin Inferno Lance)", "pts": 0}
 
 	],
 

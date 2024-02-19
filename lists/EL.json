@@ -783,7 +783,7 @@
         "crit": "The Void Spinner is destroyed. Any units within 5cm take a hit on 6+."
       },
       {
-        "name": "Skathach Wraithknight",
+        "name": "Skathach WraithRitter",
         "type": "H-AV",
         "speed": 30,
         "cc": 4,
@@ -799,10 +799,10 @@
           "Geländegängig",
           "Teleportieren"
         ],
-        "notes": "Skathach Wraithknights are armed with either a Synchronisierter Deathshroud Geschütz oder Synchronisierter Inferno Lanze."
+        "notes": "Skathach WraithRitters are armed with either a Synchronisierter Deathshroud Geschütz oder Synchronisierter Inferno Lanze."
       },
       {
-        "name": "Wraithknight",
+        "name": "WraithRitter",
         "type": "H-AV",
         "speed": 35,
         "armour": 4,

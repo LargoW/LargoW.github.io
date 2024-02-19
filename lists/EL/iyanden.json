@@ -6,7 +6,7 @@
   "armyforge": "EAR_Eldar_Iyanden",
   "intro": "The following army list allows you to field an Eldar army form the Iyanden Craftworld.",
   "strategy": "Craftworld Iyanden Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Aspect Warrior formations, Titans, Wraithknights und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Aspect Warrior formations, Titans, Wraithknights und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Avatar (Iyanden)",
     "May not Garrison (Iyanden)",
@@ -148,7 +148,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Free"
+            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos"
           ],
           "points": 250
         },
@@ -266,12 +266,12 @@
       {
         "name": "Vypers",
         "description": "Ersetze any number of Eldar Jetbikes with Eldar Vypers",
-        "points": "Free"
+        "points": "Kostenlos"
       },
       {
         "name": "Heavy Weapons",
         "description": "Ersetze bis zu drei Eldar Guardians with Eldar Heavy Weapon Platforms",
-        "points": "Free"
+        "points": "Kostenlos"
       },
       {
         "name": "Support Weapons",

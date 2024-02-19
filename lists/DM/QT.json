@@ -4,7 +4,7 @@
   "version": "0.6.0",
   "release": "2022-04-01",
   "strategy": "Dark Mechanicus Armeen haben einen Strategiewert von 3.",
-  "Initiative": "The Chaos Warbringer formation has an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "The Chaos Warbringer formation has an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Summoning",
     "QT Summoning Rules",
@@ -89,7 +89,7 @@
       "name": "Hell-Forge Core formations",
       "formations": [
         {
-          "name": "Hell-Forge Maniple",
+          "name": "Hell-Forge Manipel",
           "units": "Ein Hellwright, eleven Chaos Squats",
           "extraUnits": [
             "Ersetze vier Chaos Squats with vier Phospexors: 25 Punkte",

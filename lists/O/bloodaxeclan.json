@@ -4,7 +4,7 @@
   "version": "",
   "release": "2022-04-01",
   "strategy": "Ork Armeen haben einen Strategiewert von 3.",
-  "Initiative": "All Verbände haben eine Initiative von 3+.",
+  "Initiative": "All Verbände haben eine Initiativewert von 3+.",
   "specialRules": [
     "Mob Rule",
     "Power of the Waaagh!",

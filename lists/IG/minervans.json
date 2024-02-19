@@ -5,7 +5,7 @@
   "release": "2022-09-29",
   "armyforge": "EAR_ImperialGuard_Minervans",
   "strategy": "Minervan Panzer Legion Armeen haben einen Strategiewert von 2.",
-  "Initiative": "All Verbände haben eine Initiative von 2+.",
+  "Initiative": "All Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Mut, Disziplin und Loyalität"
   ],
@@ -74,8 +74,8 @@
           "name": "Minervan Panzer Kompanie",
           "units": "Ein Leman Russ Vanquisher mit einem Kommissar-Captain, sieben Leman Russ",
           "extraUnits": [
-            "Ersetze sieben Leman Russ with sieben Leman Russ Thunderers: Free",
-            "Ersetze the Leman Russ Vanquisher mit einemLeman Russ Thunderer: Free",
+            "Ersetze sieben Leman Russ with sieben Leman Russ Thunderers: Kostenlos",
+            "Ersetze the Leman Russ Vanquisher mit einemLeman Russ Thunderer: Kostenlos",
             "Oberbefehlshaber",
             "Flak",
             "Höllenhunde"

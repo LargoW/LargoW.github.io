@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_Necron_MaynarkhDynasty",
   "strategy": "Necron Armeen haben einen Strategiewert von 1.",
-  "Initiative": "All Necron Verbände haben eine Initiative von 1+.",
+  "Initiative": "All Necron Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
     "Necron Reserves",
     "Necron Garrisons",

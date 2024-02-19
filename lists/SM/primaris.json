@@ -6,7 +6,7 @@
   "armyforge": "EAR_AdeptusAstartes_Primaris",
   "intro": "The following army...",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
-  "Initiative": "All Verbände haben eine Initiative von 1+.",
+  "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Primaris detachments und aircraft formations.",
   "specialRules": [
     "They Shall Know No Fear"

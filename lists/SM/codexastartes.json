@@ -6,7 +6,7 @@
   "intro": "The Codex Astartes army list allows you to field an army based on eine of the Space Marine Chapters that follows the teachings of the Codex Astartes. The list has a flexible structure to allow you to build an army that represents your favorite Space Marine Chapter on the battlefield.",
   "armyforge": "EAR_AdeptusAstartes_CodexAstartes",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
-  "Initiative": "The Thunderbolt und Marauder Schwadron Verbände haben eine Initiative von 2+. Alle anderen Verbände haben eine Initiative von 1+.",
+  "Initiative": "The Thunderbolt und Marauder Schwadron Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Codex Astartes Detachments und Space Marine Aircraft formations.",
   "specialRules": [
     "Space Marine Transports",
@@ -257,7 +257,7 @@
       {
         "name": "Trikes",
         "description": "Ersetze any number of Assault Bikes mit einem equal number of Trikes",
-        "points": "Free"
+        "points": "Kostenlos"
       },
       {
         "name": "Battle Barge",

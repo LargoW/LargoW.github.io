@@ -4,7 +4,7 @@
   "version": "Alpha 0.6.1",
   "release": "2022-04-01",
   "strategy": "Eldar Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Aspect Warrior formations, Titans und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Aspect Warrior formations, Titans und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Avatar (Yme-Loc)",
     "May not Garrison (Yme-Loc)",
@@ -96,7 +96,7 @@
           "name": "Swords of Vaul",
           "units": "Sechs Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Free",
+            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos",
             "Füge sechs Guardians to the formation: 100 Punkte"
           ],
           "points": 275
@@ -232,7 +232,7 @@
       {
         "name": "Heavy Weapons",
         "description": "Ersetze bis zu drei Eldar Guardians with Eldar Heavy Weapon Platforms",
-        "points": "Free"
+        "points": "Kostenlos"
       },
       {
         "name": "0-1 Bonesinger",

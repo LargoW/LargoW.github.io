@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_LatD",
   "strategy": "Lost und the Damned Armeen haben einen Strategiewert von 1.",
-  "Initiative": "Chaos Space Marine Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Chaos Space Marine Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Summoning",
     "Lost und the Damned Summoning Rules",

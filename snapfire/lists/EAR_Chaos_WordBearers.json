@@ -72,10 +72,10 @@
 
 		{"id":63, "name":"Defiler", "pts":50},
 
-		{"id":65, "name":"Knight-Dreadblade 'Incarnate Slaughter' (Hyperwave Clarion, Thunderstrike Gauntlet)", "pts":0},
-		{"id":66, "name":"Knight-Dreadblade 'Gilded King' (Rapid Fire Battle Cannon, Ironstorm Missile Pod)", "pts":0},
-		{"id":67, "name":"Knight-Dreadblade 'Hatred of Krastellan' (Heavy Neutron Laser)", "pts":0},
-		{"id":68, "name":"Knight-Dreadblade 'Litany of Destruction' (Laser Destructor, Stormspear Rocket Pod)", "pts":0},
+		{"id":65, "name":"Ritter-Dreadblade 'Incarnate Slaughter' (Hyperwave Clarion, Thunderstrike Gauntlet)", "pts":0},
+		{"id":66, "name":"Ritter-Dreadblade 'Gilded King' (Rapid Fire Battle Cannon, Ironstorm Missile Pod)", "pts":0},
+		{"id":67, "name":"Ritter-Dreadblade 'Hatred of Krastellan' (Heavy Neutron Laser)", "pts":0},
+		{"id":68, "name":"Ritter-Dreadblade 'Litany of Destruction' (Laser Destructor, Stormspear Rocket Pod)", "pts":0},
 
 		{"id":71, "name":"Greater Daemon Pool point", "pts":50},
 		{"id":72, "name":"Lesser Daemon Pool point", "pts":15},
