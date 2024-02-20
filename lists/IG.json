@@ -996,7 +996,7 @@
           "Todesstoss Rakete|2"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Todesstoss-Raketensilo is destroyed. All units within 10cm takes a hit."
@@ -1536,7 +1536,7 @@
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "notes": "Must be equipped with either Synchronisierter Vanquisher Geschütz oder a Vulcan Mega-Bolter.",
@@ -1554,7 +1554,7 @@
           "Synchronisierter schweres Maschinengewehr|3|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Macharius is destroyed."
@@ -1571,7 +1571,7 @@
           "Synchronisierter schweres Maschinengewehr|3|"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Macharius is destroyed."
@@ -1588,7 +1588,7 @@
           "Synchronisierter schweres Maschinengewehr|3|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All units within 5cm of the model suffer a hit on a roll of 4+."
@@ -1604,7 +1604,7 @@
           "Synchronisierter schweres Maschinengewehr|4|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung",
           "Geländegängig",
           "Transport"
@@ -1627,7 +1627,7 @@
           "Synchronisierter schwerer Bolter|3|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -1647,7 +1647,7 @@
           "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -1665,7 +1665,7 @@
           "Synchronisierter Schwerer Flammenwerfer  |2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung",
           "Transport"
         ],
@@ -1684,7 +1684,7 @@
           "Synchronisierter schwerer Bolter|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung",
           "Transport"
         ],
@@ -1702,7 +1702,7 @@
           "Synchronisierter schwerer Bolter|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -1720,7 +1720,7 @@
           "Synchronisierter schwerer Bolter|3|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -1738,7 +1738,7 @@
           "Schwerer Flammenwerfer |2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -1757,7 +1757,7 @@
           "Doppeltsynchronisierter schwerer Bolter|2|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."

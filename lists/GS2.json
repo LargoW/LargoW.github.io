@@ -273,7 +273,7 @@
           "Synchronisierter schweres Maschinengewehr|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Furchtlos"
         ],
         "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All units within 5cm of the model suffer a hit on a roll of 4+."
@@ -290,7 +290,7 @@
           "Synchronisierter schweres Maschinengewehr|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"

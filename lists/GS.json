@@ -441,7 +441,7 @@
           "Synchronisierter schwerer Bolter|3|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -459,7 +459,7 @@
           "Synchronisierter schwerer Bolter|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -476,7 +476,7 @@
           "Synchronisierter schwerer Bolter|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."

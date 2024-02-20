@@ -47,35 +47,35 @@
         "type": "CH",
         "weapons": [
           "Supa-Zzap-Gun|0-1|",
-          "Soopagun|0-1|",
+          "Mega Kanonä|0-1|",
           "D3+1 Power Fields|0-1|"
         ],
         "specialRules": [
-          "Ersetze eine Big Gun weapon with either a Supa-Zzap-Gun oder a Soopagun, alternatively the unit may be given D3+1 power fields"
+          "Ersetze eine Kanonä weapon with either a Supa-Zzap-Gun oder a Mega Kanonä, alternatively the unit may be given D3+1 power fields"
         ]
       },
       {
         "name": "Bad Moons Oddboy",
         "type": "CH",
         "weapons": [
-          "Soopagun|0-1|",
+          "Mega Kanonä|0-1|",
           "Weirdboy Tower|0-1|",
           "D3+1 Power Fields|0-1|"
         ],
         "specialRules": [
         ],
-        "notes": "Ersetze eine Big Gun weapon with either a Soopagun oder Weirdboy Tower. Alternatively the unit may be given [*] D3+1 power fields"
+        "notes": "Ersetze eine Kanonä weapon with either a Mega Kanonä oder Weirdboy Tower. Alternatively the unit may be given [*] D3+1 power fields"
       },
       {
         "name": "Speed Freek Oddboy",
         "type": "CH",
         "weapons": [
-          "Lifta-Droppa|0-1|",
+          "Smäsha-Kanonä|0-1|",
           "D3+1 Power Fields|0-1|",
           "Deff-Rolla & Fresh Paint Job|0-1|"
         ],
         "specialRules": [
-          "The unit either replaces a Big Gun mit einemLifta Droppa, oder [*] adds D3+1 Power Fields, oder [**] is equipped mit einemDeff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)"
+          "The unit either replaces a Kanonä mit einemLifta Droppa, oder [*] adds D3+1 Power Fields, oder [**] is equipped mit einemDeff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)"
         ]
       },
       {
@@ -180,7 +180,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Big Gun"
+          "Kanonä"
         ],
         "specialRules": [
         ]
@@ -302,14 +302,14 @@
         ]
       },
       {
-        "name": "Skorcha",
+        "name": "Brenna",
         "type": "LV",
         "speed": 35,
         "armour": 6,
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Skorcha"
+          "Brenna"
         ],
         "specialRules": [
         ]
@@ -366,7 +366,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Big Gun"
+          "Kanonä"
         ],
         "specialRules": [
           "Transport"
@@ -381,7 +381,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Big Gun"
+          "Kanonä"
         ],
         "specialRules": [
           "Transport"
@@ -396,7 +396,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Big Gun",
+          "Kanonä",
           "Big Shoota|2|"
         ],
         "specialRules": [
@@ -516,7 +516,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Big Gun",
+          "Kanonä",
           "Fixin' Arm"
         ],
         "specialRules": [
@@ -533,7 +533,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Big Gun|2-3|",
+          "Kanonä|2-3|",
           "Kombat 'Ammer|0-1|"
         ],
         "specialRules": [
@@ -551,11 +551,11 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Big Gun",
+          "Kanonä",
           "Synchronisierter Big Shoota|4|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Transport"
         ],
         "notes": "Acht Boyz, Flash Gitz, Nobz, Kommandos, Grotz. Big Gunz takes zwei spaces jeweils. May carry vier units of Grotz in addition to any other units transported.",
@@ -569,11 +569,11 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Big Gun|3|",
+          "Kanonä|3|",
           "Synchronisierter Big Shoota|5|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Transport"
         ],
         "notes": "Vier Boyz, Nobz, Flash Gitz, Kommandos, Grotz. Big Gunz takes zwei spaces jeweils. May carry zwei units of Grotz in addition to any other units transported.",
@@ -587,11 +587,11 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Big Gun",
+          "Kanonä",
           "Flak Gun|3|"
         ],
         "specialRules": [
-          "Damage Capacity 3"
+          "Schadenskapazität 3"
         ],
         "crit": "The Flakkafortress is destroyed, all units being carried are killed unless roll they a 6+."
       },
@@ -604,11 +604,11 @@
         "ff": 3,
         "weapons": [
           "Skullhamma Geschütz||FxF",
-          "Big Gun||FxF",
-          "Skorcha|2|FxF"
+          "Kanonä||FxF",
+          "Brenna|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3"
+          "Schadenskapazität 3"
         ],
         "crit": "The Skullhamma is destroyed. All units within 5cm takes a hit on 6+"
       },
@@ -620,12 +620,12 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Gaze of Mork",
-          "Soopagun|2-3|FxF",
+          "Morks Blick",
+          "Mega Kanonä|2-3|FxF",
           "Killa-Choppa|0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Power Fields 1D3",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -641,18 +641,18 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "'ED (wähle eine)",
-          "Gaze of Mork|0-1|",
-          "Gaze of Gork|0-1|",
+          "KOPP (wähle eine)",
+          "Morks Blick|0-1|",
+          "Gorks Blick|0-1|",
           "ARME (wähle zwei)",
-          "Soopagun|1-2|FxF",
+          "Mega Kanonä|1-2|FxF",
           "Killa-Choppa|0-1|FxF",
           "BAUCH (wähle eine)",
-          "Soopagun|0-1|FxF",
+          "Mega Kanonä|0-1|FxF",
           "Dakka Kannon|0-1|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Power Fields 1D3",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -668,12 +668,12 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Soopagun|2-3|FxF",
+          "Mega Kanonä|2-3|FxF",
           "Supa-Zzap-Gun|0-1|FxF",
           "Mega-Choppa|0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 7",
+          "Schadenskapazität 7",
           "Power Fields 1D3+3",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -690,22 +690,22 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "'ED (wähle eine)",
-          "Gaze of Mork|0-1|",
-          "Gaze of Gork|0-1|",
+          "KOPP (wähle eine)",
+          "Morks Blick|0-1|",
+          "Gorks Blick|0-1|",
           "ARME (wähle zwei)",
-          "Soopagun|0-2|FxF",
+          "Mega Kanonä|0-2|FxF",
           "Dakka Kannon|0-2|FxF",
           "Mega-Choppa|0-2|",
           "Zzap-Gun|0-2|FxF",
           "BAUCH (wähle eine)",
-          "Soopagun|0-1|FxF",
-          "Supa-Skorcha|0-1|FxF",
+          "Mega Kanonä|0-1|FxF",
+          "Supa-Brenna|0-1|FxF",
           "Supa-Zzap-Gun|0-1|FxF",
           "Snappa|0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 7",
+          "Schadenskapazität 7",
           "Power Fields 1D3+3",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -721,21 +721,21 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Gaze of Mork",
-          "Big Gun|2|",
-          "Soopagun||FxF",
-          "Synchronisierter Soopagun|1-2|FxF",
-          "Lifta-Droppa |0-1|"
+          "Morks Blick",
+          "Kanonä|2|",
+          "Mega Kanonä||FxF",
+          "Synchronisierter Mega Kanonä|1-2|FxF",
+          "Smäsha-Kanonä |0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 10",
+          "Schadenskapazität 10",
           "Power Fields 1D3+6",
           "Gottgleiche Maschine",
           "Feuer aufteilen",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Armed with either zwei Synchronisierter Soopaguns oder eine Synchronisierter Soopagun und a Lifta-Droppa"
+          "Armed with either zwei Synchronisierter Soopaguns oder eine Synchronisierter Mega Kanonä und a Smäsha-Kanonä"
         ],
         "crit": "The Great Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
@@ -747,23 +747,23 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Big Gun|2|",
-          "'ED (wähle eine)",
-          "Gaze of Mork|0-1|",
-          "Gaze of Gork|0-1|",
+          "Kanonä|2|",
+          "KOPP (wähle eine)",
+          "Morks Blick|0-1|",
+          "Gorks Blick|0-1|",
           "ARME (wähle zwei)",
-          "Synchronisierter Soopagun|0-2|FxF",
+          "Synchronisierter Mega Kanonä|0-2|FxF",
           "Dakka-Dakka Kannon|0-2|FxF",
           "Mega-Lobba|0-2|FxF",
-          "Lifta-Droppa |0-1|",
+          "Smäsha-Kanonä |0-1|",
           "BAUCH (wähle eine)",
-          "Soopagun|0-1|FxF",
-          "Supa-Skorcha|0-1|FxF",
+          "Mega Kanonä|0-1|FxF",
+          "Supa-Brenna|0-1|FxF",
           "Supa-Zzap-Gun|0-1|FxF",
           "Snappa|0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 10",
+          "Schadenskapazität 10",
           "Power Fields 1D3+6",
           "Gottgleiche Maschine",
           "Feuer aufteilen",
@@ -781,7 +781,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Big Gun|4|",
+          "Kanonä|4|",
           "Weirdboy Tower",
           "2x Grot-Guided Rakete||FwA",
           "Synchronisierter Supa-Zzap-Gun||FwA",
@@ -789,7 +789,7 @@
           "Kombat Arms"
         ],
         "specialRules": [
-          "Damage Capacity 13",
+          "Schadenskapazität 13",
           "Power Fields 1D3+9",
           "Gottgleiche Maschine",
           "Feuer aufteilen",
@@ -800,13 +800,13 @@
         "crit": "The Mega Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
-        "name": "Fighta-Bommer",
+        "name": "Jagdbomma",
         "type": "AC",
         "speed": "Jagdbomber",
         "armour": 6,
         "weapons": [
-          "AC Synchronisierter Big Shoota||FxF",
-          "AC Panzerbusta Rokkits||FxF"
+          "AC Fette Wummenz||FxF",
+          "AC Raketenz||FxF"
         ],
         "specialRules": [
         ]
@@ -858,7 +858,7 @@
           "AC Blasta Bombs||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2"
+          "Schadenskapazität 2"
         ],
         "crit": "The Bommer is destroyed."
       },
@@ -871,10 +871,10 @@
         "ff": 4,
         "weapons": [
           "AC Flakka-Dakka Turrets",
-          "AC Panzerbusta Rokkits|2|FxF"
+          "AC Raketenz|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -893,7 +893,7 @@
           "Big Shootas|4|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Planetfall[*]",
           "Verstärkte Heckpanzerung",
           "Transport"
@@ -1123,7 +1123,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Big Gun",
+          "Kanonä",
           "Synchronisierter Big Shoota|2|",
           "Teeth und Horns"
         ],
@@ -1196,7 +1196,7 @@
         "ff": 5,
         "weapons": [
           "Synchronisierter Big Shoota|4|",
-          "Big Gun|2|",
+          "Kanonä|2|",
           "Goring Tusks"
         ],
         "specialRules": [
@@ -1216,7 +1216,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Stub Soopagun||FxF",
+          "Stub Mega Kanonä||FxF",
           "Mega-Choppa"
         ],
         "specialRules": [

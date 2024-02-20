@@ -457,7 +457,7 @@
           "Gauss Flux Arc"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Furchtlos",
           "Machine Spirit",
           "Living Metal",
@@ -478,7 +478,7 @@
           "Gauss Flux Arc"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Furchtlos",
           "Portal",
           "Living Metal",
@@ -500,7 +500,7 @@
           "Star Cage"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität 6",
           "Furchtlos",
           "Living Metal",
           "Support Craft",
@@ -520,7 +520,7 @@
           "Harvester Tendrils"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität 6",
           "Furchtlos",
           "Living Metal",
           "Portal",

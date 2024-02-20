@@ -26,7 +26,7 @@
         "Stormboyz",
         "Warbikes",
         "Deffkopta",
-        "Skorcha",
+        "Brenna",
         "Warbuggy",
         "Battlewagon",
         "Gunwagon",
@@ -39,7 +39,7 @@
         "Supa-Stompa",
         "Gargant",
         "Great Gargant",
-        "Fighta-Bommer",
+        "Jagdbomma",
         "Landa",
         "Kill Kroozer",
         "Battlekroozer"
@@ -209,10 +209,10 @@
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
       "formations": [
         {
-          "name": "Fighta-Bommer Skwadron",
-          "units": "Drei Fighta-Bommers",
+          "name": "Jagdbomma Skwadron",
+          "units": "Drei Jagdbommas",
           "Erweiterungen": [
-            "Füge bis zu sechs Fighta-Bommers: 50 Punkte jeweils"
+            "Füge bis zu sechs Jagdbommas: 50 Punkte jeweils"
           ],
           "points": 175
         },

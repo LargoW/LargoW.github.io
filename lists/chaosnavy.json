@@ -91,7 +91,7 @@
           "AC Kombi-Bolter|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Unmodifizierter Rettungswurf"
         ],
         "crit": "The Harbringer Bomber is destroyed."
@@ -107,7 +107,7 @@
           "AC Kombi-Bolter|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Unmodifizierter Rettungswurf"
         ],
         "crit": "The Blightbringer Bomber is destroyed."
@@ -137,7 +137,7 @@
           "Vengeance Launcher||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Stubborn",
           "Verstärkte Panzerung",
@@ -157,7 +157,7 @@
           "AC Doppeltsynchronisierter schwerer Bolter Turrets||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Fire Raptor is destroyed."
@@ -176,7 +176,7 @@
           "AC Synchronisierter schwerer Bolter||Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -198,7 +198,7 @@
           "AC Reaper Maschinenkanone||Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -220,7 +220,7 @@
           "AC Synchronisierter schwerer Bolter||Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Stubborn",
           "Planetfall",
           "Verstärkte Panzerung",
@@ -242,7 +242,7 @@
           "AC Synchronisierter schwerer Bolter|2|Right"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Planetfall",

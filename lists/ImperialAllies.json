@@ -39,7 +39,7 @@
           "Leg Bastions"
         ],
         "specialRules": [
-          "Damage Capacity 10",
+          "Schadenskapazität 10",
           "Deflektorschilde 8",
           "Gottgleiche Maschine",
           "Feuer aufteilen",
@@ -66,7 +66,7 @@
           "Leg Bastions"
         ],
         "specialRules": [
-          "Damage Capacity 10",
+          "Schadenskapazität 10",
           "Deflektorschilde 8",
           "Gottgleiche Maschine",
           "Feuer aufteilen",
@@ -93,7 +93,7 @@
           "Anvilus Maschinenkanone Batterie|2|"
         ],
         "specialRules": [
-          "Damage Capacity 9",
+          "Schadenskapazität 9",
           "Deflektorschilde 7",
           "Gottgleiche Maschine",
           "Feuer aufteilen",
@@ -118,7 +118,7 @@
           "Zwilligs-Apocalypse Rakete Launchers|0-1|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 8",
+          "Schadenskapazität 8",
           "Deflektorschilde 6",
           "Gottgleiche Maschine",
           "Feuer aufteilen",
@@ -153,7 +153,7 @@
           "Plasma Destructor|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 8",
+          "Schadenskapazität 8",
           "Deflektorschilde 6",
           "Gottgleiche Maschine",
           "Feuer aufteilen",
@@ -187,7 +187,7 @@
           "2x Laser Blaster|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 8",
+          "Schadenskapazität 8",
           "Deflektorschilde 6",
           "Gottgleiche Maschine",
           "Feuer aufteilen",
@@ -210,7 +210,7 @@
           "Apocalypse Raketenwerfer||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität 6",
           "Deflektorschilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -239,7 +239,7 @@
           "Anvilus Carapace Landing Pad||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität 6",
           "Deflektorschilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -270,7 +270,7 @@
           "Titan Melter Geschütz|0-2|"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität 6",
           "Deflektorschilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -301,7 +301,7 @@
           "Vulkangeschütz|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität 6",
           "Deflektorschilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -333,7 +333,7 @@
           "Plasma Destructor|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität 6",
           "Deflektorschilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -354,7 +354,7 @@
           "Vulcan Mega-Bolter||FwA"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Deflektorschilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -382,7 +382,7 @@
           "Aufklärer Turbo-Laser Destructor||FwA"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Deflektorschilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",

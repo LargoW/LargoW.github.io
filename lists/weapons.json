@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "'ED (wähle eine)",
+      "name": "KOPP (wähle eine)",
       "modes": [
         {
         }
@@ -378,7 +378,7 @@
       ]
     },
     {
-      "name": "AC Synchronisierter Big Shoota",
+      "name": "AC Fette Wummenz",
       "modes": [
         {
           "Feuerkraft": "AP5+/AT6+/AA5+",
@@ -1144,7 +1144,7 @@
       ]
     },
     {
-      "name": "AC Panzerbusta Rokkits",
+      "name": "AC Raketenz",
       "modes": [
         {
           "Feuerkraft": "AT4+",
@@ -2218,7 +2218,7 @@
       ]
     },
     {
-      "name": "Big Gun",
+      "name": "Kanonä",
       "modes": [
         {
           "Feuerkraft": "AP5+/AT5+",
@@ -4662,7 +4662,7 @@
       ]
     },
     {
-      "name": "Gaze of Mork",
+      "name": "Morks Blick",
       "modes": [
         {
           "Feuerkraft": "MW3+",
@@ -4674,7 +4674,7 @@
       ]
     },
     {
-      "name": "Gaze of Gork",
+      "name": "Gorks Blick",
       "modes": [
         {
           "Feuerkraft": "3x AP5+/AT5+",
@@ -6368,7 +6368,7 @@
       ]
     },
     {
-      "name": "Ritter Power Lanze",
+      "name": "Knight Power Lanze",
       "modes": [
         {
           "Feuerkraft": "Handfeuerwaffen",
@@ -6390,7 +6390,7 @@
       ]
     },
     {
-      "name": "Ritter Psychic Lanze",
+      "name": "Knight Psychic Lanze",
       "modes": [
         {
           "Feuerkraft": "1BP",
@@ -6412,7 +6412,7 @@
       ]
     },
     {
-      "name": "Ritter Kettenschwert",
+      "name": "Knight Kettenschwert",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -6424,7 +6424,7 @@
       ]
     },
     {
-      "name": "Ritter Power Gauntlet",
+      "name": "Knight Power Gauntlet",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -6746,7 +6746,7 @@
       ]
     },
     {
-      "name": "Lifta-Droppa",
+      "name": "Smäsha-Kanonä",
       "modes": [
         {
           "Feuerkraft": "MW3+",
@@ -6766,7 +6766,7 @@
       ]
     },
     {
-      "name": "Lifta-Droppa ",
+      "name": "Smäsha-Kanonä ",
       "modes": [
         {
           "Feuerkraft": "MW3+",
@@ -8869,7 +8869,7 @@
       ]
     },
     {
-      "name": "Ritter Pulse Laser",
+      "name": "Knight Pulse Laser",
       "modes": [
         {
           "Feuerkraft": "2x AT3+",
@@ -8880,7 +8880,7 @@
       ]
     },
     {
-      "name": "Ritter Close Combat Weapons",
+      "name": "Knight Close Combat Weapons",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -9920,7 +9920,7 @@
       ]
     },
     {
-      "name": "Skorcha",
+      "name": "Brenna",
       "modes": [
         {
           "Feuerkraft": "AP4+",
@@ -10120,7 +10120,7 @@
       ]
     },
     {
-      "name": "Stub Soopagun",
+      "name": "Stub Mega Kanonä",
       "modes": [
         {
           "Feuerkraft": "3BP",
@@ -10132,7 +10132,7 @@
       ]
     },
     {
-      "name": "Soopagun",
+      "name": "Mega Kanonä",
       "modes": [
         {
           "Feuerkraft": "2BP",
@@ -10144,7 +10144,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Soopagun",
+      "name": "Synchronisierter Mega Kanonä",
       "modes": [
         {
           "Feuerkraft": "3BP",
@@ -10602,7 +10602,7 @@
       ]
     },
     {
-      "name": "Supa-Skorcha",
+      "name": "Supa-Brenna",
       "modes": [
         {
           "Feuerkraft": "4BP",

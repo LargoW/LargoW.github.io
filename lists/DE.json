@@ -346,7 +346,7 @@
           "Splinter Geschütz|2|FwA"
         ],
         "specialRules": [
-            "Damage Capacity 3",
+            "Schadenskapazität 3",
             "Shadowfields 2",
             "Antigrav",
             "Transport",
@@ -368,7 +368,7 @@
           "Splinter Geschütz|2|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Shadowfields 2",
             "Antigrav",
             "Schnell wie der Wind"
@@ -387,7 +387,7 @@
           "Tormentor Blades"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Shadowfields 3",
           "Furchtlos",
           "Sprungmodule",
@@ -408,7 +408,7 @@
           "Disintegrator Array"
         ],
         "specialRules": [
-          "Damage Capacity 5",
+          "Schadenskapazität 5",
           "Shadowfields 4",
           "Planetfall",
           "Support Craft",

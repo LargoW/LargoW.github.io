@@ -587,7 +587,7 @@
           "Vulkangeschütz|0-1|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Deflektorschilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -613,7 +613,7 @@
           "Gatling Blaster|0-1|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Deflektorschilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -639,7 +639,7 @@
           "Hellfire Rakete|6|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Deflektorschilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -657,7 +657,7 @@
           "Synchronisierter schweres Maschinengewehr|4|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung",
           "Geländegängig",
           "Transport"

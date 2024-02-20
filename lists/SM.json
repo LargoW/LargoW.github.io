@@ -43,7 +43,7 @@
         ]
       },
       {
-        "name": "Grey Ritters Captain",
+        "name": "Grey Knights Captain",
         "type": "CH",
         "weapons": [
         ],
@@ -53,7 +53,7 @@
         ]
       },
       {
-        "name": "Grey Ritters Justicar",
+        "name": "Grey Knights Justicar",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "name": "Grey Ritters Grand Master",
+        "name": "Grey Knights Grand Master",
         "type": "CH",
         "weapons": [
           "Heavy Daemon Hammer"
@@ -633,7 +633,7 @@
         ]
       },
       {
-        "name": "Deathwing Ritters",
+        "name": "Deathwing Knights",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -651,7 +651,7 @@
         ]
       },
       {
-        "name": "Grey Ritters Terminatoren",
+        "name": "Grey Knights Terminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -770,7 +770,7 @@
         ]
       },
       {
-        "name": "Grey Ritters Strike Squad",
+        "name": "Grey Knights Strike Squad",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -787,7 +787,7 @@
         ]
       },
       {
-        "name": "Grey Ritters Purgation Squad",
+        "name": "Grey Knights Purgation Squad",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -803,7 +803,7 @@
         ]
       },
       {
-        "name": "Grey Ritters Interceptor Squad",
+        "name": "Grey Knights Interceptor Squad",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -871,7 +871,7 @@
         ]
       },
       {
-        "name": "Ravenwing Black Ritters",
+        "name": "Ravenwing Black Knights",
         "type": "INF",
         "speed": 35,
         "armour": 4,
@@ -889,7 +889,7 @@
         ]
       },
       {
-        "name": "Nemesis DreadRitter",
+        "name": "Nemesis Dreadknight",
         "type": "LV",
         "speed": 15,
         "armour": 4,
@@ -1642,7 +1642,7 @@
         "notes": "Darf eine Infanterie Einheit (außer Terminatoren) ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
-        "name": "Grey Ritters Rhino",
+        "name": "Grey Knights Rhino",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -2064,7 +2064,7 @@
           "AC Synchronisierter schwerer Drachenfeuer Bolter|3"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Furchtlos",
           "Planetfall",
           "Verstärkte Panzerung",
@@ -2074,7 +2074,7 @@
         "crit": "Die Einheit und alle transportierten Einheiten werden vernichtet. Alle Einheiten innerhalb von 5 cm erleiden einen Treffer."
       },
       {
-        "name": "Grey Ritters Landing Craft",
+        "name": "Grey Knights Landing Craft",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 4,
@@ -2085,7 +2085,7 @@
           "AC Synchronisierte Psycannon|3"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Furchtlos",
           "Gläubig",
           "Planetfall",
@@ -2108,7 +2108,7 @@
           "Synchronisierter Helfrost Geschütz||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung",
           "Planetfall",
           "Transport"
@@ -2127,7 +2127,7 @@
           "AC Synchronisierter schwerer Bolter||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Stormfang is destroyed."
@@ -2153,7 +2153,7 @@
         ]
       },
       {
-        "name": "Grey Ritters Storm Talon",
+        "name": "Grey Knights Storm Talon",
         "type": "AC",
         "speed": "Fighter",
         "armour": 5,
@@ -2199,7 +2199,7 @@
           "Blackstar Hurricane Boltersystem"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Wings of the Sky Angel",
           "Transport"
@@ -2244,7 +2244,7 @@
           "AC Doppeltsynchronisierter schwerer Bolter Turrets||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Fire Raptor is destroyed."
@@ -2262,7 +2262,7 @@
           "Vengeance Launcher||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -2283,7 +2283,7 @@
           "Vengeance Launcher||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
@@ -2306,7 +2306,7 @@
           "AC Synchronisierter schwerer Bolter||Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -2326,7 +2326,7 @@
           "AC Doppeltsynchronisierter schwerer Bolter||Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -2346,7 +2346,7 @@
           "AC Synchronisierter schwerer Bolter|2|Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -2366,7 +2366,7 @@
           "AC Synchronisierter schwerer Drachenfeuer Bolter|2|Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -2375,7 +2375,7 @@
         "crit": "The Thunderhawk Transporter und all units being carried are destroyed."
       },
       {
-        "name": "Grey Ritters Thunderhawk Transporter",
+        "name": "Grey Knights Thunderhawk Transporter",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 4,
@@ -2386,7 +2386,7 @@
           "AC Synchronisierte Psycannon|2|Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Gläubig",
@@ -2409,7 +2409,7 @@
           "AC Bomb Racks||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Thunderhawk is destroyed."
@@ -2426,7 +2426,7 @@
           "AC Synchronisierter schwerer Bolter|3"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Furchtlos",
           "Planetfall",
           "Verstärkte Panzerung",
@@ -2508,7 +2508,7 @@
         "notes": "May transport 20 Infanterie Einheiten, Trikes, oder Cybots; plus 10 light vehicles oder armoured vehicle units (except Trikes und Cybots); plus sechs Thunderhawks und enough Drop Pods oder Landing Craft to transport any other units being carried."
       },
       {
-        "name": "Grey Ritters Strike Cruiser",
+        "name": "Grey Knights Strike Cruiser",
         "type": "SC",
         "weapons": [
           {
@@ -2562,7 +2562,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "May transport eine formation of only the following units: Taktischer Trupp, Devastoren, Cybot, Sternguard Veterans, Wolf Guard Terminatoren, Grey Ritters Strike Squad, Grey Ritters Purgation Squad. After the Drop Pod lands, its Deathwind attacks all enemy units within 15cm. Jeweils enemy formation attacked receives a Blast Marker für coming under fire, und an extra Blast Marker für jeweils casualty. Then any troops carried in the Drop Pod must disembark within 5cm of the Drop Pod oder within 5cm of another unit from the same formation that has already landed, so long as all units are placed within 15cm of the Drop Pod. Drop pod models should be removed from the board once the formation they transport has disembarked."
+        "notes": "May transport eine formation of only the following units: Taktischer Trupp, Devastoren, Cybot, Sternguard Veterans, Wolf Guard Terminatoren, Grey Knights Strike Squad, Grey Knights Purgation Squad. After the Drop Pod lands, its Deathwind attacks all enemy units within 15cm. Jeweils enemy formation attacked receives a Blast Marker für coming under fire, und an extra Blast Marker für jeweils casualty. Then any troops carried in the Drop Pod must disembark within 5cm of the Drop Pod oder within 5cm of another unit from the same formation that has already landed, so long as all units are placed within 15cm of the Drop Pod. Drop pod models should be removed from the board once the formation they transport has disembarked."
       },
       {
         "name": "Intercessor",

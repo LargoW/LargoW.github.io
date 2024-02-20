@@ -47,7 +47,7 @@
           "Battlehead"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Deflektorschilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -68,7 +68,7 @@
           "Boil Geschütz||FwA"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Deflektorschilde 1",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -91,7 +91,7 @@
           "Battlehead"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Deflektorschilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -114,7 +114,7 @@
           "Dämonenmaul"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Deflektorschilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -143,7 +143,7 @@
           "2x Plasma Cremator||FwA"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität 6",
           "Deflektorschilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -166,7 +166,7 @@
           "Battlehead"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität 6",
           "Deflektorschilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -191,7 +191,7 @@
           "Lust Lash"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität 6",
           "Deflektorschilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -215,7 +215,7 @@
           "Plague Flail"
         ],
         "specialRules": [
-          "Damage Capacity 7",
+          "Schadenskapazität 7",
           "Deflektorschilde 3",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -240,7 +240,7 @@
           "Guntail"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität 6",
           "Deflektorschilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -264,7 +264,7 @@
           "AA Flammengeschütz"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität 6",
           "Deflektorschilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -290,7 +290,7 @@
         "specialRules": [
           "Gottgleiche Maschine",
           "Feuer aufteilen",
-          "Damage Capacity 8",
+          "Schadenskapazität 8",
           "Deflektorschilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -317,7 +317,7 @@
         "specialRules": [
           "Gottgleiche Maschine",
           "Feuer aufteilen",
-          "Damage Capacity 8",
+          "Schadenskapazität 8",
           "Deflektorschilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -344,7 +344,7 @@
         "specialRules": [
           "Gottgleiche Maschine",
           "Feuer aufteilen",
-          "Damage Capacity 9",
+          "Schadenskapazität 9",
           "Deflektorschilde 5",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -372,7 +372,7 @@
         "specialRules": [
           "Gottgleiche Maschine",
           "Feuer aufteilen",
-          "Damage Capacity 8",
+          "Schadenskapazität 8",
           "Deflektorschilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -398,7 +398,7 @@
         "specialRules": [
           "Gottgleiche Maschine",
           "Feuer aufteilen",
-          "Damage Capacity 8",
+          "Schadenskapazität 8",
           "Deflektorschilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -424,7 +424,7 @@
         "specialRules": [
           "Gottgleiche Maschine",
           "Feuer aufteilen",
-          "Damage Capacity 10",
+          "Schadenskapazität 10",
           "Deflektorschilde 8",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -450,7 +450,7 @@
         "specialRules": [
           "Gottgleiche Maschine",
           "Feuer aufteilen",
-          "Damage Capacity 11",
+          "Schadenskapazität 11",
           "Deflektorschilde 7",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -476,7 +476,7 @@
         "specialRules": [
           "Gottgleiche Maschine",
           "Feuer aufteilen",
-          "Damage Capacity 10",
+          "Schadenskapazität 10",
           "Deflektorschilde 8",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -501,7 +501,7 @@
         "specialRules": [
           "Gottgleiche Maschine",
           "Feuer aufteilen",
-          "Damage Capacity 10",
+          "Schadenskapazität 10",
           "Deflektorschilde 8",
           "Furchtlos",
           "Verstärkte Panzerung",

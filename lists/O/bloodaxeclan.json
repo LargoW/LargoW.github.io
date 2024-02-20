@@ -40,7 +40,7 @@
         "Gunfortress",
         "Flakkafortress",
         "Skullhamma",
-        "Fighta-Bommer",
+        "Jagdbomma",
         "Wazbom Blastajet",
         "Drop Rok",
         "Blood Axes Kill Kroozer",
@@ -66,7 +66,7 @@
             "Füge any number of Battlefortresses: 115 Punkte jeweils",
             "Füge any number of Gunfortresses: 115 Punkte jeweils",
             "0-2 Nobz: 35 Punkte Jeweils",
-            "0-1 Füge eine Oddboy character to a Battlefortress, Gunfortress, Gunwagon oder Big Gun unit: 50 Punkte"
+            "0-1 Füge eine Oddboy character to a Battlefortress, Gunfortress, Gunwagon oder Kanonä unit: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -153,7 +153,7 @@
             "Füge any number of Battlewagons, Big Gunz: 25 Punkte jeweils",
             "Füge any number of Flakwagons: 35 Punkte jeweils",
             "0-1 Nobz: 35 Punkte",
-            "0-1 Füge eine Oddboy character to a Big Gun unit: 50 Punkte"
+            "0-1 Füge eine Oddboy character to a Kanonä unit: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -231,10 +231,10 @@
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
       "formations": [
         {
-          "name": "Fighta-Bommer Skwadron",
-          "units": "Drei Fighta-Bommers",
+          "name": "Jagdbomma Skwadron",
+          "units": "Drei Jagdbommas",
           "Erweiterungen": [
-            "Füge bis zu sechs Fighta-Bommers: 50 Punkte jeweils"
+            "Füge bis zu sechs Jagdbommas: 50 Punkte jeweils"
           ],
           "points": 150
         },

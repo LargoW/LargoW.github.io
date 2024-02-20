@@ -253,7 +253,7 @@
           "4x Havoc Sperrfeuerrakete|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Deflektorschilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -276,7 +276,7 @@
           "Synchronisierter Hades Maschinenkanone|0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Deflektorschilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -302,7 +302,7 @@
           "Gyrator Barrage Geschütz||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Deflektorschilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -322,7 +322,7 @@
           "Terrebrax Phospex Batterie||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Deflektorschilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -342,7 +342,7 @@
           "Kaban Guntails"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Deflektorschilde 2",
           "Anführer",
           "Verstärkte Panzerung",
@@ -460,7 +460,7 @@
         ]
       },
       {
-        "name": "Ritter-Doomglaive",
+        "name": "Knight-Doomglaive",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -480,7 +480,7 @@
         ]
       },
       {
-        "name": "Ritter-Perfidor",
+        "name": "Knight-Perfidor",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -499,7 +499,7 @@
         ]
       },
       {
-        "name": "Ritter-Renegade",
+        "name": "Knight-Renegade",
         "type": "WE",
         "speed": 25,
         "armour": 5,
@@ -519,10 +519,10 @@
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ],
-        "crit": "The Ritter-Renegade is destroyed."
+        "crit": "The Knight-Renegade is destroyed."
       },
       {
-        "name": "Ritter-Tyrant",
+        "name": "Knight-Tyrant",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -543,10 +543,10 @@
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ],
-        "crit": "The Ritter-Tyrant is destroyed."
+        "crit": "The Knight-Tyrant is destroyed."
       },
       {
-        "name": "Ritter-Dreadblade",
+        "name": "Knight-Dreadblade",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -590,7 +590,7 @@
           "Synchronisierter Reaper Maschinenkanone|4|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
@@ -610,7 +610,7 @@
           "Reaper Maschinenkanone|4|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Deflektorschilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
@@ -631,7 +631,7 @@
           "Arcane Technology||"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Deflektorschilde 2",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
@@ -682,7 +682,7 @@
         ]
       },
       {
-        "name": "Hell-Ritter",
+        "name": "Hell-Knight",
         "type": "H-AV",
         "speed": 30,
         "armour": 5,
@@ -729,7 +729,7 @@
           "Laserkanone|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Deflektorschilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
@@ -752,7 +752,7 @@
           "Hellslicer Battle Claw|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Deflektorschilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
@@ -832,7 +832,7 @@
           "Nurglings"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Regeneration",
@@ -841,7 +841,7 @@
         "crit": "The Plague Reaper is destroyed. All units within 5cm suffers a hit on 6+."
       },
       {
-        "name": "Ritter-Desecrator",
+        "name": "Knight-Desecrator",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -861,7 +861,7 @@
           "Regeneration",
           "Daemon Engine (Nurgle)"
         ],
-        "crit": "The Ritter-Desecrator is destroyed."
+        "crit": "The Knight-Desecrator is destroyed."
       },
       {
         "name": "Plague Tower",
@@ -877,7 +877,7 @@
           "Nurglings"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Furchtlos",
           "Regeneration",
           "Daemon Engine (Nurgle)",
@@ -957,7 +957,7 @@
         ]
       },
       {
-        "name": "Ritter-Rampager",
+        "name": "Knight-Rampager",
         "type": "WE",
         "speed": 25,
         "armour": 5,
@@ -977,7 +977,7 @@
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Khorne)"
         ],
-        "crit": "The Ritter-Rampager is destroyed."
+        "crit": "The Knight-Rampager is destroyed."
       },
       {
         "name": "Greater Brass Scorpion",
@@ -993,7 +993,7 @@
           "Scorpion Klauen"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Furchtlos",
           "Infiltratoren",
           "Geländegängig",
@@ -1015,7 +1015,7 @@
           "Chainfist"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität 6",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
@@ -1036,7 +1036,7 @@
           "Synchronisierter Reaper Maschinenkanone Turm|2|"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität 6",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Regeneration",
@@ -1084,7 +1084,7 @@
         ]
       },
       {
-        "name": "Ritter-Despoiler",
+        "name": "Knight-Despoiler",
         "type": "WE",
         "speed": 20,
         "armour": 5,
@@ -1104,7 +1104,7 @@
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Tzeentch)"
         ],
-        "crit": "The Ritter-Despoiler is destroyed."
+        "crit": "The Knight-Despoiler is destroyed."
       },
       {
         "name": "Mirrorfiend",
@@ -1118,7 +1118,7 @@
           "Battle Klauen"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Furchtlos",
           "Jump Pack",
           "Unmodifizierter Rettungswurf",
@@ -1139,7 +1139,7 @@
           "Beam of Power|2|"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität 6",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Antigrav",
