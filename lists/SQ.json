@@ -74,7 +74,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Ein in every zwei units (rounding up) has a Raketenwerfer"
+        "notes": "Eine von zwei Einheiten (aufgerundet) hat einen Raketenwerfer"
       },
       {
         "name": "Squat Berserkers",
@@ -424,7 +424,7 @@
           "BATTLE CAR WEAPONS",
           "Berserker Battle Car",
           "Dragon Battle Car",
-          "Siege Mörser Battle Car",
+          "Belagerungsmörser Battle Car",
           "0-1 Bomb Battle Car"
         ],
         "specialRules": [

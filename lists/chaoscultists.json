@@ -35,7 +35,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Grenade Launchers",
+          "Granatwerfers",
           "Dämonenwaffen"
         ],
         "specialRules": [
@@ -114,7 +114,7 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Grenade Launchers"
+          "Granatwerfers"
         ],
         "specialRules": [
         ]
@@ -162,7 +162,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Counts as zwei units of INF für the purpose of being transported."
+        "notes": "Zählt als zwei Einheiten für die Transport Regel."
       },
       {
         "name": "Chaos Spawn",
@@ -177,7 +177,7 @@
           "Furchtlos",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "Counts as zwei units of INF für the purpose of being transported."
+        "notes": "Zählt als zwei Einheiten für die Transport Regel."
       },
       {
         "name": "Winged Chaos Spawn",

@@ -59,7 +59,7 @@
         "PDF Infanterie",
         "Flakk Team",
         "Thudd Gun",
-        "Armoured Sentinel",
+        "Gepanzerter Sentinel",
         "Leman Russ",
         "Leman Russ Thunderer",
         "Land Transporter"
@@ -169,8 +169,8 @@
           "points": 275
         },
         {
-          "name": "Armoured Sentinel Schwadron",
-          "units": "Vier Armoured Sentinels",
+          "name": "Gepanzerter Sentinel Schwadron",
+          "units": "Vier Gepanzerter Sentinels",
           "extraUnits": [
           ],
           "points": 125

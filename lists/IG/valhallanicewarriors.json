@@ -27,8 +27,8 @@
         "Mantikor",
         "Höllenhund",
         "Todesstoss-Raketensystem",
-        "Armoured Sentinel",
-        "Valhallan Greif",
+        "Gepanzerter Sentinel",
+        "Vallhalanischer Greif",
         "Schwerer Ragnarok Panzer",
         "Macharius",
         "Macharius Command",
@@ -70,7 +70,7 @@
           "name": "Valhallan Regiments HQ",
           "units": "Ein Valhallanischer Oberbefehlshaber mit einemMinistorum Priest, neun Valhallan Infanterie",
           "extraUnits": [
-            "Valhallan Greifen",
+            "Vallhalanischer Greifen",
             "Ogryns",
             "Scharfschützen",
             "Unterstützungstrupps",
@@ -83,7 +83,7 @@
           "name": "Valhallan Infanterie Kompanie",
           "units": "Ein Valhallan Befehlshaber mit einemMinistorum Priest, neun Valhallan Infanterie",
           "extraUnits": [
-            "Valhallan Greifen",
+            "Vallhalanischer Greifen",
             "Ogryns",
             "Scharfschützen",
             "Unterstützungstrupps",
@@ -112,7 +112,7 @@
           "name": "Heavy Panzer Zug",
           "units": "Sechs Ragnarok Heavy Panzers",
           "extraUnits": [
-            "Valhallan Greifen",
+            "Vallhalanischer Greifen",
             "Flak"
           ],
           "points": 375
@@ -147,8 +147,8 @@
           ]
         },
         {
-          "name": "Armoured Sentinel Schwadron",
-          "units": "Vier Armoured Sentinels",
+          "name": "Gepanzerter Sentinel Schwadron",
+          "units": "Vier Gepanzerter Sentinels",
           "extraUnits": [
           ],
           "points": 125
@@ -192,10 +192,10 @@
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden. Max drei Erweiterungen pro Kompanieverband.",
     "items": [
       {
-        "name": "Valhallan Greifen",
+        "name": "Vallhalanischer Greifen",
         "options": [
           {
-            "description": "Füge drei Valhallan Greifen",
+            "description": "Füge drei Vallhalanischer Greifen",
             "points": "100 Punkte"
           }
         ]

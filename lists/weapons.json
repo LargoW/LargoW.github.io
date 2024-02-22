@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": ">Panzer Hunter Configuration<",
+      "name": ">Panzerjägerkonfiguration<",
       "modes": [
         {
         }
@@ -917,7 +917,7 @@
       ]
     },
     {
-      "name": "AC Synchronisierter Sturmkanone Turm",
+      "name": "AC Synchronisierte Sturmkanone Turm",
       "modes": [
         {
           "Feuerkraft": "AA4+",
@@ -1803,7 +1803,7 @@
       ]
     },
     {
-      "name": "Siege Mörser Battle Car",
+      "name": "Belagerungsmörser Battle Car",
       "modes": [
         {
           "Feuerkraft": "2BP",
@@ -3878,7 +3878,7 @@
       ]
     },
     {
-      "name": "Earthshaker Geschütz",
+      "name": "Tremorkanone",
       "modes": [
         {
           "Feuerkraft": "AP4+/AT4+",
@@ -3894,7 +3894,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Earthshaker Geschütz",
+      "name": "Synchronisierter Tremorkanone",
       "modes": [
         {
           "Feuerkraft": "AP3+/AT3+",
@@ -5110,7 +5110,7 @@
       ]
     },
     {
-      "name": "Heavy AA Gun",
+      "name": "Schweres Flugabwehrgeschütz",
       "modes": [
         {
           "Feuerkraft": "AP5+/AT5+/AA5+",
@@ -5367,7 +5367,7 @@
       ]
     },
     {
-      "name": "Heavy Mörser",
+      "name": "Gefechtsmörser",
       "modes": [
         {
           "Feuerkraft": "1BP",
@@ -5549,7 +5549,7 @@
       ]
     },
     {
-      "name": "Grenade Launchers",
+      "name": "Granatwerfers",
       "modes": [
         {
           "Feuerkraft": "AP6+/AT6+",
@@ -5558,7 +5558,7 @@
       ]
     },
     {
-      "name": "Tauros Grenade Launcher",
+      "name": "Tauros Granatwerfer",
       "modes": [
         {
           "Feuerkraft": "2x AP6+/AT6+",
@@ -5804,7 +5804,7 @@
       ]
     },
     {
-      "name": "Hellstrike Raketen",
+      "name": "Höllenfeuerraketen",
       "modes": [
         {
           "Feuerkraft": "AT2+",
@@ -5816,7 +5816,7 @@
       ]
     },
     {
-      "name": "AC Hellstrike Raketen",
+      "name": "AC Höllenfeuerraketen",
       "modes": [
         {
           "Feuerkraft": "AT2+",
@@ -6087,7 +6087,7 @@
       ]
     },
     {
-      "name": "Infected Earthshaker Geschütz",
+      "name": "Infected Tremorkanone",
       "modes": [
         {
           "Feuerkraft": "AP4+/AT4+",
@@ -7090,7 +7090,7 @@
       ]
     },
     {
-      "name": "Melter Bombs",
+      "name": "Melterbomben",
       "modes": [
         {
           "Feuerkraft": "Handfeuerwaffen",
@@ -7209,7 +7209,7 @@
       ]
     },
     {
-      "name": "Medusa Siege Gun",
+      "name": "Medusa Belagerungsgeschütz",
       "modes": [
         {
           "Feuerkraft": "AP3+/AT4+",
@@ -7695,7 +7695,7 @@
       ]
     },
     {
-      "name": "Ogryn Weapons",
+      "name": "Ogrynwaffen",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -8209,7 +8209,7 @@
       ]
     },
     {
-      "name": "Plasmawerfers",
+      "name": "Plasmawerfer ",
       "modes": [
         {
           "Feuerkraft": "AP5+/AT5+",
@@ -9361,7 +9361,7 @@
       ]
     },
     {
-      "name": "Ripper Guns",
+      "name": "Ogrynknarre",
       "modes": [
         {
           "Feuerkraft": "Handfeuerwaffen",
@@ -9412,7 +9412,7 @@
       ]
     },
     {
-      "name": "Rocket Launcher",
+      "name": "Mantikor Raketenwerfer",
       "modes": [
         {
           "Feuerkraft": "2BP",
@@ -9831,7 +9831,7 @@
       ]
     },
     {
-      "name": "Siege Mörser",
+      "name": "Belagerungsmörser",
       "modes": [
         {
           "Feuerkraft": "2BP",
@@ -11375,7 +11375,7 @@
       ]
     },
     {
-      "name": "AC Synchronisierter Sturmkanone",
+      "name": "AC Synchronisierte Sturmkanone",
       "modes": [
         {
           "Feuerkraft": "AP4+/AT4+/AA5+",
@@ -11402,7 +11402,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Sturmkanone",
+      "name": "Synchronisierte Sturmkanone",
       "modes": [
         {
           "Feuerkraft": "AP4+/AT4+",
@@ -11669,7 +11669,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Hydra Maschinenkanone",
+      "name": "Synchronisierte Hydra Maschinenkanone",
       "modes": [
         {
           "Feuerkraft": "AP4+/AT5+/AA5+",

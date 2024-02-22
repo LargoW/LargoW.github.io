@@ -110,7 +110,7 @@
           "extraUnits": [
             "Füge eine Warhound Titan of the same configuration: 200 Punkte",
             "Veteran Princeps",
-            "Panzer Hunter Configuration"
+            "Panzerjägerkonfiguration"
           ],
           "points": 275
         },
@@ -199,7 +199,7 @@
       },
       {
         "name": "Panzer Hunter",
-        "description": "Upgrade all Warhounds in the formation to the Panzer Hunter Configuration",
+        "description": "Upgrade all Warhounds in the formation to the Panzerjägerkonfiguration",
         "points": "25 Punkte jeweils"
       }
     ]

@@ -30,7 +30,7 @@
         "Neophytes",
         "Neophyte Outriders",
         "Neophyte Unterstützungstrupps",
-        "Cult Heavy Mörser",
+        "Cult Gefechtsmörser",
         "Ridgerunner",
         "Land Transporter",
         "Outrider Quadbike",
@@ -257,7 +257,7 @@
             "points": "50 Punkte"
           },
           {
-            "description": "Füge drei Cult Heavy Mörser Support units",
+            "description": "Füge drei Cult Gefechtsmörser Support units",
             "points": "75 Punkte"
           }
         ]

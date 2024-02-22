@@ -432,7 +432,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Plasmawerfers",
+          "Plasmawerfer ",
           "Chain Glaives"
         ]
       },
@@ -455,7 +455,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Plasmawerfers",
+          "Plasmawerfer ",
           "Chain Glaives"
         ]
       },
@@ -575,7 +575,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Plasmawerfers",
+          "Plasmawerfer ",
           "Kettenschwerter"
         ],
         "specialRules": [
@@ -1286,7 +1286,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Earthshaker Geschütz",
+          "Tremorkanone",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -1300,7 +1300,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Mörser",
+          "Gefechtsmörser",
           "Schwerer Bolter"
         ],
         "specialRules": [

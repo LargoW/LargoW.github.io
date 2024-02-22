@@ -37,7 +37,7 @@
         "PDF Infanterie",
         "Thudd Gun",
         "Rapier",
-        "Heavy AA Gun",
+        "Schweres Flugabwehrgeschütz",
         "Haubitzen",
         "Kavallerieschwadron",
         "Land Transporter"
@@ -136,7 +136,7 @@
         },
         {
           "name": "Flak Emplacement",
-          "units": "Drei Heavy AA Guns, drei Gun Emplacements",
+          "units": "Drei Schweres Flugabwehrgeschützs, drei Gun Emplacements",
           "extraUnits": [
           ],
           "points": 175

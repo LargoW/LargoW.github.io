@@ -52,7 +52,7 @@
         ]
       },
       {
-        "name": "DKoK Oberbefehlshaber",
+        "name": "Todeskorps von Krieg Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -126,7 +126,7 @@
         ]
       },
       {
-        "name": "Elysian Befehlshaber",
+        "name": "Elysianischer Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -141,7 +141,7 @@
         ]
       },
       {
-        "name": "Catachan Befehlshaber",
+        "name": "Catachanischer Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -172,7 +172,7 @@
         ]
       },
       {
-        "name": "Baran Befehlshaber",
+        "name": "Baranischer Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "name": "DKoK Befehlshaber",
+        "name": "Todeskorps von Krieg Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "name": "Cadian Befehlshaber",
+        "name": "Cadianischer Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -293,7 +293,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Ein in every zwei units (rounding up) has an Maschinenkanone"
+        "notes": "Eine von zwei Einheiten (aufgerundet) hat eine Maschinenkanone."
       },
       {
         "name": "Panzer Infanterie",
@@ -306,7 +306,7 @@
         ],
         "specialRules": [
           "Entbehrlich",
-          "Panzer Riders"
+          "Panzergeleit"
         ]
       },
       {
@@ -321,7 +321,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Ein in every zwei units (rounding up) has a Schwerer Bolter"
+        "notes": "Eine von zwei Einheiten (aufgerundet) hat einen Schweren Bolter"
       },
       {
         "name": "PDF Infanterie",
@@ -335,7 +335,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Ein in every zwei units (rounding up) has a Schweres Maschinengewehr"
+        "notes": "Eine von zwei Einheiten (aufgerundet) hat eine Schweres Maschinengewehr"
       },
       {
         "name": "Siege Infanterie",
@@ -351,7 +351,7 @@
         ]
       },
       {
-        "name": "Assault Infanterie",
+        "name": "Angriffsinfanterie ",
         "type": "INF",
         "speed": 15,
         "cc": 5,
@@ -434,12 +434,12 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Ripper Guns",
-          "Ogryn Weapons"
+          "Ogrynknarre",
+          "Ogrynwaffen"
         ],
         "specialRules": [
         ],
-        "notes": "Counts as zwei units of INF für the purpose of being transported."
+        "notes": "Zählt als zwei Einheiten für die Transport Regel."
       },
       {
         "name": "Death Riders",
@@ -490,7 +490,7 @@
         ]
       },
       {
-        "name": "Death World Veterans",
+        "name": "Todeswelt Veteranen",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -505,7 +505,7 @@
         ]
       },
       {
-        "name": "Catachan Devils",
+        "name": "Catachanische Teufel",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -535,7 +535,7 @@
         ]
       },
       {
-        "name": "Grenadiers",
+        "name": "Grenadiere",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -549,7 +549,7 @@
         ]
       },
       {
-        "name": "Sappers",
+        "name": "Pioniere",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -557,10 +557,10 @@
         "ff": 5,
         "weapons": [
           "Schwerer Flammenwerfer",
-          "Melter Bombs"
+          "Melterbomben"
         ],
         "specialRules": [
-          "Geländegängig (also works against enemy fortifications)"
+          "Geländegängig (auch für gegnerische Befestigungen )"
         ]
       },
       {
@@ -571,7 +571,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Plasmawerfers"
+          "Plasmawerfer "
         ],
         "specialRules": [
           "Aufklärer"
@@ -585,7 +585,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Plasmawerfers"
+          "Plasmawerfer "
         ],
         "specialRules": [
           "Gravschirme",
@@ -618,7 +618,7 @@
         ]
       },
       {
-        "name": "Elysian Unterstützungstrupp",
+        "name": "Elysianischer Unterstützungstrupp",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -680,7 +680,7 @@
         ]
       },
       {
-        "name": "Catachan Sentinel",
+        "name": "Catachanischer Sentinel",
         "type": "LV",
         "speed": 20,
         "armour": 6,
@@ -695,7 +695,7 @@
         ]
       },
       {
-        "name": "Armoured Sentinel",
+        "name": "Gepanzerter Sentinel",
         "type": "LV",
         "speed": 15,
         "armour": 5,
@@ -725,7 +725,7 @@
         ]
       },
       {
-        "name": "Drop Sentinel",
+        "name": "Luftlandungs-Sentinel",
         "type": "LV",
         "speed": 20,
         "armour": 6,
@@ -740,7 +740,7 @@
         ]
       },
       {
-        "name": "Support Sentinel",
+        "name": "Unterstützungs-Sentinel",
         "type": "LV",
         "speed": 15,
         "armour": 6,
@@ -761,7 +761,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Tauros Grenade Launcher"
+          "Tauros Granatwerfer"
         ],
         "specialRules": [
           "Aufklärer"
@@ -822,7 +822,7 @@
         ]
       },
       {
-        "name": "Storm Chimäre",
+        "name": "Sturmchimäre",
         "type": "AV",
         "speed": 25,
         "armour": 5,
@@ -835,7 +835,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Chimäre",
@@ -851,10 +851,10 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
-        "name": "Death World Chimäre",
+        "name": "Todeswelt Chimäre",
         "type": "AV",
         "speed": 25,
         "armour": 5,
@@ -868,7 +868,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Höllenhund",
@@ -927,7 +927,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Taurox",
@@ -937,7 +937,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Synchronisierter Sturmkanone"
+          "Synchronisierte Sturmkanone"
         ],
         "specialRules": [
           "Geländegängig",
@@ -970,7 +970,7 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Transport: Ein Earthshaker Gun oder Heavy AA Gun"
+          "Transport: Ein Tremorkanonenlafette oder Schweres Flugabwehrgeschütz"
         ]
       },
       {
@@ -999,7 +999,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Todesstoss-Raketensilo is destroyed. All units within 10cm takes a hit."
+        "crit": "Das Todesstoss-Raketensilo wird zerstört. Alle Einheiten innerhalb von 10cm erleiden einen Treffer."
       },
       {
         "name": "Greif",
@@ -1009,21 +1009,21 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Mörser",
+          "Gefechtsmörser",
           "Schwerer Bolter"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Valhallan Greif",
+        "name": "Vallhalanischer Greif",
         "type": "AV",
         "speed": 15,
         "armour": 5,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Mörser",
+          "Gefechtsmörser",
           "Schwerer Flammenwerfer"
         ],
         "specialRules": [
@@ -1038,7 +1038,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Earthshaker Geschütz",
+          "Tremorkanone",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -1052,7 +1052,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Siege Mörser",
+          "Belagerungsmörser",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -1066,34 +1066,34 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Medusa Siege Gun",
+          "Medusa Belagerungsgeschütz",
           "Schwerer Bolter"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Earthshaker Gun",
+        "name": "Tremorkanonenlafette",
         "type": "LV",
         "speed": 5,
         "armour": 6,
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Earthshaker Geschütz"
+          "Tremorkanone"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Medusa Gun",
+        "name": "Medusa Kanonenlafette",
         "type": "LV",
         "speed": 5,
         "armour": 6,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Medusa Siege Gun"
+          "Medusa Belagerungsgeschütz"
         ],
         "specialRules": [
         ]
@@ -1110,14 +1110,14 @@
         ]
       },
       {
-        "name": "Heavy AA Gun",
+        "name": "Schweres Flugabwehrgeschütz",
         "type": "LV",
         "speed": 5,
         "armour": 6,
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Heavy AA Gun"
+          "Schweres Flugabwehrgeschütz"
         ],
         "specialRules": [
         ]
@@ -1143,7 +1143,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Rocket Launcher",
+          "Mantikor Raketenwerfer",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -1157,7 +1157,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Hydra Maschinenkanone|2",
+          "Synchronisierte Hydra Maschinenkanone|2",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -1362,7 +1362,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "May transport zwei Infanterie Einheiten oder eine Drop Sentinel. May not transport Ogryns."
+        "notes": "Darf zwei Infanterieeinheiten oder einen Luftlandungs-Sentinel transportieren. Darf keine Ogryns transportieren."
       },
       {
         "name": "Sky Talon",
@@ -1378,7 +1378,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "May transport eine Light Vehicle (LV) oder zwei Drop Sentinels."
+        "notes": "Darf ein  leichtes Fahrzeug (LV) oder zwei Luftlandungs-Sentinels transportieren."
       },
       {
         "name": "Vulture",
@@ -1388,7 +1388,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Hellstrike Raketen|2|",
+          "Höllenfeuerraketen|2|",
           "Synchronisierter Maschinenkanone",
           "Schwerer Bolter"
         ],
@@ -1412,7 +1412,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "May transport zwei Infanterie Einheiten oder eine Drop Sentinel. May not transport Ogryns."
+        "notes": "Darf zwei Infanterieeinheiten oder einen Luftlandungs-Sentinel transportieren. Darf keine Ogryns transportieren."
       },
       {
         "name": "Malcador",
@@ -1500,7 +1500,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Synchronisierter Earthshaker Geschütz"
+          "Synchronisierter Tremorkanone"
         ],
         "specialRules": [
         ],
@@ -1567,7 +1567,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Medusa Siege Gun||FxF",
+          "Medusa Belagerungsgeschütz||FxF",
           "Synchronisierter schweres Maschinengewehr|3|"
         ],
         "specialRules": [
