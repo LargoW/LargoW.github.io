@@ -22,15 +22,15 @@
         "Arch-Heretic",
         "Daemonic Icon",
         "Fallen Befehlshaber",
-        "Dämonenprinz",
+        "Daemon Prince",
         "Mutants",
         "Chaos Spawn",
         "Technical",
         "Land Transporter"
       ],
       "unitRules": [
-        "Verbesserte Beschwörung (+X)",
-        "Dämonischer Fokus"
+        "Augment Summoning (+x)",
+        "Daemonic Focus"
       ]
     },
     {
@@ -66,9 +66,9 @@
       "from": "daemons.json",
       "units": [
         "Daemonettes of Slaanesh",
-        "Plaguebearers des Nurgle",
-        "Bloodletters des Khorne",
-        "Horrors des Tzeentch",
+        "Plaguebearers of Nurgle",
+        "Bloodletters of Khorne",
+        "Horrors of Tzeentch",
         "Daemonic Beasts of Chaos Undivided"
       ],
       "unitRules": []
@@ -79,7 +79,7 @@
         "Defiler",
         "Vernichter",
         "Death Wheel",
-        "Hell-Ritter",
+        "Hell-Knight",
         "Hell-Scourge",
         "Plague Tower",
         "Plague Reaper",
@@ -193,7 +193,7 @@
           "name": "Chaos Space Marines of Chaos Undivided",
           "units": "Sechs Chaos Space Marines, drei Chaos Rhinos",
           "extraUnits": [
-            "Füge Dämonischer Pakt to the formation: 25 Punkte"
+            "Füge Daemonic Pact to the formation: 25 Punkte"
           ],
           "points": 250
         },
@@ -215,8 +215,8 @@
           "points": 300
         },
         {
-          "name": "Hell-Ritters",
-          "units": "Drei Hell-Ritters",
+          "name": "Hell-Knights",
+          "units": "Drei Hell-Knights",
           "points": 325
         },
         {
@@ -225,17 +225,17 @@
           "points": 325
         },
         {
-          "name": "Plague Reaper des Nurgle",
+          "name": "Plague Reaper of Nurgle",
           "units": "Ein Plague Reaper",
           "points": 200
         },
         {
-          "name": "Plague Tower des Nurgle",
+          "name": "Plague Tower of Nurgle",
           "units": "Ein Plague Tower",
           "points": 200
         },
         {
-          "name": "Daemonic Assault Engines des Khorne",
+          "name": "Daemonic Assault Engines of Khorne",
           "units": "Vier Daemonic Assault Engines",
           "points": 225
         },
@@ -245,12 +245,12 @@
           "points": 425
         },
         {
-          "name": "Silver Towers des Tzeentch",
+          "name": "Silver Towers of Tzeentch",
           "units": "Vier Silver Towers",
           "points": 275
         },
         {
-          "name": "Warp Palace des Tzeentch",
+          "name": "Warp Palace of Tzeentch",
           "units": "Ein Warp Palace",
           "points": 450
         }
@@ -258,7 +258,7 @@
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool Punkte. Füge eine point to the Lesser Daemon pool für jeweils Daemonic Icon oder Dämonischer Pakt in the army.",
+      "description": "Any amount may be spent on Daemon Pool Punkte. Füge eine point to the Lesser Daemon pool für jeweils Daemonic Icon oder Daemonic Pact in the army.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
@@ -276,7 +276,7 @@
         "name": "Daemonic Icon",
         "options": [
           {
-            "description": "Füge eine Daemonic Icon to a Fallen Befehlshaber oder Dämonenprinz",
+            "description": "Füge eine Daemonic Icon to a Fallen Befehlshaber oder Daemon Prince",
             "points": "25 Punkte"
           },
           {
@@ -294,7 +294,7 @@
             "points": "50 Punkte"
           },
           {
-            "description": "Upgrade the Fallen Befehlshaber to a Dämonenprinz",
+            "description": "Upgrade the Fallen Befehlshaber to a Daemon Prince",
             "points": "100 Punkte"
           }
         ]

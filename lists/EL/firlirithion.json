@@ -4,7 +4,7 @@
   "version": "0.6.0",
   "release": "2022-04-01",
   "strategy": "Fir Lirithion Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Titans, WraithRitters und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "Titans, Wraithknights und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Avatar (Fir Lirithion)",
     "Farsight",
@@ -15,7 +15,7 @@
     "Independent Twins"
   ],
   "usage": [
-    "The following army list allows you to field an army based on Eldar Titans und Eldar Ritters."
+    "The following army list allows you to field an army based on Eldar Titans und Eldar Knights."
   ],
   "units": [
     {
@@ -27,7 +27,7 @@
         "Wraithblades",
         "Wraithguards",
         "Wraithlord",
-        "WraithRitter",
+        "Wraithknight",
         "Scorpion",
         "Cobra",
         "Storm Serpent",
@@ -111,8 +111,8 @@
       "description": " Bis zu drei Troupes für jeweils Battle oder Aufklärer Titan formation.",
       "formations": [
         {
-          "name": "WraithRitter Troupe",
-          "units": "Zwei WraithRitters (may not mix configurations)",
+          "name": "Wraithknight Troupe",
+          "units": "Zwei Wraithknights (may not mix configurations)",
           "extraUnits": [
           ],
           "points": 300

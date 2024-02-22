@@ -18,7 +18,7 @@
 		]},
 
 		{"name":"FORGE WORLD NAVY, QUESTORIS MECHANICUS & COLLEGIA TITANICA SUPPORT <br/> Max 33%", "formations":[
-		    {"id":519,"name":"Paladin Household", "units":"5 Ritter-Paladins", "pts":450, "upgrades":[]},
+		    {"id":519,"name":"Paladin Household", "units":"5 Knight-Paladins", "pts":450, "upgrades":[]},
 
 		    {"id":520,"name":"Warhound Pack","pts":475, "upgrades":[]},
 

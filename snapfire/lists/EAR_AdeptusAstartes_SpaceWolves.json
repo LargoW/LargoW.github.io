@@ -21,14 +21,14 @@
 
 		]},
 
-		{"name":"SPACE WOLVES AIRCRAFT AND FREEBLADE RitterS <br/> Max 33%", "formations":[
+		{"name":"SPACE WOLVES AIRCRAFT AND FREEBLADE KNIGHTS <br/> Max 33%", "formations":[
 			{"id":530, "name": "Storm Talon Pack", "units":"2 Storm Talons",			"pts":200, "upgrades":[]},
 			{"id":531, "name": "Stormwolf Assault Boat",											"pts":175, "upgrades":[]},
 			{"id":532, "name": "Stormfang Gunship",													"pts":150, "upgrades":[]},
-			{"id":533, "name": "Ritter-Freeblade 'Crimson Glaive' (Conflagration Cannon)", 			"pts":175, "upgrades":[]},
-			{"id":534, "name": "Ritter-Freeblade 'Iron Wolf' (Helfrost Destructor)", 				"pts":175, "upgrades":[]},
-			{"id":535, "name": "Ritter-Freeblade 'Justice' (Castigator Cannon)", 				"pts":175, "upgrades":[]},
-			{"id":536, "name": "Ritter-Freeblade 'Canis Rex' (Las Impulsor)", 			"pts":175, "upgrades":[]}
+			{"id":533, "name": "Knight-Freeblade 'Crimson Glaive' (Conflagration Cannon)", 			"pts":175, "upgrades":[]},
+			{"id":534, "name": "Knight-Freeblade 'Iron Wolf' (Helfrost Destructor)", 				"pts":175, "upgrades":[]},
+			{"id":535, "name": "Knight-Freeblade 'Justice' (Castigator Cannon)", 				"pts":175, "upgrades":[]},
+			{"id":536, "name": "Knight-Freeblade 'Canis Rex' (Las Impulsor)", 			"pts":175, "upgrades":[]}
 		]}
 	],
 	"upgrades":[
@@ -74,7 +74,7 @@
 		{"max":1,"perArmy":true, "from":[535]},
 		{"max":1,"perArmy":true, "from":[536]},
 		{"max":2, "name":"Space Wolves Support Packs", "from":[520,521,522,523,524,525,526,528], "forEach":[500,501,502], "name2":"Space Wolves Core Pack"},
-		{"maxPercent": 33.5, "name":"Aircraft & Freeblade Ritters", "from":[530,531,532,527,533,534,535,536]}
+		{"maxPercent": 33.5, "name":"Aircraft & Freeblade Knights", "from":[530,531,532,527,533,534,535,536]}
 	],
 	"upgradeConstraints":[
 		{"max":1, "perArmy":true, "from":[11]},

@@ -16,7 +16,7 @@
             {"id": 506, "name": "Emperor's Children Defiler Pack", "pts": 275, "units": "4 Emperor's Children Defilers", "upgrades": [63,67,68]},
             {"id": 508, "name": "Chaos Space Marines", "pts": 250, "units": "6 Chaos Space Marines, 3 Chaos Rhinos", "upgrades": [56]},
             {"id": 509, "name": "Armoured Company", "pts": 0, "upgrades": [28,29,57,69,70,22,71,72]},
-            {"id": 510, "name": "Daemonic Ritters", "pts": 300, "units": "4 Chaos Daemon Ritters", "upgrades": []}
+            {"id": 510, "name": "Daemonic Knights", "pts": 300, "units": "4 Chaos Daemon Knights", "upgrades": []}
          ]},
       {"name": "CHAOS NAVY & TITANS <br/> Max 33%", "formations": [
           {"id": 530, "name": "Hell Blade Flight", "pts": 200, "units": "3 Hell Blade Interceptors", "upgrades": []},

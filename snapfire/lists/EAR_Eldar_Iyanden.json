@@ -23,7 +23,7 @@
             {"id": 512, "name": "Spirit Walker Troupe", "pts": 250,  "units": "4 Wraithlords",  "upgrades": []}
          ]},
       {"name": "SPACESHIPS, AIRCRAFT &amp; TITANS <br/> Max 33%", "formations": [
-            {"id": 523, "name": "WraithRitters", "pts": 350, "upgrades": []},
+            {"id": 523, "name": "Wraithknights", "pts": 350, "upgrades": []},
             {"id": 519, "name": "Revenant Titans", "pts": 650, "units": "2 Revenant Titans", "upgrades": []},
             {"id": 518, "name": "Phantom Titan", "pts": 700, "upgrades": []},
             {"id": 520, "name": "Nightwing Aerie", "pts": 75, "upgrades": [67]},
@@ -75,9 +75,9 @@
       {"id": 67, "name": "Nightwing Interceptors", "pts": 75},
       {"id": 71, "name": "War Walker", "pts": 25},
 
-      {"id": 75, "name": "2 WraithRitters (Twin Heavy Wraithcannon)", "pts": 0},
-      {"id": 76, "name": "2 WraithRitters (Ghostglaive and Scattershield)", "pts": 0},
-      {"id": 77, "name": "2 WraithRitters (Suncannon)", "pts": 0},
+      {"id": 75, "name": "2 Wraithknights (Twin Heavy Wraithcannon)", "pts": 0},
+      {"id": 76, "name": "2 Wraithknights (Ghostglaive and Scattershield)", "pts": 0},
+      {"id": 77, "name": "2 Wraithknights (Suncannon)", "pts": 0},
 
       {"id": 80, "name": "2x Titan Pulsars", "pts": 0},
       {"id": 81, "name": "Titan Pulsar, Titan Powerfist", "pts": 0}

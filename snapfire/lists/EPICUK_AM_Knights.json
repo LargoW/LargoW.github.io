@@ -1,15 +1,15 @@
 {
-  "id":"EpicUK Imperial Ritters",
+  "id":"EpicUK Imperial Knights",
   "version":"v29-05-15",
   "by":"EA-Ragnarok",
   "sections":[
     {"name":"CORE HOUSEHOLDS", "formations":[
-      {"id":500, "name":"Baron", "pts":600, "units":"Baron, 5 Paladin Ritters", "upgrades":[8]},
-	  {"id":501, "name":"Paladin", "pts":500, "units":"6 Paladin Ritters", "upgrades":[8,13]}
+      {"id":500, "name":"Baron", "pts":600, "units":"Baron, 5 Paladin Knights", "upgrades":[8]},
+	  {"id":501, "name":"Paladin", "pts":500, "units":"6 Paladin Knights", "upgrades":[8,13]}
     ]},
     {"name":"SUPPORT HOUSEHOLDS <br/> Max 2 for each Core Household", "formations":[
       {"id":510, "name":"Support", "pts":50, "upgrades":[6,7,13]},
-      {"id":511, "name":"Lancer", "pts":300, "units":"3 Lancer Ritters", "upgrades":[13]},
+      {"id":511, "name":"Lancer", "pts":300, "units":"3 Lancer Knights", "upgrades":[13]},
       {"id":512, "name":"Errant", "pts":50, "upgrades":[8,13]}
     ]},
     {"name":"RETAINERS <br/> Max 1 for each Core or Support Household", "formations":[
@@ -28,9 +28,9 @@
   "upgrades":[
 
     {"id":5, "name":"6 Tractors", "pts":50},
-    {"id":6, "name":"Castellan Ritter", "pts":100},
-    {"id":7, "name":"Crusader Ritter", "pts":100},
-    {"id":8, "name":"Errant Ritter", "pts":100},
+    {"id":6, "name":"Castellan Knight", "pts":100},
+    {"id":7, "name":"Crusader Knight", "pts":100},
+    {"id":8, "name":"Errant Knight", "pts":100},
     {"id":13, "name":"Seneschal", "pts":25}
 
   ],

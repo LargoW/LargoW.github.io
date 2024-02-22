@@ -104,11 +104,11 @@
 
 
 
-		{"id":100, "name":"2 Ritter-Paladins (Rapid Fire Battle Cannon, Reaper Chainsword)",													"pts":0},
-		{"id":101, "name":"2 Ritter-Errants (Thermal Cannon, Reaper Chainsword)",											         				"pts":0},
-		{"id":102, "name":"2 Ritter-Crusaders (Rapid Fire Battle Cannon, Gatling Cannon)",							"pts":0},
-		{"id":103, "name":"2 Ritter-Gallants (Gauntlet, Reaper Chainsword, Twin Icarus Autocannon)",							             			"pts":0},
-		{"id":104, "name":"2 Ritter-Wardens (Gatling Cannon, Reaper Chainsword, Ironstorm Missile Pod)",											     "pts":0},
+		{"id":100, "name":"2 Knight-Paladins (Rapid Fire Battle Cannon, Reaper Chainsword)",													"pts":0},
+		{"id":101, "name":"2 Knight-Errants (Thermal Cannon, Reaper Chainsword)",											         				"pts":0},
+		{"id":102, "name":"2 Knight-Crusaders (Rapid Fire Battle Cannon, Gatling Cannon)",							"pts":0},
+		{"id":103, "name":"2 Knight-Gallants (Gauntlet, Reaper Chainsword, Twin Icarus Autocannon)",							             			"pts":0},
+		{"id":104, "name":"2 Knight-Wardens (Gatling Cannon, Reaper Chainsword, Ironstorm Missile Pod)",											     "pts":0},
 
     	{"id":130, "name":"Ordinatus Minoris (Heavy Icarus Array)",	"pts":125},
 		{"id":131, "name":"Ordinatus Minoris (Titan Plasma Cannon)",			"pts":125},
