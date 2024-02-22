@@ -232,12 +232,12 @@
     "items": [
       {
         "name": "0-1 Auge der Götter",
-        "description": "The formation gains 'Oberbefehlshaber' special rule.",
+        "description": "The formation gains 'Oberbefehlshaber' Sonderregel.",
         "points": "50 Punkte"
       },
       {
         "name": "Heralds of Chaos",
-        "description": "The formation gains the 'Anführer' special rule. May not be combined with Auge der Götter.",
+        "description": "The formation gains the 'Anführer' Sonderregel. May not be combined with Auge der Götter.",
         "points": "25 Punkte"
       }
     ]

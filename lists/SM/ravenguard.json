@@ -249,7 +249,7 @@
       },
       {
         "name": "Raven Guard Land Speeders",
-        "description": "Füge any zwei of the following. All Land Speeders bought as part of this upgrade are subject to the 'Land Speeder Escort' special rule.",
+        "description": "Füge any zwei of the following. All Land Speeders bought as part of this upgrade are subject to the 'Land Speeder Escort' Sonderregel.",
         "options": [
           {
             "description": "Land Speeder, Land Speeder Tornado",
@@ -272,7 +272,7 @@
       },
       {
         "name": "Scharfschützen",
-        "description": "All Aufklärers in the formation gain the 'Scharfschütze' special rule on their Schwerer Bolter",
+        "description": "All Aufklärers in the formation gain the 'Scharfschütze' Sonderregel on their Schwerer Bolter",
         "points": "25 Punkte"
       },
       {

@@ -4,7 +4,7 @@
   "version": "0.7.0",
   "release": "2022-04-01",
   "strategy": "The Legiones Skitarii have a Strategy Rating of 3.",
-  "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. All other Verbände have a Initiative Rating of 2+. In addition, the Questoris Banner formation is subject to the 'Ritterlichkeit' special rule.",
+  "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. All other Verbände have a Initiative Rating of 2+. In addition, the Questoris Banner formation is subject to the 'Ritterlichkeit' Sonderregel.",
   "specialRules": [
     "Tunnelgräber"
   ],

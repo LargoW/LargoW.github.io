@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_AMTL",
   "strategy": "Collegia Titanica Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Battle Titan Verbände und the Warhounds formation have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+. In addition, the Questoris Banner formation is subject to the 'Ritterlichkeit' special rule.",
+  "Initiative": "Battle Titan Verbände und the Warhounds formation have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+. In addition, the Questoris Banner formation is subject to the 'Ritterlichkeit' Sonderregel.",
   "specialRules": [
   ],
   "units": [

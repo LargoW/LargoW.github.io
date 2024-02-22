@@ -98,7 +98,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Psycannon",
+          "Psibolter",
           "Zorn des Imperators",
           "Energiewaffe"
         ],
@@ -117,7 +117,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Psycannon",
+          "Psibolter",
           "Zorn des Imperators",
           "Energiewaffe"
         ],
@@ -200,7 +200,7 @@
         "ff": 5,
         "weapons": [
           "Granatwerfers",
-          "Power Mauls & SuppressIonenfelds"
+          "Power Mauls & SuppressIonenfelder"
         ],
         "specialRules": []
       },

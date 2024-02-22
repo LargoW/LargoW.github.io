@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_Tyranid_HiveFleetDagon",
   "strategy": "Tyranid Armeen haben einen Strategiewert von 1.",
-  "Initiative": "The Nexus Swarm has an Initiative Rating of 1+. All other Tyranid Verbände haben eine Initiativewert von 2+. In addition, all Verbände are subject to the 'Hive Mind' special rule.",
+  "Initiative": "The Nexus Swarm has an Initiative Rating of 1+. All other Tyranid Verbände haben eine Initiativewert von 2+. In addition, all Verbände are subject to the 'Hive Mind' Sonderregel.",
   "specialRules": [
     "Synapse",
     "Hive Mind Locus",

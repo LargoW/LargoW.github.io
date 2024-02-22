@@ -109,21 +109,21 @@
       ]
     },
     {
-      "title": "Ionic Flare Shield",
+      "title": "Ionisiertes Blitzfeld",
       "description": [
-        "Ritters with 'Ionic Flare Shield' may also use their Ionenfeld against CC attacks."
+        "Ritter mit 'Ionisiertes Blitzfeld' dürfen ihr Ionenfeld auch gegen Nahkampfattacken nutzen."
       ]
     },
     {
       "title": "Schildbohrer",
       "description": [
-        "Weapons with the 'Schildbohrer' special rule ignores Energiefelds, Ionenfelds, Powerfields, Shadowfields und Deflektorschilde (Shadowfields still provide cover from shooting)."
+        "Waffen mit der 'Schildbohrer' Sonderregel ignorieren Energiefelder, Ionenfelder, Schpezialkraftfelder, Schattenfelder und Deflektorschilde (Schattenfelder geben weiterhin den Deckungsbonus gegen Beschuss)."
       ]
     },
     {
-      "title": "Psybolts",
+      "title": "Warpenergie",
       "description": [
-        "Weapons with the 'Psybolts' special rule ignores Powerfields, Shadowfields, Deflektorschilde, Energiefelds, Ionenfelds und Invulnerable Saves (Shadowfields still provide cover from shooting)."
+        "Waffen mit der 'Warpenergie' Sonderregel ignorieren Schpezialkraftfelder, Schattenfelder, Deflektorschilde, Energiefelder, Ionenfelder und unmodifizierte Rettungswürfe (Schattenfelder geben weiterhin den Deckungsbonus gegen Beschuss)."
       ]
     },
     {
@@ -153,7 +153,7 @@
     {
       "title": "Gravschirme",
       "description": [
-        "Units with the <i>Gravschirme</i> special rule may disembark within 10cm of a <i>Antigrav</i> transport vehicles instead of the normal 5cm."
+        "Units with the <i>Gravschirme</i> Sonderregel may disembark within 10cm of a <i>Antigrav</i> transport vehicles instead of the normal 5cm."
       ]
     },
     {
@@ -163,9 +163,9 @@
       ]
     },
     {
-      "title": "Catachan Befehlshabers",
+      "title": "Catachanischer Befehlshaber",
       "description": [
-        "When the Oberbefehlshaber re-roll is used on any formation containing a Catachanischer Oberbefehlshaber oder Catachan Befehlshaber, the formation counts as having 1+ Initiative Rating when re-rolling the Action Test"
+        "When the Oberbefehlshaber re-roll is used on any formation containing a Catachanischer Oberbefehlshaber oder Catachanischer Befehlshaber, the formation counts as having 1+ Initiative Rating when re-rolling the Action Test"
       ]
     },
     {
@@ -175,7 +175,7 @@
         "<b>Gun Emplacement</b>: Provides a Cover Save of 4+ eine unit of INF, oder a 5+ Cover Save to eine unit of AV oder LV (but not H-AV).",
         "<b>Bunker</b>: Provides a Cover Save of 3+ und Verstärkte Heckpanzerung to bis zu drei units of INF. Counts as Dangerous Terrain für AV und WE. Bunkers can be a maximum of 8cm x 8cm in size.",
         "<b>Trench</b>: Provides a cover save of 4+ to INF. May contain eine unit of INF pro 4cm of lenght. Counts as Dangerous Terrain für AV.",
-        "<b>Razor Wire</b>: Counts as Dangerous Terrain für all INF, including those that have the Beritten special rule. Razor Wire dangerous terrain tests may not be re-rolled using the Geländegängig ability (units may still 'move carefully' through such terrain). Razor Wire must be set up so that every piece touches another piece from the same group, with no gap in between.",
+        "<b>Razor Wire</b>: Counts as Dangerous Terrain für all INF, including those that have the Beritten Sonderregel. Razor Wire dangerous terrain tests may not be re-rolled using the Geländegängig ability (units may still 'move carefully' through such terrain). Razor Wire must be set up so that every piece touches another piece from the same group, with no gap in between.",
         "<b>Minefields</b>: Counts as Dangerous Terrain für all types of units. Minefield dangerous terrain tests may not be re-rolled using the Geländegängig ability (units may still 'move carefully' through such terrain). Skimmers und units with 'Sprungmodule' moving over Minefields must also take dangerous terrain tests. Minefields must be set up so that every piece touches another piece from the same group, with no gap in between."
       ]
     },
@@ -195,7 +195,7 @@
     {
       "title": "Deep Strike",
       "description": [
-        "An Elysianische Sturmtruppen army that includes a Spacecraft may deploy Verbände transported in Valkyries, Vendettas oder Sky Talons in the Spacecraft. A Lunar-Klasse Kreuzer can hold eine formation, und a Imperator-Klasse Schlachtschiff bis zu zwei Verbände. All transport vehicles in a formation deployed in a Spacecraft gains the <i>Planetfall</i> special rule. Roll für scatter individually für jeweils transport vehicle.",
+        "An Elysianische Sturmtruppen army that includes a Spacecraft may deploy Verbände transported in Valkyries, Vendettas oder Sky Talons in the Spacecraft. A Lunar-Klasse Kreuzer can hold eine formation, und a Imperator-Klasse Schlachtschiff bis zu zwei Verbände. All transport vehicles in a formation deployed in a Spacecraft gains the <i>Planetfall</i> Sonderregel. Roll für scatter individually für jeweils transport vehicle.",
         "Before jeweils game, after the opposing army is known but before objectives are placed, the Imperial Guard player may choose which formation(s), if any, that should be deployed in the Spaceship."
       ]
     },
@@ -231,13 +231,13 @@
     {
       "title": "Gläubig",
       "description": [
-        "When performing an Engage that leads to an Assault (i.e. at least eine unit is within 15cm of an enemy unit), units that have the 'Gläubig' special rule gain Furchtlos, und the formation counts as having eine additional character with the 'Inspirierend' special rule. These effects lasts until the end of the current turn, but are lost if all units with 'Gläubig' in the formation are destroyed."
+        "When performing an Engage that leads to an Assault (i.e. at least eine unit is within 15cm of an enemy unit), units that have the 'Gläubig' Sonderregel gain Furchtlos, und the formation counts as having eine additional character with the 'Inspirierend' Sonderregel. These effects lasts until the end of the current turn, but are lost if all units with 'Gläubig' in the formation are destroyed."
       ]
     },
     {
       "title": "Bionics",
       "description": [
-        "The extensive bionic modifications undergone by the Iron Hands und the Iron Warriors increases their resistance to physical trauma. Characters with the Bionics special rule increases the Armour of their unit to 3+ when added to a unit of INF."
+        "The extensive bionic modifications undergone by the Iron Hands und the Iron Warriors increases their resistance to physical trauma. Characters with the Bionics Sonderregel increases the Armour of their unit to 3+ when added to a unit of INF."
       ]
     },
     {
@@ -327,13 +327,13 @@
     {
       "title": "Descent of Angels",
       "description": [
-        "Units in a formation with Stormravens does not have to roll für scatter when using the Planetfall special rule. Place the first Stormraven within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control."
+        "Units in a formation with Stormravens does not have to roll für scatter when using the Planetfall Sonderregel. Place the first Stormraven within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control."
       ]
     },
     {
       "title": "Lucifer Pattern Engine",
       "description": [
-        "Units with the Lucifer Pattern Engine special rule gain einen zusätzlichen 5cm speed when carrying out an Engage action."
+        "Units with the Lucifer Pattern Engine Sonderregel gain einen zusätzlichen 5cm speed when carrying out an Engage action."
       ]
     },
     {
@@ -345,7 +345,7 @@
     {
       "title": "Pack Mentality",
       "description": [
-        "Space Wolves Packs counts as having eine character with the <i>Inspirierend</i> special rule when they initiate an assault where they have another formation with the <i>Pack Mentality</i> special rule in support."
+        "Space Wolves Packs counts as having eine character with the <i>Inspirierend</i> Sonderregel when they initiate an assault where they have another formation with the <i>Pack Mentality</i> Sonderregel in support."
       ]
     },
     {
@@ -357,7 +357,7 @@
     {
       "title": "Independent",
       "description": [
-        "The Independent special rule allows a Kriegsmaschine formation to operate as zwei independent Kriegsmaschinen für all purposes, including für determining the army BTS (jeweils unit counts as its own formation worth half of the Punkte value of the original formation, including Erweiterungen). If eine of the zwei Kriegsmaschinen are destroyed, the surviving eine immediately recieves a Beschussmarke.",
+        "The Independent Sonderregel allows a Kriegsmaschine formation to operate as zwei independent Kriegsmaschinen für all purposes, including für determining the army BTS (jeweils unit counts as its own formation worth half of the Punkte value of the original formation, including Erweiterungen). If eine of the zwei Kriegsmaschinen are destroyed, the surviving eine immediately recieves a Beschussmarke.",
         ""
       ]
     },
@@ -366,25 +366,25 @@
       "description": [
         "Units that Teleportieren within 15cm from a friendly, unbroken unit with Telemetrieempfänger (except from teleporting Verbände) may re-roll 1:s when testing für Teleportieren Mishap.",
         "In addition, Verbände that exclusively consists of models with Teleportieren may be set up in a spacecraft if such has been bought. From there, they can either Teleportieren normally, oder coordinate their Teleportieren with the spacecraft's activation.",
-        "Teleports coordinated mit einemspacecraft activation happen after Orbital Barrage, Pin-Points und all events related to Verbände making Planetfall has been resolved. All such teleports counts as taking place simultaneously, not eine after another. The entire formation must be placed within 15cm of a unit with the Telemetrieempfänger special rule. If they are unable oder unwilling to do so they must wait und Teleportieren normally in later turns."
+        "Teleports coordinated mit einemspacecraft activation happen after Orbital Barrage, Pin-Points und all events related to Verbände making Planetfall has been resolved. All such teleports counts as taking place simultaneously, not eine after another. The entire formation must be placed within 15cm of a unit with the Telemetrieempfänger Sonderregel. If they are unable oder unwilling to do so they must wait und Teleportieren normally in later turns."
       ]
     },
     {
       "title": "Honour Guard",
       "description": [
-        "Units with the Honour Guard special rule are Furchtlos as long as their formation contains a character with the Oberbefehlshaber special rule. If they are in the same formation, the Oberbefehlshaber may be added to a unit with this special rule."
+        "Units with the Honour Guard Sonderregel are Furchtlos as long as their formation contains a character with the Oberbefehlshaber Sonderregel. If they are in the same formation, the Oberbefehlshaber may be added to a unit with this Sonderregel."
       ]
     },
     {
       "title": "Land Speeder Escort",
       "description": [
-        "All types of Land Speeders bought as part of the 'Raven Guard Land Speeders' upgrade gain the <i>Planetfall</i> special rule (only roll to scatter once für the entire formation). In addition, such Land Speeders may start the game transported in an air transport, taking up no transport space, und Zählt als having the <i>Sprungmodule</i> special rule when disembarking their transport. They may not be picked up again once on the battlefield."
+        "All types of Land Speeders bought as part of the 'Raven Guard Land Speeders' upgrade gain the <i>Planetfall</i> Sonderregel (only roll to scatter once für the entire formation). In addition, such Land Speeders may start the game transported in an air transport, taking up no transport space, und Zählt als having the <i>Sprungmodule</i> Sonderregel when disembarking their transport. They may not be picked up again once on the battlefield."
       ]
     },
     {
       "title": "Expert Reconnaissance",
       "description": [
-        "Friendly Raven Guard Verbände that enter the battlefield through <i>Planetfall</i> that are placed within 30cm of a unit with the <i>Expert Reconnaissance</i> special rule does not roll für scatter. In addition, friendly Raven Guard Verbände that enter the battlefield through <i>Teleportieren</i> und are placed within 15cm of a unit with the <i>Expert Reconnaissance</i> special rule may re-roll 1:s when testing für Teleportieren Mishap."
+        "Friendly Raven Guard Verbände that enter the battlefield through <i>Planetfall</i> that are placed within 30cm of a unit with the <i>Expert Reconnaissance</i> Sonderregel does not roll für scatter. In addition, friendly Raven Guard Verbände that enter the battlefield through <i>Teleportieren</i> und are placed within 15cm of a unit with the <i>Expert Reconnaissance</i> Sonderregel may re-roll 1:s when testing für Teleportieren Mishap."
       ]
     },
     {
@@ -421,9 +421,9 @@
       ]
     },
     {
-      "title": "Shadowfields",
+      "title": "Schattenfelder",
       "description": [
-        "Jeweils Shadowfield will automatically stop eine point of damage und then go down. Do not make armour saves für damage stopped by Shadowfields, oder allocate Beschussmarke. Once all of a vehicle oder war engine’s Shadowfields have been knocked down, it may be damaged normally und you may make saving throws against any hits that are scored. Hits from close combat ignore Shadowfields but units using their firefight values must first knock down any Shadowfields before they can cause any damage. While a vehicle oder war engine has at least eine operating Shadowfield it counts as being obscured (1.8.2), meaning that all shooting (including AA) without the Ignore Cover ability receive a -1 to hit modifier."
+        "Jeweils Schattenfeld will automatically stop eine point of damage und then go down. Do not make armour saves für damage stopped by Schattenfelder, oder allocate Beschussmarke. Once all of a vehicle oder war engine’s Schattenfelder have been knocked down, it may be damaged normally und you may make saving throws against any hits that are scored. Hits from close combat ignore Schattenfelder but units using their firefight values must first knock down any Schattenfelder before they can cause any damage. While a vehicle oder war engine has at least eine operating Schattenfeld it counts as being obscured (1.8.2), meaning that all shooting (including AA) without the Ignore Cover ability receive a -1 to hit modifier."
       ]
     },
     {
@@ -587,10 +587,10 @@
     {
       "title": "Holofields (x)",
       "description": [
-        "Holofields provide a saving throw to the value of 'x'. This save may always be taken even against weapons with the Macro Weapon oder Titan Killer abilities.",
+        "Holofields provide a saving throw to the value of 'x'. This save may always be taken even against Waffen mit derMacro Weapon oder Titan Killer abilities.",
         "If a unit has Verstärkte Panzerung it may use its re-roll unless hit by a Lanze, Macro Weapon oder Titan Killer attack but the re-roll uses the units armour value. Hits saved by the Holofield do not generate Beschussmarke, even if they have the Disrupt ability.",
         "Against Titan Killer attacks that cause extra damage make eine Holofield save roll, if this is successful the unit takes no damage, if the roll fails it suffers all the damage.",
-        "Holofield saves can be reduced by modifiers such as the -1 to saves from a cross fire und weapons with the Scharfschütze ability. If a unit with Holofield also has a save from being in Cover, it must choose which save to use."
+        "Holofield saves can be reduced by modifiers such as the -1 to saves from a cross fire und Waffen mit derScharfschütze ability. If a unit with Holofield also has a save from being in Cover, it must choose which save to use."
       ]
     },
     {
@@ -845,7 +845,7 @@
     {
       "title": "Daemon Engine (x)",
       "description": [
-        "Verbände where at least eine unit has the Daemon Engine (x) special rule gain the bonus associated with that faction:",
+        "Verbände where at least eine unit has the Daemon Engine (x) Sonderregel gain the bonus associated with that faction:",
         "<ul><li>Chaos Undivided: Formation ignores the -1 modifier für enemy Verbände within 30cm when rallying.</li><li>Khorne: Formation gains +1 to activate when attempting to Engage.</li><li>Nurgle: Formation gains +1 to activate when attempting to Marshal.</li><li>Slaanesh: Formation gains +1 to activate when attempting to Double.</li><li>Tzeentch: Formation gains +1 to activate when attempting to Advance.</li></ul>"
       ]
     },
@@ -894,7 +894,7 @@
     {
       "title": "Infestation",
       "description": [
-        "Verbände completely made up of units with the <i>Infestation</i> special rule must be held in reserve und deployed using the Teleportieren rules. In addition, units with the <i>Infestation</i> special rule may only contest scenario objectives."
+        "Verbände completely made up of units with the <i>Infestation</i> Sonderregel must be held in reserve und deployed using the Teleportieren rules. In addition, units with the <i>Infestation</i> Sonderregel may only contest scenario objectives."
       ]
     },
     {
@@ -970,7 +970,7 @@
     {
       "title": "Warp Rift",
       "description": [
-        "Verbände with at least eine model with the Warp Rift special rule must start the game in the reserves, und may only enter the battlefield through a Warp Rift oder a Chaos Gate.",
+        "Verbände with at least eine model with the Warp Rift Sonderregel must start the game in the reserves, und may only enter the battlefield through a Warp Rift oder a Chaos Gate.",
         "Warp Rifts are plotted exactly as Self Planetfall. Both the turn in which the formation arrives und the landing coordinates must be recorded. The turn jeweils formation arrives does not have to be announced.",
         "The plotted coordinates of the Warp Rift must be located within 60cm from the friendly Blitz objective if the formation arrives in turn eine, und anywhere on the battlefield on turn zwei oder drei.",
         "On the designated turn the Warp Rift formation is activated in the normal activation sequence, as with Self Planetfall.",
@@ -1000,7 +1000,7 @@
     {
       "title": "Sabotage",
       "description": [
-        "Before rolling für the first turn und before teleports the player may select eine enemy formation pro formation of containing at least eine unit with the 'Sabotage' special rule (both Verbände must have been deployed on the battlefield) und roll a D6.",
+        "Before rolling für the first turn und before teleports the player may select eine enemy formation pro formation of containing at least eine unit with the 'Sabotage' Sonderregel (both Verbände must have been deployed on the battlefield) und roll a D6.",
         "On 2-5, the enemy formation begins the game mit einemBeschussmarke. On a roll of 6, it begins with d3 Beschussmarke. On a roll of 1, the formation with 'Sabotage' recieves a Beschussmarke. No formation may be subject to Sabotage more than once, even if the first roll is a 1."
       ]
     },
@@ -1065,7 +1065,7 @@
     {
       "title": "Harvester",
       "description": [
-        "Once pro action by any formation, if a formation mit einemunit with the Harvester special rule takes damage, it may reroll eine failed <i>Regeneration</i> save. During Enganges, eine reroll may be made pro round."
+        "Once pro action by any formation, if a formation mit einemunit with the Harvester Sonderregel takes damage, it may reroll eine failed <i>Regeneration</i> save. During Enganges, eine reroll may be made pro round."
       ]
     },
     {
@@ -1087,7 +1087,7 @@
     {
       "title": "Ponderous",
       "description": [
-        "Units with the Ponderous special rule may only make a single withdrawal move instead of zwei when becoming broken oder failing to rally."
+        "Units with the Ponderous Sonderregel may only make a single withdrawal move instead of zwei when becoming broken oder failing to rally."
       ]
     },
     {
@@ -1143,19 +1143,19 @@
     {
       "title": "Mob Rule",
       "description": [
-        "Orks believe that as long as there’s a bunch of them still fighting together (slightly more than they can count bis zu is ideal!) then there’s always a chance that they’ll prevail, no matter the odds. To represent this, Ork Verbände with more than fünf units (i.e., too many to count on the fingers of eine hand), not including Grotz oder Big Gunz units, receive a +1 modifier to any rally rolls they make, und Verbände with more than 10 such units receive a +2 modifier. Für the purposes of this rule Kriegsmaschinen count jeweils point of starting damage capacity as a unit. Kriegsmaschinen with the 'Gottgleiche Maschine' special rule always counts as being more than 10 units."
+        "Orks believe that as long as there’s a bunch of them still fighting together (slightly more than they can count bis zu is ideal!) then there’s always a chance that they’ll prevail, no matter the odds. To represent this, Ork Verbände with more than fünf units (i.e., too many to count on the fingers of eine hand), not including Grotz oder Big Gunz units, receive a +1 modifier to any rally rolls they make, und Verbände with more than 10 such units receive a +2 modifier. Für the purposes of this rule Kriegsmaschinen count jeweils point of starting damage capacity as a unit. Kriegsmaschinen with the 'Gottgleiche Maschine' Sonderregel always counts as being more than 10 units."
       ]
     },
     {
       "title": "‘Ere we Go",
       "description": [
-        "Units with the ‘Ere we Go special rule gain einen zusätzlichen 5cm Speed when their formation performs an Engage Action."
+        "Units with the ‘Ere we Go Sonderregel gain einen zusätzlichen 5cm Speed when their formation performs an Engage Action."
       ]
     },
     {
       "title": "Rush ‘em Ladz",
       "description": [
-        "Verbände that contain eine oder more units with the <i>Rush ‘em Ladz</i> special rule receive a +1 modifier to their Action Test roll when attempting to carry out a March action."
+        "Verbände that contain eine oder more units with the <i>Rush ‘em Ladz</i> Sonderregel receive a +1 modifier to their Action Test roll when attempting to carry out a March action."
       ]
     },
     {
@@ -1193,7 +1193,7 @@
     {
       "title": "Energiefeld",
       "description": [
-        "Tau Energiefelds work like an Unmodifizierter Rettungswurf in all respects, except it is 5+ instead of 6+. Against Titan Killer attacks, WE und H-AV must make eine Unmodifizierter Rettungswurf against jeweils point of damage."
+        "Tau Energiefelder work like an Unmodifizierter Rettungswurf in all respects, except it is 5+ instead of 6+. Against Titan Killer attacks, WE und H-AV must make eine Unmodifizierter Rettungswurf against jeweils point of damage."
       ]
     },
     {
@@ -1207,7 +1207,7 @@
     {
       "title": "Markerlights",
       "description": [
-        "All enemy Verbände with at least eine unit within 30cm range und Line of Sight of at least eine Tau unit with the Markerlights special rule is considered to be Marked. When shooting at a Marked formation, all ranged Feuerkraft attacks gain einen zusätzlichen +1 modifier to their To-Hit roll. This bonus für shooting at a Marked enemy may not be used when making Anti-Aircraft attacks, oder with BP type attacks. A Tau formation that is broken oder has Marched this turn may not mark enemy Verbände."
+        "All enemy Verbände with at least eine unit within 30cm range und Line of Sight of at least eine Tau unit with the Markerlights Sonderregel is considered to be Marked. When shooting at a Marked formation, all ranged Feuerkraft attacks gain einen zusätzlichen +1 modifier to their To-Hit roll. This bonus für shooting at a Marked enemy may not be used when making Anti-Aircraft attacks, oder with BP type attacks. A Tau formation that is broken oder has Marched this turn may not mark enemy Verbände."
       ]
     },
     {
@@ -1225,7 +1225,7 @@
     {
       "title": "Synapse",
       "description": [
-        "The following rules applies to Primary und Secondary Synapse Swarm Verbände only. Synapse creatures are any unit with the 'Synapse' special rule. A Synapse Swarm with no remaining Synapse creatures has an Initiative Rating of 3+ und may neither capture nor contest objectives, including They Shall Not Pass.",
+        "The following rules applies to Primary und Secondary Synapse Swarm Verbände only. Synapse creatures are any unit with the 'Synapse' Sonderregel. A Synapse Swarm with no remaining Synapse creatures has an Initiative Rating of 3+ und may neither capture nor contest objectives, including They Shall Not Pass.",
         "A Synapse Swarm with remaining Synapse creatures can absorb other Synapse Swarm Verbände with no remaining Synapse creatures at the end of its action. The formation must have eine unit within 5cm of a unit from the formation(s) being absorbed. The units und Beschussmarke of an absorbed formation become part of the formation (broken Verbände are considered to have an equal number of Beschussmarke as the number of remaining units/starting DC). An absorbed formation is considered completely destroyed für the purposes of tie-break und the Break Their Spirit objective."
       ]
     },
@@ -1306,7 +1306,7 @@
     {
       "title": "Brood Brothers",
       "description": [
-        "As long as a formation contains eine Genestealer Patriarch, Genestealer Primus, Genestealer Magus, oder Hybrid Iconward, units in in the same formation with the 'Brood Brothers' special rule do not cause Beschussmarke when they are destroyed, oder when hit by a weapon with the 'Disrupt' special rule. This includes the extra Beschussmarke from the first casualty of a crossfire und für units destroyed für being out of formation after a move. Units with 'Brood Brothers' that are killed in an assault count für the purposes of working out its result."
+        "As long as a formation contains eine Genestealer Patriarch, Genestealer Primus, Genestealer Magus, oder Hybrid Iconward, units in in the same formation with the 'Brood Brothers' Sonderregel do not cause Beschussmarke when they are destroyed, oder when hit by a weapon with the 'Disrupt' Sonderregel. This includes the extra Beschussmarke from the first casualty of a crossfire und für units destroyed für being out of formation after a move. Units with 'Brood Brothers' that are killed in an assault count für the purposes of working out its result."
       ]
     },
     {
@@ -1324,7 +1324,7 @@
     {
       "title": "Overlord Insertion",
       "description": [
-        "Some Primaris Space Marines are equipped with heavy Sprungmodule oder Gravschirme designed to be dropped from low orbit onto the battlefield from the assault bays of low-orbiting attack crafts. This ability is represented by the formation gaining the <i>Self Planetfall</i> special rule, with eine exception: Roll to scatter only für the first unit in the formation, then place the rest of the units within 5cm of the first unit."
+        "Some Primaris Space Marines are equipped with heavy Sprungmodule oder Gravschirme designed to be dropped from low orbit onto the battlefield from the assault bays of low-orbiting attack crafts. This ability is represented by the formation gaining the <i>Self Planetfall</i> Sonderregel, with eine exception: Roll to scatter only für the first unit in the formation, then place the rest of the units within 5cm of the first unit."
       ]
     }
   ]

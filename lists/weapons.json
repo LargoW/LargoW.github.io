@@ -8696,49 +8696,49 @@
       ]
     },
     {
-      "name": "Psycannon",
+      "name": "Psibolter",
       "modes": [
         {
           "Feuerkraft": "AP4+/AT5+",
           "range": 30,
           "specialRules": [
-            "Psybolts"
+            "Warpenergie"
           ]
         }
       ]
     },
     {
-      "name": "Heavy Psycannon",
+      "name": "Heavy Psibolter",
       "modes": [
         {
           "Feuerkraft": "AP3+/AT4+",
           "range": 45,
           "specialRules": [
-            "Psybolts"
+            "Warpenergie"
           ]
         }
       ]
     },
     {
-      "name": "Synchronisierte Psycannon",
+      "name": "Synchronisierte Psibolter",
       "modes": [
         {
           "Feuerkraft": "AP3+/AT4+",
           "range": 30,
           "specialRules": [
-            "Psybolts"
+            "Warpenergie"
           ]
         }
       ]
     },
     {
-      "name": "AC Synchronisierte Psycannon",
+      "name": "AC Synchronisierte Psibolter",
       "modes": [
         {
           "Feuerkraft": "AP4+/AT4+/AA5+",
           "range": 15,
           "specialRules": [
-            "Psybolts"
+            "Warpenergie"
           ]
         }
       ]
@@ -10614,7 +10614,7 @@
       ]
     },
     {
-      "name": "Power Mauls & SuppressIonenfelds",
+      "name": "Power Mauls & SuppressIonenfelder",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -13037,8 +13037,8 @@
       "description": "Schildbohrer"
     },
     {
-      "name": "Psybolts",
-      "description": "Psybolts"
+      "name": "Warpenergie",
+      "description": "Warpenergie"
     },
     {
       "name": "TK(1)",
@@ -13078,11 +13078,11 @@
     },
     {
       "name": "Spec[*]",
-      "description": "Special Rule"
+      "description": "Sonderregel"
     },
     {
       "name": "Spec[**]",
-      "description": "Special Rule [**]"
+      "description": "Sonderregel [**]"
     }
   ]
 }

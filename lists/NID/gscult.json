@@ -6,7 +6,7 @@
   "armyforge": "EAR_GenestealerCult_Cult",
   "intro": "The Cult of the Rusted Claw army list allows you to field an army based on the Cult of the Rusted Claw genestealer cult. The list represents an army made up of units from all stages of the Genestealer infection cycle.",
   "strategy": "Genestealer Cult Armeen haben einen Strategiewert von 2.",
-  "Initiative": "All Verbände haben eine Initiativewert von 2+, und are subject to the 'Broodmind' special rule.",
+  "Initiative": "All Verbände haben eine Initiativewert von 2+, und are subject to the 'Broodmind' Sonderregel.",
   "specialRules": [
     "Broodcoven",
     "Broodmind",
@@ -200,7 +200,7 @@
     "items": [
       {
         "name": "Mineshaft Infiltratoren",
-        "description": "All units in the formation gains the 'Tunneling' special rule, but may only have the 'Acolytes', 'Aberrants' und 'Coven Anführer' Erweiterungen",
+        "description": "All units in the formation gains the 'Tunneling' Sonderregel, but may only have the 'Acolytes', 'Aberrants' und 'Coven Anführer' Erweiterungen",
         "points": "Kostenlos"
       },
       {

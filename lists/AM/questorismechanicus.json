@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_QuestorisMechanicus",
   "strategy": "Questoris Mechanicus Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Alle Verbände haben eine Initiativewert von 2+. In addition, all Ritter Banner Verbände are subject to the 'Ritterlichkeit' special rule.",
+  "Initiative": "Alle Verbände haben eine Initiativewert von 2+. In addition, all Ritter Banner Verbände are subject to the 'Ritterlichkeit' Sonderregel.",
   "specialRules": [
     "Ritterlichkeit"
   ],
@@ -42,7 +42,7 @@
       "unitRules": [
         "Hartnäckig",
         "Ionenfeld (x)",
-        "Ionic Flare Shield",
+        "Ionisiertes Blitzfeld",
         "Schwergepanzertes Fahrzeug (H-AV)",
         "Schildbohrer",
         "Schildstörer",

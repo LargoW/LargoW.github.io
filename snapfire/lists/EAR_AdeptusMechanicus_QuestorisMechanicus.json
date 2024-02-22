@@ -15,7 +15,7 @@
 		{"name":"RELIC BANNERS <br/> Max 1 Relic Banner for each 1500 points in the army", "formations":[
 			{"id":507, "name":"Armiger Schwertknappe Reliquae",	"pts":175,  "upgrades":[]},
 			{"id":503, "name":"Questoris Reliquae",	"pts":200, "upgrades":[6]},
-			{"id":505, "name":"Cerastus Reliquae",	"pts":300, "units":"Seneschal, Cerastus Relic Knight-Atrapos (Graviton Singularity Cannon, Atrapos Lascutter, Ionic Flare Shield)",  "upgrades":[]},
+			{"id":505, "name":"Cerastus Reliquae",	"pts":300, "units":"Seneschal, Cerastus Relic Knight-Atrapos (Graviton Singularity Cannon, Atrapos Lascutter, Ionisiertes Blitzfeld)",  "upgrades":[]},
 			{"id":504, "name":"Acastus Reliquae",	"pts":300, "upgrades":[6]}
 		]},
 		{"name":"FORGE WORLD ALLIES <br/> Max 33%", "formations":[
@@ -46,8 +46,8 @@
 
 
 
-		{"id":70, "name":"3 Armiger Schwertknappe Relic Knight-Moirax (Volkite Veuglaire, Gyges Siege Claw, Ionic Flare Shield)",						"pts":0},
-		{"id":71, "name":"3 Armiger Schwertknappe Relic Knight-Moirax (Lightning Locks, Ionic Flare Shield)",						"pts":0},
+		{"id":70, "name":"3 Armiger Schwertknappe Relic Knight-Moirax (Volkite Veuglaire, Gyges Siege Claw, Ionisiertes Blitzfeld)",						"pts":0},
+		{"id":71, "name":"3 Armiger Schwertknappe Relic Knight-Moirax (Lightning Locks, Ionisiertes Blitzfeld)",						"pts":0},
 
 
 		{"id":90, "name":"2 Knight-Paladins (Rapid Fire Battle Cannon, Reaper Chainsword)",						"pts":0},
@@ -63,8 +63,8 @@
 
 		{"id":106, "name":"Knight-Preceptor w/ Seneschal (Las-Impulsor, Thunderstrike Gauntlet)",				"pts":175},
 
-		{"id":110, "name":"Cerastus Knight-Lancer (Cerastus Shock Lance, Ionic Flare Shield)",								"pts":0},
-		{"id":111, "name":"2 Cerastus Knight-Lancers (Cerastus Shock Lance, Ionic Flare Shield)",								"pts":175},
+		{"id":110, "name":"Cerastus Knight-Lancer (Cerastus Shock Lance, Ionisiertes Blitzfeld)",								"pts":0},
+		{"id":111, "name":"2 Cerastus Knight-Lancers (Cerastus Shock Lance, Ionisiertes Blitzfeld)",								"pts":175},
 		{"id":112, "name":"Cerastus Knight-Castigator (Castigator Cannon, Tempest Warblade)",									"pts":0},
 		{"id":113, "name":"2 Cerastus Knight-Castigators (Castigator Cannon, Tempest Warblade)",									"pts":175},
 		{"id":114, "name":"Cerastus Knight-Acheron (Cerastus Flame Cannon, Reaper Chainfist)",											"pts":0},
@@ -78,10 +78,10 @@
 		{"id":130, "name":"Knight-Valiant (Conflagration C. Thundercoil H. 2 Siegebreaker C. 2 Shieldbreaker M)",	"pts":0},
 		{"id":131, "name":"Knight-Castellan (Volcano Lance, Plasma Decimator, Siegebreaker C. 4 Shieldbreaker M)",		"pts":0},
 
-		{"id":158, "name":"Questoris Relic Knight-Styrix (Volkite Chieroville, Twin Rad Cleanser, Graviton Crusher, Siege Claw, Ionic Flare Shield)",	"pts":0},
-		{"id":159, "name":"2 Questoris Relic Knight-Styrix (Volkite Chieroville, Twin Rad Cleanser, Graviton Crusher, Siege Claw, Ionic Flare Shield)",	"pts":175},
-		{"id":160, "name":"Questoris Relic Knight-Magaera (Lightning C, Twin Phased Plasma Fusil, Reaper Chainsword, Ionic Flare Shield)",				"pts":0},
-		{"id":161, "name":"2 Questoris Relic Knight-Magaeras (Lightning C, Twin Phased Plasma Fusil, Reaper Chainsword, Ionic Flare Shield)",			"pts":175},
+		{"id":158, "name":"Questoris Relic Knight-Styrix (Volkite Chieroville, Twin Rad Cleanser, Graviton Crusher, Siege Claw, Ionisiertes Blitzfeld)",	"pts":0},
+		{"id":159, "name":"2 Questoris Relic Knight-Styrix (Volkite Chieroville, Twin Rad Cleanser, Graviton Crusher, Siege Claw, Ionisiertes Blitzfeld)",	"pts":175},
+		{"id":160, "name":"Questoris Relic Knight-Magaera (Lightning C, Twin Phased Plasma Fusil, Reaper Chainsword, Ionisiertes Blitzfeld)",				"pts":0},
+		{"id":161, "name":"2 Questoris Relic Knight-Magaeras (Lightning C, Twin Phased Plasma Fusil, Reaper Chainsword, Ionisiertes Blitzfeld)",			"pts":175},
 
 		{"id":163, "name":"Acastus Relic Knight-Porphyrion (2 Magna Lascannons, 2 Autocannons, Helios Defense Missiles)",  "pts":0},
 		{"id":164, "name":"2 Acastus Relic Knight-Porphyrions (2 Magna Lascannons, 2 Autocannons, Helios Defense Missiles)",  "pts":225},

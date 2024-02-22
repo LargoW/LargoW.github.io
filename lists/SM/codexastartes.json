@@ -7,7 +7,7 @@
   "armyforge": "EAR_AdeptusAstartes_CodexAstartes",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "The Thunderbolt und Marauder Schwadron Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Codex Astartes Detachments und Space Marine Aircraft Verbände.",
+  "armyRules": "The <i>They Shall Know No Fear</i> Sonderregel applies to all Codex Astartes Detachments und Space Marine Aircraft Verbände.",
   "specialRules": [
     "Space Marine Transports",
     "They Shall Know No Fear"

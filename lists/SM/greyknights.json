@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände have an Initiative of 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Verbände.",
+  "armyRules": "The <i>They Shall Know No Fear</i> Sonderregel applies to all Verbände.",
   "specialRules": [
     "Telemetrieempfänger",
     "Navis Nobilite",
@@ -60,7 +60,7 @@
       ],
       "unitRules": [
         "Gläubig",
-        "Psybolts"
+        "Warpenergie"
       ]
     }
   ],

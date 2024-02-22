@@ -658,7 +658,7 @@
         "cc": 2,
         "ff": 3,
         "weapons": [
-          "Psycannon|2|",
+          "Psibolter|2|",
           "Holocaust",
           "Nemesis Daemon Hammers"
         ],
@@ -777,7 +777,7 @@
         "cc": 2,
         "ff": 3,
         "weapons": [
-          "Psycannon",
+          "Psibolter",
           "Holocaust",
           "Nemesis Force Weapons"
         ],
@@ -794,7 +794,7 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Psycannon|3|",
+          "Psibolter|3|",
           "Holocaust"
         ],
         "specialRules": [
@@ -896,7 +896,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Heavy Psycannon",
+          "Heavy Psibolter",
           "Nemesis Daemon Hammer"
         ],
         "specialRules": [
@@ -1372,7 +1372,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Psycannon",
+          "Psibolter",
           "Nemesis Doomglaive"
         ],
         "specialRules": [
@@ -1569,7 +1569,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Synchronisierte Psycannon"
+          "Synchronisierte Psibolter"
         ],
         "specialRules": [
           "Transport",
@@ -1819,7 +1819,7 @@
         "ff": 4,
         "weapons": [
           "Synchronisierte Laserkanone|2",
-          "Synchronisierte Psycannon"
+          "Synchronisierte Psibolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1838,7 +1838,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Synchronisierte Psycannon",
+          "Synchronisierte Psibolter",
           "Flamestorm Incinerator|2"
         ],
         "specialRules": [
@@ -2082,7 +2082,7 @@
         "ff": 3,
         "weapons": [
           "Synchronisierte Laserkanone|2",
-          "AC Synchronisierte Psycannon|3"
+          "AC Synchronisierte Psibolter|3"
         ],
         "specialRules": [
           "Schadenskapazität 4",
@@ -2159,7 +2159,7 @@
         "armour": 5,
         "weapons": [
           "AC Synchronisierte Sturmkanone||FwA",
-          "AC Synchronisierte Psycannon||FxF"
+          "AC Synchronisierte Psibolter||FxF"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf"
@@ -2382,8 +2382,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "AC Synchronisierte Psycannon|2|Left",
-          "AC Synchronisierte Psycannon|2|Right"
+          "AC Synchronisierte Psibolter|2|Left",
+          "AC Synchronisierte Psibolter|2|Right"
         ],
         "specialRules": [
           "Schadenskapazität 2",

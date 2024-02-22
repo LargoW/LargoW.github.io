@@ -347,7 +347,7 @@
         ],
         "specialRules": [
             "Schadenskapazität 3",
-            "Shadowfields 2",
+            "Schattenfelder 2",
             "Antigrav",
             "Transport",
             "Schnell wie der Wind"
@@ -369,7 +369,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 3",
-          "Shadowfields 2",
+          "Schattenfelder 2",
             "Antigrav",
             "Schnell wie der Wind"
         ],
@@ -388,13 +388,13 @@
         ],
         "specialRules": [
           "Schadenskapazität 4",
-          "Shadowfields 3",
+          "Schattenfelder 3",
           "Furchtlos",
           "Sprungmodule",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Tormentor Titan takes eine additional damage und loses any remaining Shadowfields."
+        "crit": "The Tormentor Titan takes eine additional damage und loses any remaining Schattenfelder."
       },
       {
         "name": "Executioner Landing Module",
@@ -409,7 +409,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 5",
-          "Shadowfields 4",
+          "Schattenfelder 4",
           "Planetfall",
           "Hilfstransportschiff",
           "Verstärkte Panzerung",
