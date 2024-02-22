@@ -6,7 +6,7 @@
   "armyforge": "EAR_Eldar_Exodites",
   "intro": "The following army list allows you to field an Exodite Eldar army.",
   "strategy": "Exodite Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Exodite Warhost formations und Eldar Knights have an initiative rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "Exodite Warhost Verbände und Eldar Ritters have an initiative rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Farsight",
     "Great Drake",
@@ -20,17 +20,17 @@
         "Dragon Prince",
         "Dragonlord",
         "Worldsinger",
-        "Dragon Knight",
+        "Dragon Ritter",
         "Dragon Outrider",
         "Support Dragon",
         "Exodite Militia",
         "Exodite Weapons Platform",
-        "Wind Knight",
+        "Wind Ritter",
         "Bloodfang Megadon",
         "Skyprism Megadon",
-        "Bright Stallion Knight",
-        "Fire Gale Knight",
-        "Towering Destroyer Knight",
+        "Bright Stallion Ritter",
+        "Fire Gale Ritter",
+        "Towering Destroyer Ritter",
         "Great Megadon",
         "Great Drake",
         "Colossal Carnosaur"
@@ -41,7 +41,7 @@
         "Lanze",
         "Lightning Charge",
         "Schildbohrer",
-        "Shield Disruptor"
+        "Schildstörer"
       ]
     },
     {
@@ -63,7 +63,7 @@
   "sections": [
     {
       "name": "Exodite Special",
-      "formations": [
+      "Verbände": [
         {
           "name": "Dragon Prince (0-1 pro army)",
           "units": "Ersetze on Dragonlord in the army mit einemDragon Prince",
@@ -82,21 +82,21 @@
       ]
     },
     {
-      "name": "Exodite Warhost Formations",
-      "formations": [
+      "name": "Exodite Warhost Verbände",
+      "Verbände": [
         {
-          "name": "Dragon Knight Warhost",
-          "units": "Ein Dragonlord und acht Dragon Knights",
+          "name": "Dragon Ritter Warhost",
+          "units": "Ein Dragonlord und acht Dragon Ritters",
           "points": "300",
           "extraUnits": [
             "Dragon Prince",
             "Füge eine Worldsinger character für +25 Punkte",
-            "Ersetze zwei Dragon Knights with Support Dragons für +25 Punkte, oder replace bis zu zwei Dragon Knights with Bloodfang Megadons für +25 Punkte jeweils"
+            "Ersetze zwei Dragon Ritters with Support Dragons für +25 Punkte, oder replace bis zu zwei Dragon Ritters with Bloodfang Megadons für +25 Punkte jeweils"
           ]
         },
         {
-          "name": "Wind Knight Warhost",
-          "units": "Ein Dragonlord und acht Wind Knights",
+          "name": "Wind Ritter Warhost",
+          "units": "Ein Dragonlord und acht Wind Ritters",
           "points": "300",
           "extraUnits": [
             "Dragon Prince",
@@ -108,7 +108,7 @@
     {
       "name": "Exodite Unterstützungsverbände",
       "description": " Bis zu zwei unterstützungsverbände pro warhost formation",
-      "formations": [
+      "Verbände": [
         {
           "name": "Dragon Outriders",
           "units": "Vier Dragon Outriders",
@@ -151,9 +151,9 @@
       ]
     },
     {
-      "name": "Eldar Knight & Corsairs support",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "name": "Eldar Ritter & Corsairs support",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "Corsairs Nightwing Aerie",
           "units": "Zwei Corsair Nightwing Interceptors",
@@ -187,11 +187,11 @@
           "points": 200
         },
         {
-          "name": "Eldar Knights",
-          "units": "Zwei Fire Gale, Bright Stallion oder Towering Destroyer Knights (the formation may not contain a mix of Knights)",
+          "name": "Eldar Ritters",
+          "units": "Zwei Fire Gale, Bright Stallion oder Towering Destroyer Ritters (the formation may not contain a mix of Ritters)",
           "points": 275,
           "extraUnits": [
-            "Füge eine Eldar Knight to the formation für +100 Punkte"
+            "Füge eine Eldar Ritter to the formation für +100 Punkte"
           ]
         }
       ]

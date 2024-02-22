@@ -1,6 +1,6 @@
 [
   {
-    "name": "Questoris Knights",
+    "name": "Questoris Ritter",
     "specialRules": [
     ],
     "unit": [
@@ -46,7 +46,7 @@
         ]
       },
       {
-        "name": "Armiger Schwertknappe Knight-Warglaive",
+        "name": "Armiger Schwertknappe",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -57,10 +57,10 @@
           "Reaper Chain-Cleaver"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (4+)"
+          "Ionenfeld (4+)"
         ]
       },
       {
@@ -74,14 +74,14 @@
           "Synchronisierter Maschinenkanone"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (4+)"
+          "Ionenfeld (4+)"
         ]
       },
       {
-        "name": "Armiger Schwertknappe Relic Knight-Moirax",
+        "name": "Armiger Schwertknappe Relikt-Ritter Moirax",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -93,10 +93,10 @@
           "Gyges Siege Claw|0-1|"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (4+)",
+          "Ionenfeld (4+)",
           "Ionic Flare Shield"
         ],
         "notes": "Must be armed with either Lightning Locks, oder Volkite Veuglaire und Gyges Siege Claw"
@@ -113,15 +113,15 @@
           "Reaper Kettenschwert"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionenfeld (3+)"
         ]
       },
       {
-        "name": "Questoris Knight-Fahrender Ritter",
+        "name": "Questoris Fahrender Ritter",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -132,11 +132,11 @@
           "Reaper Kettenschwert"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionenfeld (3+)"
         ]
       },
       {
@@ -151,11 +151,11 @@
           "Avenger Gatling Geschütz"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionenfeld (3+)"
         ]
       },
       {
@@ -171,11 +171,11 @@
           "Reaper Kettenschwert"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionenfeld (3+)"
         ]
       },
       {
@@ -191,15 +191,15 @@
           "Reaper Kettenschwert"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionenfeld (3+)"
         ]
       },
       {
-        "name": "Questoris Knight-Preceptor",
+        "name": "Questoris Ritter-Preceptor",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -210,15 +210,15 @@
           "Thunderstrike Gauntlet"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionenfeld (3+)"
         ]
       },
       {
-        "name": "Questoris Knight-Freeblade",
+        "name": "Questoris Ritter-Freeblade",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -236,16 +236,16 @@
           "Las Impulsor"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionenfeld (3+)"
         ]
       },
       {
-        "name": "Questoris Relic Knight-Styrix",
+        "name": "Questoris Relikt-Ritter Styrix",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -258,16 +258,16 @@
           "Hekaton Siege Claw"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)",
+          "Ionenfeld (3+)",
           "Ionic Flare Shield"
         ]
       },
       {
-        "name": "Questoris Relic Knight-Magaera",
+        "name": "Questoris Relikt-Ritter Magaera",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -279,11 +279,11 @@
           "Reaper Kettenschwert"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)",
+          "Ionenfeld (3+)",
           "Ionic Flare Shield"
         ]
       },
@@ -301,10 +301,10 @@
           "Plasma Vernichter||FwA"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionenfeld (3+)"
         ]
       },
       {
@@ -321,14 +321,14 @@
           "Thundercoil Harpoon"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionenfeld (3+)"
         ]
       },
       {
-        "name": "Cerastus Knight-Acheron",
+        "name": "Cerastus Ritter-Acheron",
         "type": "H-AV",
         "speed": 30,
         "armour": 5,
@@ -339,16 +339,16 @@
           "Reaper Chainfist"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (3+)"
+          "Ionenfeld (3+)"
         ]
       },
       {
-        "name": "Cerastus Knight-Castigator",
+        "name": "Cerastus Ritter-Castigator",
         "type": "H-AV",
         "speed": 30,
         "armour": 5,
@@ -359,16 +359,16 @@
           "Tempest Warblade"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (3+)"
+          "Ionenfeld (3+)"
         ]
       },
       {
-        "name": "Cerastus Knight-Lancer",
+        "name": "Cerastus Ritter-Lancer",
         "type": "H-AV",
         "speed": 30,
         "armour": 5,
@@ -378,17 +378,17 @@
           "Cerastus Shock Lanze"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (3+)",
+          "Ionenfeld (3+)",
           "Ionic Flare Shield"
         ]
       },
       {
-        "name": "Cerastus Relic Knight-Atrapos",
+        "name": "Cerastus Relikt-Ritter Atrapos",
         "type": "H-AV",
         "speed": 30,
         "armour": 5,
@@ -399,17 +399,17 @@
           "Atrapos Lascutter"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (3+)",
+          "Ionenfeld (3+)",
           "Ionic Flare Shield"
         ]
       },
       {
-        "name": "Acastus Relic Knight-Porphyrion",
+        "name": "Acastus Relikt-Ritter Porphyrion",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -422,15 +422,15 @@
         ],
         "specialRules": [
           "Schadenskapazität 3",
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionenfeld (3+)"
         ],
-        "crit": "The Acastus Knight takes 1 additional damage."
+        "crit": "The Acastus Ritter takes 1 additional damage."
       },
       {
-        "name": "Acastus Relic Knight-Asterius",
+        "name": "Acastus Relikt-Ritter Asterius",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -443,15 +443,15 @@
         ],
         "specialRules": [
           "Schadenskapazität 3",
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionenfeld (3+)"
         ],
-        "crit": "The Acastus Knight takes 1 additional damage."
+        "crit": "The Acastus Ritter takes 1 additional damage."
       },
       {
-        "name": "Knight-Baron",
+        "name": "Ritter-Baron",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -460,7 +460,7 @@
         "weapons": [
           "Rapid Fire Kampfgeschütz",
           "Shock Lanze",
-          "Knight Power Gauntlet"
+          "Ritter Power Gauntlet"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -469,7 +469,7 @@
           "Furchtlos",
           "Geländegängig",
           "Inspirierend",
-          "Ion Shield (4+)"
+          "Ionenfeld (4+)"
         ]
       },
       {
@@ -482,16 +482,16 @@
         "weapons": [
           "Kampfgeschütz",
           "Shock Lanze",
-          "Knight Kettenschwert"
+          "Ritter Kettenschwert"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (4+)"
+          "Ionenfeld (4+)"
         ]
       },
       {
-        "name": "Knight-Castellan",
+        "name": "Ritter-Castellan",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -505,11 +505,11 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (4+)"
+          "Ionenfeld (4+)"
         ]
       },
       {
-        "name": "Knight-Lancer",
+        "name": "Ritter-Lancer",
         "type": "H-AV",
         "speed": 30,
         "armour": 5,
@@ -517,17 +517,17 @@
         "ff": 5,
         "weapons": [
           "Kampfgeschütz",
-          "Knight Power Lanze"
+          "Ritter Power Lanze"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (4+)"
+          "Ionenfeld (4+)"
         ]
       },
       {
-        "name": "Knight-Fahrender Ritter",
+        "name": "Fahrender Ritter",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -536,12 +536,12 @@
         "weapons": [
           "Thermal Geschütz",
           "Shock Lanze",
-          "Knight Power Gauntlet"
+          "Ritter Power Gauntlet"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (4+)"
+          "Ionenfeld (4+)"
         ]
       },
       {
@@ -558,7 +558,7 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (4+)"
+          "Ionenfeld (4+)"
         ]
       },
       {
@@ -574,7 +574,7 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (4+)"
+          "Ionenfeld (4+)"
         ]
       },
       {
@@ -591,7 +591,7 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (4+)"
+          "Ionenfeld (4+)"
         ]
       }
     ]

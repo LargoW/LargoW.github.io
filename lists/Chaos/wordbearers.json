@@ -48,7 +48,7 @@
         "Defiler",
         "Death Wheel",
         "Forgefiend",
-        "Knight-Dreadblade"
+        "Ritter-Dreadblade"
       ],
       "unitRules": [
         "Daemon Engine (x)",
@@ -98,9 +98,9 @@
   ],
   "sections": [
     {
-      "name": "Word Bearers Core Formations",
+      "name": "Word Bearers Core Verbände",
       "description": " Bis zu eine Cultist Coven may be taken pro Word Bearer Retinue.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Word Bearers Retinue",
           "units": "Ein Dark Apostle, acht Chaos Space Marines, Daemonic Pact",
@@ -129,9 +129,9 @@
       ]
     },
     {
-      "name": "Word Bearers Elite Formations",
-      "description": " Bis zu zwei Elite formations may be taken pro Word Bearers Retinue.",
-      "formations": [
+      "name": "Word Bearers Elite Verbände",
+      "description": " Bis zu zwei Elite Verbände may be taken pro Word Bearers Retinue.",
+      "Verbände": [
         {
           "name": "Iconoclasts",
           "units": "Ein Diabolist, vier Word Bearers Iconoclasts, Daemonic Pact",
@@ -173,9 +173,9 @@
       ]
     },
     {
-      "name": "Daemon Engine Formations",
-      "description": " Bis zu zwei Daemon Engine formations may be taken pro Cultist Coven formation.",
-      "formations": [
+      "name": "Daemon Engine Verbände",
+      "description": " Bis zu zwei Daemon Engine Verbände may be taken pro Cultist Coven formation.",
+      "Verbände": [
         {
           "name": "Cerberites",
           "units": "Drei Cerberites",
@@ -207,11 +207,11 @@
     },
     {
       "name": "Kriegsmaschinen & Chaos Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "Verbände": [
         {
           "name": "0-1 Dreadblade",
-          "units": "Daemonic Pact, eine Knight-Dreadblade of any configuration",
+          "units": "Daemonic Pact, eine Ritter-Dreadblade of any configuration",
           "extraUnits": [
           ],
           "points": 250
@@ -248,7 +248,7 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte",
-      "formations": [
+      "Verbände": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine für jeweils Daemonic Pact in the army.",

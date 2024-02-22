@@ -7,7 +7,7 @@
   "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee White Scars Space Marine chapter oder any of its successor chapters. The White Scars practice a highly mobile method of warfare, tearing into their enemies with lightning-quick attacks und vanishing before a response can be made.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all White Scars detachments und Aircraft formations.",
+  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all White Scars detachments und Aircraft Verbände.",
   "specialRules": [
     "White Scars Transports",
     "They Shall Know No Fear"
@@ -63,7 +63,7 @@
   "sections": [
     {
       "name": "White Scars Core Detachments",
-      "formations": [
+      "Verbände": [
         {
           "name": "Bikes",
           "units": "Acht White Scars Assault Bikes",
@@ -100,7 +100,7 @@
     {
       "name": "White Scars Support Detachments",
       "description": "Zwei Support Detachments may be taken pro Core Detachment",
-      "formations": [
+      "Verbände": [
         {
           "name": "Sturmtrupp",
           "units": "Vier Sturmtrupp",
@@ -148,8 +148,8 @@
     },
     {
       "name": "White Scars Navy & Collegia Titanica Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "Storm Talons",
           "units": "Zwei Storm Talons",

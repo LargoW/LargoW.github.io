@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_AMTL",
   "strategy": "Collegia Titanica Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Battle Titan formations und the Warhounds formation have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+. In addition, the Questoris Banner formation is subject to the 'Chivalry' special rule.",
+  "Initiative": "Battle Titan Verbände und the Warhounds formation have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+. In addition, the Questoris Banner formation is subject to the 'Ritterlichkeit' special rule.",
   "specialRules": [
   ],
   "units": [
@@ -24,7 +24,7 @@
       ],
       "unitRules": [
         "Extended Command",
-        "Shield Disruptor",
+        "Schildstörer",
         "Schildbohrer",
         "Gottgleiche Maschine",
         "Feuer aufteilen",
@@ -49,7 +49,7 @@
         "Ark Mechanicus Battleship"
       ],
       "unitRules": [
-        "Machine Spirit",
+        "Maschinengeist",
         "Ponderous"
       ]
     },
@@ -57,23 +57,23 @@
       "from": "QK.json",
       "units": [
         "Questoris Paladinritter",
-        "Questoris Knight-Fahrender Ritter",
+        "Questoris Fahrender Ritter",
         "Questoris Kreuzritter",
         "Questoris Duellritter",
         "Questoris Wächterritter"
       ],
       "unitRules": [
         "Schwergepanzertes Fahrzeug (H-AV)",
-        "Chivalry",
-        "Stubborn",
-        "Ion Shield (x)"
+        "Ritterlichkeit",
+        "Hartnäckig",
+        "Ionenfeld (x)"
       ]
     }
   ],
   "sections": [
     {
-      "name": "Battle Titan Formations",
-      "formations": [
+      "name": "Battle Titan Verbände",
+      "Verbände": [
         {
           "name": "0-1 Emperor Titan",
           "units": "Ein Imperator Titan oder Warmonger Titan, Veteran Princeps",
@@ -101,9 +101,9 @@
       ]
     },
     {
-      "name": "Recon Formations",
-      "description": " Bis zu zwei Recon formations für jeweils Battle Titan formation",
-      "formations": [
+      "name": "Recon Verbände",
+      "description": " Bis zu zwei Recon Verbände für jeweils Battle Titan formation",
+      "Verbände": [
         {
           "name": "Warhounds",
           "units": "Ein Warhound Titan, of either Standard oder Support configuration",
@@ -116,7 +116,7 @@
         },
         {
           "name": "Questoris Banner",
-          "units": "Zwei Questoris Knights (may not mix configurations)",
+          "units": "Zwei Questoris Ritters (may not mix configurations)",
           "extraUnits": [
           ],
           "points": 325
@@ -126,7 +126,7 @@
     {
       "name": "Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände für jeweils Battle Titan formation",
-      "formations": [
+      "Verbände": [
         {
           "name": "Secutarii Titan Guard",
           "units": "Ein Secutarii Axiarch, acht Secutarii Hoplites oder acht Secutarii Pelasts",
@@ -163,8 +163,8 @@
     },
     {
       "name": "Adeptus Mechanicus Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Adeptus Mechanicus Navy formations.  Bis zu eine Lysander Fighter für jeweils Warmonger Titan oder Anvilus Carapace Landing Pad.",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Adeptus Mechanicus Navy Verbände.  Bis zu eine Lysander Fighter für jeweils Warmonger Titan oder Anvilus Carapace Landing Pad.",
+      "Verbände": [
         {
           "name": "Lysander Fighter",
           "units": "Ein Lysander Fighter",

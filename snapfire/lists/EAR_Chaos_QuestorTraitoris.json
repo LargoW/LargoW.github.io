@@ -8,7 +8,7 @@
 			{"id":520, "name":"Hell-Forge Maniple",		"pts":225, "upgrades":[50,53, 54,55, 60,61,62,63, 69]}
 		]},
 		{"name":"DAEMONIC BANNER FORMATIONS <br/> Max 3 for each Hell-Forge Core formation <br/> Army may not mix Nurgle/Tzeentch or Slaanesh/Khorne formations", "formations":[
-			{"id":500, "name":"Hell-Knights of Slaanesh",		"units":"Daemonic Pact",	"pts":100,  "upgrades":[80]},
+			{"id":500, "name":"Höllenritters of Slaanesh",		"units":"Daemonic Pact",	"pts":100,  "upgrades":[80]},
 			{"id":501, "name":"Hell-Scourges of Slaanesh",		"units":"Daemonic Pact",	"pts":100,  "upgrades":[81]},
 			{"id":510, "name":"Hell-Striders of Slaanesh",	"units":"Daemonic Pact",	"pts":50,  "upgrades":[95]},
 			{"id":502, "name":"Knights of Nurgle",		"units":"Daemonic Pact, 2 Knight-Desecrators",	"pts":350, "upgrades":[120]},
@@ -65,7 +65,7 @@
 		{"id":72,	"name":"Ordinatus Cyclothrathe",	"pts":50},
 
 
-		{"id":80,	"name":"Hell-Knight of Slaanesh",	"pts":100},
+		{"id":80,	"name":"Höllenritter of Slaanesh",	"pts":100},
 		{"id":81,	"name":"Hell-Scourge of Slaanesh",	"pts":100},
 
 		{"id":82,	"name":"Knight-Desecrator of Nurgle",	"pts":100},

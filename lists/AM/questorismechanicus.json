@@ -5,9 +5,9 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_QuestorisMechanicus",
   "strategy": "Questoris Mechanicus Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Alle Verbände haben eine Initiativewert von 2+. In addition, all Knight Banner formations are subject to the 'Chivalry' special rule.",
+  "Initiative": "Alle Verbände haben eine Initiativewert von 2+. In addition, all Ritter Banner Verbände are subject to the 'Ritterlichkeit' special rule.",
   "specialRules": [
-    "Chivalry"
+    "Ritterlichkeit"
   ],
   "usage": [
     "Der folgende Armeeorganisationsplan ermöglicht es eine Armee des Questoris Mechanicus des Adeptus Mechancius aufzustellen."
@@ -22,30 +22,30 @@
         "Kastellanritter",
         "Breschenritter",
         "Questoris Paladinritter",
-        "Questoris Knight-Fahrender Ritter",
+        "Questoris Fahrender Ritter",
         "Questoris Kreuzritter",
         "Questoris Duellritter",
         "Questoris Wächterritter",
-        "Questoris Knight-Preceptor",
-        "Questoris Relic Knight-Styrix",
-        "Questoris Relic Knight-Magaera",
-        "Cerastus Knight-Lancer",
-        "Cerastus Knight-Acheron",
-        "Cerastus Knight-Castigator",
-        "Cerastus Relic Knight-Atrapos",
-        "Armiger Schwertknappe Knight-Warglaive",
+        "Questoris Ritter-Preceptor",
+        "Questoris Relikt-Ritter Styrix",
+        "Questoris Relikt-Ritter Magaera",
+        "Cerastus Ritter-Lancer",
+        "Cerastus Ritter-Acheron",
+        "Cerastus Ritter-Castigator",
+        "Cerastus Relikt-Ritter Atrapos",
+        "Armiger Schwertknappe",
         "Armiger Speerknappen",
-        "Armiger Schwertknappe Relic Knight-Moirax",
-        "Acastus Relic Knight-Porphyrion",
-        "Acastus Relic Knight-Asterius"
+        "Armiger Schwertknappe Relikt-Ritter Moirax",
+        "Acastus Relikt-Ritter Porphyrion",
+        "Acastus Relikt-Ritter Asterius"
       ],
       "unitRules": [
-        "Stubborn",
-        "Ion Shield (x)",
+        "Hartnäckig",
+        "Ionenfeld (x)",
         "Ionic Flare Shield",
         "Schwergepanzertes Fahrzeug (H-AV)",
         "Schildbohrer",
-        "Shield Disruptor",
+        "Schildstörer",
         "Lightning Charge",
         "Lanze"
       ]
@@ -70,7 +70,7 @@
     {
       "name": "Kern Banners",
       "description": " Bis zu ein Dominus Banner pro Questoris Banner",
-      "formations": [
+      "Verbände": [
         {
           "name": "Questoris Banner",
           "units": "Zwei Questoris Paladinritter, Crusader, Fahrender Ritter, Wächterritter oder Duellritter. May not mix configurations",
@@ -96,7 +96,7 @@
     {
       "name": "Aufklärungsbanner",
       "description": " Bis zu ein Aufklärungsbanner pro Kern Banner",
-      "formations": [
+      "Verbände": [
         {
           "name": "Cerastus",
           "units": "Ein Cerastus Ritter",
@@ -120,7 +120,7 @@
     {
       "name": "Relikt Banner",
       "description": " Bis zu ein Relikt Banner pro angefangene 1500 Punkte in der Armee.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Armiger Schwertknappen Reliquae",
           "units": "Drei Armiger Relikt-Moiraxritter der selben Konfiguration",
@@ -158,7 +158,7 @@
     {
       "name": "Mechanicus Allies",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Maschinenweltalliierte ausgegeben werden.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Skitarii Manipel",
           "units": "Magos, neun Hypaspists, ein Gorgon",

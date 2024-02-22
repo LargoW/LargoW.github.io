@@ -6,10 +6,10 @@
   "strategy": "Adeptus Custodes Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
-    "Adeptus Custodians"
+    "Adeptus Custodes"
   ],
   "usage": [
-    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Adeptus Custodes. All Units are subject to the 'Adeptus Custodians' special rule with the exception of Sisters of Silence."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Adeptus Custodes. All Units are subject to the 'Adeptus Custodes' special rule with the exception of Sisters of Silence."
   ],
   "units": [
     {
@@ -51,7 +51,7 @@
   "sections": [
     {
       "name": "Adeptus Custodes Core Detachments",
-      "formations": [
+      "Verbände": [
         {
           "name": "Custodes Guardian Squad",
           "units": "Zwei Sagittarum plus either Zwei Guardian OR Zwei Sentinel Guard und 2 Venerable Land Raiders oder 2 Coronus",
@@ -65,7 +65,7 @@
     {
       "name": "Adeptus Custodes Elite Detachments",
       "description": "Ein elite detachment may be taken pro core detachments",
-      "formations": [
+      "Verbände": [
         {
           "name": "Warden Wing",
           "units": "5 Wardens",
@@ -99,7 +99,7 @@
     {
       "name": "Adeptus Custodes Support Detachments",
       "description": "Zwei Support Detachments may be taken pro Core Detachment",
-      "formations": [
+      "Verbände": [
         {
           "name": "Venatari Wing",
           "units": "Fünf Venatari",
@@ -142,8 +142,8 @@
     },
     {
       "name": "Adeptus Custodes Aerial Transport & Imperial Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "Orion Assault Ship",
           "units": "Ein Orion Assault Ship",

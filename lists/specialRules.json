@@ -3,122 +3,127 @@
     {
       "title": "Schwergepanzertes Fahrzeug (H-AV)",
       "description": [
-        "Units with the unit type H-AV can take zwei damage before they are killed, und counts as zwei units für Outnumber, Blast Markers, number of attacks in an assault, hit allocation und the maximum number of units in base contact. H-AV are treated as WE when hit by weapons that do multiple Punkte of damage (e.g. TK(D3)). In addition it is possible to critically hit H-AVs. If a Critical Hit is rolled, the unit is destroyed with no further effects. H-AVs may be targeted by Pin-Point attacks, but does not target individual models. Instead, hits are randomized in the formation. H-AVs are treated like normal Armoured Vehicles in all other respects."
+        "Einheiten vom Typ H-AV können zwei Schaden einstecken, bevor sie zerstört werden, und zählen als zwei Einheiten für Überzahl, Beschussmarken, Anzahl der Angriffe in einem Nahkampf, Trefferzuweisung und die maximale Anzahl von Einheiten im direkten Kontakt. H-AVs werden behandelt wie WE, wenn sie von Waffen getroffen werden, die mehrere Punkte Schaden verursachen (z. B. TK(W3)). Außerdem können H-AVs kritisch getroffen werden. Bei einem kritischen Treffer wird die Einheit ohne weitere Effekte zerstört. H-AVs können mit <i>Punktgenauen Angriffen</i> beschossen werden, zielen jedoch nicht auf einzelne Modelle ab. Stattdessen werden Treffer in der Formation zufällig bestimmt. In allen anderen Belangen werden H-AVs wie normale gepanzerte Fahrzeuge behandelt."
       ]
     },
     {
-      "title": "Machine Spirit",
+      "title": "Maschinengeist",
       "description": [
-        "A formation that exclusively consists of units with <i>Machine Spirit</i> may only perform the Hold, Engage, Marshal, Sustained Fire und Overwatch actions. In addition, such formations may only contest objectives, und always counts as being within 30cm of an enemy formation when attempting to Rally."
+        "Ein Verband, der ausschließlich aus Einheiten mit <i>Maschinengeist</i> besteht, darf nur die Aktionen Halten, Offensive, Ordnen, Dauerfeuer und Feuerbereitschaft durchführen. Darüber hinaus können solche Verbände nur umkämpfte Ziele beanspruchen und gelten immer als innerhalb von 30cm einer feindlichen Formation, wenn sie versuchen, sich zu sammeln."
       ]
     },
     {
       "title": "Deflektorschilde",
       "description": [
-        "Jeweils void shield will automatically stop eine point of damage und then go down. Do not make armour saves für damage stopped by Deflektorschilde, nor allocate Blast markers. Once all of the shields have been knocked down, the Kriegsmaschine may be damaged normally und you may make saving throws against any hits that are scored. Hits from close combat ignore Deflektorschilde but units using their firefight values must first knock down any shields before they can damage the Titan.",
-        "Deflektorschilde that have been knocked down can be repaired. Jeweils Kriegsmaschine can repair eine downed Void Shield in the End Phase of jeweils turn.",
-        "In addition, if a Kriegsmaschine regroups (either by performing a Hold oder a Marshal action) it can use the dice roll both to repair Deflektorschilde und remove Blast Markers. However, only half the Punkte generated (fractions rounded up) may be spent on restoring Deflektorschilde (e.g. if you rolled a 3 you could remove drei Blast Markers, oder repair zwei Deflektorschilde und remove eine Blast Marker)."
+        "Jedes Deflektorschild stoppt automatisch einen Schadenspunkt und wird dann heruntergefahren. Führt keine Rettungswürfe für Treffer die durch Deflektorschilde gestoppt wurden durch. Von einem Deflektorschild abgefangene Treffer generieren keine Beschussmarken. Sobald alle Schilde heruntergefahren wurden, kann die Kriegsmaschine normal beschädigt werden und es werden Rettungswürfe gegen Trefferdurchgeführt. Treffer im Nahkampf ignorieren Deflektorschilde, aber Einheiten, die im Feuergefecht kämpfen, müssen zuerst alle Schilde herunterfahren, bevor siedie Kriegsmaschine beschädigen können.",
+
+        "Heruntergefahrene Deflektorschilde können repariert werden. Jede Kriegsmaschine kann in der Endphase ihres Zuges einen heruntergefahrenen Deflektorschild reparieren.",
+        
+        "Zusätzlich kann eine Kriegsmaschine, wenn sie sich sammelt (entweder durch Ausführen einer Halten- oder Ordnen-Aktion), den Würfelwurf sowohl zum Reparieren von Deflektorschilden als auch zum Entfernen von Beschussmarken verwenden. Allerdings können nur die Hälfte der erzeugten Punkte (aufgerundet) für die Wiederherstellung von Deflektorschilden ausgegeben werden (zum Beispiel könnten Sie bei einer 3 drei Beschussmarken entfernen oder bis zu zwei Deflektorschilde reparieren und eine Beschussmarke entfernen)."
       ]
     },
     {
       "title": "Gottgleiche Maschine",
       "description": [
-        "Kriegsmaschinen with 8 oder more DC are subject to the Gottgleiche Maschine und Feuer aufteilen special rules.",
-        "The magnificence of these awe-Inspirierend constructs comes at a price, für if such an incarnation of power were to falter oder be destroyed, the Streitmächte that are there to aid them would become greatly disturbed.",
-        "Für this reason, whenever a unit with Gottgleiche Maschine special rule is broken (including if it is already broken but loses an Engage), all friendly formations suffer eine Blast Marker. Whenever a unit with Gottgleiche Maschine special rule is destroyed, all friendly formations on the battlefield suffer D3 Blast Markers.",
-        "Units with the Gottgleiche Maschine special rule are themselves immune to this effect."
+        "Kriegsmaschinen mit 8 oder mehr DC unterliegen den Sonderregeln Gottgleiche Maschine und Feuer aufteilen."
+        "Die Pracht dieser ehrfurchtgebietenden Konstrukte hat ihren Preis, denn wenn eine solche Inkarnation der Macht wanken oder zerstört werden sollte, würden die befreundeten Streitmächte stark demoralisiert.",
+        
+        "Aus diesem Grund erleiden alle befreundeten Verbände, wenn eine Einheit mit der Sonderregel Gottgleiche Maschine aufgerieben wird (einschließlich, wenn sie bereits aufgerieben ist, aber eine Offensive verliert), eine Beschussmarke. Immer wenn eine Einheit mit der Sonderregel Gottgleiche Maschine zerstört wird, erleiden alle befreundeten Verbände auf dem Schlachtfeld W3 Beschussmarken.",
+        
+        "Einheiten mit der Sonderregel Gottgleiche Maschine sind selbst immun gegen diesen Effekt."
       ]
     },
     {
       "title": "Feuer aufteilen",
       "description": [
-        "A Kriegsmaschine with this special rule may declare that it will Feuer aufteilen when attempting to perform a Sustain Fire oder Advance action, suffering a -1 modifier on the roll. If the action is successful, the WE may fire at bis zu zwei enemy formations, but may not target more than eine formation pro individual weapon."
+        "Eine Kriegsmaschine mit dieser Sonderregel kann erklären, dass sie Feuer aufteilen wird, wenn sie versucht, eine Dauerfeuer oder Vorrücken Aktion auszuführen, wobei sie einen Modifikator von -1 auf den Wurf erleidet. Wenn die Aktion erfolgreich ist, kann die Kriegsmaschine auf bis zu zwei feindliche Vebände feuern, darf aber nicht mehr als einen Verband pro individueller Waffe anvisieren."
       ]
     },
     {
-      "title": "Stomp ’em Good",
+      "title": "Stampf' se' wech",
       "description": [
-        "A Kriegsmaschine with this special rule may declare that it will Feuer aufteilen when attempting to perform a Sustain Fire action, suffering a -1 modifier on the roll. Regardless if the action succeeds oder if the formation is forced to Hold, the WE may fire at bis zu zwei enemy formations, but may not target more than eine formation pro individual weapon."
+        "Eine Kriegsmaschine mit dieser Sonderregel kann erklären, dass sie Feuer aufteilen wird, wenn sie versucht, eine Dauerfeuer oder Vorrücken Aktion auszuführen, wobei sie einen Modifikator von -1 auf den Wurf erleidet. Unabhängig ob die Aktion erfolgreich ist oder der Verband eine Halten Aktion durchfüren muss, kann die Kriegsmaschine auf bis zu zwei feindliche Vebände feuern, darf aber nicht mehr als einen Verband pro individueller Waffe anvisieren."
       ]
     },
     {
-      "title": "Adeptus Custodians",
+      "title": "Adeptus Custodes",
       "description": [
-        "Adeptus Custodian are renowned für their tenacity und bravery. This is represented by the following rules:",
-        "* It takes 2 Blast Markers to suppress a Adeptus Custodian unit.",
-        "* Adeptus Custodian formations are only broken if they have 2 Blast Markers pro unit in the formation.",
-        "* Adeptus Custodian formations only count half their number of Blaster markers in assault resolution (rounding down—note that assault resolution will not receive +1 für having no Blast Markers if the formation has 1 Blast Marker before rounding down).",
-        "* When a broken Adeptus Custodian formation rallies, it receives a number of Blast Markers equal to the number of units, rather than half this number. Adeptus Custodians with the Anführer special ability remove 2 Blast Markers instead of 1",
-        "* All Adeptus Custodian units are consider Furchtlos in all respects except they still have to end their move while broken outside of 15cm of an enemy foramtion. If they cant they are subject to standard hackdowns rules für broken non Furchtlos units with in 15cm of a enemy unit taking into account the above rules für Adeptus Custodians und Blast Markers."
+        "Adeptus Custodes sind bekannt für ihre Hartnäckigkeit und Tapferkeit. Dies wird durch die folgenden Regeln dargestellt:",
+        "Es werden zwei Beschussmarken benötigt, um eine Adeptus Custodes Einheit zu unterdrücken.",
+        "Adeptus Custodes Verbände werden nur aufgerieben, wenn sie zwei Beschussmarken pro Einheit im Verband haben.",
+        "Verbände der Adeptus Custodes zählen nur die Hälfte ihrer Beschussmarken in der Ergebnisberechnung im Angriff (abgerundet – beachte das dies keinen Einfluss auf den Bonus von +1 für „Hat keine Beschussmarken“ hat).",
+        "Wenn sich ein aufgeriebener Adeptus Custodes Verband sammelt, erhält er eine Anzahl an Beschussmarken, welche der Anzahl der Einheiten entspricht, und nicht der Hälfte dieser Anzahl. Adeptus Custodes mit der Anführer Spezialfähigkeit entfernen zusätzlich zwei Beschussmarken statt einer.",
+        "Alle Adeptus Custodes-Einheiten gelten in allen Belangen als Furchtlos, außer dass sie ihren Bewegung außerhalb von 15 cm von einem feindlichen Verband aufgerieben sind. Wenn sie das nicht können, unterliegen sie den normalen Rückzug-Regeln von nicht-furchtlosen, aufgeriebenen Einheiten und werden innerhalb von 15 cm zu einer feindlichen Einheit ausgeschaltet."
       ]
     },
     {
-      "title": "Support Craft",
+      "title": "Hilfstransportschiff",
       "description": [
-        "Support Craft are Skimmers, which für all line of sight und terrain purposes Zählt als ‘popped up’ at all times. If the Support Craft has a transport option, it may embark und disembark units as normal. Embarked units are allowed a save (see 1.7.5) if the Support Craft is destroyed.",
-        "Support Craft do not block line of sight, must always use their Antigrav ability to force a firefight in engagements und Infanterie in base contact mit einemSupport Craft may not use it to Zählt als being in cover."
+        "Hilfstransportschiffe ähneln einer Mischung aus einem Antigrav Fahrzeug und einem Flugzeug. Sie bleiben hoch oben in der Luft, schweben aber über dem Schlachtfeld und schießen, wenn notwendig, über dazwischen liegendes Gelände. Die Hilfstransportschiffe Fähigkeit ist identisch mit denen einer aufgetauchten Antigrav Einheit. Hilfstransportschiffe können regulär beschossen werden, Flugabwehrwaffen sind nicht erforderlich. Bei einem Angriff erzwingen Hilfstransportschiffe automatisch ein Feuergefecht auf die gleiche Art und Weise, wie es auch Antigrav Einheiten tun können. Es wird davon ausgegangen, dass Hilfstransportschiffe oder die von ihnen transportierten Truppen entsprechend ausgerüstet sind, um wie gewohnt Truppen ein- und auszuladen. Truppen dürfen wie üblich einen Rettungswurf durchführen wenn das Hilfstransportschiff zerstört wird."
       ]
     },
     {
-      "title": "Spirit Lords",
+      "title": "Geisterherr",
       "description": [
-        "A formation mit einemLiving Ancestor does not suffer a -1 modifier to their Action Test when attempting to retain the initiative."
+        "Ein Verband mit einem lebenden Ahnen erleidet keinen -1-Malus auf ihren Aktionswurf, wenn sie versuchen, die Initiative zu behalten."
       ]
     },
     {
       "title": "Tunneling Transports",
       "description": [
-        "Formations including units with both the Transport und Tunneler special rules must start the game in the reserves, und may only enter the battlefield through tunneling. Kriegsmaschinen with these special rules may not start the game empty, but must transport another formation."
+        "Verbände, die Einheiten mit sowohl den Spezialregeln Transport als auch Tunnelgräber besitzen, müssen das Spiel in Reserve beginnen und dürfen das Schlachtfeld nur via Tunnelgräber betreten. Kriegsmaschinen mit diesen Spezialregeln dürfen nicht ohne Passagiere starten, sondern müssen einen andere Verband transportieren."
       ]
     },
     {
-      "title": "Shield Disruptor",
+      "title": "Schildstörer",
       "description": [
-        "Jeweils point of damage from a hit with Shield Disruptor will knock down zwei Powerfields, Shadowfields oder Deflektorschilde (if only eine remains it is knocked down, but the hit does not carry over). In addition, Shield Disruptor hits ignores Deflector Shields und Ion Shields."
+        "Jeder Treffer von einer Waffe mit der Schildstörer Eigenschaft fährt zwei Schpezialkraftfelder, Schattenfelder oder Deflektorschilde herunter. Wenn nur noch eines übrig ist, wird es heruntergefahren, aber der Treffer überträgt sich nicht. Darüber hinaus ignorieren Treffer mit der Schildstörer Eigenschaft Energiefeld und Ionenfelder."
       ]
     },
     {
-      "title": "Bravery",
+      "title": "Tapferkeit",
       "description": [
-        "All Knight formations receive a +1 modifier to their Action Test when carrying out an Engage, und a +1 modifier to their Rally Tests."
+        "Alle Ritterverbände erhalten einen +1-Malus auf ihren Aktionswurf, wenn sie eine Offensive Aktion durchführen, und einen +1-Malus auf ihren Sammletest."
       ]
     },
     {
-      "title": "Chivalry",
+      "title": "Ritterlichkeit",
       "description": [
-        "All Knight formations receive a +1 modifier to their Action Test when carrying out an Engage oder Double action, und a +1 modifier to their Rally Tests."
+        "Alle Ritterverbände erhalten einen +1-Malus auf ihren Aktionswurf, wenn sie eine Offensive oder Eilschritt Aktion durchführen, und einen +1-Malus auf ihren Sammletest."
       ]
     },
     {
-      "title": "Stubborn",
+      "title": "Hartnäckig",
       "description": [
-        "Any formation where at least eine unit has Stubborn reduce the damage caused by Blast Markers while the formation is broken by eine, reduce the number of extra hits from losing an assault by eine, requires einen zusätzlichen Blast Marker before the formation becomes broken, und may ignore eine Blast Marker when determining suppression."
+        "Jeder  Verband, in dem mindestens eine Einheit Hartnäckig ist, reduziert den durch Beschussmarken verursachten Schaden während der Verband aufgerieben istum eins, die Anzahl der zusätzlichen Treffer durch den Verlust eines Nahkampfs um eins, erfordert eine zusätzlichen Beschussmarke um den Verband aufzureiben und kann eine Beschussmarke ignorieren, wenn Unterdrücken bestimmt wird."
       ]
     },
     {
-      "title": "Ion Shield (x)",
+      "title": "Ionenfeld (x)",
       "description": [
-        "Knights make use of Ion Shields to deflect shooting und firefight attacks. This allows them to make a saving throw on the number within brackets when they are hit by ranged fire instead of using their armour value.",
-        "No modifiers ever apply to this saving throw und it is unaffected by Macro-Weapon, Lanze und Titan Killer hits (jeweils point of damage from a Titan Killer hit must be saved separately. Is affected normally by hits with the Disrupt special rule). If the unit has Verstärkte Panzerung as well then it is allowed to re-roll a failed save using its armour value unless the hit was a Macro-Weapon, Lanze oder Titan killer.",
-        "Ion Shields may only be used against shooting unless the unit is in a Crossfire, und against FF unless the hit is caused by a unit in support. They may not be used against CC attacks. If relevant, roll CC und FF dice separately when attacking units equipped with Ion Shields."
+        "Ritter machen von Ionenfeldern Gebrauch, um Schuss- und Feuergefechtangriffe abzuwehren. Dadurch können sie einen Rettungswurf auf die Zahl in Klammern machen, wenn sie von Beschuss getroffen werden, anstatt ihren Rüstungswert zu verwenden.",
+
+        "Für diesen Rettungswurf gelten keine Modifikatoren, und er wird nicht von Makrowaffen-, Lanzen- und Titanen-Killer-Treffern beeinflusst. Jeder Schadenspunkt von einem Titanen-Killer-Treffer muss separat gerettet werden. Das Ionenfeld wird normal von Treffern mit der Eigenschaft Versprengen beeinflusst. Wenn die Einheit auch über Verstärkte Panzerung verfügt, darf sie einen fehlgeschlagenen Rettungswurf mit ihrem Rüstungswert wiederholen, es sei denn, der Treffer war eine Makrowaffe, Lanze oder Titanen-Killer.",
+        
+        "Ionenfelder dürfen nur gegen Schüsse verwendet werden, es sei denn, der Verband befindet sich in einem Kreuzfeuer, und gegen Feuergefechtangriffe, es sei denn, der Treffer wird durch eine Einheit in Feuerunterstützung verursacht. Sie dürfen nicht gegen Nahkampfangriffe verwendet werden. Wenn relevant, würfelt Nahkampf- und Feuergefechtwürfel getrennt, wenn ihr Einheiten angreift, die mit Ionenfeldern ausgestattet sind."
       ]
     },
     {
       "title": "Ionic Flare Shield",
       "description": [
-        "Knights with 'Ionic Flare Shield' may also use their Ion Shield against CC attacks."
+        "Ritters with 'Ionic Flare Shield' may also use their Ionenfeld against CC attacks."
       ]
     },
     {
       "title": "Schildbohrer",
       "description": [
-        "Weapons with the 'Schildbohrer' special rule ignores Deflector Shields, Ion Shields, Powerfields, Shadowfields und Deflektorschilde (Shadowfields still provide cover from shooting)."
+        "Weapons with the 'Schildbohrer' special rule ignores Energiefelds, Ionenfelds, Powerfields, Shadowfields und Deflektorschilde (Shadowfields still provide cover from shooting)."
       ]
     },
     {
       "title": "Psybolts",
       "description": [
-        "Weapons with the 'Psybolts' special rule ignores Powerfields, Shadowfields, Deflektorschilde, Deflector Shields, Ion Shields und Invulnerable Saves (Shadowfields still provide cover from shooting)."
+        "Weapons with the 'Psybolts' special rule ignores Powerfields, Shadowfields, Deflektorschilde, Energiefelds, Ionenfelds und Invulnerable Saves (Shadowfields still provide cover from shooting)."
       ]
     },
     {
@@ -142,7 +147,7 @@
     {
       "title": "Grim Demeanour",
       "description": [
-        "Valhallan formations that contain a Ministorum Priest gain +1 on their Action Test when attempting to Marshal."
+        "Valhallan Verbände that contain a Ministorum Priest gain +1 on their Action Test when attempting to Marshal."
       ]
     },
     {
@@ -154,7 +159,7 @@
     {
       "title": "Ethereal",
       "description": [
-        "All units in a formation joined by an Ethereal gain Furchtlos. When the unit with the Ethereal is killed the formation loses Furchtlos und receives 1D3 Blast Markers."
+        "All units in a formation joined by an Ethereal gain Furchtlos. When the unit with the Ethereal is killed the formation loses Furchtlos und receives 1D3 Beschussmarke."
       ]
     },
     {
@@ -166,7 +171,7 @@
     {
       "title": "Fortified Positions",
       "description": [
-        "Fortified Positions are set up at the same time as the formation they are bought with. Units from such formations must be set up within the fortified positions, so that no space is left empty. All pieces of fortified positions must be within 5cm from another piece. Once set up, Fortified Positions counts as terrain that do not block Line of Sight, und may be used by either side. Units of INF that benefit from Cover inside a Fortified Position may only be Barged by WE in such a way that they are not moved outside of their Fortified Position.",
+        "Fortified Positions are set up at the same time as the formation they are bought with. Units from such Verbände must be set up within the fortified positions, so that no space is left empty. All pieces of fortified positions must be within 5cm from another piece. Once set up, Fortified Positions counts as terrain that do not block Line of Sight, und may be used by either side. Units of INF that benefit from Cover inside a Fortified Position may only be Barged by WE in such a way that they are not moved outside of their Fortified Position.",
         "<b>Gun Emplacement</b>: Provides a Cover Save of 4+ eine unit of INF, oder a 5+ Cover Save to eine unit of AV oder LV (but not H-AV).",
         "<b>Bunker</b>: Provides a Cover Save of 3+ und Verstärkte Heckpanzerung to bis zu drei units of INF. Counts as Dangerous Terrain für AV und WE. Bunkers can be a maximum of 8cm x 8cm in size.",
         "<b>Trench</b>: Provides a cover save of 4+ to INF. May contain eine unit of INF pro 4cm of lenght. Counts as Dangerous Terrain für AV.",
@@ -183,14 +188,14 @@
     {
       "title": "Air Superiority",
       "description": [
-        "Elysianische Sturmtruppen may ignore eine blast marker when rolling to activate aircraft formations.",
-        "In addition, Elysianische Sturmtruppen may instead of starting with garrisons on overwatch place aircrafts on Combat Air Patrol.  Bis zu zwei formations may start on overwatch oder CAP. Aircraft formation placed on CAP in this way will follow all the normal rules für CAP, but are setup during the pre-game garrisoning phase."
+        "Elysianische Sturmtruppen may ignore eine Beschussmarke when rolling to activate aircraft Verbände.",
+        "In addition, Elysianische Sturmtruppen may instead of starting with garrisons on overwatch place aircrafts on Combat Air Patrol.  Bis zu zwei Verbände may start on overwatch oder CAP. Aircraft formation placed on CAP in this way will follow all the normal rules für CAP, but are setup during the pre-game garrisoning phase."
       ]
     },
     {
       "title": "Deep Strike",
       "description": [
-        "An Elysianische Sturmtruppen army that includes a Spacecraft may deploy formations transported in Valkyries, Vendettas oder Sky Talons in the Spacecraft. A Lunar-Klasse Kreuzer can hold eine formation, und a Imperator-Klasse Schlachtschiff bis zu zwei formations. All transport vehicles in a formation deployed in a Spacecraft gains the <i>Planetfall</i> special rule. Roll für scatter individually für jeweils transport vehicle.",
+        "An Elysianische Sturmtruppen army that includes a Spacecraft may deploy Verbände transported in Valkyries, Vendettas oder Sky Talons in the Spacecraft. A Lunar-Klasse Kreuzer can hold eine formation, und a Imperator-Klasse Schlachtschiff bis zu zwei Verbände. All transport vehicles in a formation deployed in a Spacecraft gains the <i>Planetfall</i> special rule. Roll für scatter individually für jeweils transport vehicle.",
         "Before jeweils game, after the opposing army is known but before objectives are placed, the Imperial Guard player may choose which formation(s), if any, that should be deployed in the Spaceship."
       ]
     },
@@ -198,14 +203,14 @@
       "title": "Siege Specialists",
       "description": [
         "Units may re-roll failed dangerous terrain tests when making a move through Minefields oder Razor Wire on the friendly part of the table, und units with <i>Geländegängig</i> may use it against Minefields oder Razor Wire on the enemy part of the table.",
-        "In addition, bis zu drei formations that garrison may start on Overwatch instead of the usual zwei."
+        "In addition, bis zu drei Verbände that garrison may start on Overwatch instead of the usual zwei."
       ]
     },
     {
       "title": "Belagerungsmeister",
       "description": [
         "Units may re-roll failed dangerous terrain tests when making a move through Minefields oder Razor Wire on the friendly part of the table, und units with 'Geländegängig' may use it against Minefields oder Razor Wire on the enemy part of the table.",
-        "In addition, bis zu drei formations that garrison may start on Overwatch instead of the usual zwei, und bis zu zwei formations that garrison ignore the requirement to have eine unit within 15cm of an objective on the friendly half of the table."
+        "In addition, bis zu drei Verbände that garrison may start on Overwatch instead of the usual zwei, und bis zu zwei Verbände that garrison ignore the requirement to have eine unit within 15cm of an objective on the friendly half of the table."
       ]
     },
     {
@@ -213,7 +218,7 @@
       "description": [
         "Tunnellers may be set up touching their own side's table edge before the battle starts at the same time that spacecraft are set up (see 4.3.1). Any units transported in tunnellers should be placed to eine side at this time too. Secretly write down the location where the tunneller will surface at the same time und in the same manner that you record the coordinates of a drop zone (see 4.3.1). You must also secretly record the turn the tunneller will surface. If it is going to surface within 30cm of a table edge within the deployment zone, it may arrive from the first turn. If it is going to surface within 65cm of a table edge within the deployment zone, it may appear on turn zwei. It can appear on any part of the battlefield from the third turn.",
         "Set up the tunneller units at the start of the stated turn, before determining who wins the strategy roll, at the location you wrote down. Surfacing does not Zählt als movement für the purposes of triggering enemy overwatch fire. If a tunneller would have surfaced on terrain that is impassable für it, under a friendly unit, oder in an enemy zone of control, then it is assumed that on-board sensor equipment would divert it towards another entry point. The unit should be moved to the nearest area where it can surface.",
-        "Formations of multiple tunnellers need only record eine location where they will surface. Place the first tunneller unit at this location. All other tunneller units must be placed within 5cm of another tunneller unit that has already been placed und fully within a 15cm radius of the original surfacing coordinates, which can be beyond where tunnellers could appear that turn. Tunnelgräber do not have to roll für dangerous oder difficult terrain when they appear. After all tunnellers have been placed any units being transported are allowed to disembark immediately, und may disembark on the enemy half of the table (if they appear in turn 2).",
+        "Verbände of multiple tunnellers need only record eine location where they will surface. Place the first tunneller unit at this location. All other tunneller units must be placed within 5cm of another tunneller unit that has already been placed und fully within a 15cm radius of the original surfacing coordinates, which can be beyond where tunnellers could appear that turn. Tunnelgräber do not have to roll für dangerous oder difficult terrain when they appear. After all tunnellers have been placed any units being transported are allowed to disembark immediately, und may disembark on the enemy half of the table (if they appear in turn 2).",
         "Disembarking triggers overwatch fire as normal. Tunnellers, und any units being transported in them, may take an action on the turn they appear."
       ]
     },
@@ -244,39 +249,39 @@
     {
       "title": "Extended Command",
       "description": [
-        "Formations with at least eine unit with the 'Extended Command' ability extend the range at which Befehlshabers within the formation can call other formations to follow them when they make a combined assault from 5cm to 15cm (see 2.1.2)."
+        "Verbände with at least eine unit with the 'Extended Command' ability extend the range at which Befehlshabers within the formation can call other Verbände to follow them when they make a combined assault from 5cm to 15cm (see 2.1.2)."
       ]
     },
     {
       "title": "They Shall Know No Fear",
       "description": [
-        "Space Marines are renowned für their tenacity und bravery. This is represented by the following rules:",
-        "<ul><li>It takes 2 Blast Markers to suppress a Space Marine unit oder kill a unit in a broken formation (ignore any leftover Blast Markers)</li><li>Space Marine formations are only broken if they have 2 Blast Markers pro unit in the formation.</li><li>Space Marines formations only count half their number of Blaster markers in assault resolution (rounding down to a minimum of eine). Halve the number of extra hits suffered by a Space Marine formation that loses an assault, rounding down in favour of the Space Marines.</li><li>When a broken Space Marine formation rallies, it receives a number of Blast Markers equal to the number of units, rather than half this number.</li></ul>"
+        "Space Marines are renowned für their tenacity und Tapferkeit. This is represented by the following rules:",
+        "<ul><li>It takes 2 Beschussmarke to suppress a Space Marine unit oder kill a unit in a broken formation (ignore any leftover Beschussmarke)</li><li>Space Marine Verbände are only broken if they have 2 Beschussmarke pro unit in the formation.</li><li>Space Marines Verbände only count half their number of Blaster markers in assault resolution (rounding down to a minimum of eine). Halve the number of extra hits suffered by a Space Marine formation that loses an assault, rounding down in favour of the Space Marines.</li><li>When a broken Space Marine formation rallies, it receives a number of Beschussmarke equal to the number of units, rather than half this number.</li></ul>"
       ]
     },
     {
       "title": "Space Marine Transports",
       "description": [
         "The Space Marines are a highly mobile army. Because of this, the Punkte cost of a detachment usually includes enough Rhino transport vehicles to transport it und any Erweiterungen that have been taken. Determine the number of Rhinos needed after all Erweiterungen have been purchased. The number of Rhinos will always be the minimum needed to carry the formation, you can’t take extras along to cover any losses!",
-        "Note that many formations don’t receive Rhinos, usually because they can’t fit into them. Detachments that come with Rhinos will be noted as having plus transport in the units section of the army list opposite.",
+        "Note that many Verbände don’t receive Rhinos, usually because they can’t fit into them. Detachments that come with Rhinos will be noted as having plus transport in the units section of the army list opposite.",
         "Also note that you don’t have to take Rhinos if you don’t want to. If you’d rather field the formation on foot instead, so it can act as a garrison für example, oder be transported in a Thunderhawk, then you may do so.",
         "In addition, you may choose to replace a detachment’s Rhinos with Drop Pods. If you do this then the detachment will enter play in a Drop Pod using the rules für Planetfall (see Planetfall). Note that if you choose to do this you will also require a Space Marine Strike Cruiser oder Battle Barge to deploy the Drop Pods from.",
-        "Before jeweils game, after the opposing army is known but before objectives are placed, the Space Marine player may choose which formations with the plus transport aspect are deployed in Rhinos, Drop Pods oder on foot. If the formation has any units unable to deploy in Drop Pods then that option cannot be selected."
+        "Before jeweils game, after the opposing army is known but before objectives are placed, the Space Marine player may choose which Verbände with the plus transport aspect are deployed in Rhinos, Drop Pods oder on foot. If the formation has any units unable to deploy in Drop Pods then that option cannot be selected."
       ]
     },
     {
-      "title": "Grey Knights Transports",
+      "title": "Grey Ritters Transports",
       "description": [
-        "Grey Knights formations with 'plus transport' may take Grey Knights Rhinos instead of normal Rhinos."
+        "Grey Ritters Verbände with 'plus transport' may take Grey Ritters Rhinos instead of normal Rhinos."
       ]
     },
     {
       "title": "Imperial Fists Transports",
       "description": [
         "The Imperial Fists are a highly mobile army. Because of this, the Punkte cost of a detachment usually includes enough Rhino transport vehicles to transport it und any Erweiterungen that have been taken. Determine the number of Rhinos needed after all Erweiterungen have been purchased. The number of Rhinos will always be the minimum needed to carry the formation, you can’t take extras along to cover any losses!",
-        "Note that many formations don’t receive Rhinos, usually because they can’t fit into them. Detachments that come with Rhinos will be noted as having plus transport in the units section of the army list opposite.",
+        "Note that many Verbände don’t receive Rhinos, usually because they can’t fit into them. Detachments that come with Rhinos will be noted as having plus transport in the units section of the army list opposite.",
         "Also note that you don’t have to take Rhinos if you don’t want to. If you’d rather field the formation on foot instead, so it can act as a garrison für example, then you may do so.",
-        "Before jeweils game, after the opposing army is known but before objectives are placed, the Imperial Fists player may choose which formations with the plus transport aspect are deployed in Rhinos oder on foot."
+        "Before jeweils game, after the opposing army is known but before objectives are placed, the Imperial Fists player may choose which Verbände with the plus transport aspect are deployed in Rhinos oder on foot."
       ]
     },
     {
@@ -295,21 +300,21 @@
       "title": "White Scars Transports",
       "description": [
         "The White Scars are an exceptionally mobile army. Because of this the Punkte cost of a detachment usually includes enough transport vehicles to transport it und any Erweiterungen that have been taken. The number of vehicles will always be the minimum needed to carry the formation, you can’t take extras along to cover any losses!",
-        "Note that many formations don’t receive transports, usually because they can’t fit into them. Detachments that come with vehicles will be noted as having 'plus transport'. White Scars detachments must take the transport vehicles für a detachment. You cannot leave them behind in order to use the unit as a garrison, to use Teleportieren oder in order to be deployed by a Thunderhawk.",
+        "Note that many Verbände don’t receive transports, usually because they can’t fit into them. Detachments that come with vehicles will be noted as having 'plus transport'. White Scars detachments must take the transport vehicles für a detachment. You cannot leave them behind in order to use the unit as a garrison, to use Teleportieren oder in order to be deployed by a Thunderhawk.",
         "In addition, you may choose to replace a detachment’s Rhinos with Drop Pods. If you do this then the detachment will enter play in a Drop Pod using the rules für Planetfall (see Planetfall). Note that if you choose to do this you will also require a Space Marine Strike Cruiser oder Battle Barge to deploy the Drop Pods from.",
-        "Before jeweils game, after the opposing army is known but before objectives are placed, the White Scars player may choose which formations with the plus transport aspect are deployed in Rhinos oder Drop Pods. If the formation has any units unable to deploy in Drop Pods then that option cannot be selected."
+        "Before jeweils game, after the opposing army is known but before objectives are placed, the White Scars player may choose which Verbände with the plus transport aspect are deployed in Rhinos oder Drop Pods. If the formation has any units unable to deploy in Drop Pods then that option cannot be selected."
       ]
     },
     {
       "title": "Navis Nobilite",
       "description": [
-        "Grey Knight spacecraft are among the fastest und best piloted ships in the Galaxy. If a Grey Knights Strike Cruiser has been bought, the Blood Ravens player counts as having a Strategy Rating of 6 für the purposes of choosing which turn the spacecraft will pass over the battlefield."
+        "Grey Ritter spacecraft are among the fastest und best piloted ships in the Galaxy. If a Grey Ritters Strike Cruiser has been bought, the Blood Ravens player counts as having a Strategy Rating of 6 für the purposes of choosing which turn the spacecraft will pass over the battlefield."
       ]
     },
     {
       "title": "Ad Hoc Detachments",
       "description": [
-        "By necessity, the Ordo Xenos has become experts of improvisation, rapidly mustering local allies und adapting to the Deathwatch's ever-changing roster of skills und individuals. Für this reason, formations with Befehlshaber may also use the ability when their own oder another friendly formation within 5cm of their formation is defending against an assault, declaring both formations to be intermingled (see 1.12.10). Once declared intermingled, the Befehlshabers' formations follow all rules exactly as if the enemy had declared them intermingled. Note that if either player declares intermingling, the formations are intermingled."
+        "By necessity, the Ordo Xenos has become experts of improvisation, rapidly mustering local allies und adapting to the Deathwatch's ever-changing roster of skills und individuals. Für this reason, Verbände with Befehlshaber may also use the ability when their own oder another friendly formation within 5cm of their formation is defending against an assault, declaring both Verbände to be intermingled (see 1.12.10). Once declared intermingled, the Befehlshabers' Verbände follow all rules exactly as if the enemy had declared them intermingled. Note that if either player declares intermingling, the Verbände are intermingled."
       ]
     },
     {
@@ -334,7 +339,7 @@
     {
       "title": "Blood Angels Rhinos",
       "description": [
-        "Blood Angels formations with 'plus transport' may take Blood Angels Rhinos instead of normal Rhinos."
+        "Blood Angels Verbände with 'plus transport' may take Blood Angels Rhinos instead of normal Rhinos."
       ]
     },
     {
@@ -352,16 +357,16 @@
     {
       "title": "Independent",
       "description": [
-        "The Independent special rule allows a Kriegsmaschine formation to operate as zwei independent Kriegsmaschinen für all purposes, including für determining the army BTS (jeweils unit counts as its own formation worth half of the Punkte value of the original formation, including Erweiterungen). If eine of the zwei Kriegsmaschinen are destroyed, the surviving eine immediately recieves a Blast Marker.",
+        "The Independent special rule allows a Kriegsmaschine formation to operate as zwei independent Kriegsmaschinen für all purposes, including für determining the army BTS (jeweils unit counts as its own formation worth half of the Punkte value of the original formation, including Erweiterungen). If eine of the zwei Kriegsmaschinen are destroyed, the surviving eine immediately recieves a Beschussmarke.",
         ""
       ]
     },
     {
       "title": "Telemetrieempfänger",
       "description": [
-        "Units that Teleportieren within 15cm from a friendly, unbroken unit with Telemetrieempfänger (except from teleporting formations) may re-roll 1:s when testing für Teleportieren Mishap.",
-        "In addition, formations that exclusively consists of models with Teleportieren may be set up in a spacecraft if such has been bought. From there, they can either Teleportieren normally, oder coordinate their Teleportieren with the spacecraft's activation.",
-        "Teleports coordinated mit einemspacecraft activation happen after Orbital Barrage, Pin-Points und all events related to formations making Planetfall has been resolved. All such teleports counts as taking place simultaneously, not eine after another. The entire formation must be placed within 15cm of a unit with the Telemetrieempfänger special rule. If they are unable oder unwilling to do so they must wait und Teleportieren normally in later turns."
+        "Units that Teleportieren within 15cm from a friendly, unbroken unit with Telemetrieempfänger (except from teleporting Verbände) may re-roll 1:s when testing für Teleportieren Mishap.",
+        "In addition, Verbände that exclusively consists of models with Teleportieren may be set up in a spacecraft if such has been bought. From there, they can either Teleportieren normally, oder coordinate their Teleportieren with the spacecraft's activation.",
+        "Teleports coordinated mit einemspacecraft activation happen after Orbital Barrage, Pin-Points und all events related to Verbände making Planetfall has been resolved. All such teleports counts as taking place simultaneously, not eine after another. The entire formation must be placed within 15cm of a unit with the Telemetrieempfänger special rule. If they are unable oder unwilling to do so they must wait und Teleportieren normally in later turns."
       ]
     },
     {
@@ -379,13 +384,13 @@
     {
       "title": "Expert Reconnaissance",
       "description": [
-        "Friendly Raven Guard formations that enter the battlefield through <i>Planetfall</i> that are placed within 30cm of a unit with the <i>Expert Reconnaissance</i> special rule does not roll für scatter. In addition, friendly Raven Guard formations that enter the battlefield through <i>Teleportieren</i> und are placed within 15cm of a unit with the <i>Expert Reconnaissance</i> special rule may re-roll 1:s when testing für Teleportieren Mishap."
+        "Friendly Raven Guard Verbände that enter the battlefield through <i>Planetfall</i> that are placed within 30cm of a unit with the <i>Expert Reconnaissance</i> special rule does not roll für scatter. In addition, friendly Raven Guard Verbände that enter the battlefield through <i>Teleportieren</i> und are placed within 15cm of a unit with the <i>Expert Reconnaissance</i> special rule may re-roll 1:s when testing für Teleportieren Mishap."
       ]
     },
     {
       "title": "Fleet of Foot",
       "description": [
-        "Dark Eldar und Harlequin formations gain +1 when attempting to make a March action. In addition, they may still lend support fire in assaults, help claim a crossfire bonus, und fire AA after taking a March action."
+        "Dark Eldar und Harlequin Verbände gain +1 when attempting to make a March action. In addition, they may still lend support fire in assaults, help claim a crossfire bonus, und fire AA after taking a March action."
       ]
     },
     {
@@ -403,9 +408,9 @@
     {
       "title": "Webway Portal",
       "description": [
-        "A army that includes any Webway Portals may place bis zu drei formations in reserve, Infanterie Einheiten in these reserve formations may Zählt als Beritten in their transports. These formations may enter play by activating und moving onto the table through a friendly Webway Portal during the game, measuring their first move from any part of the position the portal occupies on the battlefield.",
+        "A army that includes any Webway Portals may place bis zu drei Verbände in reserve, Infanterie Einheiten in these reserve Verbände may Zählt als Beritten in their transports. These Verbände may enter play by activating und moving onto the table through a friendly Webway Portal during the game, measuring their first move from any part of the position the portal occupies on the battlefield.",
         "A Webway Portal may only be used once pro turn, und if the formation fails to activate when attempting to enter via a Webway, it may only take a hold action offboard und regroup. Only INF, LV, oder AVs with the Geländegängig ability may use Webway Portals. H-AV units may not use portals unless noted otherwise.",
-        "Jeweils time a formation uses a broken Portal it receives eine Blast Marker.",
+        "Jeweils time a formation uses a broken Portal it receives eine Beschussmarke.",
         "If a Webway is in an enemy zone of control, any formation that enters through it must Engage that formation(s). In addition, if it is also directly under an enemy formation, any formation that enters must maximize base contact as much as possible."
       ]
     },
@@ -418,7 +423,7 @@
     {
       "title": "Shadowfields",
       "description": [
-        "Jeweils Shadowfield will automatically stop eine point of damage und then go down. Do not make armour saves für damage stopped by Shadowfields, oder allocate Blast Markers. Once all of a vehicle oder war engine’s Shadowfields have been knocked down, it may be damaged normally und you may make saving throws against any hits that are scored. Hits from close combat ignore Shadowfields but units using their firefight values must first knock down any Shadowfields before they can cause any damage. While a vehicle oder war engine has at least eine operating Shadowfield it counts as being obscured (1.8.2), meaning that all shooting (including AA) without the Ignore Cover ability receive a -1 to hit modifier."
+        "Jeweils Shadowfield will automatically stop eine point of damage und then go down. Do not make armour saves für damage stopped by Shadowfields, oder allocate Beschussmarke. Once all of a vehicle oder war engine’s Shadowfields have been knocked down, it may be damaged normally und you may make saving throws against any hits that are scored. Hits from close combat ignore Shadowfields but units using their firefight values must first knock down any Shadowfields before they can cause any damage. While a vehicle oder war engine has at least eine operating Shadowfield it counts as being obscured (1.8.2), meaning that all shooting (including AA) without the Ignore Cover ability receive a -1 to hit modifier."
       ]
     },
     {
@@ -432,7 +437,7 @@
       "description": [
         "The Great Drake must begin the game in reserve. In the Strategy Phase of any turn, before the strategy roll place the Great Drake within 15cm of a Worldsinger unit.",
         "The Great Drake counts as its own formation und may only enter play in this manner.",
-        "While on the table, the Great Drake may only contest objectives. Remove the Great Drake in the End Phase of the turn it arrived, before rallying formations oder counting objectives. Once removed it may not return."
+        "While on the table, the Great Drake may only contest objectives. Remove the Great Drake in the End Phase of the turn it arrived, before rallying Verbände oder counting objectives. Once removed it may not return."
       ]
     },
     {
@@ -440,7 +445,7 @@
       "description": [
         "The Avatar must begin the game in reserve. In the Strategy Phase of any turn, before the strategy roll place the Avatar within 15cm of a Farseer unit.",
         "The Avatar counts as its own formation und may only enter play in this manner.",
-        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying formations oder counting objectives. Once removed it may not return."
+        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying Verbände oder counting objectives. Once removed it may not return."
       ]
     },
     {
@@ -448,7 +453,7 @@
       "description": [
         "The Avatar must begin the game in reserve. In the Strategy Phase of any turn, before the strategy roll place the Avatar within 15cm of a Spiritseer character oder a Farseer unit.",
         "The Avatar counts as its own formation und may only enter play in this manner.",
-        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying formations oder counting objectives. Once removed it may not return."
+        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying Verbände oder counting objectives. Once removed it may not return."
       ]
     },
     {
@@ -456,7 +461,7 @@
       "description": [
         "The Avatar must begin the game in reserve. In the Strategy Phase of any turn, before the strategy roll place the Avatar within 15cm of a Beritten Farseer unit.",
         "The Avatar counts as its own formation und may only enter play in this manner.",
-        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying formations oder counting objectives. Once removed it may not return."
+        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying Verbände oder counting objectives. Once removed it may not return."
       ]
     },
     {
@@ -464,7 +469,7 @@
       "description": [
         "The Avatar must begin the game in reserve. In the Strategy Phase of any turn, before the strategy roll place the Avatar within 15cm of a Spiritseer character oder a Wraithseer unit.",
         "The Avatar counts as its own formation und may only enter play in this manner.",
-        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying formations oder counting objectives. Once removed it may not return."
+        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying Verbände oder counting objectives. Once removed it may not return."
       ]
     },
     {
@@ -472,7 +477,7 @@
       "description": [
         "The Avatar must begin the game in reserve. In the Strategy Phase of any turn, before the strategy roll place the Avatar within 15cm of a Spiritseer character.",
         "The Avatar counts as its own formation und may only enter play in this manner.",
-        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying formations oder counting objectives. Once removed it may not return."
+        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying Verbände oder counting objectives. Once removed it may not return."
       ]
     },
     {
@@ -480,7 +485,7 @@
       "description": [
         "The Avatar must begin the game in reserve. In the Strategy Phase of any turn, before the strategy roll place the Avatar within 15cm of a Seer Council oder Farseer unit.",
         "The Avatar counts as its own formation und may only enter play in this manner.",
-        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying formations oder counting objectives. Once removed it may not return."
+        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying Verbände oder counting objectives. Once removed it may not return."
       ]
     },
     {
@@ -488,7 +493,7 @@
       "description": [
         "The Avatar must begin the game in reserve. In the Strategy Phase of any turn, before the strategy roll place the Avatar within 15cm of a Farseer unit.",
         "The Avatar counts as its own formation und may only enter play in this manner.",
-        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying formations oder counting objectives. Once removed it may not return."
+        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying Verbände oder counting objectives. Once removed it may not return."
       ]
     },
     {
@@ -496,7 +501,7 @@
       "description": [
         "The Avatar must begin the game in reserve. In the Strategy Phase of any turn, before the strategy roll place the Avatar within 15cm of a Farseer unit.",
         "The Avatar counts as its own formation und may only enter play in this manner.",
-        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying formations oder counting objectives. Once removed it may not return."
+        "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying Verbände oder counting objectives. Once removed it may not return."
       ]
     },
     {
@@ -550,7 +555,7 @@
     {
       "title": "May not Garrison (Fir Lirithion)",
       "description": [
-        "No formations are allowed to garrison in the Epic tournament game scenario."
+        "No Verbände are allowed to garrison in the Epic tournament game scenario."
       ]
     },
     {
@@ -568,7 +573,7 @@
     {
       "title": "Farsight",
       "description": [
-        "Eldar formations that include a unit with the Farsight ability may ignore the -1 penalty to Action test rolls when attempting to retain the Initiative.",
+        "Eldar Verbände that include a unit with the Farsight ability may ignore the -1 penalty to Action test rolls when attempting to retain the Initiative.",
         "In addition once pro turn the Eldar player may attempt to retain the Initiative twice in a row (i.e. allowing the Eldar player to take 3 activations in a row). Any Eldar formation may be selected, including those without a unit with Farsight, but at least eine unit with the Farsight ability must be in play on the battlefield.",
         "The formation selected must still carry out an Action Test mit einem-1 modifier, unless the selected formation has a unit with the Farsight ability."
       ]
@@ -576,14 +581,14 @@
     {
       "title": "Hit und Run",
       "description": [
-        "Eldar/Dark Eldar/Harlequin formations that perform an Advance oder Double action may choose to shoot either before oder after jeweils move, but may still only shoot once. If the formation chooses to Double the -1 to hit penalty applies even if the shot is taken before moving. In addition, formations that win an assault may consolidate bis zu their speed value rather than the normal 5cms."
+        "Eldar/Dark Eldar/Harlequin Verbände that perform an Advance oder Double action may choose to shoot either before oder after jeweils move, but may still only shoot once. If the formation chooses to Double the -1 to hit penalty applies even if the shot is taken before moving. In addition, Verbände that win an assault may consolidate bis zu their speed value rather than the normal 5cms."
       ]
     },
     {
       "title": "Holofields (x)",
       "description": [
         "Holofields provide a saving throw to the value of 'x'. This save may always be taken even against weapons with the Macro Weapon oder Titan Killer abilities.",
-        "If a unit has Verstärkte Panzerung it may use its re-roll unless hit by a Lanze, Macro Weapon oder Titan Killer attack but the re-roll uses the units armour value. Hits saved by the Holofield do not generate Blast Markers, even if they have the Disrupt ability.",
+        "If a unit has Verstärkte Panzerung it may use its re-roll unless hit by a Lanze, Macro Weapon oder Titan Killer attack but the re-roll uses the units armour value. Hits saved by the Holofield do not generate Beschussmarke, even if they have the Disrupt ability.",
         "Against Titan Killer attacks that cause extra damage make eine Holofield save roll, if this is successful the unit takes no damage, if the roll fails it suffers all the damage.",
         "Holofield saves can be reduced by modifiers such as the -1 to saves from a cross fire und weapons with the Scharfschütze ability. If a unit with Holofield also has a save from being in Cover, it must choose which save to use."
       ]
@@ -597,14 +602,14 @@
     {
       "title": "Independent Twins",
       "description": [
-        "Allows a formation of Revenant Titans to operate as zwei independent Kriegsmaschinen für all purposes, including für determining the army BTS. If eine of the pair is destroyed, the surviving Revenant Synchronisierter receives a Blast Marker.",
+        "Allows a formation of Revenant Titans to operate as zwei independent Kriegsmaschinen für all purposes, including für determining the army BTS. If eine of the pair is destroyed, the surviving Revenant Synchronisierter receives a Beschussmarke.",
         "In addition, Independent Twins may use the Befehlshaber ability with its Synchronisierter. In this case, the Befehlshaber ability counts as having an unlimited range instead of the normal 5cm."
       ]
     },
     {
       "title": "Cegorach, the Laughing God",
       "description": [
-        "As long as there is at least eine Solitaire present on the battlefield, all enemy non-Harlequin formations counts as being within 30cm of an enemy unit für the purposes of rally tests during the End Phase."
+        "As long as there is at least eine Solitaire present on the battlefield, all enemy non-Harlequin Verbände counts as being within 30cm of an enemy unit für the purposes of rally tests during the End Phase."
       ]
     },
     {
@@ -633,8 +638,8 @@
         "To summon daemons the formation declares its intention to summon before any action roll is made (but after the choice of action). If the formation that wishes to Summon is being transported inside another formation (e.g. a Chaos Thunderhawk) it cannot choose to Summon when the Chaos Thunderhawk prepares to activate.",
         "The player then rolls 2D3 to generate the number of Summoning Points available für this formation. The formation may then summon daemons bis zu the number of Summoning Points generated, with any Punkte not used lost, bis zu the number of Lesser oder Greater Daemon Pool Punkte left.",
         "Summoned units must be setup with their base completely within 5cm of any non-summoned unit in the summoning formation (i.e. You cannot place a chain of summoned units). If the summoning formation has the Transport ability, newly summoned units can be set up inside if there is space left. They cannot be placed in enemy zones of control oder impassable terrain. Summoned units become part of the summoning formation für all rules purposes as long as they remain on the battlefield.",
-        "Summoned Lesser Daemons are Entbehrlich, but they are otherwise counted as normal units, und are included when working out if a formation outnumbers an opponent in an assault oder is broken by Blast Markers, etc. Note that Daemons that are killed in an assault do count towards the number of units killed by the enemy when working out modifiers für assault resolution.",
-        "Summoned units remain in play until the End Phase of the turn in which they were summoned. After all formations have attempted to rally any summoned units are removed from play und the total of their Daemon Pool cost is returned to the relevant Daemon Pool. This may cause the formation to break, if the number of Blast Markers now equals oder exceeds the number of units in the formation.",
+        "Summoned Lesser Daemons are Entbehrlich, but they are otherwise counted as normal units, und are included when working out if a formation outnumbers an opponent in an assault oder is broken by Beschussmarke, etc. Note that Daemons that are killed in an assault do count towards the number of units killed by the enemy when working out modifiers für assault resolution.",
+        "Summoned units remain in play until the End Phase of the turn in which they were summoned. After all Verbände have attempted to rally any summoned units are removed from play und the total of their Daemon Pool cost is returned to the relevant Daemon Pool. This may cause the formation to break, if the number of Beschussmarke now equals oder exceeds the number of units in the formation.",
         "When a formation becomes broken all its summoned units are destroyed.",
         "When calculating victory Punkte, the Lesser Daemon Pool scores half Punkte if the pool has less than oder equal to half (round up) its original number of daemons remaining. The Lesser Daemon Pool scores full Punkte if the pool has less than oder equal to a quarter (round up) its daemons remaining. Treat Greater Daemons as Kriegsmaschinen für the purpose of calculating victory Punkte."
       ]
@@ -642,7 +647,7 @@
     {
       "title": "Black Legion Summoning Rules",
       "description": [
-        "All formations in the Black Legion worship Chaos Undivided. Chaos Undivided formations with Daemonic Pact may summon any of the following Daemons (brackets indicating the Summoning Points cost):",
+        "All Verbände in the Black Legion worship Chaos Undivided. Chaos Undivided Verbände with Daemonic Pact may summon any of the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).",
         "Greater Daemons: Slaanesh Keeper of Secrets (8), Nurgle Great Unclean Ein (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
@@ -652,7 +657,7 @@
     {
       "title": "Word Bearers Summoning Rules",
       "description": [
-        "All formations in Word Bearers worship Chaos Undivided. Chaos Undivided formations with Daemonic Pact may summon any of the following Daemons (brackets indicating the Summoning Points cost):",
+        "All Verbände in Word Bearers worship Chaos Undivided. Chaos Undivided Verbände with Daemonic Pact may summon any of the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).",
         "Greater Daemons: Slaanesh Keeper of Secrets (8), Nurgle Great Unclean Ein (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
@@ -662,7 +667,7 @@
     {
       "title": "Emperor's Children Summoning Rules",
       "description": [
-        "All formations in Emperor's Children worship the Prince of Pleasure, Slaanesh. Formations with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
+        "All Verbände in Emperor's Children worship the Prince of Pleasure, Slaanesh. Verbände with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1), Seekers of Slaanesh (2)",
         "Greater Daemons: Keeper of Secrets (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
@@ -672,7 +677,7 @@
     {
       "title": "Death Guard Summoning Rules",
       "description": [
-        "All formations in Death Guard worship the Plague Lord, Nurgle. Formations with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
+        "All Verbände in Death Guard worship the Plague Lord, Nurgle. Verbände with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Plaguebearers of Nurgle (1), Beasts of Nurgle (1), Plague Drones of Nurgle (2)",
         "Greater Daemons: Great Unclean Ein (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
@@ -682,7 +687,7 @@
     {
       "title": "World Eaters Summoning Rules",
       "description": [
-        "All formations in World Eaters worship the Blood God, Khorne. Formations with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
+        "All Verbände in World Eaters worship the Blood God, Khorne. Verbände with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Bloodletters of Khorne (1), Fleshhounds of Khorne (1), Bloodcrushers of Khorne (2)",
         "Greater Daemons: Bloodthirster (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
@@ -692,7 +697,7 @@
     {
       "title": "Thousand Sons Summoning Rules",
       "description": [
-        "All formations in Thousand Sons worship the Architect of Fate, Tzeentch. Formations with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
+        "All Verbände in Thousand Sons worship the Architect of Fate, Tzeentch. Verbände with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Horrors of Tzeentch (1), Flammenwerfer of Tzeentch (1), Screamers of Tzeentch (1)",
         "Greater Daemons: Lord of Change (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
@@ -702,7 +707,7 @@
     {
       "title": "Lost und the Damned Summoning Rules",
       "description": [
-        "All Chaos Cultists formations in the Lost und the Damned worship Chaos Undivided. Formations with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
+        "All Chaos Cultists Verbände in the Lost und the Damned worship Chaos Undivided. Verbände with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
         "Greater Daemons: Keeper of Secrets (8), Great Unclean Ein (8), Bloodthirster (8), Lord of Change (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
@@ -712,7 +717,7 @@
     {
       "title": "Alpha Legion Summoning Rules",
       "description": [
-        "All Alpha Legion Cultist formations worship Chaos Undivided. Formations with Daemonic Icon may summon the following Daemons (brackets indicating the Summoning Points cost):",
+        "All Alpha Legion Cultist Verbände worship Chaos Undivided. Verbände with Daemonic Icon may summon the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
         "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
       ]
@@ -720,7 +725,7 @@
     {
       "title": "Night Lords Summoning Rules",
       "description": [
-        "All Night Lords formations are aligned with Chaos Undivided. Formations mit einemunit with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
+        "All Night Lords Verbände are aligned with Chaos Undivided. Verbände mit einemunit with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Furies of Chaos Undivided (2)",
         "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
       ]
@@ -728,7 +733,7 @@
     {
       "title": "Slaves to Darkness Summoning Rules",
       "description": [
-        "All formations in the Slaves to Darkness worship Chaos Undivided. Formations with either a Daemonic Icon unit oder a Daemonic Pact formation upgrade may summon the following Daemons (brackets indicating the Summoning Points cost):",
+        "All Verbände in the Slaves to Darkness worship Chaos Undivided. Verbände with either a Daemonic Icon unit oder a Daemonic Pact formation upgrade may summon the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
         "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine.",
         "Füge eine Lesser Daemon Pool point to the Lesser Daemon Pool für jeweils unit with Daemonic Icon, oder formation with Daemonic Pact."
@@ -737,7 +742,7 @@
     {
       "title": "Daemonic Incursion Summoning Rules",
       "description": [
-        "Formations in a Daemonic Incursion army may summon Lesser Daemons from the power they are aligned with. They do not need an upgrade to do so. Cultist Coven formations are aligned with all powers present in the army at the start of the battle. (Brackets indicating the Summoning Points cost):",
+        "Verbände in a Daemonic Incursion army may summon Lesser Daemons from the power they are aligned with. They do not need an upgrade to do so. Cultist Coven Verbände are aligned with all powers present in the army at the start of the battle. (Brackets indicating the Summoning Points cost):",
         "Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1), Seekers of Slaanesh (2)",
         "Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1), Plague Drones of Nurgle (2)",
         "Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1), Bloodcrushers of Khorne (2)",
@@ -749,7 +754,7 @@
     {
       "title": "TTL Summoning Rules",
       "description": [
-        "TTL formations with Daemonic Pact may summon Lesser Daemons from the power they are aligned with (brackets indicating the Summoning Points cost):",
+        "TTL Verbände with Daemonic Pact may summon Lesser Daemons from the power they are aligned with (brackets indicating the Summoning Points cost):",
         "Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1)",
         "Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1)",
         "Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1)",
@@ -762,7 +767,7 @@
     {
       "title": "QT Summoning Rules",
       "description": [
-        "Formations with Daemonic Pact in a Questor Traitoris army may summon Lesser Daemons from the power they are aligned with (brackets indicating the Summoning Points cost):",
+        "Verbände with Daemonic Pact in a Questor Traitoris army may summon Lesser Daemons from the power they are aligned with (brackets indicating the Summoning Points cost):",
         "Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1)",
         "Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1)",
         "Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1)",
@@ -834,14 +839,14 @@
     {
       "title": "Changer of Ways",
       "description": [
-        "Formations containing Thousands Sons Daemon Princes und Scarab Occult Terminatoren may only contain units of INF und AV units with Geländegängig, und must be held in the reserves at the start of the game. Such formations may only enter the Battlefield through a Warp Rift."
+        "Verbände containing Thousands Sons Daemon Princes und Scarab Occult Terminatoren may only contain units of INF und AV units with Geländegängig, und must be held in the reserves at the start of the game. Such Verbände may only enter the Battlefield through a Warp Rift."
       ]
     },
     {
       "title": "Daemon Engine (x)",
       "description": [
-        "Formations where at least eine unit has the Daemon Engine (x) special rule gain the bonus associated with that faction:",
-        "<ul><li>Chaos Undivided: Formation ignores the -1 modifier für enemy formations within 30cm when rallying.</li><li>Khorne: Formation gains +1 to activate when attempting to Engage.</li><li>Nurgle: Formation gains +1 to activate when attempting to Marshal.</li><li>Slaanesh: Formation gains +1 to activate when attempting to Double.</li><li>Tzeentch: Formation gains +1 to activate when attempting to Advance.</li></ul>"
+        "Verbände where at least eine unit has the Daemon Engine (x) special rule gain the bonus associated with that faction:",
+        "<ul><li>Chaos Undivided: Formation ignores the -1 modifier für enemy Verbände within 30cm when rallying.</li><li>Khorne: Formation gains +1 to activate when attempting to Engage.</li><li>Nurgle: Formation gains +1 to activate when attempting to Marshal.</li><li>Slaanesh: Formation gains +1 to activate when attempting to Double.</li><li>Tzeentch: Formation gains +1 to activate when attempting to Advance.</li></ul>"
       ]
     },
     {
@@ -889,47 +894,47 @@
     {
       "title": "Infestation",
       "description": [
-        "Formations completely made up of units with the <i>Infestation</i> special rule must be held in reserve und deployed using the Teleportieren rules. In addition, units with the <i>Infestation</i> special rule may only contest scenario objectives."
+        "Verbände completely made up of units with the <i>Infestation</i> special rule must be held in reserve und deployed using the Teleportieren rules. In addition, units with the <i>Infestation</i> special rule may only contest scenario objectives."
       ]
     },
     {
       "title": "LatD Eternal Animosity",
       "description": [
         "Jeweils Support Coven in a Lost und the Damned army owes allegiance to either eine of the Ruinous Powers oder to Chaos Undivided. With the exception of Chaos Undivided, the different factions harbour eternal animosity against jeweils other. This state of affairs is represented by the following rules:",
-        "A Lost und the Damned army with formations belonging to the faction of Khorne may not include formations from the faction of Slaanesh (und vice-versa).",
-        "A Lost und the Damned army with formations belonging to the faction of Nurgle may not include formations from the faction of Tzeentch (und vice-versa)."
+        "A Lost und the Damned army with Verbände belonging to the faction of Khorne may not include Verbände from the faction of Slaanesh (und vice-versa).",
+        "A Lost und the Damned army with Verbände belonging to the faction of Nurgle may not include Verbände from the faction of Tzeentch (und vice-versa)."
       ]
     },
     {
       "title": "StD Eternal Animosity",
       "description": [
         "Jeweils Dark Mechanicus allied formation in a Slaves to Darkness army owes allegiance to either eine of the Ruinous Powers oder to Chaos Undivided. With the exception of Chaos Undivided, the different factions harbour eternal animosity against jeweils other. This state of affairs is represented by the following rules:",
-        "A Slaves to Darkness army with formations belonging to the faction of Khorne may not include formations from the faction of Slaanesh (und vice-versa).",
-        "A Slaves to Darkness army with formations belonging to the faction of Nurgle may not include formations from the faction of Tzeentch (und vice-versa)."
+        "A Slaves to Darkness army with Verbände belonging to the faction of Khorne may not include Verbände from the faction of Slaanesh (und vice-versa).",
+        "A Slaves to Darkness army with Verbände belonging to the faction of Nurgle may not include Verbände from the faction of Tzeentch (und vice-versa)."
       ]
     },
     {
       "title": "DI Eternal Animosity",
       "description": [
         "Jeweils Daemon Formation in a Daemonic Incursion army owes allegiance to either eine of the Ruinous Powers. With the exception of Chaos Undivided, the different factions harbour eternal animosity against jeweils other. This state of affairs is represented by the following rules:",
-        "A Daemonic Incursion army with formations belonging to the faction of Khorne may not include formations from the faction of Slaanesh (und vice-versa).",
-        "A Daemonic Incursion army with formations belonging to the faction of Nurgle may not include formations from the faction of Tzeentch (und vice-versa)."
+        "A Daemonic Incursion army with Verbände belonging to the faction of Khorne may not include Verbände from the faction of Slaanesh (und vice-versa).",
+        "A Daemonic Incursion army with Verbände belonging to the faction of Nurgle may not include Verbände from the faction of Tzeentch (und vice-versa)."
       ]
     },
     {
       "title": "TTL Eternal Animosity",
       "description": [
         "Jeweils formation in a Traitor Titan Legion army owes allegiance to either eine of the Ruinous Powers oder Chaos Undivided. With the exception of Chaos Undivided, the different factions harbour eternal animosity against jeweils other. This state of affairs is represented by the following rules:",
-        "A Traitor Titan Legion army with formations belonging to the faction of Khorne may not include formations from the faction of Slaanesh (und vice-versa).",
-        "A Traitor Titan Legion army with formations belonging to the faction of Nurgle may not include formations from the faction of Tzeentch (und vice-versa)."
+        "A Traitor Titan Legion army with Verbände belonging to the faction of Khorne may not include Verbände from the faction of Slaanesh (und vice-versa).",
+        "A Traitor Titan Legion army with Verbände belonging to the faction of Nurgle may not include Verbände from the faction of Tzeentch (und vice-versa)."
       ]
     },
     {
       "title": "QT Eternal Animosity",
       "description": [
         "Jeweils formation in a Questor Traitoris army owes allegiance to either eine of the Ruinous Powers oder Chaos Undivided. With the exception of Chaos Undivided, the different factions harbour eternal animosity against jeweils other. This state of affairs is represented by the following rules:",
-        "A Questor Traitoris army with formations belonging to the faction of Khorne may not include formations from the faction of Slaanesh (und vice-versa).",
-        "A Questor Traitoris army with formations belonging to the faction of Nurgle may not include formations from the faction of Tzeentch (und vice-versa)."
+        "A Questor Traitoris army with Verbände belonging to the faction of Khorne may not include Verbände from the faction of Slaanesh (und vice-versa).",
+        "A Questor Traitoris army with Verbände belonging to the faction of Nurgle may not include Verbände from the faction of Tzeentch (und vice-versa)."
       ]
     },
     {
@@ -946,13 +951,13 @@
     {
       "title": "The Great Ritual",
       "description": [
-        "All Exalted Greater Daemons und all Daemon Legion formations must be held in the reserves at the start of the game. Exalted Greater Daemons may either enter the battlefield through a Warp Rift, oder they can enter through a Chaos Gate (even if they had previously plotted a Warp Rift). Daemon Legion formations may only enter the battlefield through a Chaos Gate."
+        "All Exalted Greater Daemons und all Daemon Legion Verbände must be held in the reserves at the start of the game. Exalted Greater Daemons may either enter the battlefield through a Warp Rift, oder they can enter through a Chaos Gate (even if they had previously plotted a Warp Rift). Daemon Legion Verbände may only enter the battlefield through a Chaos Gate."
       ]
     },
     {
       "title": "Terror From Beyond",
       "description": [
-        "All Exalted Greater Daemon formations must be destroyed in order für the opponent to claim the Daemonic Incursion BTS objective. All Exalted Greater Daemon formations in the reserves are destroyed if they are still there during the End Phase of turn 3.",
+        "All Exalted Greater Daemon Verbände must be destroyed in order für the opponent to claim the Daemonic Incursion BTS objective. All Exalted Greater Daemon Verbände in the reserves are destroyed if they are still there during the End Phase of turn 3.",
         "In addition, as long as the Daemon Incursion army still contains any Exalted Greater Daemons it may re-roll a single failed Initiative test of any type once pro turn. If all Exalted Greater Daemons are in the Reserves they may only use the re-roll on themselves."
       ]
     },
@@ -965,7 +970,7 @@
     {
       "title": "Warp Rift",
       "description": [
-        "Formations with at least eine model with the Warp Rift special rule must start the game in the reserves, und may only enter the battlefield through a Warp Rift oder a Chaos Gate.",
+        "Verbände with at least eine model with the Warp Rift special rule must start the game in the reserves, und may only enter the battlefield through a Warp Rift oder a Chaos Gate.",
         "Warp Rifts are plotted exactly as Self Planetfall. Both the turn in which the formation arrives und the landing coordinates must be recorded. The turn jeweils formation arrives does not have to be announced.",
         "The plotted coordinates of the Warp Rift must be located within 60cm from the friendly Blitz objective if the formation arrives in turn eine, und anywhere on the battlefield on turn zwei oder drei.",
         "On the designated turn the Warp Rift formation is activated in the normal activation sequence, as with Self Planetfall.",
@@ -979,10 +984,10 @@
     {
       "title": "Chaos Gate",
       "description": [
-        "Daemonic Incursion formations that are located in the Reserves may use Chaos Gates to enter the battlefield. Any number of formations can use a Chaos Gate pro turn if it is part of an objective, but only eine formation pro turn can use a Chaos Gate Beritten on a Kriegsmaschine.",
+        "Daemonic Incursion Verbände that are located in the Reserves may use Chaos Gates to enter the battlefield. Any number of Verbände can use a Chaos Gate pro turn if it is part of an objective, but only eine formation pro turn can use a Chaos Gate Beritten on a Kriegsmaschine.",
         "First the action für the formation must be decided. After this roll to summon daemons, und then roll to activate. If the formation fails to activate it must take a Hold action. It may then either enter the battlefield through any available Chaos Gate, oder choose to remain in the reserves.",
         "Chaos Gates that are part of objectives cannot be destroyed, while Chaos Gates Beritten on Kriegsmaschinen are destroyed if that Kriegsmaschine is destroyed.",
-        "Any formation that enters the battlefield through a Chaos Gate Beritten on a Kriegsmaschine that is broken recieves a Blast Marker. Measure all movement from the Chaos Gate from the centre of the token, oder the edge of the Kriegsmaschine.",
+        "Any formation that enters the battlefield through a Chaos Gate Beritten on a Kriegsmaschine that is broken recieves a Beschussmarke. Measure all movement from the Chaos Gate from the centre of the token, oder the edge of the Kriegsmaschine.",
         "If a Chaos Gate is in an enemy zone of control, any formation that enters through it must Engage that formation(s). In addition, if it is also directly under an enemy formation, any formation that enters must maximize base contact as much as possible."
       ]
     },
@@ -995,18 +1000,18 @@
     {
       "title": "Sabotage",
       "description": [
-        "Before rolling für the first turn und before teleports the player may select eine enemy formation pro formation of containing at least eine unit with the 'Sabotage' special rule (both formations must have been deployed on the battlefield) und roll a D6.",
-        "On 2-5, the enemy formation begins the game mit einemBlast Marker. On a roll of 6, it begins with d3 Blast Markers. On a roll of 1, the formation with 'Sabotage' recieves a Blast Marker. No formation may be subject to Sabotage more than once, even if the first roll is a 1."
+        "Before rolling für the first turn und before teleports the player may select eine enemy formation pro formation of containing at least eine unit with the 'Sabotage' special rule (both Verbände must have been deployed on the battlefield) und roll a D6.",
+        "On 2-5, the enemy formation begins the game mit einemBeschussmarke. On a roll of 6, it begins with d3 Beschussmarke. On a roll of 1, the formation with 'Sabotage' recieves a Beschussmarke. No formation may be subject to Sabotage more than once, even if the first roll is a 1."
       ]
     },
     {
       "title": "Alpha Legion Transports",
       "description": [
         "The Alpha Legion are a highly mobile army. Because of this, the Punkte cost of a detachment usually includes enough Rhino transport vehicles to transport it und any Erweiterungen that have been taken. Determine the number of Rhinos needed after all Erweiterungen have been purchased. The number of Rhinos will always be the minimum needed to carry the formation, you can’t take extras along to cover any losses!",
-        "Note that many formations don’t receive Rhinos, usually because they can’t fit into them. Detachments that come with Rhinos will be noted as having plus transport in the units section of the army list opposite.",
+        "Note that many Verbände don’t receive Rhinos, usually because they can’t fit into them. Detachments that come with Rhinos will be noted as having plus transport in the units section of the army list opposite.",
         "Also note that you don’t have to take Rhinos if you don’t want to. If you’d rather field the formation on foot instead, so it can act as a garrison für example, oder be transported in a Storm Eagle, then you may do so.",
         "In addition, you may choose to replace a detachment’s Rhinos with Drop Pods. If you do this then the detachment will enter play in a Drop Pods using the rules für Planetfall (see Planetfall). Note that if you choose to do this you will also require a Chaos Strike Cruiser deploy the Drop Pods from.",
-        "Before jeweils game, after the opposing army is known but before objectives are placed, the Alpha Legion player may choose which formations with the plus transport aspect are deployed in Rhinos, Drop Pods oder on foot. If the formation has any units unable to deploy in Drop Pods then that option cannot be selected."
+        "Before jeweils game, after the opposing army is known but before objectives are placed, the Alpha Legion player may choose which Verbände with the plus transport aspect are deployed in Rhinos, Drop Pods oder on foot. If the formation has any units unable to deploy in Drop Pods then that option cannot be selected."
       ]
     },
     {
@@ -1018,7 +1023,7 @@
     {
       "title": "Klauen Forever Red",
       "description": [
-        "In addition to being counted für suppression, Night Lords units may also use Handfeuerwaffen to shoot. While incapable of doing direct damage, this will still inflict a Blast Marker on enemy formations that come under fire."
+        "In addition to being counted für suppression, Night Lords units may also use Handfeuerwaffen to shoot. While incapable of doing direct damage, this will still inflict a Beschussmarke on enemy Verbände that come under fire."
       ]
     },
     {
@@ -1030,7 +1035,7 @@
     {
       "title": "Necron Garrisons",
       "description": [
-        "Only Necron Phalanx und Canoptek Swarm formations may garrison in Epic Tournament scenarios. Necron Phalanx formations may only garrison from a Tomb Complex objective."
+        "Only Necron Phalanx und Canoptek Swarm Verbände may garrison in Epic Tournament scenarios. Necron Phalanx Verbände may only garrison from a Tomb Complex objective."
       ]
     },
     {
@@ -1067,16 +1072,16 @@
       "title": "Necron Portals",
       "description": [
         "Necron Portals can only be used by INF und by any AV oder LV unit that has <i>Geländegängig</i>. Jeweils portal can be used only once pro turn für either entering oder exiting the battlefield, but not both.",
-        "A formation that is in the reserves may enter play via a unit with <i>Portal</i> as part of any action that allows movement. Measure their movement using the centre of the objective (in case of a Tomb Complex) oder edge of the unit. Formations may also leave the board und re-enter the reserves by moving into a Portal. Additionally a formation can leave the board by having a portal pick them up, in a similar way an air transport can pick up friendly units. When a unit with <i>Portal</i> ends an action within 5cm of all units in a friendly formation the Necron player can chose to activate the portal to move that formation back to the reserves. Broken units with <i>Portal</i> can not be used to pick up formations in this way.",
+        "A formation that is in the reserves may enter play via a unit with <i>Portal</i> as part of any action that allows movement. Measure their movement using the centre of the objective (in case of a Tomb Complex) oder edge of the unit. Verbände may also leave the board und re-enter the reserves by moving into a Portal. Additionally a formation can leave the board by having a portal pick them up, in a similar way an air transport can pick up friendly units. When a unit with <i>Portal</i> ends an action within 5cm of all units in a friendly formation the Necron player can chose to activate the portal to move that formation back to the reserves. Broken units with <i>Portal</i> can not be used to pick up Verbände in this way.",
         "When a formation enters the reserves the formation can re-enter play immediately via another <i>Portal</i> oder stay in the reserves. Entering oder exiting a <i>Portal</i> requires a full move, meaning that a formation using a double action can exit the battlefield in the first move und use it's second move to enter play again using another <i>Portal</i>, but a formation can not use an advance oder engage action to enter eine und exit another <i>Portal</i> as part of the same move. Any units that are out of coherency at the end of any move is destroyed. A formation picked up by a <i>Portal</i> must remain in the reserves until they can activate to re-enter play. A formation can activate to enter play on the same turn it was picked up, given that the formation had not already activated before it was picked up.",
-        "Jeweils time a formation uses a <i>Portal</i> on a unit that is broken, it receives eine Blast Marker. This also goes für broken formations using a broken portal, meaning that eine unit will be lost unless all units are Furchtlos.",
+        "Jeweils time a formation uses a <i>Portal</i> on a unit that is broken, it receives eine Beschussmarke. This also goes für broken Verbände using a broken portal, meaning that eine unit will be lost unless all units are Furchtlos.",
         "If a <i>Portal</i> is in an enemy zone of control, any formation that enters through it must Engage the blocking formation. In addition, if it is also directly under an enemy unit, the portal can still be used to enter the battlefield but the formation that enters must maximize base contact as much as possible with the blocking units."
       ]
     },
     {
       "title": "Implacable Advance",
       "description": [
-        "Necron formations receive a +1 bonus when attempting to perform a Marshal action, but suffer a -1 penalty when attempting to perform a March action."
+        "Necron Verbände receive a +1 bonus when attempting to perform a Marshal action, but suffer a -1 penalty when attempting to perform a March action."
       ]
     },
     {
@@ -1094,7 +1099,7 @@
     {
       "title": "Enduring",
       "description": [
-        "Necron formations containing units with <i>Enduring</i> don’t <i>Phase Out</i>. If the formation has lost all units with <i>Enduring</i> it <i>Phase Out</i> as normal."
+        "Necron Verbände containing units with <i>Enduring</i> don’t <i>Phase Out</i>. If the formation has lost all units with <i>Enduring</i> it <i>Phase Out</i> as normal."
       ]
     },
     {
@@ -1118,9 +1123,9 @@
     {
       "title": "Super-Entbehrlich",
       "description": [
-        "A formation does not receive a Blast Marker when a unit with Super-Entbehrlich is destroyed, this includes the extra Blast Marker from the first casualty of a crossfire und für units destroyed für being out of formation after a move. If a Super-Entbehrlich unit is hit by a weapon with Disrupt it does not inflict a Blast Marker.",
+        "A formation does not receive a Beschussmarke when a unit with Super-Entbehrlich is destroyed, this includes the extra Beschussmarke from the first casualty of a crossfire und für units destroyed für being out of formation after a move. If a Super-Entbehrlich unit is hit by a weapon with Disrupt it does not inflict a Beschussmarke.",
         "Super-Entbehrlich units killed in an assault do not count when working out the result.",
-        "Formations comprised completely of Entbehrlich und/oder Super-Entbehrlich units do not benefit from any of the rules above."
+        "Verbände comprised completely of Entbehrlich und/oder Super-Entbehrlich units do not benefit from any of the rules above."
       ]
     },
     {
@@ -1138,7 +1143,7 @@
     {
       "title": "Mob Rule",
       "description": [
-        "Orks believe that as long as there’s a bunch of them still fighting together (slightly more than they can count bis zu is ideal!) then there’s always a chance that they’ll prevail, no matter the odds. To represent this, Ork formations with more than fünf units (i.e., too many to count on the fingers of eine hand), not including Grotz oder Big Gunz units, receive a +1 modifier to any rally rolls they make, und formations with more than 10 such units receive a +2 modifier. Für the purposes of this rule Kriegsmaschinen count jeweils point of starting damage capacity as a unit. Kriegsmaschinen with the 'Gottgleiche Maschine' special rule always counts as being more than 10 units."
+        "Orks believe that as long as there’s a bunch of them still fighting together (slightly more than they can count bis zu is ideal!) then there’s always a chance that they’ll prevail, no matter the odds. To represent this, Ork Verbände with more than fünf units (i.e., too many to count on the fingers of eine hand), not including Grotz oder Big Gunz units, receive a +1 modifier to any rally rolls they make, und Verbände with more than 10 such units receive a +2 modifier. Für the purposes of this rule Kriegsmaschinen count jeweils point of starting damage capacity as a unit. Kriegsmaschinen with the 'Gottgleiche Maschine' special rule always counts as being more than 10 units."
       ]
     },
     {
@@ -1150,13 +1155,13 @@
     {
       "title": "Rush ‘em Ladz",
       "description": [
-        "Formations that contain eine oder more units with the <i>Rush ‘em Ladz</i> special rule receive a +1 modifier to their Action Test roll when attempting to carry out a March action."
+        "Verbände that contain eine oder more units with the <i>Rush ‘em Ladz</i> special rule receive a +1 modifier to their Action Test roll when attempting to carry out a March action."
       ]
     },
     {
       "title": "Power of the Waaagh!",
       "description": [
-        "Orks are not noted für their organisational abilities, und thus usually have a pretty low Initiative. However, if there is eine thing that will galvanise an Ork warband, it’s the thought of a good punch-up! Because of this, Ork formations that are attempting to take engage oder double actions receive a +2 modifier to their Action Test roll. Ork Flyboyz similarly relish the chance to shoot things up, und receive a +2 modifier to their Action Test roll when attempting to carry out Interception oder Ground Attack actions (see Aircraft)."
+        "Orks are not noted für their organisational abilities, und thus usually have a pretty low Initiative. However, if there is eine thing that will galvanise an Ork warband, it’s the thought of a good punch-up! Because of this, Ork Verbände that are attempting to take engage oder double actions receive a +2 modifier to their Action Test roll. Ork Flyboyz similarly relish the chance to shoot things up, und receive a +2 modifier to their Action Test roll when attempting to carry out Interception oder Ground Attack actions (see Aircraft)."
       ]
     },
     {
@@ -1174,21 +1179,21 @@
     {
       "title": "Heizakult",
       "description": [
-        "Every unit in a Evil Sunz Heizakult army must either have a speed of 30cm plus, oder be transported in a unit mit einemspeed of 30cm plus. In other words, formations may not include units mit einemspeed of less than 30cm unless they also have a transport vehicle capable of carrying the unit around."
+        "Every unit in a Evil Sunz Heizakult army must either have a speed of 30cm plus, oder be transported in a unit mit einemspeed of 30cm plus. In other words, Verbände may not include units mit einemspeed of less than 30cm unless they also have a transport vehicle capable of carrying the unit around."
       ]
     },
     {
       "title": "Coordinated Fire",
       "description": [
-        "A formation that contains at least eine unit with Coordinated Fire can order bis zu zwei other un-broken formations within 15cm that have not taken an action this turn to follow their own formation when they take an Advance, Double oder Sustained Fire action.",
-        "Make a single Initiative roll für all foarmations, counting a single -1 modifier if any have Blast Markers. If the test is failed then the original formation (containing the unit calling für Coordinated Fire) receives a Blast Marker und must take a hold action. The other formations are unaffected (und may take an action later in the turn). If the test is passed then all formations concerned are allowed to take either an Advance, Double oder Sustained Fire action.",
-        "There is no obligation für all formations to take the same action, und these actions may be resolved in any order, but they must all fire at the same target formation. If the formation being activated is unable oder unwilling to fire at the selected formation, it cannot fire at all that turn. The formations don’t have to stay within a given distance of jeweils other und will complete their actions eine after the other. Jeweils formations action is declared und resolved (including testing to see if the target formation breaks) before moving on to the next Tau formation."
+        "A formation that contains at least eine unit with Coordinated Fire can order bis zu zwei other un-broken Verbände within 15cm that have not taken an action this turn to follow their own formation when they take an Advance, Double oder Sustained Fire action.",
+        "Make a single Initiative roll für all foarmations, counting a single -1 modifier if any have Beschussmarke. If the test is failed then the original formation (containing the unit calling für Coordinated Fire) receives a Beschussmarke und must take a hold action. The other Verbände are unaffected (und may take an action later in the turn). If the test is passed then all Verbände concerned are allowed to take either an Advance, Double oder Sustained Fire action.",
+        "There is no obligation für all Verbände to take the same action, und these actions may be resolved in any order, but they must all fire at the same target formation. If the formation being activated is unable oder unwilling to fire at the selected formation, it cannot fire at all that turn. The Verbände don’t have to stay within a given distance of jeweils other und will complete their actions eine after the other. Jeweils Verbände action is declared und resolved (including testing to see if the target formation breaks) before moving on to the next Tau formation."
       ]
     },
     {
-      "title": "Deflector Shield",
+      "title": "Energiefeld",
       "description": [
-        "Tau Deflector Shields work like an Unmodifizierter Rettungswurf in all respects, except it is 5+ instead of 6+. Against Titan Killer attacks, WE und H-AV must make eine Unmodifizierter Rettungswurf against jeweils point of damage."
+        "Tau Energiefelds work like an Unmodifizierter Rettungswurf in all respects, except it is 5+ instead of 6+. Against Titan Killer attacks, WE und H-AV must make eine Unmodifizierter Rettungswurf against jeweils point of damage."
       ]
     },
     {
@@ -1202,26 +1207,26 @@
     {
       "title": "Markerlights",
       "description": [
-        "All enemy formations with at least eine unit within 30cm range und Line of Sight of at least eine Tau unit with the Markerlights special rule is considered to be Marked. When shooting at a Marked formation, all ranged Feuerkraft attacks gain einen zusätzlichen +1 modifier to their To-Hit roll. This bonus für shooting at a Marked enemy may not be used when making Anti-Aircraft attacks, oder with BP type attacks. A Tau formation that is broken oder has Marched this turn may not mark enemy formations."
+        "All enemy Verbände with at least eine unit within 30cm range und Line of Sight of at least eine Tau unit with the Markerlights special rule is considered to be Marked. When shooting at a Marked formation, all ranged Feuerkraft attacks gain einen zusätzlichen +1 modifier to their To-Hit roll. This bonus für shooting at a Marked enemy may not be used when making Anti-Aircraft attacks, oder with BP type attacks. A Tau formation that is broken oder has Marched this turn may not mark enemy Verbände."
       ]
     },
     {
       "title": "Tau Jet Packs",
       "description": [
-        "Tau Jet Packs follow all the rules für Sprungmodule. In addition, formations that exclusively consists of units with Tau Jet Packs are allowed to make an extra move of bis zu 10cm at the end of an Advance, Double oder March action. The extra move is allowed whether oder not the unit fires und takes place after any firing. This extra move may be in any direction und follows all the normal movement rules, so unit coherency und zones of control must be adhered to as usual."
+        "Tau Jet Packs follow all the rules für Sprungmodule. In addition, Verbände that exclusively consists of units with Tau Jet Packs are allowed to make an extra move of bis zu 10cm at the end of an Advance, Double oder March action. The extra move is allowed whether oder not the unit fires und takes place after any firing. This extra move may be in any direction und follows all the normal movement rules, so unit coherency und zones of control must be adhered to as usual."
       ]
     },
     {
       "title": "Tiger Shark Gun Drones",
       "description": [
-        "Transported Gun Drone formations may be split across multiple Tiger Sharks as an exception to the normal aircraft transport rules. The Tiger Sharks cannot land, Engage, oder embark units, but can disembark transported Gun Drones after an approach move. The Gun Drone formation may shoot when it disembarks as normal (see Transporting Ground Units), und counts as having activated für that turn. After this initial deployment the Gun Drones are a completely independent formation."
+        "Transported Gun Drone Verbände may be split across multiple Tiger Sharks as an exception to the normal aircraft transport rules. The Tiger Sharks cannot land, Engage, oder embark units, but can disembark transported Gun Drones after an approach move. The Gun Drone formation may shoot when it disembarks as normal (see Transporting Ground Units), und counts as having activated für that turn. After this initial deployment the Gun Drones are a completely independent formation."
       ]
     },
     {
       "title": "Synapse",
       "description": [
-        "The following rules applies to Primary und Secondary Synapse Swarm formations only. Synapse creatures are any unit with the 'Synapse' special rule. A Synapse Swarm with no remaining Synapse creatures has an Initiative Rating of 3+ und may neither capture nor contest objectives, including They Shall Not Pass.",
-        "A Synapse Swarm with remaining Synapse creatures can absorb other Synapse Swarm formations with no remaining Synapse creatures at the end of its action. The formation must have eine unit within 5cm of a unit from the formation(s) being absorbed. The units und Blast Markers of an absorbed formation become part of the formation (broken formations are considered to have an equal number of Blast Markers as the number of remaining units/starting DC). An absorbed formation is considered completely destroyed für the purposes of tie-break und the Break Their Spirit objective."
+        "The following rules applies to Primary und Secondary Synapse Swarm Verbände only. Synapse creatures are any unit with the 'Synapse' special rule. A Synapse Swarm with no remaining Synapse creatures has an Initiative Rating of 3+ und may neither capture nor contest objectives, including They Shall Not Pass.",
+        "A Synapse Swarm with remaining Synapse creatures can absorb other Synapse Swarm Verbände with no remaining Synapse creatures at the end of its action. The formation must have eine unit within 5cm of a unit from the formation(s) being absorbed. The units und Beschussmarke of an absorbed formation become part of the formation (broken Verbände are considered to have an equal number of Beschussmarke as the number of remaining units/starting DC). An absorbed formation is considered completely destroyed für the purposes of tie-break und the Break Their Spirit objective."
       ]
     },
     {
@@ -1233,7 +1238,7 @@
     {
       "title": "Broodmind",
       "description": [
-        "All Genestealer Cult formations containing an Iconward, Magus, Primus, Patriarch, oder Broodlord receive a +1 modifier to their Action Test when carrying out an Engage action, und gain a +1 modifier when attempting to Rally."
+        "All Genestealer Cult Verbände containing an Iconward, Magus, Primus, Patriarch, oder Broodlord receive a +1 modifier to their Action Test when carrying out an Engage action, und gain a +1 modifier when attempting to Rally."
       ]
     },
     {
@@ -1245,7 +1250,7 @@
     {
       "title": "Hive Mind",
       "description": [
-        "All Tyranid formations receive a +1 modifier to their Action Test when carrying out an Engage action, und a +1 modifier to their Rally Tests."
+        "All Tyranid Verbände receive a +1 modifier to their Action Test when carrying out an Engage action, und a +1 modifier to their Rally Tests."
       ]
     },
     {
@@ -1287,7 +1292,7 @@
     {
       "title": "Swarm (x)",
       "description": [
-        "In the End Phase, before formations have rallied, all unbroken Tyranid formations with both Swarm (x) und Synapse creatures may 'Swarm'.",
+        "In the End Phase, before Verbände have rallied, all unbroken Tyranid Verbände with both Swarm (x) und Synapse creatures may 'Swarm'.",
         "Für jeweils Swarm point, eine unit with the 'Gaunts' rule that has been lost during the battle may be added to the formation, but jeweils unit with 'Swarm (x)' may only bring back the types of units that are within brackets next to its 'Gaunt Pouch'.",
         "All units returned to play in this manner must be placed within 5cm of a unit from the formation that was there prior to Swarming, und may not be placed in enemy zones of control oder impassable terrain. Not all generated Swarm Punkte need to be used, but may not be saved für future turns."
       ]
@@ -1301,7 +1306,7 @@
     {
       "title": "Brood Brothers",
       "description": [
-        "As long as a formation contains eine Genestealer Patriarch, Genestealer Primus, Genestealer Magus, oder Hybrid Iconward, units in in the same formation with the 'Brood Brothers' special rule do not cause Blast Markers when they are destroyed, oder when hit by a weapon with the 'Disrupt' special rule. This includes the extra Blast Marker from the first casualty of a crossfire und für units destroyed für being out of formation after a move. Units with 'Brood Brothers' that are killed in an assault count für the purposes of working out its result."
+        "As long as a formation contains eine Genestealer Patriarch, Genestealer Primus, Genestealer Magus, oder Hybrid Iconward, units in in the same formation with the 'Brood Brothers' special rule do not cause Beschussmarke when they are destroyed, oder when hit by a weapon with the 'Disrupt' special rule. This includes the extra Beschussmarke from the first casualty of a crossfire und für units destroyed für being out of formation after a move. Units with 'Brood Brothers' that are killed in an assault count für the purposes of working out its result."
       ]
     },
     {

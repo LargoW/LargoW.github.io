@@ -7,7 +7,7 @@
   "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Iron Hands Space Marine chapter oder any of its successor chapters. The Iron Hands are notable für their heavy use of bionics und their reverence für all things mechanical, und thus their close ties to the Adeptus Mechanicus.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Iron Hands detachments und aircraft formations.",
+  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Iron Hands detachments und aircraft Verbände.",
   "specialRules": [
     "Space Marine Transports",
     "They Shall Know No Fear"
@@ -69,7 +69,7 @@
   "sections": [
     {
       "name": "Iron Hands Core Detachments",
-      "formations": [
+      "Verbände": [
         {
           "name": "Cybot Clan",
           "units": "Ein Iron Hands Captain oder Techmarine, vier Taktischer Trupp plus transport, und any zwei of the following: Cybot, Hellfire Cybot, Siege Cybot",
@@ -101,7 +101,7 @@
     {
       "name": "Iron Hands Support Detachments",
       "description": "Zwei Support Detachments may be taken pro Core Detachment",
-      "formations": [
+      "Verbände": [
         {
           "name": "Cybot Talon",
           "units": "Any vier of the following: Cybot, Hellfire Cybot, Siege Cybot. Plus transport.",
@@ -167,8 +167,8 @@
     },
     {
       "name": "Iron Hands Navy & Collegia Titanica Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "Storm Talons",
           "units": "Zwei Storm Talons",

@@ -1,13 +1,13 @@
 {
   "fraction": "Adeptus Mechanicus",
-  "army": "Knight World",
+  "army": "Ritter World",
   "version": "1.0.Beta",
   "release": "2022-04-01",
-  "armyforge": "EAR_AdeptusMechanicus_KnightWorld",
-  "strategy": "Knight World Armeen haben einen Strategiewert von 2.",
-  "Initiative": "All Verbände haben eine Initiativewert von 2+. In addition, all Knight Household formations are subject to the 'Bravery' special rule.",
+  "armyforge": "EAR_AdeptusMechanicus_RitterWorld",
+  "strategy": "Ritter World Armeen haben einen Strategiewert von 2.",
+  "Initiative": "All Verbände haben eine Initiativewert von 2+. In addition, all Ritter Household Verbände are subject to the 'Tapferkeit' special rule.",
   "specialRules": [
-    "Bravery",
+    "Tapferkeit",
     "Fortified Positions"
   ],
   "units": [
@@ -15,17 +15,17 @@
       "from": "QK.json",
       "units": [
         "Seneschal",
-        "Knight-Baron",
+        "Ritter-Baron",
         "Paladinritter",
-        "Knight-Castellan",
-        "Knight-Lancer",
+        "Ritter-Castellan",
+        "Ritter-Lancer",
         "Wächterritter Demolisher",
         "Wächterritter Vanquisher",
         "Wächterritter Skysweeper",
-        "Knight-Fahrender Ritter"
+        "Fahrender Ritter"
       ],
       "unitRules": [
-        "Ion Shield (x)",
+        "Ionenfeld (x)",
         "Lightning Charge",
         "Schwergepanzertes Fahrzeug (H-AV)",
         "Lanze"
@@ -57,66 +57,66 @@
   ],
   "sections": [
     {
-      "name": "Knight World Core Households",
-      "formations": [
+      "name": "Ritter World Core Households",
+      "Verbände": [
         {
           "name": "Paladin Household",
-          "units": "Fünf Knight-Paladins",
+          "units": "Fünf Ritter-Paladins",
           "extraUnits": [
             "Seneschal",
-            "Knight-Paladins",
-            "Knight-Baron"
+            "Ritter-Paladins",
+            "Ritter-Baron"
           ],
           "points": 450
         }
       ]
     },
     {
-      "name": "Knight World Support Households",
+      "name": "Ritter World Support Households",
       "description": " Bis zu zwei Support Households für jeweils Core Household.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Castellan Household",
-          "units": "Zwei Knight-Castellans (any combination configurations)",
+          "units": "Zwei Ritter-Castellans (any combination configurations)",
           "extraUnits": [
             "Seneschal",
-            "Knight-Castellans"
+            "Ritter-Castellans"
           ],
           "points": 300
         },
         {
           "name": "Fahrender Ritter Household",
-          "units": "Drei Knight-Errants",
+          "units": "Drei Ritter-Errants",
           "extraUnits": [
             "Seneschal",
-            "Knight-Errants"
+            "Ritter-Errants"
           ],
           "points": 325
         },
         {
           "name": "Lancer Household",
-          "units": "Drei Knight-Lancer",
+          "units": "Drei Ritter-Lancer",
           "extraUnits": [
             "Seneschal",
-            "Knight-Lancer"
+            "Ritter-Lancer"
           ],
           "points": 350
         },
         {
           "name": "Wächterritter Household",
-          "units": "Vier Knight-Wardens (any combination of configurations)",
+          "units": "Vier Ritter-Wardens (any combination of configurations)",
           "extraUnits": [
             "Seneschal",
-            "Knight-Wardens"
+            "Ritter-Wardens"
           ],
           "points": 350
         }
       ]
     },
     {
-      "name": "Knight World Retainer Formations",
+      "name": "Ritter World Retainer Verbände",
       "description": " Bis zu eine Retainer Formation für jeweils Core oder Support Household.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Planetary Defense Zug",
           "units": "Acht PDF Infanterie",
@@ -153,7 +153,7 @@
     {
       "name": "Verbände der Imperialen Luftstreitkräfte",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Thunderbolt Schwadron",
           "units": "Zwei Thunderbolts",
@@ -168,7 +168,7 @@
     }
   ],
   "Erweiterungen": {
-    "title": "Knight World Erweiterungen",
+    "title": "Ritter World Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
@@ -177,28 +177,28 @@
         "points": "25 Punkte"
       },
       {
-        "name": "0-1 Knight-Baron",
-        "description": "Ersetze the Seneschal und its Knight mit einemKnight-Baron",
+        "name": "0-1 Ritter-Baron",
+        "description": "Ersetze the Seneschal und its Ritter mit einemRitter-Baron",
         "points": "50 Punkte"
       },
       {
-        "name": "Knight-Castellans",
-        "description": "Füge bis zu zwei Knight-Castellans of any configuration",
+        "name": "Ritter-Castellans",
+        "description": "Füge bis zu zwei Ritter-Castellans of any configuration",
         "points": "125 Punkte jeweils"
       },
       {
-        "name": "Knight-Lancer",
-        "description": "Füge bis zu zwei Knight-Lancer",
+        "name": "Ritter-Lancer",
+        "description": "Füge bis zu zwei Ritter-Lancer",
         "points": "100 Punkte jeweils"
       },
       {
-        "name": "Knight-Wardens",
-        "description": "Füge bis zu zwei Knight-Wardens of any configuration",
+        "name": "Ritter-Wardens",
+        "description": "Füge bis zu zwei Ritter-Wardens of any configuration",
         "points": "75 Punkte jeweils"
       },
       {
-        "name": "Knight-Errants",
-        "description": "Füge bis zu zwei Knight-Errants",
+        "name": "Ritter-Errants",
+        "description": "Füge bis zu zwei Ritter-Errants",
         "points": "100 Punkte jeweils"
       },
       {
@@ -219,8 +219,8 @@
     ]
   },
   "about": [
-    "v1.0.Beta: The Knight World list is a mix of the E-UK und NetEA Knight lists, with stats und structure taken from both. As these lists are based on the retro-40k 1990s fluff, most Knights have had their names changed to prevent naming conflicts with the Knights in the current fluff.",
-    "The biggest change from the E-UK und the NetEA Knights is obviously the fact that Knights no longer are DC2 WE, but are H-AV instead. This change makes Knight formations a lot more sane to play with/against, und makes it a lot easier to stay within the EA rules. It also means that sniping the Baron mit einemPin-Point is no longer an issue.",
-    "Another significant change is that the Retainer formations are more accessible, making the list a bit more flexible."
+    "v1.0.Beta: The Ritter World list is a mix of the E-UK und NetEA Ritter lists, with stats und structure taken from both. As these lists are based on the retro-40k 1990s fluff, most Ritters have had their names changed to prevent naming conflicts with the Ritters in the current fluff.",
+    "The biggest change from the E-UK und the NetEA Ritters is obviously the fact that Ritters no longer are DC2 WE, but are H-AV instead. This change makes Ritter Verbände a lot more sane to play with/against, und makes it a lot easier to stay within the EA rules. It also means that sniping the Baron mit einemPin-Point is no longer an issue.",
+    "Another significant change is that the Retainer Verbände are more accessible, making the list a bit more flexible."
   ]
 }

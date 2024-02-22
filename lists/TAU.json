@@ -147,7 +147,7 @@
         "specialRules": [
           "Entbehrlich",
           "Tau Jet Packs",
-          "Deflector Shield"
+          "Energiefeld"
         ]
       },
       {
@@ -590,7 +590,7 @@
         ],
         "specialRules": [
           "Tau Jet Pack",
-          "Tau Deflector Shield",
+          "Tau Energiefeld",
           "Geländegängig"
         ]
       },
@@ -654,11 +654,11 @@
         "specialRules": [
           "Schadenskapazität 5",
           "Furchtlos",
-          "Tau Deflector Shield",
+          "Tau Energiefeld",
           "Geländegängig"
         ],
         "notes": "Entweder mit Nexus Rakete Array, Heavy Railcannon, oder Pulse Ordnance Multi Driver.",
-        "crit": "The Tau Deflector Shield is knocked offline und may not be used für the remainder of the game. Subsequent critical hits cause einen zusätzlichen point of damage."
+        "crit": "The Tau Energiefeld is knocked offline und may not be used für the remainder of the game. Subsequent critical hits cause einen zusätzlichen point of damage."
       },
       {
         "name": "Manta",
@@ -679,12 +679,12 @@
           "Markerlights",
           "Planetfall",
           "Verstärkte Panzerung",
-          "Support Craft",
-          "Tau Deflector Shield",
+          "Hilfstransportschiff",
+          "Tau Energiefeld",
           "Transport"
         ],
         "notes": "May transport zwölf Fire Warriors, Pathfinders, XV15 Stealth Battlesuits, XV25 Stealth Battlesuits, Gun Drones, Kroot Warriors, Kroot Master Shapers und Kroot Hounds. Krootox, XV8 Crisis, XV9-04 Hazard, XV88 Broadside und XV95 Ghostkeel Battlesuits counts as zwei Einheiten. In addition may carry acht Piranha und Tetra. Devilfish, Hammerhead und Sky Ray counts as zwei Einheiten.",
-        "crit": "The Tau Deflector Shield is knocked offline und may not be used für the remainder of the game. Subsequent critical hits cause einen zusätzlichen point of damage."
+        "crit": "The Tau Energiefeld is knocked offline und may not be used für the remainder of the game. Subsequent critical hits cause einen zusätzlichen point of damage."
       }
     ]
   }

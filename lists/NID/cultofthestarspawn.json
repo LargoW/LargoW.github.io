@@ -4,7 +4,7 @@
   "version": "0.6.5",
   "release": "2022-04-01",
   "strategy": "Tyranid Armeen haben einen Strategiewert von 1.",
-  "Initiative": "The Cult Kompanie und all Cult Support Verbände haben eine Initiativewert von 2+, und are subject to the 'Brood Brothers' special rule. All other formations have an Initative Rating of 1+.",
+  "Initiative": "The Cult Kompanie und all Cult Support Verbände haben eine Initiativewert von 2+, und are subject to the 'Brood Brothers' special rule. All other Verbände have an Initative Rating of 1+.",
   "specialRules": [
     "Broodcoven",
     "Broodmind",
@@ -51,9 +51,9 @@
   ],
   "sections": [
     {
-      "name": "Cult Core Formations",
+      "name": "Cult Core Verbände",
       "description": "Ein Nexus Brood formation must be taken.",
-      "formations": [
+      "Verbände": [
         {
           "name": "1 Nexus Brood",
           "units": "Ein Genestealer Patriarch, drei Genestealers, drei Hybrid Acolytes",
@@ -82,9 +82,9 @@
       ]
     },
     {
-      "name": "Coven Vanguard Formations",
+      "name": "Coven Vanguard Verbände",
       "description": "Ein Coven Vanguard formation may be taken für jeweils Cult Core formation.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Genestealer Brood",
           "units": "Ein Broodlord, sechs Genestealers",
@@ -127,9 +127,9 @@
       ]
     },
     {
-      "name": "Coven Ambush Formations",
+      "name": "Coven Ambush Verbände",
       "description": "Ein Coven Ambush formation may be taken für jeweils Coven Vanguard formation. ",
-      "formations": [
+      "Verbände": [
         {
           "name": "Lictor Swarm",
           "units": "Fünf Lictors",
@@ -149,7 +149,7 @@
     {
       "name": "Cult Unterstützungsverbände",
       "description": "Ein Cult Support formation may be taken pro Cult Core formation.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Cult Superschwerer Zug",
           "units": "Ein Coven Locus character, eine Cult Baneblade oder Cult Stormblade",

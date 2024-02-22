@@ -5,7 +5,7 @@
   "release": "2023-01-09",
   "armyforge": "EAR_Inquisition_AdeptaSororitas",
   "strategy": "Adepta Sororitas Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Ordo Hereticus formations including the Inquisitor Retinue, und Verbände der Imperialen Luftstreitkräfte, have an Initiative Rating of 2+. All other formations have an Initiative of 1+.",
+  "Initiative": "Ordo Hereticus Verbände including the Inquisitor Retinue, und Verbände der Imperialen Luftstreitkräfte, have an Initiative Rating of 2+. All other Verbände have an Initiative of 1+.",
   "specialRules": [
   ],
   "units": [
@@ -39,7 +39,7 @@
       ],
       "unitRules": [
             "Gläubig",
-        "Machine Spirit"
+        "Maschinengeist"
       ]
     },
     {
@@ -69,9 +69,9 @@
   ],
   "sections": [
     {
-      "name": "Adepta Sororitas Core Formations",
+      "name": "Adepta Sororitas Core Verbände",
       "description": "",
-      "formations": [
+      "Verbände": [
         {
           "name": "Mission",
           "units": "Ein Palatine, acht Battle Sisters",
@@ -99,7 +99,7 @@
     {
       "name": "Adepta Sororita Unterstützungsverbände",
       "description": "Zwei Adepta Sororitas Unterstützungsverbände may be taken pro Adepta Sororitas Core Formation",
-      "formations": [
+      "Verbände": [
         {
           "name": "Immolation",
           "units": "Ein Palatine, drei Celestian Sisters, drei Sororitas Immolators",
@@ -157,9 +157,9 @@
       ]
     },
     {
-      "name": "Ordo Hereticus Formations",
+      "name": "Ordo Hereticus Verbände",
       "description": "Ein Ordo Hereticus Formation may be taken pro Adepta Sororitas Core Formation",
-      "formations": [
+      "Verbände": [
         {
           "name": "Vulture",
           "units": "Vier Vultures",
@@ -186,7 +186,7 @@
     {
       "name": "Verbände der Imperialen Luftstreitkräfte",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte",
-      "formations": [
+      "Verbände": [
         {
           "name": "Lightning Schwadron",
           "units": "Zwei Lightning Interceptors",

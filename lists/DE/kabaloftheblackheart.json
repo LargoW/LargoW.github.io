@@ -5,7 +5,7 @@
   "release": "2023-01-28",
   "armyforge": "EAR_DarkEldar_KabaloftheBlackHeart",
   "strategy": "Kabal of the Black Heart Armeen haben einen Strategiewert von 4.",
-  "Initiative": "All Black Heart Kabal formations, as well as the Wych Cult und Executioner formations, have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "All Black Heart Kabal Verbände, as well as the Wych Cult und Executioner Verbände, have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Fleet of Foot",
     "Hit und Run",
@@ -46,7 +46,7 @@
       "unitRules": [
       "Lanze",
       "Shadowfields",
-      "Support Craft",
+      "Hilfstransportschiff",
       "Schnell wie der Wind"
       ]
     },
@@ -59,14 +59,14 @@
         "Torture Class Cruiser"
       ],
       "unitRules": [
-        "Shield Disruptor"
+        "Schildstörer"
       ]
     }
   ],
   "sections": [
     {
       "name": "Dark Eldar Specials",
-      "formations": [
+      "Verbände": [
         {
           "name": "0-1 Wraithgate",
           "units": "Ersetze eine objective marker in the Dark Eldar player's half of the table mit einemWraithgate, this counts as an objective marker und a Webway Portal which may not be attacked oder damaged in any way.",
@@ -75,9 +75,9 @@
       ]
     },
     {
-      "name": "Black Heart Kabal Formations",
+      "name": "Black Heart Kabal Verbände",
       "description": "The army must contain eine Black Heart Coterie",
-      "formations": [
+      "Verbände": [
         {
           "name": "1 Black Heart Coterie",
           "units": "Ein Arcon in a unit of Incubi, drei Incubi",
@@ -112,9 +112,9 @@
       ]
     },
     {
-      "name": "Black Heart Partisan Formations",
-      "description": " Bis zu zwei Partisan Formations may be taken für jeweils Kabal Formation",
-      "formations": [
+      "name": "Black Heart Partisan Verbände",
+      "description": " Bis zu zwei Partisan Verbände may be taken für jeweils Kabal Formation",
+      "Verbände": [
           {
             "name": "Mandrake Throng",
             "units": "Vier Mandrakes",
@@ -187,8 +187,8 @@
     },
     {
       "name": "Commorragh Navy & Kriegsmaschinen",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Commorragh Navy und Kriegsmaschine formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Commorragh Navy und Kriegsmaschine Verbände",
+      "Verbände": [
         {
           "name": "Executioner",
           "units": "Ein Executioner Landing Module",

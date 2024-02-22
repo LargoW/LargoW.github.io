@@ -6,7 +6,7 @@
   "armyforge": "EAR_Eldar_Ulthwe",
   "intro": "The following army list allows you to field an Eldar army from the Ulthwé Craftworld.",
   "strategy": "Craftworld Eldar Armeen haben einen Strategiewert von 4. Craftworld Ulthwé are also subject to the 'Seers of Ulthwé' special rule.",
-  "Initiative": "Ulthwé Warhosts, Aspect Warriors, Wraith Knights, Titans und the Avatar Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "Ulthwé Warhosts, Aspect Warriors, Wraith Ritters, Titans und the Avatar Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Seers of Ulthwé",
     "Avatar (Ulthwé)",
@@ -45,7 +45,7 @@
         "Fire Prism",
         "Night Spinner",
         "Firestorm",
-        "Wraithknight",
+        "WraithRitter",
         "Scorpion",
         "Cobra",
         "Storm Serpent",
@@ -56,7 +56,7 @@
         "Holofields (x)",
         "Lanze",
         "Schildbohrer",
-        "Shield Disruptor"
+        "Schildstörer"
       ]
     },
     {
@@ -75,7 +75,7 @@
   "sections": [
     {
       "name": "Ulthwé Special",
-      "formations": [
+      "Verbände": [
         {
           "name": "0-1 Avatar",
           "units": "Ein Avatar",
@@ -92,7 +92,7 @@
     },
     {
       "name": "Ulthwé Warhosts",
-      "formations": [
+      "Verbände": [
         {
           "name": "Black Guardian Warhost",
           "units": "Zwei Farseers, sechs Eldar Guardians",
@@ -121,7 +121,7 @@
     {
       "name": "Ulthwé Line Troupes",
       "description": " Bis zu zwei Ulthwé Line Troupes für jeweils Ulthwé Warhost",
-      "formations": [
+      "Verbände": [
           {
             "name": "War Walkers",
             "units": "Vier War Walkers",
@@ -188,8 +188,8 @@
     },
     {
       "name": "Ulthwé Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "Nightwing Aerie",
           "units": "Zwei Nightwing Interceptors",
@@ -213,8 +213,8 @@
           "points": 200
         },
         {
-          "name": "Wraithknights",
-          "units": "Zwei Wraithknights (may not mix configurations)",
+          "name": "WraithRitters",
+          "units": "Zwei WraithRitters (may not mix configurations)",
           "extraUnits": [
           ],
           "points": 325

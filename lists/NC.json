@@ -87,7 +87,7 @@
           "Gauss Flayers"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Entbehrlich",
           "Regeneration"
         ]
@@ -163,7 +163,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Machine Spirit",
+          "Maschinengeist",
           "Entbehrlich",
           "Infiltratoren",
           "Regeneration"
@@ -180,7 +180,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Machine Spirit",
+          "Maschinengeist",
           "Entbehrlich",
           "Aufklärer",
           "Regeneration",
@@ -402,7 +402,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Machine Spirit",
+          "Maschinengeist",
           "Entbehrlich",
           "Regeneration",
           "Geländegängig",
@@ -421,7 +421,7 @@
         "specialRules": [
           "Regeneration",
           "Furchtlos",
-          "Machine Spirit",
+          "Maschinengeist",
           "Teleportieren"
         ]
       },
@@ -444,7 +444,7 @@
           "Inspirierend",
           "Regeneration"
         ],
-        "notes": "If the C’tan Shard becomes broken it is immediately destroyed, but does not cause additional Blast Markers."
+        "notes": "If the C’tan Shard becomes broken it is immediately destroyed, but does not cause additional Beschussmarke."
       },
       {
         "name": "Pylon",
@@ -459,7 +459,7 @@
         "specialRules": [
           "Schadenskapazität 2",
           "Furchtlos",
-          "Machine Spirit",
+          "Maschinengeist",
           "Living Metal",
           "Teleportieren",
           "Enduring"
@@ -503,7 +503,7 @@
           "Schadenskapazität 6",
           "Furchtlos",
           "Living Metal",
-          "Support Craft",
+          "Hilfstransportschiff",
           "Enduring"
         ],
         "crit": "The Æonic Orb is destroyed. Alle Einheiten innerhalb von 5 cm erleiden einen Treffer."

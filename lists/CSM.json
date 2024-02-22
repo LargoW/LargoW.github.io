@@ -234,7 +234,7 @@
           "Verbesserte Beschwörung (+2W3)",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "May be sacrificed. Before rolling its formations summoning Punkte this unit’s Verbesserte Beschwörung (+2W3) ability is changed to Verbesserte Beschwörung (+6). After this roll the unit with the Champion is destroyed with no saves allowed. A unit sacrificed in this way does not cause a Blast Marker."
+        "notes": "May be sacrificed. Before rolling its Verbände summoning Punkte this unit’s Verbesserte Beschwörung (+2W3) ability is changed to Verbesserte Beschwörung (+6). After this roll the unit with the Champion is destroyed with no saves allowed. A unit sacrificed in this way does not cause a Beschussmarke."
       },
       {
         "name": "Night Lords Sergeant",
@@ -399,7 +399,7 @@
           "Maschinenkanone"
         ],
         "specialRules": [
-          "Stubborn"
+          "Hartnäckig"
         ]
       },
       {
@@ -503,7 +503,7 @@
           "Maschinenkanone|2|"
         ],
         "specialRules": [
-          "Stubborn"
+          "Hartnäckig"
         ]
       },
       {
@@ -546,7 +546,7 @@
           "Banestrike Kombi-Bolter"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Infiltratoren",
           "Aufklärer",
           "Sabotage"
@@ -636,7 +636,7 @@
           "Rad Rakete Launchers"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Sprungmodule"
         ]
       },
@@ -807,7 +807,7 @@
           "Energiewaffen"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Teleportieren",
           "Verstärkte Heckpanzerung"
@@ -1035,7 +1035,7 @@
           "Kombi-Bolter"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Transport"
         ],
         "notes": "Darf zwei Infanterie Einheiten (außer Terminatoren) ohne Sprungmodule oder Beritten Eigenschaft transportieren."
@@ -1131,7 +1131,7 @@
           "Synchronisierter schwerer Bolter"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Transport"
@@ -1235,7 +1235,7 @@
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
-          "Stubborn"
+          "Hartnäckig"
         ]
       },
       {
@@ -1274,7 +1274,7 @@
           "Schwerer Bolter|3|"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung"
         ]
       },
@@ -1358,7 +1358,7 @@
           "Demolisher Geschütz"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Geländegängig"
         ]
       },
@@ -1491,7 +1491,7 @@
           "Energiefaust"
         ],
         "specialRules": [
-          "Stubborn",
+          "Hartnäckig",
           "Geländegängig"
         ]
       },

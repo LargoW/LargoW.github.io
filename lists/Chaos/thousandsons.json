@@ -98,9 +98,9 @@
   ],
   "sections": [
     {
-      "name": "Thousand Sons Core Formations",
+      "name": "Thousand Sons Core Verbände",
       "description": " Bis zu eine Thousand Sons Terminatoren formation für jeweils Thousand Sons Retinue.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Thousand Sons Retinue",
           "units": "Ein Aufstrebender Hexer, fünf Rubric Marines, vier Thousand Sons Marines, Dämonischer Pakt",
@@ -132,7 +132,7 @@
     {
       "name": "Thousand Sons Unterstützungsverbände",
       "description": " Bis zu drei may be taken pro Thousand Sons Core formation.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Tzaangor Host",
           "units": "Ein Chaos Spawn, acht Tzaangors, Dämonischer Pakt",
@@ -187,8 +187,8 @@
     },
     {
       "name": "Dark Mechanicus und Thousand Sons Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "Verbände": [
         {
           "name": "Warphound",
           "units": "Ein Warphound Titan",
@@ -230,7 +230,7 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte",

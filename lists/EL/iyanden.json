@@ -6,7 +6,7 @@
   "armyforge": "EAR_Eldar_Iyanden",
   "intro": "The following army list allows you to field an Eldar army form the Iyanden Craftworld.",
   "strategy": "Craftworld Iyanden Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Aspect Warrior formations, Titans, Wraithknights und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "Aspect Warrior Verbände, Titans, WraithRitters und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Avatar (Iyanden)",
     "May not Garrison (Iyanden)",
@@ -47,7 +47,7 @@
         "Scorpion",
         "Cobra",
         "Storm Serpent",
-        "Wraithknight",
+        "WraithRitter",
         "Revenant Titan",
         "Phantom Titan"
       ],
@@ -55,7 +55,7 @@
           "Holofields (x)",
           "Lanze",
           "Schildbohrer",
-          "Shield Disruptor",
+          "Schildstörer",
           "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
@@ -75,7 +75,7 @@
   "sections": [
     {
       "name": "Iyanden Special",
-      "formations": [
+      "Verbände": [
         {
           "name": " 1 Avatar",
           "units": "Ein Avatar",
@@ -90,7 +90,7 @@
     },
     {
       "name": "Iyanden Wraithhosts",
-      "formations": [
+      "Verbände": [
         {
           "name": "Spirit Guard Wraithhost",
           "units": "Ein Wraithguards mit einemSpiritseer character, drei Wraithguards",
@@ -118,7 +118,7 @@
     {
       "name": "Iyanden Troupes",
       "description": " Bis zu zwei für jeweils Iyanden Wraithhost taken",
-      "formations": [
+      "Verbände": [
           {
             "name": "Guardians",
             "units": "Ein Farseer unit und sieben Guardians",
@@ -192,8 +192,8 @@
     },
     {
       "name": "Iyanden Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "Nightwing Aerie",
           "units": "Zwei Nightwing Interceptors",
@@ -218,8 +218,8 @@
           "points": 200
         },
         {
-          "name": "Wraithknights",
-          "units": "Zwei Wraithknights (may not mix configurations)",
+          "name": "WraithRitters",
+          "units": "Zwei WraithRitters (may not mix configurations)",
           "extraUnits": [
           ],
           "points": 325
@@ -296,7 +296,7 @@
     ]
   },
   "about": [
-    "v1.0.Beta: The EA-R Iyanden Craftworld list owes its basic structure to the NetEA version on the list, mit einemnumber important changes und additions, most of which have been inherited from the process of making the 'main' EA-R Craftworld Eldar list: Biel-Tan. With the Wraithguard being reduced to 3+ save, Wraithblades got the same save. These units no longer being 4++ und Furchtlos allowed für making their formations somewhat cheaper.",
-    "The Spirit Walker Wraithhost has been made a bit more similar to the other Wraithhosts, und the list has also gained access to a Wraithknight formation, using the 'Knight' H-AV unit type."
+    "v1.0.Beta: The EA-R Iyanden Craftworld list owes its basic structure to the NetEA version on the list, mit einemnumber important changes und additions, most of which have been inherited from the process of making the 'main' EA-R Craftworld Eldar list: Biel-Tan. With the Wraithguard being reduced to 3+ save, Wraithblades got the same save. These units no longer being 4++ und Furchtlos allowed für making their Verbände somewhat cheaper.",
+    "The Spirit Walker Wraithhost has been made a bit more similar to the other Wraithhosts, und the list has also gained access to a WraithRitter formation, using the 'Ritter' H-AV unit type."
   ]
 }

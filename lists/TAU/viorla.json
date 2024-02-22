@@ -37,9 +37,9 @@
         "Coordinated Fire",
         "Guided Raketen",
         "Markerlights",
-        "Shield Disruptor",
+        "Schildstörer",
         "Tau Jet Packs",
-        "Deflector Shield",
+        "Energiefeld",
         "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
@@ -57,8 +57,8 @@
   ],
   "sections": [
     {
-      "name": "Vior'la Core Formations",
-      "formations": [
+      "name": "Vior'la Core Verbände",
+      "Verbände": [
         {
           "name": "XV8 Crisis Battlesuit Cadre",
           "units": "Sechs XV8 Crisis Battlesuits",
@@ -92,7 +92,7 @@
     {
       "name": "Vior'la Unterstützungsverbände",
       "description": " Bis zu zwei für jeweils Vior'la Core Formation taken",
-      "formations": [
+      "Verbände": [
         {
           "name": "Fire Warrior Strike Group",
           "units": "Acht Fire Warriors, oder sechs Fire Warriors und drei Devilfish",
@@ -131,9 +131,9 @@
       ]
     },
     {
-      "name": "Vior'la Kriegsmaschinen & Air Caste Formations",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
-      "formations": [
+      "name": "Vior'la Kriegsmaschinen & Air Caste Verbände",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "Verbände": [
         {
           "name": "Barracuda Schwadron",
           "units": "Zwei Barracudas",

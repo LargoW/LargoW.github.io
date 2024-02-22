@@ -467,7 +467,7 @@
           "specialRules": [
             "MW",
             "IC",
-            "Shield Disruptor"
+            "Schildstörer"
           ]
         }
       ]
@@ -935,7 +935,7 @@
           "range": 15,
           "specialRules": [
             "TK(1)",
-            "Shield Disruptor",
+            "Schildstörer",
             "FxF"
           ]
         }
@@ -1137,7 +1137,7 @@
           "Feuerkraft": "AT3+",
           "range": 30,
           "specialRules": [
-            "Shield Disruptor",
+            "Schildstörer",
             "FxF"
           ]
         }
@@ -1282,7 +1282,7 @@
           "range": 60,
           "specialRules": [
             "TK(1)",
-            "Shield Disruptor"
+            "Schildstörer"
           ]
         }
       ]
@@ -3218,7 +3218,7 @@
           "range": 15,
           "specialRules": [
             "TK(1)",
-            "Shield Disruptor"
+            "Schildstörer"
           ]
         }
       ]
@@ -5352,7 +5352,7 @@
           "Feuerkraft": "AP4+/AT5+",
           "range": 15,
           "specialRules": [
-            "Shield Disruptor"
+            "Schildstörer"
           ]
         }
       ]
@@ -6368,7 +6368,7 @@
       ]
     },
     {
-      "name": "Knight Power Lanze",
+      "name": "Ritter Power Lanze",
       "modes": [
         {
           "Feuerkraft": "Handfeuerwaffen",
@@ -6390,7 +6390,7 @@
       ]
     },
     {
-      "name": "Knight Psychic Lanze",
+      "name": "Ritter Psychic Lanze",
       "modes": [
         {
           "Feuerkraft": "1BP",
@@ -6398,7 +6398,7 @@
           "specialRules": [
             "IC",
             "MW",
-            "Shield Disruptor"
+            "Schildstörer"
           ]
         },
         {
@@ -6406,13 +6406,13 @@
           "join": "und",
           "specialRules": [
             "MW",
-            "Shield Disruptor"
+            "Schildstörer"
           ]
         }
       ]
     },
     {
-      "name": "Knight Kettenschwert",
+      "name": "Ritter Kettenschwert",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -6424,7 +6424,7 @@
       ]
     },
     {
-      "name": "Knight Power Gauntlet",
+      "name": "Ritter Power Gauntlet",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -6688,7 +6688,7 @@
           "Feuerkraft": "AT2+",
           "range": 15,
           "specialRules": [
-            "Shield Disruptor",
+            "Schildstörer",
             "FwA"
           ]
         },
@@ -6794,7 +6794,7 @@
           "range": 45,
           "specialRules": [
             "D",
-            "Shield Disruptor"
+            "Schildstörer"
           ]
         }
       ]
@@ -6806,7 +6806,7 @@
           "Feuerkraft": "MW4+",
           "range": 45,
           "specialRules": [
-            "Shield Disruptor"
+            "Schildstörer"
           ]
         }
       ]
@@ -7667,7 +7667,7 @@
           "range": 100,
           "specialRules": [
             "TK(1)",
-            "Shield Disruptor"
+            "Schildstörer"
           ]
         }
       ]
@@ -8869,7 +8869,7 @@
       ]
     },
     {
-      "name": "Knight Pulse Laser",
+      "name": "Ritter Pulse Laser",
       "modes": [
         {
           "Feuerkraft": "2x AT3+",
@@ -8880,7 +8880,7 @@
       ]
     },
     {
-      "name": "Knight Close Combat Weapons",
+      "name": "Ritter Close Combat Weapons",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -8911,7 +8911,7 @@
           "specialRules": [
             "IC",
             "TK(D3)",
-            "Shield Disruptor"
+            "Schildstörer"
           ]
         },
         {
@@ -10614,7 +10614,7 @@
       ]
     },
     {
-      "name": "Power Mauls & Suppression Shields",
+      "name": "Power Mauls & SuppressIonenfelds",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -13017,8 +13017,8 @@
       "description": "Rear Arc"
     },
     {
-      "name": "Shield Disruptor",
-      "description": "Shield Disruptor"
+      "name": "Schildstörer",
+      "description": "Schildstörer"
     },
     {
       "name": "S",
