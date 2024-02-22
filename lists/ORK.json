@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Warlord",
+        "name": Kriegsherr,
         "type": "CH",
         "weapons": [
           "'Ore Dakka",

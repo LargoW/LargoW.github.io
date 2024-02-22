@@ -20,14 +20,14 @@
     {
       "from": "CSM.json",
       "units": [
-        "Night Lords First Captain",
+        "Night LordsErster Captain",
         "Night Lords Captain",
-        "Icon Bearer",
+        "Ikonenträger",
         "Chaos Assault Marines",
         "Chaos Space Marines",
         "Raptors",
         "Warp Talons",
-        "Night Lords Chosen",
+        "Night Lords Auserwählte",
         "Chaos Destroyers",
         "Atramentar Terminatoren",
         "Chaos Rhino",
@@ -38,8 +38,8 @@
         "Night Lords Cybot"
       ],
       "unitRules": [
-        "Augment Summoning (+x)",
-        "Daemonic Focus",
+        "Verbesserte Beschwörung (+X)",
+        "Dämonischer Fokus",
         "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
@@ -83,7 +83,7 @@
           "extraUnits": [
             "Füge bis zu zwei Raptors: 30 Punkte jeweils",
             "Oberbefehlshaber",
-            "Icon Bearer"
+            "Ikonenträger"
           ],
           "points": 275
         }
@@ -94,8 +94,8 @@
       "description": " Bis zu eine Elite formation may be taken pro Night Lords Core Formation",
       "formations": [
         {
-          "name": "Chosen",
-          "units": "Vier Night Lords Chosen, zwei Chaos Rhinos",
+          "name": "Auserwählte",
+          "units": "Vier Night Lords Auserwählte, zwei Chaos Rhinos",
           "extraUnits": [
             "Ersetze zwei Chaos Rhinos with vier Chaos Tarantulas: 25 Punkte"
           ],
@@ -103,7 +103,7 @@
         },
         {
           "name": "Warp Talon Cult",
-          "units": "Drei Warp Talons, Daemonic Pact",
+          "units": "Drei Warp Talons, Dämonischer Pakt",
           "extraUnits": [
           ],
           "points": 225
@@ -114,7 +114,7 @@
           "extraUnits": [
             "Füge zwei Chaos Spartan Assault Panzers: 150 Punkte",
             "Oberbefehlshaber",
-            "Icon Bearer",
+            "Ikonenträger",
             "Cybots",
             "Dreadclaws"
           ],
@@ -138,7 +138,7 @@
           "units": "Ein Night Lords Captain, vier Night Lords Assault Marines, zwei Night Lords Cybots",
           "extraUnits": [
             "Oberbefehlshaber",
-            "Icon Bearer",
+            "Ikonenträger",
             "Cybots",
             "Dreadclaws"
           ],
@@ -150,7 +150,7 @@
           "extraUnits": [
             "Ersetze drei Chaos Rhinos with drei Chaos Land Raiders: 125 Punkte",
             "Oberbefehlshaber",
-            "Icon Bearer",
+            "Ikonenträger",
             "Stalker"
           ],
           "points": 300
@@ -160,7 +160,7 @@
           "units": "Ein Night Lords Captain, sechs Chaos Trikes",
           "extraUnits": [
             "Oberbefehlshaber",
-            "Icon Bearer",
+            "Ikonenträger",
             "Stalker"
           ],
           "points": 300
@@ -169,7 +169,7 @@
     },
     {
       "name": "Night Lords Static Defenses und Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations. Nicht mehr als eine Tarantula formation für jeweils Chosen formation.",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations. Nicht mehr als eine Tarantula formation für jeweils Auserwählte formation.",
       "formations": [
         {
           "name": "Tarantula",
@@ -206,7 +206,7 @@
       "formations": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine für jeweils Daemonic Pact in the army.",
+          "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine für jeweils Dämonischer Pakt in the army.",
           "points": 20
         }
       ]
@@ -223,18 +223,18 @@
             "description": "Choose eine of the following:"
           },
           {
-            "description": "Ersetze the Night Lords Captain mit einemNight Lords First Captain",
+            "description": "Ersetze the Night Lords Captain mit einemNight LordsErster Captain",
             "points": "50 Punkte"
           },
           {
-            "description": "Ersetze the Night Lords Captain und its unit mit einemNight Lords Daemon Prince",
+            "description": "Ersetze the Night Lords Captain und its unit mit einemNight Lords Dämonenprinz",
             "points": "100 Punkte"
           }
         ]
       },
       {
-        "name": "Icon Bearer",
-        "description": "Füge an Icon Bearer to the formation",
+        "name": "Ikonenträger",
+        "description": "Füge an Ikonenträger to the formation",
         "points": "25 Punkte"
       },
       {

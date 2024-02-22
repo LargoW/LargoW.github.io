@@ -628,7 +628,7 @@
     {
       "title": "Summoning",
       "description": [
-        "Any formation that either has a unit with Daemonic Pact oder a Daemonic Pact formation upgrade may summon Daemons. Jeweils Daemonic Pact in the army automatically provides eine point to the Lesser Daemon Pool at the start of the battle (the player may also purchase additional Lesser Daemon Pool Punkte und/oder Greater Daemon Pool Punkte).",
+        "Any formation that either has a unit with Dämonischer Pakt oder a Dämonischer Pakt formation upgrade may summon Daemons. Jeweils Dämonischer Pakt in the army automatically provides eine point to the Lesser Daemon Pool at the start of the battle (the player may also purchase additional Lesser Daemon Pool Punkte und/oder Greater Daemon Pool Punkte).",
         "Daemon Pools are not faction specific. The size of the Daemon Pools must be visible to all players at all times und it is suggested that either tokens oder dice are used to indicate the size of the pool. As daemons are summoned the pool must be changed to reflect its current size.",
         "To summon daemons the formation declares its intention to summon before any action roll is made (but after the choice of action). If the formation that wishes to Summon is being transported inside another formation (e.g. a Chaos Thunderhawk) it cannot choose to Summon when the Chaos Thunderhawk prepares to activate.",
         "The player then rolls 2D3 to generate the number of Summoning Points available für this formation. The formation may then summon daemons bis zu the number of Summoning Points generated, with any Punkte not used lost, bis zu the number of Lesser oder Greater Daemon Pool Punkte left.",
@@ -642,8 +642,8 @@
     {
       "title": "Black Legion Summoning Rules",
       "description": [
-        "All formations in the Black Legion worship Chaos Undivided. Chaos Undivided formations with Daemonic Pact may summon any of the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).",
+        "All formations in the Black Legion worship Chaos Undivided. Chaos Undivided formations with Dämonischer Pakt may summon any of the following Daemons (brackets indicating the Summoning Points cost):",
+        "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers des Nurgle (1), Bloodletters des Khorne (1), Horrors des Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).",
         "Greater Daemons: Slaanesh Keeper of Secrets (8), Nurgle Great Unclean Ein (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
         "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
@@ -652,8 +652,8 @@
     {
       "title": "Word Bearers Summoning Rules",
       "description": [
-        "All formations in Word Bearers worship Chaos Undivided. Chaos Undivided formations with Daemonic Pact may summon any of the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).",
+        "All formations in Word Bearers worship Chaos Undivided. Chaos Undivided formations with Dämonischer Pakt may summon any of the following Daemons (brackets indicating the Summoning Points cost):",
+        "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers des Nurgle (1), Bloodletters des Khorne (1), Horrors des Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).",
         "Greater Daemons: Slaanesh Keeper of Secrets (8), Nurgle Great Unclean Ein (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
         "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
@@ -662,7 +662,7 @@
     {
       "title": "Emperor's Children Summoning Rules",
       "description": [
-        "All formations in Emperor's Children worship the Prince of Pleasure, Slaanesh. Formations with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
+        "All formations in Emperor's Children worship the Prince of Pleasure, Slaanesh. Formations with Dämonischer Pakt may summon the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1), Seekers of Slaanesh (2)",
         "Greater Daemons: Keeper of Secrets (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
@@ -672,8 +672,8 @@
     {
       "title": "Death Guard Summoning Rules",
       "description": [
-        "All formations in Death Guard worship the Plague Lord, Nurgle. Formations with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Plaguebearers of Nurgle (1), Beasts of Nurgle (1), Plague Drones of Nurgle (2)",
+        "All formations in Death Guard worship the Plague Lord, Nurgle. Formations with Dämonischer Pakt may summon the following Daemons (brackets indicating the Summoning Points cost):",
+        "Lesser Daemons: Plaguebearers des Nurgle (1), Beasts des Nurgle (1), Plague Drones des Nurgle (2)",
         "Greater Daemons: Great Unclean Ein (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
         "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
@@ -682,8 +682,8 @@
     {
       "title": "World Eaters Summoning Rules",
       "description": [
-        "All formations in World Eaters worship the Blood God, Khorne. Formations with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Bloodletters of Khorne (1), Fleshhounds of Khorne (1), Bloodcrushers of Khorne (2)",
+        "All formations in World Eaters worship the Blood God, Khorne. Formations with Dämonischer Pakt may summon the following Daemons (brackets indicating the Summoning Points cost):",
+        "Lesser Daemons: Bloodletters des Khorne (1), Fleshhounds des Khorne (1), Bloodcrushers des Khorne (2)",
         "Greater Daemons: Bloodthirster (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
         "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
@@ -692,8 +692,8 @@
     {
       "title": "Thousand Sons Summoning Rules",
       "description": [
-        "All formations in Thousand Sons worship the Architect of Fate, Tzeentch. Formations with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Horrors of Tzeentch (1), Flammenwerfer of Tzeentch (1), Screamers of Tzeentch (1)",
+        "All formations in Thousand Sons worship the Architect of Fate, Tzeentch. Formations with Dämonischer Pakt may summon the following Daemons (brackets indicating the Summoning Points cost):",
+        "Lesser Daemons: Horrors des Tzeentch (1), Flammenwerfer des Tzeentch (1), Screamers des Tzeentch (1)",
         "Greater Daemons: Lord of Change (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
         "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
@@ -702,8 +702,8 @@
     {
       "title": "Lost und the Damned Summoning Rules",
       "description": [
-        "All Chaos Cultists formations in the Lost und the Damned worship Chaos Undivided. Formations with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
+        "All Chaos Cultists formations in the Lost und the Damned worship Chaos Undivided. Formations with Dämonischer Pakt may summon the following Daemons (brackets indicating the Summoning Points cost):",
+        "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers des Nurgle (1), Bloodletters des Khorne (1), Horrors des Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
         "Greater Daemons: Keeper of Secrets (8), Great Unclean Ein (8), Bloodthirster (8), Lord of Change (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
         "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
@@ -713,14 +713,14 @@
       "title": "Alpha Legion Summoning Rules",
       "description": [
         "All Alpha Legion Cultist formations worship Chaos Undivided. Formations with Daemonic Icon may summon the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
+        "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers des Nurgle (1), Bloodletters des Khorne (1), Horrors des Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
         "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
       ]
     },
     {
       "title": "Night Lords Summoning Rules",
       "description": [
-        "All Night Lords formations are aligned with Chaos Undivided. Formations mit einemunit with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
+        "All Night Lords formations are aligned with Chaos Undivided. Formations mit einemunit with Dämonischer Pakt may summon the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Furies of Chaos Undivided (2)",
         "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
       ]
@@ -728,10 +728,10 @@
     {
       "title": "Slaves to Darkness Summoning Rules",
       "description": [
-        "All formations in the Slaves to Darkness worship Chaos Undivided. Formations with either a Daemonic Icon unit oder a Daemonic Pact formation upgrade may summon the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
+        "All formations in the Slaves to Darkness worship Chaos Undivided. Formations with either a Daemonic Icon unit oder a Dämonischer Pakt formation upgrade may summon the following Daemons (brackets indicating the Summoning Points cost):",
+        "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers des Nurgle (1), Bloodletters des Khorne (1), Horrors des Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
         "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine.",
-        "Füge eine Lesser Daemon Pool point to the Lesser Daemon Pool für jeweils unit with Daemonic Icon, oder formation with Daemonic Pact."
+        "Füge eine Lesser Daemon Pool point to the Lesser Daemon Pool für jeweils unit with Daemonic Icon, oder formation with Dämonischer Pakt."
       ]
     },
     {
@@ -739,9 +739,9 @@
       "description": [
         "Formations in a Daemonic Incursion army may summon Lesser Daemons from the power they are aligned with. They do not need an upgrade to do so. Cultist Coven formations are aligned with all powers present in the army at the start of the battle. (Brackets indicating the Summoning Points cost):",
         "Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1), Seekers of Slaanesh (2)",
-        "Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1), Plague Drones of Nurgle (2)",
-        "Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1), Bloodcrushers of Khorne (2)",
-        "Tzeentch: Horrors of Tzeentch (1), Screamers of Tzeentch (1), Flammenwerfer of Tzeentch (2)",
+        "Nurgle: Plaguebearers des Nurgle (1), Beasts des Nurgle (1), Plague Drones des Nurgle (2)",
+        "Khorne: Bloodletters des Khorne (1), Fleshhounds des Khorne (1), Bloodcrushers des Khorne (2)",
+        "Tzeentch: Horrors des Tzeentch (1), Screamers des Tzeentch (1), Flammenwerfer des Tzeentch (2)",
         "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine.",
         "When calculating Victory Points of the purposes of Tie Break, only the part of the Lesser Daemon Pool that was bought by itself is considered when checking if there is less than half remaining. Lesser Daemon Pool Punkte that was bought as part of a formation are counted towards that formation's starting units."
       ]
@@ -749,12 +749,12 @@
     {
       "title": "TTL Summoning Rules",
       "description": [
-        "TTL formations with Daemonic Pact may summon Lesser Daemons from the power they are aligned with (brackets indicating the Summoning Points cost):",
+        "TTL formations with Dämonischer Pakt may summon Lesser Daemons from the power they are aligned with (brackets indicating the Summoning Points cost):",
         "Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1)",
-        "Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1)",
-        "Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1)",
-        "Tzeentch: Horrors of Tzeentch (1), Flammenwerfer of Tzeentch (1)",
-        "Chaos Undivided: Daemonettes of Slaanesh (2), Plaguebearers of Nurgle (2), Bloodletters of Khorne (2), Horrors of Tzeentch (2), Daemonic Beasts of Chaos Undivided (1)",
+        "Nurgle: Plaguebearers des Nurgle (1), Beasts des Nurgle (1)",
+        "Khorne: Bloodletters des Khorne (1), Fleshhounds des Khorne (1)",
+        "Tzeentch: Horrors des Tzeentch (1), Flammenwerfer des Tzeentch (1)",
+        "Chaos Undivided: Daemonettes of Slaanesh (2), Plaguebearers des Nurgle (2), Bloodletters des Khorne (2), Horrors des Tzeentch (2), Daemonic Beasts of Chaos Undivided (1)",
         "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine.",
         ""
       ]
@@ -762,12 +762,12 @@
     {
       "title": "QT Summoning Rules",
       "description": [
-        "Formations with Daemonic Pact in a Questor Traitoris army may summon Lesser Daemons from the power they are aligned with (brackets indicating the Summoning Points cost):",
+        "Formations with Dämonischer Pakt in a Questor Traitoris army may summon Lesser Daemons from the power they are aligned with (brackets indicating the Summoning Points cost):",
         "Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1)",
-        "Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1)",
-        "Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1)",
-        "Tzeentch: Horrors of Tzeentch (1), Flammenwerfer of Tzeentch (1)",
-        "Chaos Undivided: Daemonettes of Slaanesh (2), Plaguebearers of Nurgle (2), Bloodletters of Khorne (2), Horrors of Tzeentch (2), Daemonic Beasts of Chaos Undivided (1)",
+        "Nurgle: Plaguebearers des Nurgle (1), Beasts des Nurgle (1)",
+        "Khorne: Bloodletters des Khorne (1), Fleshhounds des Khorne (1)",
+        "Tzeentch: Horrors des Tzeentch (1), Flammenwerfer des Tzeentch (1)",
+        "Chaos Undivided: Daemonettes of Slaanesh (2), Plaguebearers des Nurgle (2), Bloodletters des Khorne (2), Horrors des Tzeentch (2), Daemonic Beasts of Chaos Undivided (1)",
         "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
       ]
     },
@@ -798,13 +798,13 @@
     {
       "title": "Death Guard Characters",
       "description": [
-        "Death Guard characters may only be added to units of Chaos Space Marines, Havocs, Plague Marines, oder Blightlord Terminatoren."
+        "Death Guard characters may only be added to units of Chaos Space Marines, Havocs, Seuchenmarines, oder Blightlord Terminatoren."
       ]
     },
     {
       "title": "World Eaters Characters",
       "description": [
-        "World Eaters characters may only be added to units of World Eaters Assault Marines, Khorne Berzerkers, Skullseeker Terminatoren, Juggernaut Riders, oder Khorne Berzerker Assault Bikes."
+        "World Eaters characters may only be added to units of World Eaters Assault Marines, Khorne Berserker, Skullseeker Terminatoren, Juggernaut Riders, oder Khorne Berzerker Assault Bikes."
       ]
     },
     {
@@ -814,15 +814,15 @@
       ]
     },
     {
-      "title": "Augment Summoning (+x)",
+      "title": "Verbesserte Beschwörung (+X)",
       "description": [
-        "Units with Augment Summoning (+x) add a number of summoning Punkte equal to 'x' when the formation they are in summons daemons (see Summoning). Für example, a unit noted as having Augment Summoning (+2) would allow a formation mit einemDaemonic Pact to roll 2D3+2 für summoning Punkte as opposed to the usual 2D3."
+        "Units with Verbesserte Beschwörung (+X) add a number of summoning Punkte equal to 'x' when the formation they are in summons daemons (see Summoning). Für example, a unit noted as having verbesserte Beschwörung (+2) would allow a formation mit einemDämonischer Pakt to roll 2D3+2 für summoning Punkte as opposed to the usual 2D3."
       ]
     },
     {
-      "title": "Daemonic Focus",
+      "title": "Dämonischer Fokus",
       "description": [
-        "Units with Daemonic focus may keep any oder all summoned units that belong to the formation in play. Summoned units do not vanish back into the warp after the formation has attempted to rally. Daemonic Focus may not be used to keep summoned units in play if the formation is broken. Multiples of Daemonic Focus have no additional effect."
+        "Units with Dämonischer Fokus may keep any oder all summoned units that belong to the formation in play. Summoned units do not vanish back into the warp after the formation has attempted to rally. Dämonischer Fokus may not be used to keep summoned units in play if the formation is broken. Multiples of Dämonischer Fokus have no additional effect."
       ]
     },
     {
@@ -834,7 +834,7 @@
     {
       "title": "Changer of Ways",
       "description": [
-        "Formations containing Thousands Sons Daemon Princes und Scarab Occult Terminatoren may only contain units of INF und AV units with Geländegängig, und must be held in the reserves at the start of the game. Such formations may only enter the Battlefield through a Warp Rift."
+        "Formations containing Thousands Sons Dämonenprinzs und Scarab Occult Terminatoren may only contain units of INF und AV units with Geländegängig, und must be held in the reserves at the start of the game. Such formations may only enter the Battlefield through a Warp Rift."
       ]
     },
     {
@@ -848,7 +848,7 @@
       "title": "Black Legion Dreadclaws",
       "description": [
         "Dreadclaws allow a Chaos formation to enter play using the planetfall rules if a spaceship has been purchased to carry them. Units in a formation with Dreadclaws deploy using the planetfall rules but do not roll für scatter. Place the first unit within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control.",
-        "The following units may be deployed using Dreadclaws: Noise Marines, Rubric Marines, Khorne Berzerkers, Plague Marines, Chaos Space Marines, Havocs, Chaos Terminatoren, Kyborgs, Chaos Cybots."
+        "The following units may be deployed using Dreadclaws: Noise Marines, Rubric Marines, Khorne Berserker, Seuchenmarines, Chaos Space Marines, Havocs, Chaos Terminatoren, Kyborgs, Chaos Cybots."
       ]
     },
     {
@@ -883,7 +883,7 @@
       "title": "World Eaters Dreadclaws",
       "description": [
         "Dreadclaws  allow  a  chaos  formation  to  enter  play  using  the  planetfall  rules  if  a  spaceship  has  been purchased to carry them. Units in a formation with Dreadclaws deploy using the planetfall rules but do not roll für scatter. Place the first unit within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control.",
-        "The following units may be deployed using Dreadclaws: Khorne Berzerkers, World Eaters Marines, Skullseeker Terminatoren, Cybots, Mutilators."
+        "The following units may be deployed using Dreadclaws: Khorne Berserker, World Eaters Marines, Skullseeker Terminatoren, Cybots, Mutilators."
       ]
     },
     {
@@ -896,40 +896,40 @@
       "title": "LatD Eternal Animosity",
       "description": [
         "Jeweils Support Coven in a Lost und the Damned army owes allegiance to either eine of the Ruinous Powers oder to Chaos Undivided. With the exception of Chaos Undivided, the different factions harbour eternal animosity against jeweils other. This state of affairs is represented by the following rules:",
-        "A Lost und the Damned army with formations belonging to the faction of Khorne may not include formations from the faction of Slaanesh (und vice-versa).",
-        "A Lost und the Damned army with formations belonging to the faction of Nurgle may not include formations from the faction of Tzeentch (und vice-versa)."
+        "A Lost und the Damned army with formations belonging to the faction des Khorne may not include formations from the faction of Slaanesh (und vice-versa).",
+        "A Lost und the Damned army with formations belonging to the faction des Nurgle may not include formations from the faction des Tzeentch (und vice-versa)."
       ]
     },
     {
       "title": "StD Eternal Animosity",
       "description": [
         "Jeweils Dark Mechanicus allied formation in a Slaves to Darkness army owes allegiance to either eine of the Ruinous Powers oder to Chaos Undivided. With the exception of Chaos Undivided, the different factions harbour eternal animosity against jeweils other. This state of affairs is represented by the following rules:",
-        "A Slaves to Darkness army with formations belonging to the faction of Khorne may not include formations from the faction of Slaanesh (und vice-versa).",
-        "A Slaves to Darkness army with formations belonging to the faction of Nurgle may not include formations from the faction of Tzeentch (und vice-versa)."
+        "A Slaves to Darkness army with formations belonging to the faction des Khorne may not include formations from the faction of Slaanesh (und vice-versa).",
+        "A Slaves to Darkness army with formations belonging to the faction des Nurgle may not include formations from the faction des Tzeentch (und vice-versa)."
       ]
     },
     {
       "title": "DI Eternal Animosity",
       "description": [
         "Jeweils Daemon Formation in a Daemonic Incursion army owes allegiance to either eine of the Ruinous Powers. With the exception of Chaos Undivided, the different factions harbour eternal animosity against jeweils other. This state of affairs is represented by the following rules:",
-        "A Daemonic Incursion army with formations belonging to the faction of Khorne may not include formations from the faction of Slaanesh (und vice-versa).",
-        "A Daemonic Incursion army with formations belonging to the faction of Nurgle may not include formations from the faction of Tzeentch (und vice-versa)."
+        "A Daemonic Incursion army with formations belonging to the faction des Khorne may not include formations from the faction of Slaanesh (und vice-versa).",
+        "A Daemonic Incursion army with formations belonging to the faction des Nurgle may not include formations from the faction des Tzeentch (und vice-versa)."
       ]
     },
     {
       "title": "TTL Eternal Animosity",
       "description": [
         "Jeweils formation in a Traitor Titan Legion army owes allegiance to either eine of the Ruinous Powers oder Chaos Undivided. With the exception of Chaos Undivided, the different factions harbour eternal animosity against jeweils other. This state of affairs is represented by the following rules:",
-        "A Traitor Titan Legion army with formations belonging to the faction of Khorne may not include formations from the faction of Slaanesh (und vice-versa).",
-        "A Traitor Titan Legion army with formations belonging to the faction of Nurgle may not include formations from the faction of Tzeentch (und vice-versa)."
+        "A Traitor Titan Legion army with formations belonging to the faction des Khorne may not include formations from the faction of Slaanesh (und vice-versa).",
+        "A Traitor Titan Legion army with formations belonging to the faction des Nurgle may not include formations from the faction des Tzeentch (und vice-versa)."
       ]
     },
     {
       "title": "QT Eternal Animosity",
       "description": [
         "Jeweils formation in a Questor Traitoris army owes allegiance to either eine of the Ruinous Powers oder Chaos Undivided. With the exception of Chaos Undivided, the different factions harbour eternal animosity against jeweils other. This state of affairs is represented by the following rules:",
-        "A Questor Traitoris army with formations belonging to the faction of Khorne may not include formations from the faction of Slaanesh (und vice-versa).",
-        "A Questor Traitoris army with formations belonging to the faction of Nurgle may not include formations from the faction of Tzeentch (und vice-versa)."
+        "A Questor Traitoris army with formations belonging to the faction des Khorne may not include formations from the faction of Slaanesh (und vice-versa).",
+        "A Questor Traitoris army with formations belonging to the faction des Nurgle may not include formations from the faction des Tzeentch (und vice-versa)."
       ]
     },
     {

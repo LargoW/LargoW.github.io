@@ -21,10 +21,10 @@
       "from": "CSM.json",
       "units": [
         "Exalted Sorcerer",
-        "Aspiring Sorcerer",
-        "Champion of Chaos",
-        "Icon Bearer",
-        "Daemon Prince of Tzeentch",
+        "Aufstrebender Hexer",
+        "Champion des Chaos",
+        "Ikonenträger",
+        "Dämonenprinz des Tzeentch",
         "Thousand Sons Marines",
         "Thousand Sons Havocs",
         "Scarab Occult Terminatoren",
@@ -36,8 +36,8 @@
         "Thousand Sons Cybot"
       ],
       "unitRules": [
-        "Augment Summoning (+x)",
-        "Daemonic Focus",
+        "Verbesserte Beschwörung (+X)",
+        "Dämonischer Fokus",
         "Regeneration",
         "Warp Rift"
       ]
@@ -50,8 +50,8 @@
         "Mutalith Vortex Beast"
       ],
       "unitRules": [
-        "Augment Summoning (+x)",
-        "Daemonic Focus"
+        "Verbesserte Beschwörung (+X)",
+        "Dämonischer Fokus"
       ]
     },
     {
@@ -68,9 +68,9 @@
     {
       "from": "daemons.json",
       "units": [
-        "Horrors of Tzeentch",
-        "Flammenwerfer of Tzeentch",
-        "Screamers of Tzeentch",
+        "Horrors des Tzeentch",
+        "Flammenwerfer des Tzeentch",
+        "Screamers des Tzeentch",
         "Lord of Change"
       ],
       "unitRules": [
@@ -103,13 +103,13 @@
       "formations": [
         {
           "name": "Thousand Sons Retinue",
-          "units": "Ein Aspiring Sorcerer, fünf Rubric Marines, vier Thousand Sons Marines, Daemonic Pact",
+          "units": "Ein Aufstrebender Hexer, fünf Rubric Marines, vier Thousand Sons Marines, Dämonischer Pakt",
           "extraUnits": [
             "Ersetze vier Thousand Sons Marines with vier Thousand Sons Havocs: 50 Punkte",
             "Ersetze bis zu drei Rubric Marines with Thousand Sons Cybots: 25 Punkte jeweils",
             "Oberbefehlshaber",
-            "Icon Bearer",
-            "Champion of Chaos",
+            "Ikonenträger",
+            "Champion des Chaos",
             "Thousand Sons Transport",
             "Predators",
             "Cybots"
@@ -118,11 +118,11 @@
         },
         {
           "name": "Thousand Sons Terminatoren",
-          "units": "Ein Aspiring Sorcerer, vier Scarab Occult Terminatoren, Daemonic Pact",
+          "units": "Ein Aufstrebender Hexer, vier Scarab Occult Terminatoren, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
-            "Icon Bearer",
-            "Champion of Chaos",
+            "Ikonenträger",
+            "Champion des Chaos",
             "Cybots"
           ],
           "points": 400
@@ -135,14 +135,14 @@
       "formations": [
         {
           "name": "Tzaangor Host",
-          "units": "Ein Chaos Spawn, acht Tzaangors, Daemonic Pact",
+          "units": "Ein Chaos Spawn, acht Tzaangors, Dämonischer Pakt",
           "extraUnits": [
             "Ersetze the Chaos Spawn mit einemMutalith Warp Beast: 50 Punkte"
           ],
           "points": 200
         },
         {
-          "name": "Defilers of Tzeentch",
+          "name": "Defilers des Tzeentch",
           "units": "Drei Decievers",
           "extraUnits": [
           ],
@@ -158,26 +158,26 @@
         },
         {
           "name": "Havocs",
-          "units": "Ein Aspiring Sorcerer, vier Thousand Sons Havocs, zwei Thousand Sons Rhinos, Daemonic Pact",
+          "units": "Ein Aufstrebender Hexer, vier Thousand Sons Havocs, zwei Thousand Sons Rhinos, Dämonischer Pakt",
           "extraUnits": [
             "Ersetze zwei Thousand Sons Rhinos with zwei Thousand Sons Cybots: 75 Punkte",
-            "Icon Bearer",
+            "Ikonenträger",
             "Predators"
           ],
           "points": 225
         },
         {
           "name": "Disc Riders",
-          "units": "Ein Aspiring Sorcerer, sechs Sorcerer Disc Riders, Daemonic Pact",
+          "units": "Ein Aufstrebender Hexer, sechs Sorcerer Disc Riders, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
-            "Icon Bearer",
-            "Champion of Chaos"
+            "Ikonenträger",
+            "Champion des Chaos"
           ],
           "points": 250
         },
         {
-          "name": "Silver Towers of Tzeentch",
+          "name": "Silver Towers des Tzeentch",
           "units": "Vier Silver Towers",
           "extraUnits": [
           ],
@@ -204,14 +204,14 @@
           "points": 450
         },
         {
-          "name": "Doomwings of Tzeentch",
+          "name": "Doomwings des Tzeentch",
           "units": "Drei Doomwings",
           "extraUnits": [
           ],
           "points": 175
         },
         {
-          "name": "Firelords of Tzeentch",
+          "name": "Firelords des Tzeentch",
           "units": "Zwei Firelords",
           "extraUnits": [
             "Füge eine Firelord: 100 Punkte"
@@ -219,7 +219,7 @@
           "points": 250
         },
         {
-          "name": "0-1 Warpship of Tzeentch",
+          "name": "0-1 Warpship des Tzeentch",
           "units": "Ein Warpship",
           "extraUnits": [
           ],
@@ -253,15 +253,15 @@
         "description": "Choose eine of the following:",
         "options": [
           {
-            "description": "Ersetze the Aspiring Sorcerer mit einem Exalted Sorcerer (Retinue und Disc Riders Only).",
+            "description": "Ersetze the Aufstrebender Hexer mit einem Exalted Sorcerer (Retinue und Disc Riders Only).",
             "points": "50 Punkte"
           },
           {
-            "description": "Ersetze the Aspiring Sorcerer und its unit mit einemDaemon Prince of Tzeentch (Terminatoren Only).",
+            "description": "Ersetze the Aufstrebender Hexer und its unit mit einemDämonenprinz des Tzeentch (Terminatoren Only).",
             "points": "50 Punkte"
           },
           {
-            "description": "Ersetze the Aspiring Sorcerer und its unit mit einemDaemon Prince of Tzeentch (Retinue und Disc Riders Only).",
+            "description": "Ersetze the Aufstrebender Hexer und its unit mit einemDämonenprinz des Tzeentch (Retinue und Disc Riders Only).",
             "points": "100 Punkte"
           }
         ]
@@ -281,13 +281,13 @@
         ]
       },
       {
-        "name": "Champion of Chaos",
-        "description": "Füge eine Champion of Chaos to the formation",
+        "name": "Champion des Chaos",
+        "description": "Füge eine Champion des Chaos to the formation",
         "points": "50 Punkte"
       },
       {
-        "name": "Icon Bearer",
-        "description": "Füge eine Icon Bearer to the formation",
+        "name": "Ikonenträger",
+        "description": "Füge eine Ikonenträger to the formation",
         "points": "25 Punkte"
       },
       {
@@ -305,6 +305,6 @@
   "feedback": [
     "Summoning wording is spread out",
     "Thousand sons dreadnought is useless, make it melee",
-    "Defilers of Tzeentch 4 (250)"
+    "Defilers des Tzeentch 4 (250)"
   ]
 }

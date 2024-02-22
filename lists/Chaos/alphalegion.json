@@ -42,7 +42,7 @@
     {
       "from": "chaoscultists.json",
       "units": [
-        "Daemon Prince",
+        "Dämonenprinz",
         "Aspiring Champion",
         "Daemonic Icon",
         "Cultists",
@@ -52,8 +52,8 @@
         "Land Transporter"
       ],
       "unitRules": [
-        "Daemonic Focus",
-        "Augment Summoning (+x)"
+        "Dämonischer Fokus",
+        "Verbesserte Beschwörung (+X)"
       ]
     },
     {
@@ -72,9 +72,9 @@
       "from": "daemons.json",
       "units": [
         "Daemonettes of Slaanesh",
-        "Plaguebearers of Nurgle",
-        "Bloodletters of Khorne",
-        "Horrors of Tzeentch",
+        "Plaguebearers des Nurgle",
+        "Bloodletters des Khorne",
+        "Horrors des Tzeentch",
         "Daemonic Beasts of Chaos Undivided"
       ],
       "unitRules": [
@@ -257,7 +257,7 @@
         "description": "Choose eine of the following options:",
         "options": [
           {
-            "description": "Upgrade the Aspiring Champion to a Daemon Prince",
+            "description": "Upgrade the Aspiring Champion to a Dämonenprinz",
             "points": "100 Punkte"
           },
           {

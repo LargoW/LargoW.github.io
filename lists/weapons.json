@@ -1669,7 +1669,7 @@
       ]
     },
     {
-      "name": "Axe of Khorne",
+      "name": "Axe des Khorne",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -4350,7 +4350,7 @@
       ]
     },
     {
-      "name": "Flames of Tzeentch",
+      "name": "Flames des Tzeentch",
       "modes": [
         {
           "Feuerkraft": "Handfeuerwaffen",
@@ -4685,7 +4685,7 @@
       ]
     },
     {
-      "name": "Gaze of Tzeentch",
+      "name": "Gaze des Tzeentch",
       "modes": [
         {
           "Feuerkraft": "3x MW4+",
@@ -12118,7 +12118,7 @@
       ]
     },
     {
-      "name": "Violet Fire of Tzeentch",
+      "name": "Violet Fire des Tzeentch",
       "modes": [
         {
           "Feuerkraft": "2x AP5+/AT5+",
@@ -12424,7 +12424,7 @@
       ]
     },
     {
-      "name": "Warpfire of Tzeentch",
+      "name": "Warpfire des Tzeentch",
       "modes": [
         {
           "Feuerkraft": "3BP",
@@ -12502,7 +12502,7 @@
       ]
     },
     {
-      "name": "Lash of Khorne",
+      "name": "Lash des Khorne",
       "modes": [
         {
           "Feuerkraft": "Handfeuerwaffen",

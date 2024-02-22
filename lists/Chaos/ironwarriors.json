@@ -17,12 +17,12 @@
     {
       "from": "CSM.json",
       "units": [
-        "Iron Warriors Warsmith",
+        "Iron Warriors Kriegsschmied",
         "Iron Warriors Warpsmith",
-        "Daemon Prince",
+        "Dämonenprinz",
         "Chaos Space Marines",
         "Havocs",
-        "Chosen",
+        "Auserwählte",
         "Bezashk Destroyers",
         "Tyrant Siege Terminatoren",
         "Kyborgs",
@@ -113,8 +113,8 @@
       "description": "Ein Elite formation may be taken pro Core formation.",
       "formations": [
         {
-          "name": "Chosen",
-          "units": "Vier Chosen, zwei Chaos Rhinos",
+          "name": "Auserwählte",
+          "units": "Vier Auserwählte, zwei Chaos Rhinos",
           "extraUnits": [
             "Ersetze zwei Chaos Rhinos with zwei Chaos Siege Rhinos (10 Punkte), oder zwei Chaos Cybots oder zwei Chaos Siege Cybots (75 Punkte)",
             "Vindicators"
@@ -264,11 +264,11 @@
         "description": "Choose eine of the following:",
         "options": [
           {
-            "description": "Ersetze an Iron Warriors Warpsmith mit einem Iron Warriors Warsmith",
+            "description": "Ersetze an Iron Warriors Warpsmith mit einem Iron Warriors Kriegsschmied",
             "points": "50 Punkte"
           },
           {
-            "description": "Ersetze an Iron Warriors Warpsmith und its unit mit einemDaemon Prince",
+            "description": "Ersetze an Iron Warriors Warpsmith und its unit mit einemDämonenprinz",
             "points": "100 Punkte"
           }
         ]

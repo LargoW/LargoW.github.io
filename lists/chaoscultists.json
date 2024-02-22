@@ -15,14 +15,14 @@
         ]
       },
       {
-        "name": "Icon Bearer",
+        "name": "Ikonenträger",
         "type": "CH",
         "weapons": [
           "n/a"
         ],
         "specialRules": [
-          "Daemonic Focus",
-          "Augment Summoning (+1)",
+          "Dämonischer Fokus",
+          "Verbesserte Beschwörung (+1)",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]
@@ -40,7 +40,7 @@
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+2D3)"
+          "Verbesserte Beschwörung (+2W3)"
         ]
       },
       {
@@ -49,8 +49,8 @@
         "weapons": [
         ],
         "specialRules": [
-          "Daemonic Pact",
-          "Augment Summoning (+1)"
+          "Dämonischer Pakt",
+          "Verbesserte Beschwörung (+1)"
         ]
       },
       {
@@ -88,7 +88,7 @@
         ]
       },
       {
-        "name": "Daemon Prince",
+        "name": "Dämonenprinz",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -103,7 +103,7 @@
           "Verstärkte Panzerung",
           "Jump Pack",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -253,7 +253,7 @@
           "Unmodifizierter Rettungswurf",
           "Furchtlos",
           "Inspirierend",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Augmented Summoning (+D3)"
         ],
         "crit": "The Chaos Altar is destroyed. All units within 5cm suffers a MW hit on 6+."
@@ -274,14 +274,14 @@
             "Unmodifizierter Rettungswurf",
             "Furchtlos",
             "Inspirierend",
-            "Daemonic Focus",
+            "Dämonischer Fokus",
             "Augmented Summoning (+D3)",
           "Chaos Gate"
         ],
         "crit": "The Warp Altar is destroyed. All Daemon Legion units within 5cm are destroyed, all other units within 5cm suffers a MW hit on 6+."
       },
       {
-        "name": "Poxwalkers of Nurgle",
+        "name": "Poxwalkers des Nurgle",
         "type": "INF",
         "speed": 10,
         "cc": 6,
@@ -340,7 +340,7 @@
           "Geländegängig",
           "Verstärkte Panzerung",
           "Regeneration",
-          "Augment Summoning (+2D3)"
+          "Verbesserte Beschwörung (+2W3)"
         ]
       }
     ]

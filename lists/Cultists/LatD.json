@@ -20,9 +20,9 @@
       "units": [
         "Arch-Heretic",
         "Demagogue",
-        "Icon Bearer",
+        "Ikonenträger",
         "Aspiring Champion",
-        "Daemon Prince",
+        "Dämonenprinz",
         "Cultists",
         "Mutants",
         "Big Mutants",
@@ -31,13 +31,13 @@
         "Chaos Spawn",
         "Technical",
         "Land Transporter",
-        "Poxwalkers of Nurgle"
+        "Poxwalkers des Nurgle"
       ],
       "unitRules": [
       "Fickle Masters",
       "Infestation",
-        "Augment Summoning (+x)",
-        "Daemonic Focus"
+        "Verbesserte Beschwörung (+X)",
+        "Dämonischer Fokus"
       ]
     },
     {
@@ -51,7 +51,7 @@
         "Questor",
         "Plague Tower",
         "Contagion Engine",
-        "Geschütz of Khorne",
+        "Geschütz des Khorne",
         "Daemonic Assault Engine",
         "Lord of Battles",
         "Silver Tower",
@@ -66,7 +66,7 @@
     {
       "from": "CSM.json",
       "units": [
-        "Champion of Chaos",
+        "Champion des Chaos",
         "Chaos Space Marines",
         "Chaos Rhino"
       ],
@@ -85,9 +85,9 @@
       "from": "daemons.json",
       "units": [
         "Daemonettes of Slaanesh",
-        "Plaguebearers of Nurgle",
-        "Bloodletters of Khorne",
-        "Horrors of Tzeentch",
+        "Plaguebearers des Nurgle",
+        "Bloodletters des Khorne",
+        "Horrors des Tzeentch",
         "Keeper of Secrets",
         "Great Unclean Ein",
         "Bloodthirster",
@@ -104,7 +104,7 @@
       "formations": [
         {
           "name": "Cultist Coven",
-          "units": "Ein Aspiring Champion, neun Chaos Cultists und/oder Mutants, Daemonic Pact",
+          "units": "Ein Aspiring Champion, neun Chaos Cultists und/oder Mutants, Dämonischer Pakt",
           "extraUnits": [
             "Alle"
           ],
@@ -118,9 +118,9 @@
       "formations": [
         {
           "name": "Chaos Space Marines of Chaos Undivided",
-          "units": "Sechs Chaos Space Marines, drei Chaos Rhinos, Daemonic Pact",
+          "units": "Sechs Chaos Space Marines, drei Chaos Rhinos, Dämonischer Pakt",
           "extraUnits": [
-            "Füge eine Champion of Chaos: 50 Punkte"
+            "Füge eine Champion des Chaos: 50 Punkte"
           ],
           "points": 275
         },
@@ -167,27 +167,27 @@
           "points": 275
         },
         {
-          "name": "Plague Tower of Nurgle",
+          "name": "Plague Tower des Nurgle",
           "units": "Ein Plague Tower",
           "Erweiterungen": [
           ],
           "points": 200
         },
         {
-          "name": "Contagion Engines of Nurgle",
+          "name": "Contagion Engines des Nurgle",
           "units": "Vier Contagion Engines",
           "Erweiterungen": [
           ],
           "points": 325
         },
         {
-          "name": "Poxwalkers of Nurgle",
+          "name": "Poxwalkers des Nurgle",
           "units": "sieben Poxwalkers",
           "points": 100
         },
         {
-          "name": "Cannons of Khorne",
-          "units": "Vier Cannons of Khorne",
+          "name": "Cannons des Khorne",
+          "units": "Vier Cannons des Khorne",
           "Erweiterungen": [
           ],
           "points": 225
@@ -207,21 +207,21 @@
           "points": 425
         },
         {
-          "name": "Silver Towers of Tzeentch",
+          "name": "Silver Towers des Tzeentch",
           "units": "Vier Silver Towers",
           "Erweiterungen": [
           ],
           "points": 275
         },
         {
-          "name": "Warp Palace of Tzeentch",
+          "name": "Warp Palace des Tzeentch",
           "units": "Ein Warp Palace",
           "Erweiterungen": [
           ],
           "points": 450
         },
         {
-          "name": "Firelords of Tzeentch",
+          "name": "Firelords des Tzeentch",
           "units": "Zwei Firelords",
           "Erweiterungen": [
             "Füge eine Firelord: 100 Punkte"
@@ -260,7 +260,7 @@
             "points": "50 Punkte"
           },
           {
-            "description": "Ersetze an Aspiring Champion mit einemDaemon Prince",
+            "description": "Ersetze an Aspiring Champion mit einemDämonenprinz",
             "points": "100 Punkte"
           }
         ]
@@ -271,8 +271,8 @@
         "points": "25 Punkte"
       },
       {
-        "name": "Icon Bearer",
-        "description": "Füge eine Icon Bearer character",
+        "name": "Ikonenträger",
+        "description": "Füge eine Ikonenträger character",
         "points": "25 Punkte"
       },
       {
