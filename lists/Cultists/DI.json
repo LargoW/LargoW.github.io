@@ -27,21 +27,21 @@
         "Daemonettes of Slaanesh",
         "Fiends of Slaanesh",
         "Seekers of Slaanesh",
-        "Herald of Nurgle on Palanquin",
-        "Herald of Nurgle on Blight Fly",
-        "Plaguebearers of Nurgle",
-        "Beasts of Nurgle",
-        "Plague Drones of Nurgle",
-        "Herald of Khorne on Skull Geschütz",
-        "Herald of Khorne on Juggernaut",
-        "Bloodletters of Khorne",
-        "Fleshhounds of Khorne",
-        "Bloodcrushers of Khorne",
-        "Herald of Tzeentch",
-        "Herald of Tzeentch on Burning Chariot",
-        "Horrors of Tzeentch",
-        "Flammenwerfer of Tzeentch",
-        "Screamers of Tzeentch",
+        "Herald des Nurgle on Palanquin",
+        "Herald des Nurgle on Blight Fly",
+        "Plaguebearers des Nurgle",
+        "Beasts des Nurgle",
+        "Plague Drones des Nurgle",
+        "Herald des Khorne on Skull Geschütz",
+        "Herald des Khorne on Juggernaut",
+        "Bloodletters des Khorne",
+        "Fleshhounds des Khorne",
+        "Bloodcrushers des Khorne",
+        "Herald des Tzeentch",
+        "Herald des Tzeentch on Burning Chariot",
+        "Horrors des Tzeentch",
+        "Flammenwerfer des Tzeentch",
+        "Screamers des Tzeentch",
         "Exalted Keeper of Secrets",
         "Keeper of Secrets",
         "Exalted Great Unclean Ein",
@@ -53,15 +53,15 @@
         "Soul Grinder"
       ],
       "unitRules": [
-          "Augment Summoning (+x)",
-          "Daemonic Focus",
+          "Verbesserte Beschwörung (+X)",
+          "Dämonischer Fokus",
           "Warp Rift"
       ]
     },
     {
       "from": "chaoscultists.json",
       "units": [
-        "Icon Bearer",
+        "Ikonenträger",
         "Aspiring Champion",
         "Cultists",
         "Mutants",
@@ -110,7 +110,7 @@
           "points": 350
         },
         {
-          "name": "Exalted Greater Daemon of Nurgle",
+          "name": "Exalted Greater Daemon des Nurgle",
           "units": "Ein Exalted Great Unclean Ein",
           "extraUnits": [
             "Soul Grinder"
@@ -118,7 +118,7 @@
           "points": 350
         },
         {
-          "name": "Exalted Greater Daemon of Khorne",
+          "name": "Exalted Greater Daemon des Khorne",
           "units": "Ein Exalted Bloodthirster",
           "extraUnits": [
             "Soul Grinder"
@@ -126,7 +126,7 @@
           "points": 350
         },
         {
-          "name": "Exalted Greater Daemon of Tzeentch",
+          "name": "Exalted Greater Daemon des Tzeentch",
           "units": "Ein Exalted Lord of Change",
           "extraUnits": [
             "Soul Grinder"
@@ -151,30 +151,30 @@
         },
         {
           "name": "Nurgle Plague Legion ",
-          "units": "Zwei Herald of Nurgle on Palanquin, fünf Lesser Daemon Pool Punkte",
+          "units": "Zwei Herald des Nurgle on Palanquin, fünf Lesser Daemon Pool Punkte",
           "extraUnits": [
-            "Ersetze zwei Herald of Nurgle on Palanquin mit einemGreat Unclean Ein: 125 Punkte",
-            "Ersetze zwei Herald of Nurgle on Palanquin with zwei Herald of Nurgle on Blight Fly: 25 Punkte",
+            "Ersetze zwei Herald des Nurgle on Palanquin mit einemGreat Unclean Ein: 125 Punkte",
+            "Ersetze zwei Herald des Nurgle on Palanquin with zwei Herald des Nurgle on Blight Fly: 25 Punkte",
             "Soul Grinder"
           ],
           "points": 200
         },
         {
           "name": "Khorne Blood Legion",
-          "units": "Zwei Herald of Khorne on Juggernauts, fünf Lesser Daemon Pool Punkte",
+          "units": "Zwei Herald des Khorne on Juggernauts, fünf Lesser Daemon Pool Punkte",
           "extraUnits": [
-            "Ersetze zwei Herald of Khorne on Juggernaut mit einemBloodthirster: 150 Punkte",
-            "Ersetze zwei Herald of Khorne on Juggernaut with zwei Herald of Khorne on Skull Geschütz: 25 Punkte",
+            "Ersetze zwei Herald des Khorne on Juggernaut mit einemBloodthirster: 150 Punkte",
+            "Ersetze zwei Herald des Khorne on Juggernaut with zwei Herald des Khorne on Skull Geschütz: 25 Punkte",
             "Soul Grinder"
           ],
           "points": 200
         },
         {
           "name": "Tzeentch Scintillating Legion",
-          "units": "Zwei Herald of Tzeentch, fünf Lesser Daemon Pool Punkte",
+          "units": "Zwei Herald des Tzeentch, fünf Lesser Daemon Pool Punkte",
           "extraUnits": [
-            "Ersetze zwei Herald of Tzeentch mit einemLord of Change: 150 Punkte",
-            "Ersetze zwei Herald of Tzeentch with zwei Herald of Tzeentch on Burning Chariot: 25 Punkte",
+            "Ersetze zwei Herald des Tzeentch mit einemLord of Change: 150 Punkte",
+            "Ersetze zwei Herald des Tzeentch with zwei Herald des Tzeentch on Burning Chariot: 25 Punkte",
             "Soul Grinder"
           ],
           "points": 200
@@ -187,14 +187,14 @@
       "formations": [
         {
           "name": "Cultist Coven",
-          "units": "Daemonic Pact, Aspiring Champion, neun Chaos Cultists und/oder Mutants",
+          "units": "Dämonischer Pakt, Aspiring Champion, neun Chaos Cultists und/oder Mutants",
           "extraUnits": [
             "Cultists/Mutants",
             "Chaos Hounds",
             "Technicals",
             "Chaos Spawn",
             "Big Mutants",
-            "Icon Bearer",
+            "Ikonenträger",
             "Land Transporters",
             "Warp Altar"
           ],
@@ -229,8 +229,8 @@
         "points": "50 Punkte jeweils"
       },
       {
-        "name": "Icon Bearer",
-        "description": "Füge eine Icon Bearer character",
+        "name": "Ikonenträger",
+        "description": "Füge eine Ikonenträger character",
         "points": "25 Punkte"
       },
       {

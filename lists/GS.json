@@ -198,7 +198,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Hybrid Aberrants und Genestealer Patriarch counts as zwei units."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Hybrid Aberrants und Genestealer Patriarch counts as zwei units."
       },
       {
         "name": "Coven Technical",
@@ -241,7 +241,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Hybrid Aberrants und Genestealer Patriarch counts as zwei units."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Hybrid Aberrants und Genestealer Patriarch counts as zwei units."
       },
       {
         "name": "Coven Thunderbolt",
@@ -356,7 +356,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Hydra Maschinenkanone|2",
+          "Synchronisierte Hydra Maschinenkanone|2",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -371,7 +371,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Mörser",
+          "Gefechtsmörser",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -386,7 +386,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Earthshaker Geschütz",
+          "Tremorkanone",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -408,7 +408,7 @@
           "Brood Brothers",
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Cult Land Transporter",
@@ -424,7 +424,7 @@
           "Brood Brothers",
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Cult Baneblade",

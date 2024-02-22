@@ -186,7 +186,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Plasmawerfers"
+          "Plasmawerfer "
         ],
         "specialRules": [
         ]
@@ -199,7 +199,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Grenade Launchers",
+          "Granatwerfers",
           "Power Mauls & Suppression Shields"
         ],
         "specialRules": []

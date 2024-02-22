@@ -79,7 +79,7 @@
         "specialRules": [
           "Entbehrlich"
         ],
-        "notes": "Ein in every zwei units (rounding up) has a Schweres Maschinengewehr"
+        "notes": "Eine von zwei Einheiten (aufgerundet) hat eine Schweres Maschinengewehr"
       },
       {
         "name": "Genestealers",
@@ -106,7 +106,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Counts as zwei units of INF für the purpose of being transported."
+        "notes": "Zählt als zwei Einheiten für die Transport Regel."
       },
       {
         "name": "Metamorph Hybrids",
@@ -135,7 +135,7 @@
           "Maschinenkanone",
           "Automatikgewehr"
         ],
-        "notes": "Ein in every zwei units (rounding up) has an Maschinenkanone"
+        "notes": "Eine von zwei Einheiten (aufgerundet) hat eine Maschinenkanone."
       },
       {
         "name": "Neophyte Unterstützungstrupps",
@@ -148,13 +148,13 @@
         ]
       },
       {
-        "name": "Cult Heavy Mörser",
+        "name": "Cult Gefechtsmörser",
         "type": "INF",
         "speed": 10,
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Heavy Mörser"
+          "Gefechtsmörser"
         ]
       },
       {
@@ -227,12 +227,12 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Grenade Launchers"
+          "Granatwerfers"
         ],
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Goliath Truck",

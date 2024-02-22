@@ -21,18 +21,18 @@
       "from": "IG.json",
       "units": [
         "Baranische Belagerungsmeister",
-        "Baran Befehlshaber",
+        "Baranischer Befehlshaber",
         "Kommissar",
         "Siege Infanterie",
-        "Sappers",
+        "Pioniere",
         "Death Riders",
         "Scharfschützen",
         "Ogryns",
         "Thudd Gun",
         "Rapier",
         "Mole Launcher Squad",
-        "Heavy AA Gun",
-        "Medusa Gun",
+        "Schweres Flugabwehrgeschütz",
+        "Medusa Kanonenlafette",
         "Bombard",
         "Greif",
         "Höllenhund",
@@ -75,19 +75,19 @@
           "units": "Ein Baranische Belagerungsmeister mit einem Kommissar, neun Siege Infanterie",
           "extraUnits": [
               "40cm of Razor Wire und 4cm of Trenches für jeweils unit of INF in the formation: 50 Punkte. Ersetze 24cm of Trenches with zwei Bunkers: 25 Punkte",
-              "Fünf Siege Infanterie, oder zwei Scharfschützen, oder zwei Sappers, oder zwei Ogryns: 50 Punkte",
-              "Vier Rapiers, oder drei Mole Launcher Squads, oder drei Thudd Guns, oder zwei Medusa Guns with zwei Gun Emplacements, oder eine Todesstoss-Raketensystem: 75 Punkte",
+              "Fünf Siege Infanterie, oder zwei Scharfschützen, oder zwei Pioniere, oder zwei Ogryns: 50 Punkte",
+              "Vier Rapiers, oder drei Mole Launcher Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafettes with zwei Gun Emplacements, oder eine Todesstoss-Raketensystem: 75 Punkte",
               "Ein Defense Laser, oder zwei Malcadors, oder zwei Malcador Defenders: 150 Punkte"
           ],
           "points": 225
         },
         {
           "name": "Siege Infanterie Kompanie",
-          "units": "Ein Baran Befehlshaber mit einem Kommissar, neun Siege Infanterie",
+          "units": "Ein Baranischer Befehlshaber mit einem Kommissar, neun Siege Infanterie",
           "extraUnits": [
               "40cm of Razor Wire und 4cm of Trenches für jeweils unit of INF in the formation: 50 Punkte. Ersetze 24cm of Trenches with zwei Bunkers: 25 Punkte",
-              "Fünf Siege Infanterie, oder zwei Scharfschützen, oder zwei Sappers, oder zwei Ogryns: 50 Punkte",
-              "Vier Rapiers, oder drei Mole Launcher Squads, oder drei Thudd Guns, oder zwei Medusa Guns with zwei Gun Emplacements, oder eine Todesstoss-Raketensystem: 75 Punkte",
+              "Fünf Siege Infanterie, oder zwei Scharfschützen, oder zwei Pioniere, oder zwei Ogryns: 50 Punkte",
+              "Vier Rapiers, oder drei Mole Launcher Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafettes with zwei Gun Emplacements, oder eine Todesstoss-Raketensystem: 75 Punkte",
               "Ein Defense Laser, oder zwei Malcadors, oder zwei Malcador Defenders: 150 Punkte"
           ],
           "points": 175
@@ -116,14 +116,14 @@
         },
         {
           "name": "Sapper Kompanie",
-          "units": "Ein Kommissar, acht Sappers, eine Hades Breaching Drill",
+          "units": "Ein Kommissar, acht Pioniere, eine Hades Breaching Drill",
           "points": 225
         },
         {
           "name": "Siege Artillerie Emplacement",
-          "units": "Vier Medusa Guns und vier Gun Emplacements",
+          "units": "Vier Medusa Kanonenlafettes und vier Gun Emplacements",
           "extraUnits": [
-              "Ersetze vier Medusa Guns und vier Gun Emplacements with drei Bombard und drei Gun Emplacements: 25 Punkte"
+              "Ersetze vier Medusa Kanonenlafettes und vier Gun Emplacements with drei Bombard und drei Gun Emplacements: 25 Punkte"
           ],
           "points": 200
         },
@@ -132,13 +132,13 @@
           "units": "Drei Howitzers, drei Gun Emplacements",
           "extraUnits": [
               "Füge drei Howitzers und drei Gun Emplacements (100 Punkte), oder add a Kommissar, sechs Howitzers, und sechs Gun Emplacements (200 Punkte)",
-              "Füge eine Heavy AA Gun und eine Gun Emplacement: 50 Punkte"
+              "Füge eine Schweres Flugabwehrgeschütz und eine Gun Emplacement: 50 Punkte"
           ],
           "points": 175
         },
         {
           "name": "Flak Emplacement",
-          "units": "Drei Heavy AA Guns, drei Gun Emplacements",
+          "units": "Drei Schweres Flugabwehrgeschützs, drei Gun Emplacements",
           "extraUnits": [
           ],
           "points": 150

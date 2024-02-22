@@ -84,7 +84,7 @@
             "Heralds of Chaos"
           ],
           "points": 900,
-          "notes": "* Choose eine: Vicebringer Titan of Slaanesh, Gloombringer Titan of Nurgle, Strifebringer Titan of Khorne, oder Changebringer Titan of Tzeentch"
+          "notes": "* Choose eine: Vicebringer Titan of Slaanesh, Gloombringer Titan des Nurgle, Strifebringer Titan des Khorne, oder Changebringer Titan des Tzeentch"
         },
         {
           "name": "Chaos Warlord Titan",
@@ -94,7 +94,7 @@
             "Heralds of Chaos"
           ],
           "points": 750,
-          "notes": "* Choose eine: Painlord Titan of Slaanesh, Plaguelord Titan of Nurgle, Banelord Titan of Khorne, oder Warplord Titan of Tzeentch"
+          "notes": "* Choose eine: Painlord Titan of Slaanesh, Plaguelord Titan des Nurgle, Banelord Titan des Khorne, oder Warplord Titan des Tzeentch"
         },
         {
           "name": "Chaos Reaver Titan",
@@ -103,7 +103,7 @@
             "Heralds of Chaos"
           ],
           "points": 600,
-          "notes": "* Choose eine: Reviler Titan of Slaanesh, Repugnant Titan of Nurgle, Ravager Titan of Khorne, oder Mutator Titan of Tzeentch"
+          "notes": "* Choose eine: Reviler Titan of Slaanesh, Repugnant Titan des Nurgle, Ravager Titan des Khorne, oder Mutator Titan des Tzeentch"
         }
       ]
     },
@@ -119,7 +119,7 @@
             "Heralds of Chaos"
           ],
           "points": 275,
-          "notes": "* Choose eine: Plaguehound of Nurgle, Bloodhound of Khorne, Warphound of Tzeentch, oder Chaos Warhound of Chaos Undivided"
+          "notes": "* Choose eine: Plaguehound des Nurgle, Bloodhound des Khorne, Warphound des Tzeentch, oder Chaos Warhound of Chaos Undivided"
         },
         {
           "name": "Slaanesh Aufklärer Titan",
@@ -140,24 +140,24 @@
           "points": 225
         },
         {
-          "name": "Slaughterfiends of Khorne",
-          "units": "Vier Slaughterfiends of Khorne",
+          "name": "Slaughterfiends des Khorne",
+          "units": "Vier Slaughterfiends des Khorne",
           "extraUnits": [
             "Füge einen zusätzlichen Slaughterfiend: 50 Punkte"
           ],
           "points": 200
         },
         {
-          "name": "Desecrators of Nurgle",
-          "units": "Vier Desecrators of Nurgle",
+          "name": "Desecrators des Nurgle",
+          "units": "Vier Desecrators des Nurgle",
           "extraUnits": [
             "Füge einen zusätzlichen Desecrator: 50 Punkte"
           ],
           "points": 225
         },
         {
-          "name": "Decievers of Tzeentch",
-          "units": "Drei Decievers of Tzeentch",
+          "name": "Decievers des Tzeentch",
+          "units": "Drei Decievers des Tzeentch",
           "extraUnits": [
             "Füge einen zusätzlichen Deciever: 50 Punkte"
           ],

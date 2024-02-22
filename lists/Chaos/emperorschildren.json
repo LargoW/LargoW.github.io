@@ -6,7 +6,7 @@
   "armyforge": "EAR_Chaos_EmperorsChildren",
   "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Emperor's Children Traitor Legion. The Emperor's Children are a fast moving, agile army relying on daemons to bolster their relatively small formations.",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "All Emperor's Children Core, Support und the Chosen formation have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "All Emperor's Children Core, Support und the Auserwählte formation have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Summoning",
     "Emperor's Children Summoning Rules",
@@ -18,13 +18,13 @@
     {
       "from": "CSM.json",
       "units": [
-        "Noise Warlord",
+        "Noise Marine Kriegsherr",
         "Noise Lord",
-        "Champion of Chaos",
-        "Daemon Prince of Slaanesh",
+        "Champion des Chaos",
+        "Dämonenprinz of Slaanesh",
         "Chaos Space Marines",
         "Noise Marine Havocs",
-        "Chosen",
+        "Auserwählte",
         "Raptors",
         "Sirenshriek Terminatoren",
         "Noise Marines",
@@ -36,8 +36,8 @@
         "Chaos Stalker"
       ],
       "unitRules": [
-          "Augment Summoning (+x)",
-          "Daemonic Focus"
+          "Verbesserte Beschwörung (+X)",
+          "Dämonischer Fokus"
       ]
     },
     {
@@ -85,7 +85,7 @@
       "formations": [
         {
           "name": "Emperor's Children Retinue",
-          "units": "Ein Noise Lord, drei Noise Marines, drei Chaos Space Marines, Daemonic Pact",
+          "units": "Ein Noise Lord, drei Noise Marines, drei Chaos Space Marines, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
             "Retinue Transport",
@@ -100,7 +100,7 @@
         },
         {
           "name": "Emperor's Children Terminatoren",
-          "units": "Ein Noise Lord, vier Sirenshriek Terminatoren, Daemonic Pact",
+          "units": "Ein Noise Lord, vier Sirenshriek Terminatoren, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
             "Terminator Transport",
@@ -116,8 +116,8 @@
       "description": "Ein Elite formation may be taken pro Core formation",
       "formations": [
         {
-          "name": "Chosen",
-          "units": "Vier Chosen, zwei Emperor's Children Rhinos, Daemonic Pact",
+          "name": "Auserwählte",
+          "units": "Vier Auserwählte, zwei Emperor's Children Rhinos, Dämonischer Pakt",
           "extraUnits": [
               "Ersetze zwei Emperor's Children Rhinos with zwei Emperor's Children Cybots: 75 Punkte"
           ],
@@ -138,7 +138,7 @@
       "formations": [
         {
           "name": "Bike Kompanie",
-          "units": "Ein Noise Lord, sechs Chaos Assault Bikes, Daemonic Pact",
+          "units": "Ein Noise Lord, sechs Chaos Assault Bikes, Dämonischer Pakt",
           "extraUnits": [
               "Predators"
           ],
@@ -146,7 +146,7 @@
         },
         {
           "name": "Raptor Cult",
-          "units": "Ein Noise Lord, vier Raptors, Daemonic Pact",
+          "units": "Ein Noise Lord, vier Raptors, Dämonischer Pakt",
           "extraUnits": [
             "Predators"
           ],
@@ -245,11 +245,11 @@
         "description": "Choose eine of the following:",
         "options": [
           {
-            "description": "Ersetze the Noise Lord mit einemNoise Warlord",
+            "description": "Ersetze the Noise Lord mit einemNoise Marine Kriegsherr",
             "points": "50 Punkte"
           },
           {
-            "description": "Ersetze the Noise Lord und its unit mit einemDaemon Prince of Slaanesh",
+            "description": "Ersetze the Noise Lord und its unit mit einemDämonenprinz of Slaanesh",
             "points": "100 Punkte"
           }
         ]
@@ -280,7 +280,7 @@
       },
       {
         "name": "Champion",
-        "description": "Füge eine Champion of Chaos character to the formation",
+        "description": "Füge eine Champion des Chaos character to the formation",
         "points": "50 Punkte"
       },
       {

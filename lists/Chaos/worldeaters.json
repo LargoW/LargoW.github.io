@@ -20,15 +20,15 @@
     {
       "from": "CSM.json",
       "units": [
-        "Warlord",
+        Kriegsherr,
         "Chaos Lord",
-        "Champion of Chaos",
-        "Icon Bearer",
-        "Daemon Prince of Khorne",
+        "Champion des Chaos",
+        "Ikonenträger",
+        "Dämonenprinz des Khorne",
         "Chaos Assault Marines",
         "Chaos Space Marines",
         "Skullseeker Terminatoren",
-        "Khorne Berzerkers",
+        "Khorne Berserker",
         "Chaos Destroyers",
         "Mutilators",
         "Khorne Berzerker Assault Bikes",
@@ -41,8 +41,8 @@
         "Berzerker Cybot"
       ],
       "unitRules": [
-          "Augment Summoning (+x)",
-          "Daemonic Focus",
+          "Verbesserte Beschwörung (+X)",
+          "Dämonischer Fokus",
         "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
@@ -50,7 +50,7 @@
       "from": "darkmechanicus.json",
       "units": [
         "Doomblaster",
-        "Geschütz of Khorne",
+        "Geschütz des Khorne",
         "Slaughterfiend",
         "Daemonic Assault Engine",
         "Greater Brass Scorpion",
@@ -65,9 +65,9 @@
     {
       "from": "daemons.json",
       "units": [
-        "Bloodletters of Khorne",
-        "Fleshhounds of Khorne",
-        "Bloodcrushers of Khorne",
+        "Bloodletters des Khorne",
+        "Fleshhounds des Khorne",
+        "Bloodcrushers des Khorne",
         "Bloodthirster"
       ],
       "unitRules": [
@@ -91,13 +91,13 @@
       "formations": [
         {
           "name": "World Eaters Retinue",
-          "units": "Ein Chaos Lord, vier Khorne Berzerkers, vier World Eaters Assault Marines, vier World Eaters Rhinos, Daemonic Pact",
+          "units": "Ein Chaos Lord, vier Khorne Berserker, vier World Eaters Assault Marines, vier World Eaters Rhinos, Dämonischer Pakt",
           "extraUnits": [
             "Füge zwei Berzerker Cybots: 75 Punkte",
             "Oberbefehlshaber",
             "Berzerker Transport",
             "Champion",
-            "Icon Bearer",
+            "Ikonenträger",
             "Stalker",
             "Vindicators"
           ],
@@ -105,13 +105,13 @@
         },
         {
           "name": "Skullseeker Terminatoren",
-          "units": "Ein Chaos Lord, vier Skullseeker Terminatoren, Daemonic Pact",
+          "units": "Ein Chaos Lord, vier Skullseeker Terminatoren, Dämonischer Pakt",
           "extraUnits": [
             "Füge bis zu zwei Mutilators: 50 Punkte jeweils",
             "Oberbefehlshaber",
             "Skullseeker Transport",
             "Champion",
-            "Icon Bearer"
+            "Ikonenträger"
           ],
           "points": 400
         }
@@ -123,14 +123,14 @@
       "formations": [
         {
           "name": "Destroyers",
-          "units": "Vier Chaos Destroyers, Daemonic Pact",
+          "units": "Vier Chaos Destroyers, Dämonischer Pakt",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Chaos Space Marines",
-          "units": "Sechs Chaos Space Marines, drei World Eaters Rhinos, Daemonic Pact",
+          "units": "Sechs Chaos Space Marines, drei World Eaters Rhinos, Dämonischer Pakt",
           "extraUnits": [
             "Ersetze drei World Eaters Rhinos with drei Chaos Land Raiders: 125 Punkte",
             "Stalker",
@@ -140,21 +140,21 @@
         },
         {
           "name": "Berzerker Bikes",
-          "units": "Ein Chaos Lord, sechs Khorne Berzerker Assault Bikes, Daemonic Pact",
+          "units": "Ein Chaos Lord, sechs Khorne Berzerker Assault Bikes, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
             "Champion",
-            "Icon Bearer"
+            "Ikonenträger"
           ],
           "points": 275
         },
         {
           "name": "Juggernaut Riders",
-          "units": "Ein Chaos Lord, sechs Juggernaut Riders, Daemonic Pact",
+          "units": "Ein Chaos Lord, sechs Juggernaut Riders, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
             "Champion",
-            "Icon Bearer"
+            "Ikonenträger"
           ],
           "points": 300
         }
@@ -180,8 +180,8 @@
           "points": 250
         },
         {
-          "name": "Cannons of Khorne",
-          "units": "Vier Cannons of Khorne",
+          "name": "Cannons des Khorne",
+          "units": "Vier Cannons des Khorne",
           "extraUnits": [
           ],
           "points": 225
@@ -276,7 +276,7 @@
             "points": "50 Punkte"
           },
           {
-            "description": "Ersetze the Chaos Lord und its unit mit einemDaemon Prince of Khorne",
+            "description": "Ersetze the Chaos Lord und its unit mit einemDämonenprinz des Khorne",
             "points": "100 Punkte"
           }
         ]
@@ -308,8 +308,8 @@
         ]
       },
       {
-        "name": "Daemonic Pact",
-        "description": "Füge Daemonic Pact to the formation, und eine point to the Lesser Daemon Pool",
+        "name": "Dämonischer Pakt",
+        "description": "Füge Dämonischer Pakt to the formation, und eine point to the Lesser Daemon Pool",
         "points": "25 Punkte"
       },
       {
@@ -319,12 +319,12 @@
       },
       {
         "name": "Champion",
-        "description": "Füge eine Champion of Chaos character to the formation",
+        "description": "Füge eine Champion des Chaos character to the formation",
         "points": "50 Punkte"
       },
       {
-        "name": "Icon Bearer",
-        "description": "Füge eine Icon Bearer character",
+        "name": "Ikonenträger",
+        "description": "Füge eine Ikonenträger character",
         "points": "25 Punkte"
       },
       {

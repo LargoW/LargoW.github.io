@@ -438,7 +438,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Skorpius Dunerider",
@@ -453,7 +453,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Skorpius Disintegrator",
@@ -478,7 +478,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Hydra Maschinenkanone|2",
+          "Synchronisierte Hydra Maschinenkanone|2",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -498,7 +498,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Termite",

@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Warlord",
+        "name": Kriegsherr,
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -16,19 +16,19 @@
         ]
       },
       {
-        "name": "Noise Warlord",
+        "name": "Noise Marine Kriegsherr",
         "type": "CH",
         "weapons": [
             "Doom Siren"
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Iron Warriors Warsmith",
+        "name": "Iron Warriors Kriegsschmied",
         "type": "CH",
         "weapons": [
           "Servo Arm"
@@ -41,14 +41,14 @@
         ]
       },
       {
-        "name": "Night Lords First Captain",
+        "name": "Night Lords Erster Captain",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Daemonic Pact",
+          "Dämonischer Pakt",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -73,7 +73,7 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Inspirierend",
-          "Augment Summoning (+2D3)",
+          "Verbesserte Beschwörung (+2W3)",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -98,7 +98,7 @@
         "specialRules": [
           "Inspirierend",
           "Anführer",
-          "Augment Summoning (+2D3)",
+          "Verbesserte Beschwörung (+2W3)",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -121,7 +121,7 @@
           "Doom Siren"
         ],
         "specialRules": [
-            "Daemonic Focus",
+            "Dämonischer Fokus",
             "Befehlshaber",
           "Anführer",
           "Unmodifizierter Rettungswurf"
@@ -161,7 +161,7 @@
         "specialRules": [
           "Befehlshaber",
           "Anführer",
-          "Daemonic Pact",
+          "Dämonischer Pakt",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "name": "Aspiring Sorcerer",
+        "name": "Aufstrebender Hexer",
         "type": "CH",
         "weapons": [
           "Red Fire of Alteration",
@@ -207,7 +207,7 @@
           "Daemonic Bolt"
         ],
         "specialRules": [
-          "Augment Summoning (+D3)",
+          "Verbesserte Beschwörung (+W3)",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]
@@ -225,16 +225,16 @@
         ]
       },
       {
-        "name": "Champion of Chaos",
+        "name": "Champion des Chaos",
         "type": "CH",
         "weapons": [
           "Dämonische Besessenheit"
         ],
         "specialRules": [
-          "Augment Summoning (+2D3)",
+          "Verbesserte Beschwörung (+2W3)",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "May be sacrificed. Before rolling its formations summoning Punkte this unit’s Augment Summoning (+2D3) ability is changed to Augment Summoning (+6). After this roll the unit with the Champion is destroyed with no saves allowed. A unit sacrificed in this way does not cause a Blast Marker."
+        "notes": "May be sacrificed. Before rolling its formations summoning Punkte this unit’s Verbesserte Beschwörung (+2W3) ability is changed to Verbesserte Beschwörung (+6). After this roll the unit with the Champion is destroyed with no saves allowed. A unit sacrificed in this way does not cause a Blast Marker."
       },
       {
         "name": "Night Lords Sergeant",
@@ -248,20 +248,20 @@
         ]
       },
       {
-        "name": "Icon Bearer",
+        "name": "Ikonenträger",
         "type": "CH",
         "weapons": [
           "n/a"
         ],
         "specialRules": [
-          "Augment Summoning (+1)",
-          "Daemonic Focus",
+          "Verbesserte Beschwörung (+1)",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf",
           "Anführer"
         ]
       },
       {
-        "name": "Daemon Prince",
+        "name": "Dämonenprinz",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -277,12 +277,12 @@
           "Jump Pack",
           "Teleportieren",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Night Lords Daemon Prince",
+        "name": "Night Lords Dämonenprinz",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -298,13 +298,13 @@
           "Jump Pack",
           "Teleportieren",
           "Furchtlos",
-          "Daemonic Focus",
-          "Daemonic Pact",
+          "Dämonischer Fokus",
+          "Dämonischer Pakt",
           "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Daemon Prince of Slaanesh",
+        "name": "Dämonenprinz of Slaanesh",
         "type": "INF",
         "speed": 35,
         "armour": 4,
@@ -320,12 +320,12 @@
           "Jump Pack",
           "Teleportieren",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Daemon Prince of Nurgle",
+        "name": "Dämonenprinz des Nurgle",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -341,19 +341,19 @@
           "Jump Pack",
           "Teleportieren",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Daemon Prince of Khorne",
+        "name": "Dämonenprinz des Khorne",
         "type": "INF",
         "speed": 30,
         "armour": 4,
         "cc": 2,
         "ff": 5,
         "weapons": [
-          "Lash of Khorne",
+          "Lash des Khorne",
           "Æther Blade"
         ],
         "specialRules": [
@@ -362,12 +362,12 @@
           "Jump Pack",
           "Teleportieren",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Daemon Prince of Tzeentch",
+        "name": "Dämonenprinz des Tzeentch",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -384,7 +384,7 @@
           "Jump Pack",
           "Warp Rift",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -432,7 +432,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Plasmawerfers",
+          "Plasmawerfer ",
           "Chain Glaives"
         ]
       },
@@ -455,7 +455,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Plasmawerfers",
+          "Plasmawerfer ",
           "Chain Glaives"
         ]
       },
@@ -507,7 +507,7 @@
         ]
       },
       {
-        "name": "Chosen",
+        "name": "Auserwählte",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -521,7 +521,7 @@
         ]
       },
       {
-        "name": "Night Lords Chosen",
+        "name": "Night Lords Auserwählte",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -575,7 +575,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Plasmawerfers",
+          "Plasmawerfer ",
           "Kettenschwerter"
         ],
         "specialRules": [
@@ -669,7 +669,7 @@
         ]
       },
       {
-        "name": "Plague Marines",
+        "name": "Seuchenmarines",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -684,7 +684,7 @@
         ]
       },
       {
-        "name": "Khorne Berzerkers",
+        "name": "Khorne Berserker",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -1286,7 +1286,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Earthshaker Geschütz",
+          "Tremorkanone",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -1300,7 +1300,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Mörser",
+          "Gefechtsmörser",
           "Schwerer Bolter"
         ],
         "specialRules": [
