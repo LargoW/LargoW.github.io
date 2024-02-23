@@ -11,9 +11,9 @@
             {"id": 502, "name": "Evil Sunz Blitz Brigade (Big)", "pts": 10, "upgrades": [33,32,31,34,35,36,37]},
             {"id": 503, "name": "Evil Sunz Blitz Brigade ('Uge)", "pts": -10, "upgrades": [33,32,31,34,35,36,37]},
 
-            {"id": 504, "name": "Evil Sunz Kult of Speed", "pts": 0,  "upgrades": [10,21,20,22,31,32,33]},
-            {"id": 505, "name": "Evil Sunz Kult of Speed (Big)", "pts": -50, "upgrades": [10,21,20,22,31,32,33]},
-            {"id": 506, "name": "Evil Sunz Kult of Speed ('Uge)", "pts": -100, "upgrades": [10,21,20,22,31,32,33]},
+            {"id": 504, "name": "Evil Sunz Heizakult", "pts": 0,  "upgrades": [10,21,20,22,31,32,33]},
+            {"id": 505, "name": "Evil Sunz Heizakult (Big)", "pts": -50, "upgrades": [10,21,20,22,31,32,33]},
+            {"id": 506, "name": "Evil Sunz Heizakult ('Uge)", "pts": -100, "upgrades": [10,21,20,22,31,32,33]},
 
             {"id": 510, "name": "Evil Sunz Fortress Mob", "pts": 300, "units":"2 Nobz, 6 Boyz, 2 Grotz", "upgrades": [10,32,33,40,41,42]},
             {"id": 511, "name": "Evil Sunz Fortress Mob (Big)", "pts": 550, "units":"4 Nobz, 12 Boyz, 4 Grotz", "upgrades": [10,32,33,40,41,42]},
@@ -53,16 +53,16 @@
 
       {"id": 29, "name": "Boyz, Trukk", "pts": 25},
       {"id": 30, "name": "Battlewagon", "pts": 20},
-      {"id": 31, "name": "Deffkopta", "pts": 30},
+      {"id": 31, "name": "Killakopta", "pts": 30},
       {"id": 32, "name": "Flakwagon", "pts": 30},
-      {"id": 33, "name": "Gunwagon", "pts": 30},
+      {"id": 33, "name": "Kampfpanza", "pts": 30},
       {"id": 34, "name": "Spleenrippa", "pts": 50},
       {"id": 35, "name": "Mekboy Speedsta", "pts": 60},
-      {"id": 36, "name": "Gunwagon w/ Boyz", "pts": 50},
+      {"id": 36, "name": "Kampfpanza w/ Boyz", "pts": 50},
       {"id": 37, "name": "Flakwagon w/ Boyz", "pts": 50},
 
-      {"id": 38, "name": "Battlefortress", "pts": 0},
-      {"id": 39, "name": "2 Gunfortresses", "pts": 100},
+      {"id": 38, "name": "Mega Transportpanza", "pts": 0},
+      {"id": 39, "name": "2 Mega Wummenpanzas", "pts": 100},
 
 
       {"id": 40, "name": "Speed Freek Oddboy: Lifta-Droppa", "pts": 50},

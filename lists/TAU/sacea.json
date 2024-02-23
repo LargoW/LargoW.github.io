@@ -138,7 +138,7 @@
         },
         {
           "name": "Recon Antigrav Group",
-          "units": "Any sechs of the following units: Piranha, Tetra",
+          "units": "Any sechs Einheiten, in beliebiger Kombination: Piranha, Tetra",
           "extraUnits": [
             "Füge bis zu zwei Piranhas: 25 Punkte jeweils"
           ],

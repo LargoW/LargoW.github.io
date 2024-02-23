@@ -121,7 +121,7 @@
         },
         {
           "name": "Destroyer Phalanx",
-          "units": "Any sieben of the following units: Destroyers, Heavy Destroyers",
+          "units": "Sieben Einheiten, in beliebiger Kombination: Destroyers, Heavy Destroyers",
           "extraUnits": [
             "Overlord",
             "Ersetze eine Destroyer mit einemNecron Destroyer Lord: 25 Punkte"

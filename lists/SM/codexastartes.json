@@ -118,7 +118,7 @@
         },
         {
           "name": "Land Speeders",
-          "units": "Any fünf of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Fünf Einheiten, in beliebiger Kombination: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Typhoons"
           ],
@@ -242,7 +242,7 @@
     "items": [
       {
         "name": "Anti-Air",
-        "description": "Füge any eine of the following units to the formation",
+        "description": "Füge any eine Einheiten, in beliebiger Kombination to the formation",
         "options": [
           {
             "description": "Füge eine Hunter",
@@ -284,19 +284,19 @@
       },
       {
         "name": "Cybots",
-        "description": "Füge any zwei of the following: Cybot, Hellfire Cybot",
+        "description": "Füge Zwei of the following: Cybot, Hellfire Cybot",
         "points": [
           "50 Punkte jeweils"
         ]
       },
       {
         "name": "Land Raider Transport",
-        "description": "Füge any number of Land Raiders, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Land Raiders, bis zu the number required to transport the formation",
         "points": "50 Punkte jeweils"
       },
       {
         "name": "Razorbacks",
-        "description": "Füge any number of Razorbacks, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Razorbacks, bis zu the number required to transport the formation",
         "points": "25 Punkte jeweils"
       },
       {

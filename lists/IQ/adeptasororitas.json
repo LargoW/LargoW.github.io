@@ -250,15 +250,15 @@
         "description": "You must take exactly enough to carry all units in the formation after any Erweiterungen have been added. No transport spaces may be left over if possible",
         "options": [
           {
-            "description": "Füge any number of Sororitas Immolators",
+            "description": "Füge eine beliebige Anzahl Sororitas Immolators",
             "points": "30 Punkte jeweils"
           },
           {
-            "description": "Füge any number of Sororitas Repressors",
+            "description": "Füge eine beliebige Anzahl Sororitas Repressors",
             "points": "20 Punkte jeweils"
           },
           {
-            "description": "Füge any number of Sororitas Rhinos",
+            "description": "Füge eine beliebige Anzahl Sororitas Rhinos",
             "points": "10 Punkte jeweils"
           }
         ]

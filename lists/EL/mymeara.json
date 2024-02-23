@@ -177,9 +177,9 @@
         },
         {
           "name": "Engine of Vaul",
-          "units": "Any eine of the following units: Cobra, Scorpion",
+          "units": "Any eine Einheiten, in beliebiger Kombination: Cobra, Scorpion",
           "Erweiterungen": [
-            "Füge bis zu any zwei of the following units für 200 Punkte jeweils: Cobra, Scorpion"
+            "Füge bis zu Zwei Einheiten, in beliebiger Kombination für 200 Punkte jeweils: Cobra, Scorpion"
           ],
           "points": 250
         }
@@ -250,7 +250,7 @@
       },
       {
         "name": "Farseer",
-        "description": "Füge eine Farseer character to a unit of Guardians",
+        "description": "Füge eine Farseer Charaktermodell einem unit of Guardians",
         "points": "25 Punkte"
       }
     ]

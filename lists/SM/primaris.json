@@ -200,7 +200,7 @@
       },
       {
         "name": "Transports",
-        "description": "Füge any number of Impulsors oder Repulsors, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Impulsors oder Repulsors, bis zu the number required to transport the formation",
         "options": [
           {
             "description": "Repulsors",

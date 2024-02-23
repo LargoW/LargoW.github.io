@@ -8,34 +8,34 @@
   "strategy": "Clan Goffs Warhorde, WAAAGH! Ghazghkul Armeen haben einen Strategiewert von 3.",
   "Initiative": "All Verbände haben eine Initiativewert von 3+.",
   "specialRules": [
-    "Mob Rule",
-    "Power of the Waaagh!",
-    "Clan Goffs Warlord"
+    "Köppe zählen",
+    "Macht des Waagh",
+    "Clan Goffs Waaghboss"
   ],
   "units": [
     {
       "from": "ORK.json",
       "units": [
-        "Warlord",
+        "Waaghboss",
         "Oddboy",
-        "Boyz",
+        "Boys",
         "Grotz",
-        "Nobz",
-        "Big Gunz",
+        "Bosse",
+        "Kanonänbatterie",
         "Kommandos",
-        "Stormboyz",
-        "Warbikes",
-        "Deffkopta",
+        "StormBoys",
+        "Waaghbikes",
+        "Killakopta",
         "Brenna",
         "Warbuggy",
         "Battlewagon",
-        "Gunwagon",
+        "Kampfpanza",
         "Flakwagon",
-        "Killa Kan",
+        "Killa Bot",
         "Deff Dread",
         "Stompa",
-        "Battlefortress",
-        "Gunfortress",
+        "Mega Transportpanza",
+        "Mega Wummenpanza",
         "Supa-Stompa",
         "Gargant",
         "Great Gargant",
@@ -46,8 +46,8 @@
       ],
       "unitRules": [
         "Power Fields",
-        "Battlefortresses und Gunfortresses",
-        "‘Ere we Go",
+        "Mega Transportpanzas und Mega Wummenpanzas",
+        "Jetz' geht's los",
         "Super-Entbehrlich",
         "Gottgleiche Maschine",
         "Feuer aufteilen",
@@ -61,19 +61,19 @@
       "Verbände": [
         {
           "name": "Goffs Warband",
-          "units": "Zwei Nobz, sechs Boyz, zwei Grotz",
+          "units": "Zwei Bosse, sechs Boys, zwei Grotz",
           "extraUnits": [
-              "Füge any number of Ork Boyz: 15 Punkte jeweils",
-              "Füge any number of Battlewagons: 20 Punkte jeweils",
-            "Füge any number of Killa Kans, Big Gunz, Kommandos, Skorchas, Warbikes, Warbuggies: 25 Punkte jeweils",
-            "Füge any number of Flakwagons, Gunwagons: 30 Punkte jeweils",
-            "Füge any number of Deff Dreads, Deffkoptas: 35 Punkte jeweils",
-            "Füge any number of Boyz + Grotz: 35 Punkte jeweils",
-            "0-1 Battlefortresses: 100 Punkte jeweils",
-            "0-2 Gunfortresses: 100 Punkte jeweils",
+            "Füge eine beliebige Anzahl Ork Boys hinzu:15 Punkte jeweils",
+            "Füge eine beliebige Anzahl Transportpanza: 20 Punkte jeweils",
+            "Füge eine beliebige Anzahl Killa Bots, Kanonänbatterie, Kommandos, Skorchas, Waaghbikes, Buggies: 25 Punkte jeweils",
+            "Füge eine beliebige Anzahl Flakpanza, Kampfpanza hinzu: 30 Punkte jeweils",
+            "Füge eine beliebige Anzahl Deff Dreads, Killakoptas hinzu: 35 Punkte jeweils",
+            "Füge eine beliebige Anzahl Boys + Grotz hinzu: 35 Punkte jeweils",
+            "0-1 Mega Transportpanzas: 100 Punkte jeweils",
+            "0-2 Mega Wummenpanzas: 100 Punkte jeweils",
             "0-2 Stompas: 60 Punkte jeweils",
-            "0-2 Nobz: 35 Punkte Jeweils",
-            "0-1 Füge eine Oddboy character to a Battlefortress, Gunfortress, Gunwagon oder Big Gunz: 50 Punkte"
+            "0-2 Bosse: 35 Punkte Jeweils",
+            "0-1 Füge ein Oddboy Charaktermodell einem Mega Transportpanza, Mega Wummenpanza, Kampfpanza oder Kanonänbatterie hinzu: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -92,13 +92,13 @@
         },
         {
           "name": "Blitz Brigade",
-          "units": "Any vier of the following units: Deffkopta, Flakwagon, Gunwagon",
+          "units": "Vier Einheiten, in beliebiger Kombination: Killakopta, Flakwagon, Kampfpanza",
           "extraUnits": [
-            "Füge any number of Skorchas, Warbikes, Warbuggies: 25 Punkte jeweils",
-            "Füge any number of Flakwagons, Gunwagons: 30 Punkte jeweils",
-            "Füge any number of Deffkoptas: 35 Punkte jeweils",
-            "0-1 Gunfortress: 100 Punkte",
-            "0-1 Füge eine Oddboy character to a Gunfortress oder Gunwagon: 50 Punkte"
+            "Füge eine beliebige Anzahl Skorchas, Waaghbikes, Buggies: 25 Punkte jeweils",
+            "Füge eine beliebige Anzahl Flakpanza, Kampfpanza hinzu: 30 Punkte jeweils",
+            "Füge eine beliebige Anzahl Killakoptas hinzu: 35 Punkte jeweils",
+            "0-1 Mega Wummenpanza: 100 Punkte",
+            "0-1 Füge ein Oddboy Charaktermodell einem Mega Wummenpanza oder Kampfpanza hinzu:50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -116,13 +116,13 @@
           ]
         },
         {
-          "name": "Kult of Speed",
-          "units": "Any acht of the following units: Skorchas, Warbikes, Warbuggies",
+          "name": "Heizakult",
+          "units": "Acht Einheiten, in beliebiger Kombination: Skorchas, Waaghbikes, Buggies",
           "extraUnits": [
-            "Füge any number of Skorchas, Warbikes, Warbuggies: 25 Punkte jeweils",
-            "Füge any number of Flakwagons, Gunwagons: 30 Punkte jeweils",
-            "Füge any number of Deffkoptas: 35 Punkte jeweils",
-            "0-1 Füge eine Oddboy character to a Gunwagon: 50 Punkte"
+            "Füge eine beliebige Anzahl Skorchas, Waaghbikes, Buggies: 25 Punkte jeweils",
+            "Füge eine beliebige Anzahl Flakpanza, Kampfpanza hinzu: 30 Punkte jeweils",
+            "Füge eine beliebige Anzahl Killakoptas hinzu: 35 Punkte jeweils",
+            "0-1 Füge ein Oddboy Charaktermodell einem Kampfpanza hinzu:50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -143,28 +143,28 @@
           "name": "Kommandos Warhorde",
           "units": "Sechs Kommandos",
           "extraUnits": [
-            "Füge any number of Skorchas, Warbikes, Warbuggies, Kommandos, Stormboyz: 25 Punkte jeweils",
-            "Füge any number of Deffkoptas: 35 Punkte jeweils"
+            "Füge eine beliebige Anzahl Skorchas, Waaghbikes, Buggies, Kommandos, StormBoys hinzu:25 Punkte jeweils",
+            "Füge eine beliebige Anzahl Killakoptas hinzu: 35 Punkte jeweils"
           ],
           "points": 150
         },
         {
-          "name": "Stormboyz Warhorde",
-          "units": "Sechs Stormboyz",
+          "name": "StormBoys Warhorde",
+          "units": "Sechs StormBoys",
           "extraUnits": [
-            "Füge any number of Skorchas, Warbikes, Warbuggies, Kommandos, Stormboyz: 25 Punkte jeweils",
-            "Füge any number of Deffkoptas: 35 Punkte jeweils"
+            "Füge eine beliebige Anzahl Skorchas, Waaghbikes, Buggies, Kommandos, StormBoys hinzu:25 Punkte jeweils",
+            "Füge eine beliebige Anzahl Killakoptas hinzu: 35 Punkte jeweils"
           ],
           "points": 150
         },
         {
           "name": "Mekboy Gunzmob",
-          "units": "Fünf Big Gunz",
+          "units": "Fünf Kanonänbatterie",
           "extraUnits": [
-            "Füge any number of Battlewagons, Big Gunz: 20 Punkte jeweils",
-            "Füge any number of Flakwagons: 30 Punkte jeweils",
-            "0-1 Nobz: 35 Punkte",
-            "0-1 Füge eine Oddboy character to a unit of Big Gunz: 50 Punkte"
+            "Füge eine beliebige Anzahl Transportpanza, Kanonänbatterie hinzu: 20 Punkte jeweils",
+            "Füge eine beliebige Anzahl Flakpanza: 30 Punkte jeweils",
+            "0-1 Bosse: 35 Punkte",
+            "0-1 Füge ein Oddboy Charaktermodell einem unit of Kanonänbatterie hinzu: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -185,9 +185,9 @@
           "name": "Mekboy Stompamob",
           "units": "Drei Stompas",
           "extraUnits": [
-            "Füge any number of Killa Kans: 25 Punkte jeweils",
-            "Füge any number of Flakwagons: 30 Punkte jeweils",
-            "Füge any number of Deff Dreads: 35 Punkte jeweils",
+            "Füge eine beliebige Anzahl Killa Bots: 25 Punkte jeweils",
+            "Füge eine beliebige Anzahl Flakpanza: 30 Punkte jeweils",
+            "Füge eine beliebige Anzahl Deff Dreads: 35 Punkte jeweils",
             "0-2 Stompas: 60 Punkte jeweils",
             "0-1 Supa-Stompa: 225 Punkte"
           ],
@@ -195,10 +195,10 @@
         },
         {
           "name": "Mekboy Dreadmob",
-          "units": "Ein Deff Dread, vier Killa Kans",
+          "units": "Ein Deff Dread, vier Killa Bots",
           "extraUnits": [
-            "Füge any number of Killa Kans: 25 Punkte jeweils",
-            "Füge any number of Deff Dreads, Flakwagons: 35 Punkte jeweils"
+            "Füge eine beliebige Anzahl Killa Bots: 25 Punkte jeweils",
+            "Füge eine beliebige Anzahl Deff Dreads, Flakpanza: 35 Punkte jeweils"
           ],
           "points": 150
         }

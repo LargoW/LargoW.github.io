@@ -112,7 +112,7 @@
         },
         {
           "name": "Terminatoren",
-          "units": "Any vier of the following units: Terminatoren, Cyclone Terminatoren",
+          "units": "Vier Einheiten, in beliebiger Kombination: Terminatoren, Cyclone Terminatoren",
           "extraUnits": [
             "Befehlshaber"
           ],
@@ -135,7 +135,7 @@
         },
         {
           "name": "Bikes",
-          "units": "Any fünf of the following units: Trike, Assault Bikes",
+          "units": "Fünf Einheiten, in beliebiger Kombination: Trike, Assault Bikes",
           "extraUnits": [
             "Befehlshaber",
             "Land Speeders"
@@ -155,7 +155,7 @@
         },
         {
           "name": "Land Speeders",
-          "units": "Any fünf of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Fünf Einheiten, in beliebiger Kombination: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Land Speeder Variants"
           ],
@@ -212,7 +212,7 @@
     "items": [
       {
         "name": "Anti-Air",
-        "description": "Füge any eine of the following units to the formation",
+        "description": "Füge any eine Einheiten, in beliebiger Kombination to the formation",
         "options": [
           {
             "description": "Füge eine Hunter",
@@ -267,7 +267,7 @@
       },
       {
         "name": "Razorbacks",
-        "description": "Füge any number of Razorbacks, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Razorbacks, bis zu the number required to transport the formation",
         "points": "25 Punkte jeweils"
       },
       {

@@ -2023,7 +2023,7 @@
       ]
     },
     {
-      "name": "Big Choppas",
+      "name": "Fette Spaltaz",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -2034,7 +2034,7 @@
       ]
     },
     {
-      "name": "Big Shoota",
+      "name": "Fette Wumme",
       "modes": [
         {
           "Feuerkraft": "AP6+/AT6+",
@@ -2045,7 +2045,7 @@
       ]
     },
     {
-      "name": "Big Shootas",
+      "name": "Fette Wummes",
       "modes": [
         {
           "Feuerkraft": "AP6+/AT6+",
@@ -2818,7 +2818,7 @@
       ]
     },
     {
-      "name": "Choppas",
+      "name": "Spaltas",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -6294,7 +6294,7 @@
       ]
     },
     {
-      "name": "Killa-Choppa",
+      "name": "Killa-Spalta",
       "modes": [
         {
           "Feuerkraft": "AP5+/AT5+",
@@ -7058,7 +7058,7 @@
       ]
     },
     {
-      "name": "Mega-Choppa",
+      "name": "Mega-Spalta",
       "modes": [
         {
           "Feuerkraft": "2x AP5+/AT5+",
@@ -7718,7 +7718,7 @@
       ]
     },
     {
-      "name": "'Ore Dakka",
+      "name": "Dakka-Dakka",
       "modes": [
         {
           "Feuerkraft": "Handfeuerwaffen",
@@ -8393,7 +8393,7 @@
       ]
     },
     {
-      "name": "Power Claw",
+      "name": "Energiekrallä",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -8405,7 +8405,7 @@
       ]
     },
     {
-      "name": "Choppa Blades",
+      "name": "Spalta Blades",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -10624,7 +10624,7 @@
       ]
     },
     {
-      "name": "Supa-Zzap-Gun",
+      "name": "Supa-Zzap-Waffe",
       "modes": [
         {
           "Feuerkraft": "MW3+",
@@ -10636,7 +10636,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Supa-Zzap-Gun",
+      "name": "Synchronisierter Supa-Zzap-Waffe",
       "modes": [
         {
           "Feuerkraft": "MW2+",
@@ -11429,7 +11429,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Big Shoota",
+      "name": "Synchronisierter Fette Wumme",
       "modes": [
         {
           "Feuerkraft": "AP5+/AT6+",
@@ -11440,7 +11440,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Sawn-Off Big Shoota",
+      "name": "Synchronisierte abgesägtä Fette Wumme",
       "modes": [
         {
           "Feuerkraft": "AP5+/AT5+",
@@ -12686,7 +12686,7 @@
       ]
     },
     {
-      "name": "Zzap-Gun",
+      "name": "Zzap-Waffe",
       "modes": [
         {
           "Feuerkraft": "MW3+",

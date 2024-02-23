@@ -8,26 +8,26 @@
   "strategy": "Snakebite Clan Armeen haben einen Strategiewert von 3.",
   "Initiative": "All Verbände haben eine Initiativewert von 3+.",
   "specialRules": [
-    "Snakebite Clan Warlords",
-    "Mob Rule",
-    "Power of the Waaagh!"
+    "Snakebite Clan Waaghbosss",
+    "Köppe zählen",
+    "Macht des Waagh"
   ],
   "units": [
     {
       "from": "ORK.json",
       "units": [
-        "Warlord",
+        "Waaghboss",
         "Wyrdboy",
         "Pigdok",
         "Grotz",
         "Brutes",
-        "Boarboyz",
+        "BoarBoys",
         "Huntas",
         "Junkas",
         "Lobba",
         "Trappas",
-        "Wildboyz",
-        "Madboyz",
+        "WildBoys",
+        "MadBoys",
         "Squig Katapult",
         "Junkatrukk",
         "Squiggoth",
@@ -39,7 +39,7 @@
       ],
       "unitRules": [
         "Super-Entbehrlich",
-        "‘Ere we Go",
+        "Jetz' geht's los",
         "Rush ‘em Ladz"
       ]
     }
@@ -53,10 +53,10 @@
           "units": "Zwei Brutes, sechs Huntas und drei Grotz",
           "extraUnits": [
             "Any number of Huntas: 15 Punkte jeweils",
-            "Any number of Wildboyz: 15 Punkte jeweils",
-            "Any number of Boarboyz: 25 Punkte jeweils",
+            "Any number of WildBoys hinzu:15 Punkte jeweils",
+            "Any number of BoarBoys hinzu:25 Punkte jeweils",
             "Füge bis zu drei Squig Katapults: 25 Punkte jeweils",
-            "Any number of Huntas + Grotz: 35 Punkte",
+            "Any number of Huntas + Grotz hinzu: 35 Punkte",
             "Füge eine unit of Brutes: 35 Punkte jeweils",
             "Füge eine Wyrdboy to a unit of Brutes: 25 Punkte jeweils",
             "Füge bis zu zwei Squiggoth Flakkas: 40 Punkte jeweils",
@@ -79,10 +79,10 @@
           ]
         },
         {
-          "name": "Boarboyz Horde",
-          "units": "Ein Pigdok, acht Boarboyz",
+          "name": "BoarBoys Horde",
+          "units": "Ein Pigdok, acht BoarBoys",
           "extraUnits": [
-            "Any number of Boarboyz: 25 Punkte jeweils",
+            "Any number of BoarBoys hinzu:25 Punkte jeweils",
             "Füge bis zu eine Wyrdboy: 25 Punkte"
           ],
           "pointsOptions": [
@@ -134,11 +134,11 @@
           "points": 150
         },
         {
-          "name": "Madboyz Mob",
-          "units": "Sechs Madboyz",
+          "name": "MadBoys Mob",
+          "units": "Sechs MadBoys",
           "extraUnits": [
-            "Füge bis zu sechs Madboyz: 25 Punkte jeweils",
-            "Füge bis zu drei Wyrdboys: 25 Punkte jeweils"
+            "Füge bis zu sechs MadBoys hinzu:25 Punkte jeweils",
+            "Füge bis zu drei WyrdBoys hinzu:25 Punkte jeweils"
           ],
           "points": 150
         },
@@ -146,15 +146,15 @@
           "name": "Trappas Mob",
           "units": "Acht Trappas",
           "extraUnits": [
-            "Füge any number of Trappas: 25 Punkte jeweils"
+            "Füge eine beliebige Anzahl Trappas: 25 Punkte jeweils"
           ],
           "points": 175
         },
         {
-          "name": "Wildboyz Mob",
-          "units": "Ein Brute, sieben Wildboyz",
+          "name": "WildBoys Mob",
+          "units": "Ein Brute, sieben WildBoys",
           "extraUnits": [
-            "Any number of Wildboyz: 15 Punkte jeweils",
+            "Any number of WildBoys hinzu:15 Punkte jeweils",
             "Füge eine Brutes: 35 Punkte jeweils",
             "Füge eine Wyrdboy to a unit of Brutes: 25 Punkte",
             "Füge bis zu zwei Squiggoth Flakkas: 40 Punkte jeweils",

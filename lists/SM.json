@@ -2331,7 +2331,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May carry bis zu zwei of the following units: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders counts as zwei Einheiten. In addition it may also carry any Infanterie transported in these vehicles, which counts as being located in the vehicles when disembarking.",
+        "notes": "May carry bis zu zwei Einheiten, in beliebiger Kombination: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders counts as zwei Einheiten. In addition it may also carry any Infanterie transported in these vehicles, which counts as being located in the vehicles when disembarking.",
         "crit": "The Thunderhawk Transporter und all units being carried are destroyed."
       },
       {
@@ -2351,7 +2351,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May carry bis zu zwei of the following units: Cybots, Hunters, Predators, Razorbacks, Rhinos, Stalkers und Vindicators. Land Raiders counts as zwei Einheiten. In addition it may also carry any Infanterie transported in these vehicles, which counts as being located in the vehicles when disembarking.",
+        "notes": "May carry bis zu zwei Einheiten, in beliebiger Kombination: Cybots, Hunters, Predators, Razorbacks, Rhinos, Stalkers und Vindicators. Land Raiders counts as zwei Einheiten. In addition it may also carry any Infanterie transported in these vehicles, which counts as being located in the vehicles when disembarking.",
         "crit": "The Thunderhawk Transporter und all units being carried are destroyed."
       },
       {
@@ -2371,7 +2371,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May carry bis zu zwei of the following units: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders counts as zwei Einheiten. In addition it may also carry any Infanterie transported in these vehicles, which counts as being located in the vehicles when disembarking.",
+        "notes": "May carry bis zu zwei Einheiten, in beliebiger Kombination: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders counts as zwei Einheiten. In addition it may also carry any Infanterie transported in these vehicles, which counts as being located in the vehicles when disembarking.",
         "crit": "The Thunderhawk Transporter und all units being carried are destroyed."
       },
       {
@@ -2393,7 +2393,7 @@
           "Unmodifizierter Rettungswurf",
           "Transport"
         ],
-        "notes": "May carry bis zu zwei of the following units: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders counts as zwei Einheiten. In addition it may also carry any Infanterie transported in these vehicles, which counts as being located in the vehicles when disembarking.",
+        "notes": "May carry bis zu zwei Einheiten, in beliebiger Kombination: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders counts as zwei Einheiten. In addition it may also carry any Infanterie transported in these vehicles, which counts as being located in the vehicles when disembarking.",
         "crit": "The Thunderhawk Transporter und all units being carried are destroyed."
       },
       {
@@ -2521,7 +2521,7 @@
           }
         ],
         "specialRules": [
-          "Navis Nobilite",
+          "Navis Bossilite",
           "Transport"
         ],
         "notes": "May transport 20 Infanterie Einheiten, Trikes, Cybots; plus 10 light vehicles oder armoured vehicle units (except Trikes und Cybots) ; plus 6 Thunderhawks/Storm Eagles und enough Drop Pods oder Landing Craft to transport any other units being carried."
