@@ -82,7 +82,7 @@
         },
         {
           "name": "Deathwing Strike",
-          "units": "Any vier of the following units: Terminatoren, Cyclone Terminatoren",
+          "units": "Vier Einheiten, in beliebiger Kombination: Terminatoren, Cyclone Terminatoren",
           "extraUnits": [
             "Deathwing Knights",
             "Befehlshaber"
@@ -273,12 +273,12 @@
       },
       {
         "name": "Land Raiders",
-        "description": "Füge any number of Land Raiders, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Land Raiders, bis zu the number required to transport the formation",
         "points": "50 Punkte jeweils"
       },
       {
         "name": "Razorbacks",
-        "description": "Füge any number of Razorbacks, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Razorbacks, bis zu the number required to transport the formation",
         "points": "25 Punkte jeweils"
       },
       {

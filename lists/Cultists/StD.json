@@ -358,11 +358,11 @@
         "description": "Füge transports to the formation, bis zu the number required to transport all Infanterie Einheiten in the formation",
         "options": [
           {
-            "description": "Füge any number of Land Transporters",
+            "description": "Füge eine beliebige Anzahl Land Transporters",
             "points": "10 Punkte jeweils"
           },
           {
-            "description": "Füge any number of Chimären",
+            "description": "Füge eine beliebige Anzahl Chimären",
             "points": "25 Punkte jeweils"
           }
         ]

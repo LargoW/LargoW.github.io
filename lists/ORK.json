@@ -5,16 +5,16 @@
     ],
     "unit": [
       {
-        "name": "Warlord",
+        "name": "Waaghboss",
         "type": "CH",
         "weapons": [
-          "'Ore Dakka",
-          "Power Claw"
+          "Dakka-Dakka",
+          "Energiekrallä"
         ],
         "specialRules": [
           "Oberbefehlshaber"
         ],
-        "notes": "Has 'Ore Dakka if added to a WE unit, oder Power Claw if added to an INF unit"
+        "notes": "Has Dakka-Dakka if added to a WE unit, oder Energiekrallä if added to an INF unit"
       },
       {
         "name": "Mekboy Bad Ork Bikerboy",
@@ -25,7 +25,7 @@
         "ff": 5,
         "weapons": [
           "Kustom Blasta",
-          "Choppa Blades"
+          "Spalta Blades"
         ],
         "specialRules": [
           "Beritten",
@@ -36,7 +36,7 @@
         "name": "Big Mek",
         "type": "CH",
         "weapons": [
-          "'Ore Dakka"
+          "Dakka-Dakka"
         ],
         "specialRules": [
           "Oberbefehlshaber"
@@ -46,12 +46,12 @@
         "name": "Oddboy",
         "type": "CH",
         "weapons": [
-          "Supa-Zzap-Gun|0-1|",
+          "Supa-Zzap-Waffe|0-1|",
           "Mega Kanonä|0-1|",
           "D3+1 Power Fields|0-1|"
         ],
         "specialRules": [
-          "Ersetze eine Kanonä weapon with either a Supa-Zzap-Gun oder a Mega Kanonä, alternatively the unit may be given D3+1 power fields"
+          "Ersetze eine Kanonä entweder mit einer Supa-Zzap-Waffe oder mit einer Mega Kanonä. Alternativ kann die Einheit W3+1 power fields erhalten."
         ]
       },
       {
@@ -59,12 +59,12 @@
         "type": "CH",
         "weapons": [
           "Mega Kanonä|0-1|",
-          "Weirdboy Tower|0-1|",
+          "Weirdboy Turm|0-1|",
           "D3+1 Power Fields|0-1|"
         ],
         "specialRules": [
         ],
-        "notes": "Ersetze eine Kanonä weapon with either a Mega Kanonä oder Weirdboy Tower. Alternatively the unit may be given [*] D3+1 power fields"
+        "notes": "Ersetze eine Kanonä entweder mit einer Mega Kanonä oder mit einem Weirdboy Turm. lternativ kann die Einheit [*] W3+1 power field serhalten."
       },
       {
         "name": "Speed Freek Oddboy",
@@ -98,17 +98,17 @@
         ]
       },
       {
-        "name": "Boyz",
+        "name": "Boys",
         "type": "INF",
         "speed": 15,
         "armour": 6,
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Big Shoota"
+          "Fette Wumme"
         ],
         "specialRules": [
-          "‘Ere we Go"
+          "Jetz' geht's los"
         ]
       },
       {
@@ -122,23 +122,23 @@
         ],
         "specialRules": [
           "Super-Entbehrlich",
-          "‘Ere we Go"
+          "Jetz' geht's los"
         ]
       },
       {
-        "name": "Nobz",
+        "name": "Bosse",
         "type": "INF",
         "speed": 15,
         "armour": 4,
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Big Shoota|2|",
-          "Big Choppas"
+          "Fette Wumme|2|",
+          "Fette Spaltaz"
         ],
         "specialRules": [
           "Anführer",
-          "‘Ere we Go"
+          "Jetz' geht's los"
         ]
       },
       {
@@ -150,23 +150,23 @@
         "ff": 5,
         "weapons": [
           "Snazzguns",
-          "Big Choppas"
+          "Fette Spaltaz"
         ],
         "specialRules": [
           "Anführer",
-          "‘Ere we Go"
+          "Jetz' geht's los"
         ]
       },
       {
-        "name": "Nob Warbikes",
+        "name": "Boss Waaghbikes",
         "type": "INF",
         "speed": 35,
         "armour": 4,
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Sawn-Off Big Shoota",
-          "Big Choppas"
+          "Synchronisierte abgesägtä Fette Wumme",
+          "Fette Spaltaz"
         ],
         "specialRules": [
           "Anführer",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "name": "Big Gunz",
+        "name": "Kanonänbatterie",
         "type": "INF",
         "speed": 10,
         "cc": 6,
@@ -193,7 +193,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Big Shoota"
+          "Fette Wumme"
         ],
         "specialRules": [
           "Infiltratoren",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "name": "Stormboyz",
+        "name": "StormBoys",
         "type": "INF",
         "speed": 30,
         "armour": 6,
@@ -216,14 +216,14 @@
         ]
       },
       {
-        "name": "Warbikes",
+        "name": "Waaghbikes",
         "type": "INF",
         "speed": 35,
         "armour": 5,
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Synchronisierter Sawn-Off Big Shoota"
+          "Synchronisierte abgesägtä Fette Wumme"
         ],
         "specialRules": [
           "Beritten"
@@ -237,7 +237,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Synchronisierter Sawn-Off Big Shoota"
+          "Synchronisierte abgesägtä Fette Wumme"
         ],
         "specialRules": [
           "Beritten",
@@ -259,21 +259,21 @@
                 "notes": "Partial BPs are rounded up"
       },
       {
-        "name": "Deffkopta",
+        "name": "Killakopta",
         "type": "LV",
         "speed": 35,
         "armour": 4,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Big Shoota"
+          "Synchronisierter Fette Wumme"
         ],
         "specialRules": [
           "Antigrav"
         ]
       },
       {
-        "name": "Warkopta",
+        "name": "Waaghkopta",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -296,7 +296,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Big Shoota"
+          "Synchronisierter Fette Wumme"
         ],
         "specialRules": [
         ]
@@ -326,7 +326,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Ein unit of Boyz oder Nobz. Units may Shoot und Firefight while being transported, unless an enemy model is in base contact with the transport."
+        "notes": "Ein unit of Boys oder Bosse. Units may Shoot und Firefight while being transported, unless an enemy model is in base contact with the transport."
       },
       {
         "name": "Mekboy Speedsta",
@@ -351,15 +351,15 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Big Shoota|2|"
+          "Fette Wumme|2|"
         ],
         "specialRules": [
           "Transport"
         ],
-        "notes": "Zwei units of Boyz, Nobz, Flash Gitz, Kommandos oder Grotz. Big Gunz takes zwei spaces jeweils. May carry eine unit of Grotz in addition to any other units transported"
+        "notes": "Zwei units of Boys, Bosse, Flash Gitz, Kommandos oder Grotz. Kanonänbatterie takes zwei spaces jeweils. May carry eine unit of Grotz in addition to any other units transported"
       },
       {
-        "name": "Gunwagon",
+        "name": "Kampfpanza",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -371,10 +371,10 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Ein unit of Boyz, Nobz, Flash Gitz, Kommandos oder Grotz"
+        "notes": "Ein unit of Boys, Bosse, Flash Gitz, Kommandos oder Grotz"
       },
       {
-        "name": "Speed Freek Gunwagon",
+        "name": "Speed Freek Kampfpanza",
         "type": "AV",
         "speed": 35,
         "armour": 6,
@@ -386,7 +386,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Ein unit of Boyz, Nobz, Kommandos oder Grotz"
+        "notes": "Ein unit of Boys, Bosse, Kommandos oder Grotz"
       },
       {
         "name": "Looted Leman Russ/Land Raider",
@@ -397,12 +397,12 @@
         "ff": 5,
         "weapons": [
           "Kanonä",
-          "Big Shoota|2|"
+          "Fette Wumme|2|"
         ],
         "specialRules": [
           "Transport"
         ],
-        "notes": "Ein unit of Boyz, Nobz, Kommandos oder Grotz"
+        "notes": "Ein unit of Boys, Bosse, Kommandos oder Grotz"
       },
       {
         "name": "Looted Vindicator/Thunderer",
@@ -444,7 +444,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Ein unit of Boyz, Nobz, Flash Gitz, Kommandos oder Grotz"
+        "notes": "Ein unit of Boys, Bosse, Flash Gitz, Kommandos oder Grotz"
       },
       {
         "name": "Speed Freek Flakwagon",
@@ -459,7 +459,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Ein unit of Boyz, Nobz, Kommandos oder Grotz"
+        "notes": "Ein unit of Boys, Bosse, Kommandos oder Grotz"
       },
       {
         "name": "Looted Hydra/Stalker",
@@ -474,22 +474,22 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Ein unit of Boyz, Nobz, Kommandos oder Grotz"
+        "notes": "Ein unit of Boys, Bosse, Kommandos oder Grotz"
       },
       {
-        "name": "Killa Kan",
+        "name": "Killa Bot",
         "type": "AV",
         "speed": 15,
         "armour": 5,
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Big Shoota",
+          "Fette Wumme",
           "Kombat Klaws"
         ],
         "specialRules": [
           "Geländegängig",
-          "‘Ere we Go"
+          "Jetz' geht's los"
         ]
       },
       {
@@ -500,12 +500,12 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Big Shoota|2|",
+          "Fette Wumme|2|",
           "Kombat Klaws"
         ],
         "specialRules": [
             "Geländegängig",
-            "‘Ere we Go"
+            "Jetz' geht's los"
         ]
       },
       {
@@ -522,7 +522,7 @@
         "specialRules": [
           "Anführer",
           "Geländegängig",
-          "‘Ere we Go"
+          "Jetz' geht's los"
         ]
       },
       {
@@ -539,12 +539,12 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "‘Ere we Go"
+          "Jetz' geht's los"
         ],
-        "notes": "Armed with either drei Big Gunz, oder zwei Big Guns und a Kombat 'Ammer"
+        "notes": "Armed with either drei Kanonänbatterie, oder zwei Big Guns und a Kombat 'Ammer"
       },
       {
-        "name": "Battlefortress",
+        "name": "Mega Transportpanza",
         "type": "WE",
         "speed": 30,
         "armour": 4,
@@ -552,17 +552,17 @@
         "ff": 4,
         "weapons": [
           "Kanonä",
-          "Synchronisierter Big Shoota|4|"
+          "Synchronisierter Fette Wumme|4|"
         ],
         "specialRules": [
           "Schadenskapazität 3",
           "Transport"
         ],
-        "notes": "Acht Boyz, Flash Gitz, Nobz, Kommandos, Grotz. Big Gunz takes zwei spaces jeweils. May carry vier units of Grotz in addition to any other units transported.",
-        "crit": "The Battlefortress is destroyed, all units being carried are killed unless roll they a 6+."
+        "notes": "Acht Boys, Flash Gitz, Bosse, Kommandos, Grotz. Kanonänbatterie takes zwei spaces jeweils. May carry vier units of Grotz in addition to any other units transported.",
+        "crit": "The Mega Transportpanza is destroyed, all units being carried are killed unless roll they a 6+."
       },
       {
-        "name": "Gunfortress",
+        "name": "Mega Wummenpanza",
         "type": "WE",
         "speed": 30,
         "armour": 4,
@@ -570,14 +570,14 @@
         "ff": 5,
         "weapons": [
           "Kanonä|3|",
-          "Synchronisierter Big Shoota|5|"
+          "Synchronisierter Fette Wumme|5|"
         ],
         "specialRules": [
           "Schadenskapazität 3",
           "Transport"
         ],
-        "notes": "Vier Boyz, Nobz, Flash Gitz, Kommandos, Grotz. Big Gunz takes zwei spaces jeweils. May carry zwei units of Grotz in addition to any other units transported.",
-        "crit": "The Gunfortress is destroyed, all units being carried are killed unless roll they a 6+."
+        "notes": "Vier Boys, Bosse, Flash Gitz, Kommandos, Grotz. Kanonänbatterie takes zwei spaces jeweils. May carry zwei units of Grotz in addition to any other units transported.",
+        "crit": "The Mega Wummenpanza is destroyed, all units being carried are killed unless roll they a 6+."
       },
       {
         "name": "Flakkafortress",
@@ -622,7 +622,7 @@
         "weapons": [
           "Morks Blick",
           "Mega Kanonä|2-3|FxF",
-          "Killa-Choppa|0-1|"
+          "Killa-Spalta|0-1|"
         ],
         "specialRules": [
           "Schadenskapazität 4",
@@ -646,7 +646,7 @@
           "Gorks Blick|0-1|",
           "ARME (wähle zwei)",
           "Mega Kanonä|1-2|FxF",
-          "Killa-Choppa|0-1|FxF",
+          "Killa-Spalta|0-1|FxF",
           "BAUCH (wähle eine)",
           "Mega Kanonä|0-1|FxF",
           "Dakka Kannon|0-1|FxF"
@@ -669,8 +669,8 @@
         "ff": 4,
         "weapons": [
           "Mega Kanonä|2-3|FxF",
-          "Supa-Zzap-Gun|0-1|FxF",
-          "Mega-Choppa|0-1|"
+          "Supa-Zzap-Waffe|0-1|FxF",
+          "Mega-Spalta|0-1|"
         ],
         "specialRules": [
           "Schadenskapazität 7",
@@ -678,7 +678,7 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Armed with either drei Soopaguns oder zwei Soopaguns und either Supa-Zzap-Gun oder a Mega-Choppa"
+          "Armed with either drei Soopaguns oder zwei Soopaguns und either Supa-Zzap-Waffe oder a Mega-Spalta"
         ],
         "crit": "The Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
@@ -696,12 +696,12 @@
           "ARME (wähle zwei)",
           "Mega Kanonä|0-2|FxF",
           "Dakka Kannon|0-2|FxF",
-          "Mega-Choppa|0-2|",
-          "Zzap-Gun|0-2|FxF",
+          "Mega-Spalta|0-2|",
+          "Zzap-Waffe|0-2|FxF",
           "BAUCH (wähle eine)",
           "Mega Kanonä|0-1|FxF",
           "Supa-Brenna|0-1|FxF",
-          "Supa-Zzap-Gun|0-1|FxF",
+          "Supa-Zzap-Waffe|0-1|FxF",
           "Snappa|0-1|"
         ],
         "specialRules": [
@@ -759,7 +759,7 @@
           "BAUCH (wähle eine)",
           "Mega Kanonä|0-1|FxF",
           "Supa-Brenna|0-1|FxF",
-          "Supa-Zzap-Gun|0-1|FxF",
+          "Supa-Zzap-Waffe|0-1|FxF",
           "Snappa|0-1|"
         ],
         "specialRules": [
@@ -784,7 +784,7 @@
           "Kanonä|4|",
           "Weirdboy Tower",
           "2x Grot-Guided Rakete||FwA",
-          "Synchronisierter Supa-Zzap-Gun||FwA",
+          "Synchronisierter Supa-Zzap-Waffe||FwA",
           "Soopagunz Belly Batterie||FxF",
           "Kombat Arms"
         ],
@@ -879,7 +879,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "Ten Killa Kans, Warbikes, Boyz, Nobz, Kommandos, Stormboyz, Grotz. Big Gunz, Warbuggies, Skorchas, Deff Dreads takes zwei spaces jeweils. May carry vier units of Grotz in addition to any other units transported",
+        "notes": "Ten Killa Bots, Waaghbikes, Boys, Bosse, Kommandos, StormBoys, Grotz. Kanonänbatterie, Buggies, Skorchas, Deff Dreads takes zwei spaces jeweils. May carry vier units of Grotz in addition to any other units transported",
         "crit": "The Landa und all units being transported are destroyed."
       },
       {
@@ -890,7 +890,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Big Shootas|4|"
+          "Fette Wummes|4|"
         ],
         "specialRules": [
           "Schadenskapazität 3",
@@ -898,7 +898,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "Ten Killa Kans, Boyz, Nobz, Kommandos, Stormboyz, Grotz. Deff Dreads und Mega Dreads takes zwei spaces jeweils. [*] Must start the game loaded into a Blood Axes Kill Kroozer oder Battlekroozer. May only enter the game through Planetfall",
+        "notes": "Ten Killa Bots, Boys, Bosse, Kommandos, StormBoys, Grotz. Deff Dreads und Mega Dreads takes zwei spaces jeweils. [*] Must start the game loaded into a Blood Axes Kill Kroozer oder Battlekroozer. May only enter the game through Planetfall",
         "crit": "The Drop Rok und all units being transported are destroyed"
       },
       {
@@ -971,14 +971,14 @@
       },
 
       {
-        "name": "Boarboyz",
+        "name": "BoarBoys",
         "type": "INF",
         "speed": 20,
         "armour": 5,
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Choppas",
+          "Spaltas",
           "Shootas"
         ],
         "specialRules": [
@@ -995,12 +995,12 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Big Choppas",
+          "Fette Spaltaz",
           "Looted Gunz|2|"
         ],
         "specialRules": [
           "Rush ‘em Ladz",
-          "‘Ere we Go",
+          "Jetz' geht's los",
           "Anführer"
         ]
       },
@@ -1013,10 +1013,10 @@
         "ff": 6,
         "weapons": [
           "Looted Gunz",
-          "Choppas"
+          "Spaltas"
         ],
         "specialRules": [
-          "‘Ere we Go"
+          "Jetz' geht's los"
         ]
       },
       {
@@ -1027,10 +1027,10 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Big Shootas"
+          "Fette Wummes"
         ],
         "specialRules": [
-          "‘Ere we Go"
+          "Jetz' geht's los"
         ]
       },
       {
@@ -1045,17 +1045,17 @@
         "notes": "Partial BPs are rounded up"
       },
       {
-        "name": "Madboyz",
+        "name": "MadBoys",
         "type": "INF",
         "speed": 15,
         "armour": 6,
         "cc": 4,
         "weapons": [
-          "Choppas"
+          "Spaltas"
         ],
         "specialRules": [
           "Furchtlos",
-          "‘Ere we Go"
+          "Jetz' geht's los"
         ]
       },
       {
@@ -1075,17 +1075,17 @@
         ]
       },
       {
-        "name": "Wildboyz",
+        "name": "WildBoys",
         "type": "INF",
         "speed": 15,
         "armour": 6,
         "cc": 4,
         "weapons": [
-          "Choppas"
+          "Spaltas"
         ],
         "specialRules": [
           "Entbehrlich",
-          "‘Ere we Go"
+          "Jetz' geht's los"
         ]
       },
       {
@@ -1108,12 +1108,12 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Big Shoota"
+          "Fette Wumme"
         ],
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry eine unit of Junkas oder Nobs. Units may Shoot und Firefight while being transported, unless an enemy model is in base contact with the transport."
+        "notes": "May carry eine unit of Junkas oder Bosss. Units may Shoot und Firefight while being transported, unless an enemy model is in base contact with the transport."
       },
       {
         "name": "Squiggoth",
@@ -1124,15 +1124,15 @@
         "ff": 5,
         "weapons": [
           "Kanonä",
-          "Synchronisierter Big Shoota|2|",
+          "Synchronisierter Fette Wumme|2|",
           "Teeth und Horns"
         ],
         "specialRules": [
-          "‘Ere we Go",
+          "Jetz' geht's los",
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry bis zu vier of the following units: Huntas, Brutes, Squig Katapult, Wildboyz. May carry bis zu zwei Grotz in addition to any other units"
+        "notes": "May carry bis zu vier Einheiten, in beliebiger Kombination: Huntas, Brutes, Squig Katapult, WildBoys. May carry bis zu zwei Grotz in addition to any other units"
       },
       {
         "name": "Squiggoth Supa-Lobba",
@@ -1146,7 +1146,7 @@
           "Teeth und Horns"
         ],
         "specialRules": [
-          "‘Ere we Go",
+          "Jetz' geht's los",
           "Geländegängig"
         ]
       },
@@ -1159,11 +1159,11 @@
         "ff": 5,
         "weapons": [
           "Flak Gun",
-          "Synchronisierter Big Shoota|2|",
+          "Synchronisierter Fette Wumme|2|",
           "Teeth und Horns"
         ],
         "specialRules": [
-          "‘Ere we Go",
+          "Jetz' geht's los",
           "Geländegängig"
         ]
       },
@@ -1175,7 +1175,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Big Shoota|3|",
+          "Synchronisierter Fette Wumme|3|",
           "Zähne und Horns",
           "Supa-Lobba"
         ],
@@ -1184,7 +1184,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry bis zu acht of the following units: Huntas, Brutes, Squig Katapult, Wildboyz. May carry bis zu vier Grotz in addition to any other units.",
+        "notes": "May carry bis zu acht Einheiten, in beliebiger Kombination: Huntas, Brutes, Squig Katapult, WildBoys. May carry bis zu vier Grotz in addition to any other units.",
         "crit": "The Gargantuan Squiggoth is killed."
       },
       {
@@ -1195,7 +1195,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Big Shoota|4|",
+          "Synchronisierter Fette Wumme|4|",
           "Kanonä|2|",
           "Goring Tusks"
         ],
@@ -1205,7 +1205,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry bis zu sixteen of the following units: Huntas, Brutes, Squig Katapult, Wildboyz. May carry bis zu sechs Grotz in addition to any other units.",
+        "notes": "May carry bis zu sixteen Einheiten, in beliebiger Kombination: Huntas, Brutes, Squig Katapult, WildBoys. May carry bis zu sechs Grotz in addition to any other units.",
         "crit": "The Orkeosaurus takes eine additional damage, und D3 random units being transported takes a hit."
       },
       {
@@ -1217,7 +1217,7 @@
         "ff": 4,
         "weapons": [
           "Stub Mega Kanonä||FxF",
-          "Mega-Choppa"
+          "Mega-Spalta"
         ],
         "specialRules": [
           "Schadenskapazität 4",

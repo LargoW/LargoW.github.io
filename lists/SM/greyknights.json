@@ -8,7 +8,7 @@
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all formations.",
   "specialRules": [
     "Telemetrieempfänger",
-    "Navis Nobilite",
+    "Navis Bossilite",
     "Space Marine Transports",
     "Grey Ritters Transports",
     "They Shall Know No Fear"
@@ -134,7 +134,7 @@
         },
         {
           "name": "Bikes",
-          "units": "Ein Blood Ravens Scriptor, any fünf of the following units: Assault Bikes, Trike",
+          "units": "Ein Blood Ravens Scriptor, Fünf Einheiten, in beliebiger Kombination: Assault Bikes, Trike",
           "extraUnits": [
             "Oberbefehlshaber"
           ],
@@ -142,7 +142,7 @@
         },
         {
           "name": "Land Speeders",
-          "units": "Ein Blood Ravens Scriptor, any fünf of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Ein Blood Ravens Scriptor, Fünf Einheiten, in beliebiger Kombination: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Oberbefehlshaber",
             "Typhoons"
@@ -151,7 +151,7 @@
         },
         {
           "name": "Predators",
-          "units": "Ein Blood Ravens Scriptor, any vier of the following units: Predator Annihilators, Predator Destructors",
+          "units": "Ein Blood Ravens Scriptor, Vier Einheiten, in beliebiger Kombination: Predator Annihilators, Predator Destructors",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -269,7 +269,7 @@
       },
       {
         "name": "Anti-Air",
-        "description": "Füge any eine of the following units to the formation",
+        "description": "Füge any eine Einheiten, in beliebiger Kombination to the formation",
         "options": [
           {
             "description": "Füge eine Hunter",
@@ -283,7 +283,7 @@
       },
       {
         "name": "Land Raiders",
-        "description": "Füge any number of Land Raiders oder Land Raider Helios, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Land Raiders oder Land Raider Helios, bis zu the number required to transport the formation",
         "points": [
           "Land Raiders: 50 Punkte",
           "Land Raider Helios: 75 Punkte"
@@ -291,7 +291,7 @@
       },
       {
         "name": "Razorbacks",
-        "description": "Füge any number of Razorbacks, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Razorbacks, bis zu the number required to transport the formation",
         "points": "25 Punkte jeweils"
       },
       {

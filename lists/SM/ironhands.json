@@ -72,7 +72,7 @@
       "formations": [
         {
           "name": "Cybot Clan",
-          "units": "Ein Iron Hands Captain oder Techmarine, vier Taktischer Trupp plus transport, und any zwei of the following: Cybot, Hellfire Cybot, Siege Cybot",
+          "units": "Ein Iron Hands Captain oder Techmarine, vier Taktischer Trupp plus transport, und Zwei of the following: Cybot, Hellfire Cybot, Siege Cybot",
           "extraUnits": [
             "Anti-Air",
             "Oberbefehlshaber",
@@ -86,7 +86,7 @@
         },
         {
           "name": "Mechanisierte Clan",
-          "units": "Ein Iron Hands Captain oder Techmarine, vier Taktischer Trupp plus transport, und any zwei of the following: Predator Annihilator, Predator Destructor oder Vindicator",
+          "units": "Ein Iron Hands Captain oder Techmarine, vier Taktischer Trupp plus transport, und Zwei of the following: Predator Annihilator, Predator Destructor oder Vindicator",
           "extraUnits": [
             "Anti-Air",
             "Oberbefehlshaber",
@@ -104,7 +104,7 @@
       "formations": [
         {
           "name": "Cybot Talon",
-          "units": "Any vier of the following: Cybot, Hellfire Cybot, Siege Cybot. Plus transport.",
+          "units": "Vier of the following: Cybot, Hellfire Cybot, Siege Cybot. Plus transport.",
           "extraUnits": [
             "Venerable Cybot",
             "Ironclad Cybots",
@@ -239,7 +239,7 @@
       },
       {
         "name": "Cybots",
-        "description": "Füge any zwei of the following: Cybot, Hellfire Cybot oder Siege Cybot",
+        "description": "Füge Zwei of the following: Cybot, Hellfire Cybot oder Siege Cybot",
         "points": "50 Punkte jeweils"
       },
       {
@@ -249,7 +249,7 @@
       },
       {
         "name": "Venerable Cybot",
-        "description": "Füge a Venerable Cybot character to a Cybot of any configuration",
+        "description": "Füge a Venerable Cybot Charaktermodell einem Cybot of any configuration",
         "points": "50 Punkte"
       },
       {
@@ -264,7 +264,7 @@
       },
       {
         "name": "Transports",
-        "description": "Füge any number of Razorbacks oder Land Raider variants, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Razorbacks oder Land Raider variants, bis zu the number required to transport the formation",
         "options": [
           {
             "description": "The formation may take Siege Rhinos instead of Rhinos",

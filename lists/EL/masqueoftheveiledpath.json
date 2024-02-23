@@ -169,9 +169,9 @@
         },
         {
           "name": "Engines of Vaul",
-          "units": "Any eine of the following units: Cobra, Storm Serpent, Scorpion",
+          "units": "Any eine Einheiten, in beliebiger Kombination: Cobra, Storm Serpent, Scorpion",
           "extraUnits": [
-            "Füge bis zu any zwei of the following units für 200 Punkte jeweils: Cobra, Storm Serpent, Scorpion"
+            "Füge bis zu Zwei Einheiten, in beliebiger Kombination für 200 Punkte jeweils: Cobra, Storm Serpent, Scorpion"
           ],
           "points": 250
         }
@@ -274,12 +274,12 @@
     "items": [
       {
         "name": "0-1 Autarch",
-        "description": "Füge an Eldar Autarch character to a Farseer oder Aspect Warriors unit",
+        "description": "Füge an Eldar Autarch Charaktermodell einem Farseer oder Aspect Warriors unit",
         "points": "75 Punkte"
       },
       {
         "name": "Exarch",
-        "description": "Füge eine Exarch character to an Aspect Warrior unit",
+        "description": "Füge eine Exarch Charaktermodell einemn Aspect Warrior unit",
         "points": "25 Punkte"
       },
       {

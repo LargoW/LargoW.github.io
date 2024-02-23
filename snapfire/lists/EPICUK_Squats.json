@@ -4,7 +4,7 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"SQUAT INDIVIDUALS", "formations":[
-			{"id":520, "name":"Grand Warlord", 	"pts":50, "units":"Add one Grand Warlord character to a Squat Warlord or Guildmaster in the army", "upgrades":[]},
+			{"id":520, "name":"Grand Warlord", 	"pts":50, "units":"Add one Grand Warlord Charaktermodell einem Squat Warlord or Guildmaster in the army", "upgrades":[]},
 			{"id":521, "name":"Ancestor", 	"pts":25, "units":"Add one Living Ancestor to a Squat Warlord, Leviathan, Colossus, Cyclops or Land Train in the army", "upgrades":[]}
 		]},
 		{"name":"SQUAT BROTHERHOODS", "formations":[

@@ -101,7 +101,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport 18 of the following units und the units being transported on them: Orca, Manta. Mantas Zählt als thee Einheiten. Spec[*]: A Gravitic Tracer Salvo may be fired at a marked formation of any type."
+        "notes": "May transport 18 Einheiten, in beliebiger Kombination und the units being transported on them: Orca, Manta. Mantas Zählt als thee Einheiten. Spec[*]: A Gravitic Tracer Salvo may be fired at a marked formation of any type."
       },
       {
         "name": "Protector Class Cruiser",
@@ -112,7 +112,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport sechs of the following units und the units being transported on them: Orca, Manta. Mantas Zählt als thee Einheiten."
+        "notes": "May transport sechs Einheiten, in beliebiger Kombination und the units being transported on them: Orca, Manta. Mantas Zählt als thee Einheiten."
       },
       {
         "name": "Protector II Class Cruiser",
@@ -124,7 +124,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Must select either Gravitic Tracer Salvo OR zwei Pin-Point attacks at the start of the battle. May transport sechs of the following units und the units being transported on them: Orca, Manta. Mantas Zählt als thee Einheiten. Spec[*]: A Gravitic Tracer Salvo may be fired at a marked formation of any type."
+        "notes": "Must select either Gravitic Tracer Salvo OR zwei Pin-Point attacks at the start of the battle. May transport sechs Einheiten, in beliebiger Kombination und the units being transported on them: Orca, Manta. Mantas Zählt als thee Einheiten. Spec[*]: A Gravitic Tracer Salvo may be fired at a marked formation of any type."
       }
     ]
   }

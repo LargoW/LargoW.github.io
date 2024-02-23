@@ -122,7 +122,7 @@
         },
         {
           "name": "Eques Manipel",
-          "units": "Any sechs of the following units: Destroyers, Heavy Destroyers",
+          "units": "Any sechs Einheiten, in beliebiger Kombination: Destroyers, Heavy Destroyers",
           "Erweiterungen": [
             "Listed Below"
           ],
@@ -176,7 +176,7 @@
       "formations": [
         {
           "name": "0–1 Harvester Engine",
-          "units": "Ein of the following units: Abattoir, Æonic Orb",
+          "units": "Ein Einheiten, in beliebiger Kombination: Abattoir, Æonic Orb",
           "Erweiterungen": [
             "None"
           ],

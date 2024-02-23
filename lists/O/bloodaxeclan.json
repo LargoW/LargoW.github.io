@@ -6,38 +6,38 @@
   "strategy": "Ork Armeen haben einen Strategiewert von 3.",
   "Initiative": "All Verbände haben eine Initiativewert von 3+.",
   "specialRules": [
-    "Mob Rule",
-    "Power of the Waaagh!",
-    "Blood Axes Warlord"
+    "Köppe zählen",
+    "Macht des Waagh",
+    "Blood Axes Waaghboss"
   ],
   "usage": [
     "Unlike the very rigid formations used by the Imperium, Ork formations vary widely in both size und composition. The rules für creating Ork formations reflect this. The most common type of Ork formation is the warband. Other more specialised formations do exist, such as Kults of Speed und Blitz Brigades. The different types of Ork formations you may choose are shown on the army list that follows. The army list includes the following information:",
     "<b>Units</b> - The units that make up the formation. An Ork player can choose to double oder triple the number of units in the formation if he wishes. A formation with double the normal number of units is called a Big formation, und a formation with drei times the normal number of units is called a ’Uge formation.",
-    "<b>Erweiterungen</b> - An Ork formation may include any of the extra units listed in the Erweiterungen column. You may include any number of extra units in a formation unless it is specifically noted otherwise. If there is a limitation then the limit is doubled für a Big formation und tripled für a ’Uge formation. Für example, a Normal sized Kult of Speed can include 0–1 Oddboy, a Big Kult of Speed can include 0–2, und a ’Uge Kult of Speed can include 0–3. All of the core, extra, und free units in an Ork formation Zählt als being part of eine large formation. The different units may not move off on their own.",
+    "<b>Erweiterungen</b> - An Ork formation may include any of the extra units listed in the Erweiterungen column. You may include any number of extra units in a formation unless it is specifically noted otherwise. If there is a limitation then the limit is doubled für a Big formation und tripled für a ’Uge formation. Für example, a Normal sized Heizakult can include 0–1 Oddboy, a Big Heizakult can include 0–2, und a ’Uge Heizakult can include 0–3. All of the core, extra, und free units in an Ork formation Zählt als being part of eine large formation. The different units may not move off on their own.",
     "<b>Cost</b> - Most Ork formations have drei values: Normal, Big und 'Uge. If the formation only has eine cost then it may not be increased in size."
   ],
   "units": [
     {
       "from": "ORK.json",
       "units": [
-        "Warlord",
+        "Waaghboss",
         "Oddboy",
-        "Boyz",
+        "Boys",
         "Grotz",
-        "Nobz",
+        "Bosse",
         "Kommandos",
-        "Stormboyz",
-        "Deffkopta",
-        "Warkopta",
+        "StormBoys",
+        "Killakopta",
+        "Waaghkopta",
         "Battlewagon",
         "Flakwagon",
         "Looted Leman Russ/Land Raider",
         "Looted Vindicator/Thunderer",
-        "Killa Kan",
+        "Killa Bot",
         "Deff Dread",
         "Mega Dread",
-        "Battlefortress",
-        "Gunfortress",
+        "Mega Transportpanza",
+        "Mega Wummenpanza",
         "Flakkafortress",
         "Skullhamma",
         "Jagdbomma",
@@ -58,15 +58,15 @@
       "formations": [
         {
           "name": "Blood Axe Warband",
-          "units": "Zwei Nobz, sechs Boyz, zwei Grotz",
+          "units": "Zwei Bosse, sechs Boys, zwei Grotz",
           "extraUnits": [
-            "Füge any number of Looted Chimären/Rhinos, Killa Kans, Kommandos, Stormboyz: 25 Punkte jeweils",
-            "Füge any number of Deffkoptas, Cybots, Looted Hydra, Looted Leman Russ/Land Raiders : 35 Punkte jeweils",
-            "Füge any number of Stompas: 50 Punkte jeweils",
-            "Füge any number of Battlefortresses: 115 Punkte jeweils",
-            "Füge any number of Gunfortresses: 115 Punkte jeweils",
-            "0-2 Nobz: 35 Punkte Jeweils",
-            "0-1 Füge eine Oddboy character to a Battlefortress, Gunfortress, Gunwagon oder Kanonä unit: 50 Punkte"
+            "Füge eine beliebige Anzahl Looted Chimären/Rhinos, Killa Bots, Kommandos, StormBoys hinzu:25 Punkte jeweils",
+            "Füge eine beliebige Anzahl Killakoptas, Cybots, Looted Hydra, Looted Leman Russ/Land Raiders : 35 Punkte jeweils",
+            "Füge eine beliebige Anzahl Stompas: 50 Punkte jeweils",
+            "Füge eine beliebige Anzahl Mega Transportpanzas: 115 Punkte jeweils",
+            "Füge eine beliebige Anzahl Mega Wummenpanzas: 115 Punkte jeweils",
+            "0-2 Bosse: 35 Punkte Jeweils",
+            "0-1 Füge ein Oddboy Charaktermodell einem Mega Transportpanza, Mega Wummenpanza, Kampfpanza oder Kanonä unit: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -85,12 +85,12 @@
         },
         {
           "name": "Loota Brigade",
-          "units": "Any vier of the following units: Looted Leman Russ",
+          "units": "Vier Einheiten, in beliebiger Kombination: Looted Leman Russ",
           "extraUnits": [
-            "Füge any number of Skorchas, Warbikes, Warbuggies: 25 Punkte jeweils",
-            "Füge any number of Deffkoptas, Flakwagons, Gunwagons: 35 Punkte jeweils",
-            "0-1: Ein Gunfortress: 115 Punkte",
-            "0-1: Füge eine Oddboy character to a Gunfortress oder Gunwagon unit: 50 Punkte"
+            "Füge eine beliebige Anzahl Skorchas, Waaghbikes, Buggies: 25 Punkte jeweils",
+            "Füge eine beliebige Anzahl Killakoptas, Flakpanza, Kampfpanza hinzu: 35 Punkte jeweils",
+            "0-1: Ein Mega Wummenpanza: 115 Punkte",
+            "0-1: Füge ein Oddboy Charaktermodell einem Mega Wummenpanza oder Kampfpanza unit: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -108,12 +108,12 @@
           ]
         },
         {
-          "name": "Kult of Speed",
-          "units": "Any acht of the following units: Skorchas, Warbikes, Warbuggies",
+          "name": "Heizakult",
+          "units": "Acht Einheiten, in beliebiger Kombination: Skorchas, Waaghbikes, Buggies",
           "extraUnits": [
-            "Füge any number of Skorchas, Warbikes, Warbuggies: 25 Punkte jeweils",
-            "Füge any number of Deffkoptas, Flakwagons, Gunwagons: 35 Punkte jeweils",
-            "0-1: Füge eine Oddboy character to a Gunwagon unit: 50 Punkte"
+            "Füge eine beliebige Anzahl Skorchas, Waaghbikes, Buggies: 25 Punkte jeweils",
+            "Füge eine beliebige Anzahl Killakoptas, Flakpanza, Kampfpanza hinzu: 35 Punkte jeweils",
+            "0-1: Füge ein Oddboy Charaktermodell einem Kampfpanza unit: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -134,26 +134,26 @@
           "name": "Kommandos Warhorde",
           "units": "Sechs Kommandos",
           "extraUnits": [
-            "Füge any number of Skorchas, Warbikes, Warbuggies, Kommandos, Stormboyz: 25 Punkte jeweils"
+            "Füge eine beliebige Anzahl Skorchas, Waaghbikes, Buggies, Kommandos, StormBoys hinzu:25 Punkte jeweils"
           ],
           "points": 150
         },
         {
-          "name": "Stormboyz Warhorde",
-          "units": "Sechs Stormboyz",
+          "name": "StormBoys Warhorde",
+          "units": "Sechs StormBoys",
           "extraUnits": [
-            "Füge any number of Skorchas, Warbikes, Warbuggies, Kommandos, Stormboyz: 25 Punkte jeweils"
+            "Füge eine beliebige Anzahl Skorchas, Waaghbikes, Buggies, Kommandos, StormBoys hinzu:25 Punkte jeweils"
           ],
           "points": 150
         },
         {
           "name": "Mekboy Gunzmob",
-          "units": "Fünf Big Gunz",
+          "units": "Fünf Kanonänbatterie",
           "extraUnits": [
-            "Füge any number of Battlewagons, Big Gunz: 25 Punkte jeweils",
-            "Füge any number of Flakwagons: 35 Punkte jeweils",
-            "0-1 Nobz: 35 Punkte",
-            "0-1 Füge eine Oddboy character to a Kanonä unit: 50 Punkte"
+            "Füge eine beliebige Anzahl Transportpanza, Kanonänbatterie hinzu: 25 Punkte jeweils",
+            "Füge eine beliebige Anzahl Flakpanza: 35 Punkte jeweils",
+            "0-1 Bosse: 35 Punkte",
+            "0-1 Füge ein Oddboy Charaktermodell einem Kanonä unit: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -174,9 +174,9 @@
           "name": "Mekboy Stompamob",
           "units": "Drei Stompas",
           "extraUnits": [
-            "Füge any number of Killa Kans: 25 Punkte jeweils",
-            "Füge any number of Cybots, Flakwagons: 35 Punkte jeweils",
-            "Füge any number of Stompas: 50 Punkte jeweils",
+            "Füge eine beliebige Anzahl Killa Bots: 25 Punkte jeweils",
+            "Füge eine beliebige Anzahl Cybots, Flakpanza: 35 Punkte jeweils",
+            "Füge eine beliebige Anzahl Stompas: 50 Punkte jeweils",
             "0-1: Supa-Stompa: 275 Punkte"
           ],
           "pointsOptions": [
@@ -196,10 +196,10 @@
         },
         {
           "name": "Mekboy Dreadmob",
-          "units": "Ein Cybot, drei Killa Kan",
+          "units": "Ein Cybot, drei Killa Bot",
           "extraUnits": [
-            "Füge any number of Killa Kans: 25 Punkte jeweils",
-            "Füge any number of Cybots, Flakwagons: 35 Punkte jeweils"
+            "Füge eine beliebige Anzahl Killa Bots: 25 Punkte jeweils",
+            "Füge eine beliebige Anzahl Cybots, Flakpanza: 35 Punkte jeweils"
           ],
           "pointsOptions": [
             {

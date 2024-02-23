@@ -112,7 +112,7 @@
         },
         {
           "name": "Land Speeder",
-          "units": "Any fünf of the following units: White Scars Land Speeder, White Scars Land Speeder Tornado",
+          "units": "Fünf Einheiten, in beliebiger Kombination: White Scars Land Speeder, White Scars Land Speeder Tornado",
           "extraUnits": [
             "Land Speeder Variants"
           ],
@@ -190,7 +190,7 @@
     "items": [
       {
         "name": "Anti-Air",
-        "description": "Füge any eine of the following units to the formation",
+        "description": "Füge any eine Einheiten, in beliebiger Kombination to the formation",
         "options": [
           {
             "description": "Füge eine Hunter",
@@ -241,7 +241,7 @@
       },
       {
         "name": "Razorbacks",
-        "description": "Füge any number of Razorbacks, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Razorbacks, bis zu the number required to transport the formation",
         "points": "25 Punkte jeweils"
       },
       {

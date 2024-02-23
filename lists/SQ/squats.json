@@ -208,7 +208,7 @@
     "items": [
       {
         "name": "Warlord",
-        "description": "Füge eine of the following units to the formation",
+        "description": "Füge eine Einheiten, in beliebiger Kombination to the formation",
         "options": [
           {
             "description": "Squat Warlord",

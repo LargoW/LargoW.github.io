@@ -129,7 +129,7 @@
       "formations": [
         {
           "name": "Baal Predators",
-          "units": "Any vier of the following units: Baal Predator Hades, Baal Predator Infernus",
+          "units": "Vier Einheiten, in beliebiger Kombination: Baal Predator Hades, Baal Predator Infernus",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -160,7 +160,7 @@
         },
         {
           "name": "Land Speeder",
-          "units": "Any fünf of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Fünf Einheiten, in beliebiger Kombination: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Typhoons"
           ],
@@ -216,7 +216,7 @@
     "items": [
       {
         "name": "Anti-Air",
-        "description": "Füge any eine of the following units to the formation",
+        "description": "Füge any eine Einheiten, in beliebiger Kombination to the formation",
         "options": [
           {
             "description": "Füge eine Hunter",
@@ -268,7 +268,7 @@
       },
       {
         "name": "Land Raider Transport",
-        "description": "Füge any number of Land Raiders und/oder Land Raider Redeemers, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Land Raiders und/oder Land Raider Redeemers, bis zu the number required to transport the formation",
         "points": "50 Punkte jeweils"
       },
       {
@@ -278,7 +278,7 @@
       },
       {
         "name": "Razorbacks",
-        "description": "Füge any number of Blood Angels Razorbacks, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Blood Angels Razorbacks, bis zu the number required to transport the formation",
         "points": "25 Punkte jeweils"
       },
       {
@@ -288,7 +288,7 @@
       },
       {
         "name": "Stormraven Transports",
-        "description": "Füge any number of Stormravens, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Stormravens, bis zu the number required to transport the formation",
         "points": "50 Punkte jeweils"
       },
       {
