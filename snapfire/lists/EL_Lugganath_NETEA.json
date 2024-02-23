@@ -30,11 +30,11 @@
 			{"id":534, "name":"Dance Without End",			"pts":550, "units":"1 Harlequin Avatar, 1 Shadowseer, 1 Solitaire, 2 Death Jesters, 3 Harlequin Troupes, 2 Mimes, 8 Skyweavers", "upgrades":[]}
 		]},
 		
-		{"name":"Fir-Iolarion Titans, WraithRitters and Eldar Navy (Max 33%)", "formations":[
+		{"name":"Fir-Iolarion Titans, Wraithknights and Eldar Navy (Max 33%)", "formations":[
 			{"id":540, "name":"Nightwings",	"pts":225, "units":"2 Nightwing Interceptors", "upgrades":[]},
 			{"id":541, "name":"Fir-Iolarion Phantom Titan",	"pts":775,  "units":"1 Fir-Iolarion Phantom Titan", "upgrades":[]},
 			{"id":542, "name":"Corsair Vampire Hunter","pts":225, "units":"1 Corsair Vampire Hunter", "upgrades":[]},
-			{"id":543, "name":"Lugganath WraithRitters","pts":375, "units":"3 Lugganath WraithRitters", "upgrades":[]},
+			{"id":543, "name":"Lugganath Wraithknights","pts":375, "units":"3 Lugganath Wraithknights", "upgrades":[]},
 			{"id":544, "name":"Hemlock Wraithfighters",	"pts":225, "units":"2 Hemlock Wraithfighters", "upgrades":[]},
 			{"id":545, "name":"Wraithship",	"pts":150, "upgrades":[]},
 			{"id":546, "name":"Dragonship",	"pts":300, "upgrades":[]}
@@ -79,7 +79,7 @@
 		{"max":1, "from":[533]},
 		{"max":1, "from":[534]},
 		
-		{"maxPercent": 33.5, "name":"Fir-Iolarion Titans, WraithRitters and Eldar Navy", "from":[540,541,542,543,544,545,546]},		
+		{"maxPercent": 33.5, "name":"Fir-Iolarion Titans, Wraithknights and Eldar Navy", "from":[540,541,542,543,544,545,546]},		
 		{"max":1, "name":"Spacecraft", "from":[545,546]}		
 	],
 	"upgradeConstraints":[

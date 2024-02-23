@@ -1447,7 +1447,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Synchronisierter Sturmkanone",
+          "Synchronisierte Sturmkanone",
           "Multimelter|2"
         ],
         "specialRules": [
@@ -1782,7 +1782,7 @@
         "ff": 4,
         "weapons": [
           "Flamestorm Geschütz|2",
-          "Synchronisierter Sturmkanone"
+          "Synchronisierte Sturmkanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1857,7 +1857,7 @@
         "ff": 3,
         "weapons": [
           "Demolisher Geschütz",
-          "Synchronisierter Sturmkanone",
+          "Synchronisierte Sturmkanone",
           "Schwerer Flammenwerfer|2"
         ],
         "specialRules": [
@@ -1909,7 +1909,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Sturmkanone",
+          "Synchronisierte Sturmkanone",
           "Hurricane Boltersystem|2"
         ],
         "specialRules": [
@@ -2138,7 +2138,7 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Synchronisierter Sturmkanone||FwA",
+          "AC Synchronisierte Sturmkanone||FwA",
           "AC Synchronisierter schwerer Bolter||FxF"
         ]
       },
@@ -2148,7 +2148,7 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Synchronisierter Sturmkanone||FwA",
+          "AC Synchronisierte Sturmkanone||FwA",
           "AC Synchronisierter schwerer Drachenfeuer Bolter||FxF"
         ]
       },
@@ -2158,7 +2158,7 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Synchronisierter Sturmkanone||FwA",
+          "AC Synchronisierte Sturmkanone||FwA",
           "AC Synchronisierte Psycannon||FxF"
         ],
         "specialRules": [
@@ -2173,7 +2173,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Sturmkanone",
+          "Synchronisierte Sturmkanone",
           "Bloodstrike Raketen",
           "Hurricane Boltersystem"
         ],
@@ -2194,7 +2194,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC Synchronisierter Sturmkanone||FxF",
+          "AC Synchronisierte Sturmkanone||FxF",
           "AC Blackstar Rockets",
           "Blackstar Hurricane Boltersystem"
         ],

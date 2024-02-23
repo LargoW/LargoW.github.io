@@ -3,8 +3,8 @@
   "army": "Death Korps of Krieg",
   "version": "1.0.Beta-4",
   "release": "2022-09-29",
-  "armyforge": "EAR_ImperialGuard_DKoK",
-  "strategy": "DKoK Armeen haben einen Strategiewert von 2.",
+  "armyforge": "EAR_ImperialGuard_Todeskorps von Krieg",
+  "strategy": "Todeskorps von Krieg Armeen haben einen Strategiewert von 2.",
   "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Mut, Disziplin und Loyalität",
@@ -14,26 +14,26 @@
     {
       "from": "IG.json",
       "units": [
-        "DKoK Oberbefehlshaber",
-        "DKoK Befehlshaber",
+        "Todeskorps von Krieg Oberbefehlshaber",
+        "Todeskorps von Krieg Befehlshaber",
         "Kommissar",
-        "Assault Infanterie",
+        "Angriffsinfanterie ",
         "Siege Infanterie",
         "Death Riders",
-        "Grenadiers",
+        "Grenadiere",
         "Thudd Gun",
         "Rapier",
         "Scharfschützen",
-        "Armoured Sentinel",
-        "Medusa Gun",
-        "Earthshaker Gun",
-        "Heavy AA Gun",
+        "Gepanzerter Sentinel",
+        "Medusa Kanonenlafette",
+        "Tremorkanonenlafette",
+        "Schweres Flugabwehrgeschütz",
         "Trojan",
         "Bombard",
         "Greif",
         "Todesstoss-Raketensystem",
         "Bane Wolf",
-        "Storm Chimäre",
+        "Sturmchimäre",
         "Leman Russ",
         "Leman Russ Annihilator",
         "Leman Russ Thunderer",
@@ -72,11 +72,11 @@
   ],
   "sections": [
     {
-      "name": "DKoK Core Companies",
+      "name": "Todeskorps von Krieg Core Companies",
       "formations": [
         {
           "name": "0-1 Death Korps Regiments HQ",
-          "units": "Ein DKoK Oberbefehlshaber mit einem Kommissar, neun Assault Infanterie, eine Gorgon",
+          "units": "Ein Todeskorps von Krieg Oberbefehlshaber mit einem Kommissar, neun Angriffsinfanterie , eine Gorgon",
           "extraUnits": [
             "Füge ten Assault Infanteristen und eine Gorgon: 250 Punkte",
             "Leman Russ",
@@ -86,7 +86,7 @@
         },
         {
           "name": "Assault Kompanie",
-          "units": "Ein DKoK Befehlshaber mit einem Kommissar, neun Assault Infanterie, eine Gorgon",
+          "units": "Ein Todeskorps von Krieg Befehlshaber mit einem Kommissar, neun Angriffsinfanterie , eine Gorgon",
           "extraUnits": [
             "Leman Russ",
             "Bane Wolves"
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "name": "DKoK Unterstützungsverbände",
+      "name": "Todeskorps von Krieg Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände pro Kompanieverband Formation.",
       "formations": [
         {
@@ -117,7 +117,7 @@
         },
         {
           "name": "Siege Infanterie Kompanie",
-          "units": "DKoK Befehlshaber with Kommissar, 9 Siege Infanterie, 40cm Trenches, 40cm Razor Wire",
+          "units": "Todeskorps von Krieg Befehlshaber with Kommissar, 9 Siege Infanterie, 40cm Trenches, 40cm Razor Wire",
           "extraUnits": [
             "Füge vier Rapiers und 16cm Trenches, oder drei Thudd Guns und 12cm Trenches: 75 Punkte",
             "Füge bis zu zwei Scharfschützen: 25 Punkte jeweils"
@@ -126,16 +126,16 @@
         },
         {
           "name": "Artillerie Emplacement",
-          "units": "Vier Medusa Guns, vier Gun Emplacements",
+          "units": "Vier Medusa Kanonenlafettes, vier Gun Emplacements",
           "extraUnits": [
             "Ersetze vier Gun Emplacements with vier Trojans: Kostenlos",
-            "Ersetze vier Medusa Guns with vier Earthshaker Guns: 50 Punkte"
+            "Ersetze vier Medusa Kanonenlafettes with vier Tremorkanonenlafettes: 50 Punkte"
           ],
           "points": 225
         },
         {
           "name": "Flak Emplacement",
-          "units": "Vier Heavy AA Guns, vier Gun Emplacements",
+          "units": "Vier Schweres Flugabwehrgeschützs, vier Gun Emplacements",
           "Erweiterungen": [
             "Ersetze vier Gun Emplacements with vier Trojans: Kostenlos"
           ],
@@ -179,16 +179,16 @@
         },
         {
           "name": "Grenadier Kompanie",
-          "units": "Ein DKoK Befehlshaber mit einem Kommissar, sieben Grenadiers, vier Storm Chimären",
+          "units": "Ein Todeskorps von Krieg Befehlshaber mit einem Kommissar, sieben Grenadiere, vier Sturmchimären",
           "extraUnits": [
-            "Ersetze vier Storm Chimären mit einemGorgon: Kostenlos",
+            "Ersetze vier Sturmchimären mit einemGorgon: Kostenlos",
             "Bane Wolf"
           ],
           "points": 325
         },
         {
-          "name": "Armoured Sentinel Schwadron",
-          "units": "Vier Armoured Sentinels",
+          "name": "Gepanzerter Sentinel Schwadron",
+          "units": "Vier Gepanzerter Sentinels",
           "extraUnits": [
           ],
           "points": 125
@@ -229,7 +229,7 @@
     }
   ],
   "Erweiterungen": {
-    "title": "DKoK Erweiterungen",
+    "title": "Todeskorps von Krieg Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [
       {

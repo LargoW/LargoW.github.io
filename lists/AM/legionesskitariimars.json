@@ -172,7 +172,7 @@
           "name": "Warhound Pack",
           "units": "Zwei Warhound Titans, both of either Standard oder Support Configuration",
           "extraUnits": [
-            "Panzer Hunter Configuration"
+            "Panzerjägerkonfiguration"
           ],
           "points": 475
         },
@@ -253,7 +253,7 @@
         "name": "Panzer Hunter",
         "options": [
           {
-            "description": "Upgrade both Warhounds to Panzer Hunter Configuration",
+            "description": "Upgrade both Warhounds to Panzerjägerkonfiguration",
             "points": "50 Punkte"
           }
         ]

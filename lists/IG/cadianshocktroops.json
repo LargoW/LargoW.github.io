@@ -16,12 +16,12 @@
       "from": "IG.json",
       "units": [
         "Cadianischer Oberbefehlshaber",
-        "Cadian Befehlshaber",
+        "Cadianischer Befehlshaber",
         "Kommissar",
         "Whiteshields",
         "Infanterie",
         "Kasrkin",
-        "Armoured Sentinel",
+        "Gepanzerter Sentinel",
         "Basilisk",
         "Medusa",
         "Todesstoss-Raketensystem",
@@ -88,7 +88,7 @@
         },
         {
           "name": "Whiteshield Kompanie",
-          "units": "Ein Cadian Befehlshaber mit einem Kommissar, fifteen Whiteshields, zwei Stormlords.",
+          "units": "Ein Cadianischer Befehlshaber mit einem Kommissar, fifteen Whiteshields, zwei Stormlords.",
           "extraUnits": [
             "Leman Russ Schwadron",
             "Superschwere Panzer"
@@ -97,7 +97,7 @@
         },
         {
           "name": "Shock Trooper Kompanie",
-          "units": "Ein Cadian Befehlshaber mit einem Kommissar, eleven Infanterie Einheiten, zwei Crassus Assault Transports",
+          "units": "Ein Cadianischer Befehlshaber mit einem Kommissar, eleven Infanterie Einheiten, zwei Crassus Assault Transports",
           "Erweiterungen": [
           ],
           "points": 400
@@ -161,8 +161,8 @@
           ]
         },
         {
-          "name": "Armoured Sentinel Schwadron",
-          "units": "Vier Armoured Sentinels",
+          "name": "Gepanzerter Sentinel Schwadron",
+          "units": "Vier Gepanzerter Sentinels",
           "Erweiterungen": [
           ],
           "points": 125

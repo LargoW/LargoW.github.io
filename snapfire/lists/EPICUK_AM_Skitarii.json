@@ -15,11 +15,11 @@
 			{"id":571, "name":"Ordinatus Minoris",	"pts":50, "upgrades":[107,108,109,110,112,113,114]},
 			{"id":572, "name":"Ordinatus Majoris",	"pts":500, "upgrades":[111,115,116]}
 		]},
-		{"name":"IMPERIAL NAVY, RitterS & TITANS <br/> Max 33%", "formations":[
+		{"name":"IMPERIAL NAVY, KNIGHTS & TITANS <br/> Max 33%", "formations":[
 			{"id":564, "name":"Thunderbolt Squadron",					"pts":150, "units":"2 Thunderbolt Fighters", "upgrades":[]},
 			{"id":575, "name":"Marauder Squadron",						"pts":250, "units":"2 Marauder Bombers", "upgrades":[]},
 			{"id":565, "name":"Adeptus Mechanicus Cruiser",				"pts":150, "upgrades":[]},
-			{"id":576, "name":"Paladin Household",						"pts":500, "units":"6 Paladin Ritters", "upgrades":[]},
+			{"id":576, "name":"Paladin Household",						"pts":500, "units":"6 Paladin Knights", "upgrades":[]},
 			{"id":503, "name":"Warlord Titan", 							"pts":850, "upgrades":[]},
 			{"id":504, "name":"Reaver Titan",							"pts":650, "upgrades":[]},
 			{"id":552, "name":"Warhound Titan Pack",					"pts":500, "units":"2 Warhound Titans", "upgrades":[]}
@@ -48,7 +48,7 @@
 		{"max":1, "perArmy":true, "from":[565]},
 		{"max":1, "perArmy":true, "from":[572]},
 		{"max":3, "name":"Skitarii Maniples", "from":[567,561,563,571,572,580], "forEach":[566], "name2":"Skitarii Cohort"},
-		{"maxPercent":33.5, "name":"Navy, Ritters & Titans", "from":[503,504,552,576,564,575,565]}
+		{"maxPercent":33.5, "name":"Navy, Knights & Titans", "from":[503,504,552,576,564,575,565]}
 	],
 	"upgradeConstraints":[
 		{"max":3, "min":2, "from":[107,108,109,110,112,113,114], "appliesTo":[571]},

@@ -17,7 +17,7 @@
 			{"id":553, "name":"Nurgle Plague Tower", "pts":0, "upgrades":[56]},
 			{"id":554, "name":"Nurgle Contagion Towers", "pts":325, "units":"4 Contagion Towers"},
 			{"id":555, "name":"Slaanesh Scout Titans", "pts":0, "upgrades":[58,59]},
-			{"id":556, "name":"Slaanesh Daemon Ritters", "pts":275, "units":"4 Daemon Ritters"},
+			{"id":556, "name":"Slaanesh Daemon Knights", "pts":275, "units":"4 Daemon Knights"},
 			{"id":557, "name":"Tzeentch Firelord", "pts":0, "upgrades":[61]},
 			{"id":558, "name":"Tzeentch Doomwings", "pts":150, "units":"3 Doomwings"},
 			{"id":559, "name":"Tzeentch Silver Towers", "pts":325, "units":"4 Silver Towers"},

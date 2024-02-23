@@ -18,20 +18,20 @@
     {
       "from": "CSM.json",
       "units": [
-        "Warlord",
+        Kriegsherr,
         "Chaos Lord",
         "Sorcerer Lord",
-        "Champion of Chaos",
-        "Icon Bearer",
-        "Daemon Prince",
+        "Champion des Chaos",
+        "Ikonenträger",
+        "Dämonenprinz",
         "Chaos Space Marines",
         "Havocs",
-        "Chosen",
+        "Auserwählte",
         "Raptors",
         "Chaos Terminatoren",
         "Noise Marines",
-        "Plague Marines",
-        "Khorne Berzerkers",
+        "Seuchenmarines",
+        "Khorne Berserker",
         "Rubric Marines",
         "Kyborgs",
         "Chaos Assault Bikes",
@@ -43,8 +43,8 @@
         "Chaos Stalker"
       ],
       "unitRules": [
-          "Augment Summoning (+x)",
-          "Daemonic Focus"
+          "Verbesserte Beschwörung (+X)",
+          "Dämonischer Fokus"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "from": "daemons.json",
       "units": [
         "Daemonettes of Slaanesh",
-        "Plaguebearers of Nurgle",
-        "Bloodletters of Khorne",
-        "Horrors of Tzeentch",
+        "Plaguebearers des Nurgle",
+        "Bloodletters des Khorne",
+        "Horrors des Tzeentch",
         "Keeper of Secrets",
         "Great Unclean Ein",
         "Bloodthirster",
@@ -111,10 +111,10 @@
             "Transport",
             "Champion",
             "Cult Marines",
-            "Daemonic Pact",
+            "Dämonischer Pakt",
             "Stalker",
             "Dreadclaws",
-            "Icon Bearer",
+            "Ikonenträger",
             "Vindicators",
             "Havocs",
             "Cybots"
@@ -128,11 +128,11 @@
       "description": "Ein Elite formation may be taken pro Core formation",
       "formations": [
         {
-          "name": "Chosen",
-          "units": "Vier Chosen, zwei Chaos Rhinos",
+          "name": "Auserwählte",
+          "units": "Vier Auserwählte, zwei Chaos Rhinos",
           "extraUnits": [
             "Ersetze zwei Chaos Rhinos with zwei Chaos Cybots: 75 Punkte",
-            "Daemonic Pact"
+            "Dämonischer Pakt"
           ],
           "points": 150
         },
@@ -144,10 +144,10 @@
             "Champion",
             "Transport",
             "Dreadclaws",
-            "Icon Bearer",
+            "Ikonenträger",
             "Kyborgs",
             "Cybots",
-            "Daemonic Pact"
+            "Dämonischer Pakt"
           ],
           "points": 275
         }
@@ -162,7 +162,7 @@
           "units": "Ein Chaos Lord oder Sorcerer Lord, vier Raptors",
           "extraUnits": [
             "Füge bis zu vier Raptors: 30 Punkte jeweils",
-            "Daemonic Pact"
+            "Dämonischer Pakt"
           ],
           "points": 175
         },
@@ -181,7 +181,7 @@
           "units": "Ein Chaos Lord oder Sorcerer Lord, vier Havocs, zwei Chaos Rhinos",
           "extraUnits": [
             "Ersetze zwei Chaos Rhinos with Chaos Land Raiders: 75 Punkte",
-            "Daemonic Pact",
+            "Dämonischer Pakt",
             "Stalker",
             "Vindicators"
           ],
@@ -191,8 +191,8 @@
           "name": "Bike Kompanie",
           "units": "Ein Chaos Lord oder Sorcerer Lord, acht Chaos Assault Bikes",
           "extraUnits": [
-            "Daemonic Pact",
-            "Icon Bearer"
+            "Dämonischer Pakt",
+            "Ikonenträger"
           ],
           "points": 300
         }
@@ -295,7 +295,7 @@
             "points": "50 Punkte"
           },
           {
-            "description": "Ersetze the Chaos Lord & unit mit einemDaemon Prince",
+            "description": "Ersetze the Chaos Lord & unit mit einemDämonenprinz",
             "points": "100 Punkte"
           }
         ]
@@ -315,8 +315,8 @@
         ]
       },
       {
-        "name": "Daemonic Pact",
-        "description": "Füge Daemonic Pact to the formation, und eine point to the Lesser Daemon Pool",
+        "name": "Dämonischer Pakt",
+        "description": "Füge Dämonischer Pakt to the formation, und eine point to the Lesser Daemon Pool",
         "points": "25 Punkte"
       },
       {
@@ -326,17 +326,17 @@
       },
       {
         "name": "Champion",
-        "description": "Füge eine Champion of Chaos",
+        "description": "Füge eine Champion des Chaos",
         "points": "50 Punkte"
       },
       {
         "name": "Cult Marines",
-        "description": "Ersetze vier Chaos Space Marines with vier Noise Marines, Khorne Berzerkers, Plague Marines oder Rubric Marines.",
+        "description": "Ersetze vier Chaos Space Marines with vier Noise Marines, Khorne Berserker, Seuchenmarines oder Rubric Marines.",
         "points": "50 Punkte"
       },
       {
-        "name": "Icon Bearer",
-        "description": "Füge eine Icon Bearer character",
+        "name": "Ikonenträger",
+        "description": "Füge eine Ikonenträger character",
         "points": "25 Punkte"
       },
       {
@@ -368,7 +368,7 @@
   },
   "about": [
     "The EA-R Black Legion list is based on the NetEA version, but has some significant differences. Factions are gone, und the list is instead Chaos Undivided, but with cheaper summoning costs. Horrors have replaced Flammenwerfer as the basic Tzeentch lesser daemon, und the Daemonic Beast has been replaced with the Furies. These zwei changes are both für thematic reasons but mostly to better balance the different basic lesser daemons against eine another. All Daemon type units always have Unmodifizierter Rettungswurf, both für theme und to reduce confusion.",
-    "Havocs und Cult Marines now replace Chaos Space Marines in the Retinue rather than adding to them. Chosen may no longer take Dreadclaws, und come with Chaos Rhinos as standard, but may replace the Rhinos with Chaos Cybots. Chaos Cybots have a Reaper Maschinenkanone instead of a Synchronisierter Maschinenkanone to bring it to parity with the Feuerkraft of a Loyalist Cybot. A Chaos Stalker has been added to the list in order to reduce the list's reliance on Kyborgs. Kyborgs can only be added to Chaos Terminatoren.",
+    "Havocs und Cult Marines now replace Chaos Space Marines in the Retinue rather than adding to them. Auserwählte may no longer take Dreadclaws, und come with Chaos Rhinos as standard, but may replace the Rhinos with Chaos Cybots. Chaos Cybots have a Reaper Maschinenkanone instead of a Synchronisierter Maschinenkanone to bring it to parity with the Feuerkraft of a Loyalist Cybot. A Chaos Stalker has been added to the list in order to reduce the list's reliance on Kyborgs. Kyborgs can only be added to Chaos Terminatoren.",
     "Chaos Land Raiders are cheaper, in line mit einemgeneral reduction of transport vehicle costs. The Armoured Kompanie has been moved from the Core section to support, but can take Stalkers, und the Land Raiders are slightly cheaper as an upgrade. The Raptor formation is bigger, but is slightly cheaper für the size. All Daemon Engines have 2+ Initiative und always have an Unmodifizierter Rettungswurf. To compensate für the loss in initiative, they also have a Daemon Engine (x) rule which makes jeweils power's units act thematically und be a bit more dependable in some aspect. This has made it possible to make Defiler type formations significantly cheaper. Hell Blade Interceptors have the E-UK stats, und the Harbringer Bomber has been moved to the Iron Warriors army. The Chaos Titans have been reduced in cost und has changed stats in line with other Imperial Titans. The Chaos Battleship is slightly cheaper und has the 'Slow to Arrive' rule instead of 'Slow und Steady'."
   ]
 }

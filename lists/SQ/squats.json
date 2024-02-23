@@ -68,7 +68,7 @@
           "extraUnits": [
             "Ersetze zwei Squat Warriors with zwei Rapiers, oder zwei Thunderers: 25 Punkte",
             "Füge vier Squat Warriors: 75 Punkte",
-            "Warlord",
+            Kriegsherr,
             "Warrior Transport",
             "Living Ancestor (Leviathan only)"
           ],
@@ -193,7 +193,7 @@
           "extraUnits": [
             "Living Ancestor",
             "Dragon Battle Car: 75 Punkte jeweils",
-            "Siege Mörser Battle Car: 75 Punkte jeweils",
+            "Belagerungsmörser Battle Car: 75 Punkte jeweils",
             "Berserker Battle Car und eine unit of Squat Berserkers: 75 Punkte jeweils",
             "0-1 Bomb Battle Car: 125 Punkte"
           ],
@@ -207,7 +207,7 @@
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [
       {
-        "name": "Warlord",
+        "name": Kriegsherr,
         "description": "Füge eine Einheiten, in beliebiger Kombination to the formation",
         "options": [
           {

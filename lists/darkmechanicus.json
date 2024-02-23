@@ -24,7 +24,7 @@
         ],
         "specialRules": [
           "Anführer",
-          "Daemonic Focus"
+          "Dämonischer Fokus"
         ]
       },
       {
@@ -34,8 +34,8 @@
           "n/a"
         ],
         "specialRules": [
-          "Daemonic Focus",
-          "Augment Summoning (+1)",
+          "Dämonischer Fokus",
+          "Verbesserte Beschwörung (+1)",
           "Anführer"
         ]
       },
@@ -573,7 +573,7 @@
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Unmodifizierter Rettungswurf",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Daemon Engine (Chaos Undivided)"
         ]
       },
@@ -883,7 +883,7 @@
           "Daemon Engine (Nurgle)",
           "Transport"
         ],
-        "notes": "May transport fourteen Infanterie Einheiten. Big Mutants, Chaos Spawns, Terminatoren, Daemon Princes, Blight Drones und Chaos Cybots zählen als zwei Einheiten.",
+        "notes": "May transport fourteen Infanterie Einheiten. Big Mutants, Chaos Spawns, Terminatoren, Dämonenprinzs, Blight Drones und Chaos Cybots zählen als zwei Einheiten.",
         "crit": "The Plague Tower takes einen zusätzlichen point of damage. 1D3 random units carried inside takes a hit."
       },
       {
@@ -907,7 +907,7 @@
         ]
       },
       {
-        "name": "Geschütz of Khorne",
+        "name": "Geschütz des Khorne",
         "type": "AV",
         "speed": 15,
         "armour": 4,
@@ -1134,7 +1134,7 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Warpfire of Tzeentch",
+          "Warpfire des Tzeentch",
           "Arcane Cannons|3|",
           "Beam of Power|2|"
         ],

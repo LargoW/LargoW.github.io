@@ -43,14 +43,14 @@
 		]},
 
 		{"name":"LESSER DAEMON ENGINES / / One Lesser Daemon Engine formation may be taken for each Battle Titan, Greater Daemon Engine Model and Greater Daemon Possession upgrade", "formations":[
-			{"id":570, "name":"DAEMON RitterS Hell-Scourges (Slaanesh)",			"pts":75, "upgrades":[405]},
-			{"id":571, "name":"DAEMON RitterS Hell-Ritters (Slaanesh)",			"pts":45, "upgrades":[406]},
-			{"id":572, "name":"DAEMON RitterS Hell-Striders (Slaanesh)",			"pts":225, "upgrades":[]},
+			{"id":570, "name":"DAEMON KNIGHTS Hell-Scourges (Slaanesh)",			"pts":75, "upgrades":[405]},
+			{"id":571, "name":"DAEMON KNIGHTS Hell-Knights (Slaanesh)",			"pts":45, "upgrades":[406]},
+			{"id":572, "name":"DAEMON KNIGHTS Hell-Striders (Slaanesh)",			"pts":225, "upgrades":[]},
 
-			{"id":573, "name":"CHAOS RitterS (Chaos Undivided)",	"pts":75, "upgrades":[408]},
-			{"id":574, "name":"CHAOS RitterS (Khorne)",	"pts":75, "upgrades":[409]},
-			{"id":575, "name":"CHAOS RitterS (Nurgle)",	"pts":75, "upgrades":[410]},
-			{"id":576, "name":"CHAOS RitterS (Tzeentch)",	"pts":75, "upgrades":[411]},
+			{"id":573, "name":"CHAOS KNIGHTS (Chaos Undivided)",	"pts":75, "upgrades":[408]},
+			{"id":574, "name":"CHAOS KNIGHTS (Khorne)",	"pts":75, "upgrades":[409]},
+			{"id":575, "name":"CHAOS KNIGHTS (Nurgle)",	"pts":75, "upgrades":[410]},
+			{"id":576, "name":"CHAOS KNIGHTS (Tzeentch)",	"pts":75, "upgrades":[411]},
 
 			{"id":577, "name":"DAEMON ASSAULT ENGINES (Khorne)", "pts":5, "upgrades":[412]},
 
@@ -286,13 +286,13 @@
 		{"id":404,	"name":"Questor Scout Titan",	"pts":225},
 
 		{"id":405,	"name":"Hell-Scourge",	"pts":75},
-		{"id":406,	"name":"Hell-Ritter",	"pts":60},
+		{"id":406,	"name":"Hell-Knight",	"pts":60},
 		{"id":407,	"name":"Hell-Strider",	"pts":0},
 
-		{"id":408,	"name":"Renegade Ritter of Chaos Undivided",	"pts":75},
-		{"id":409,	"name":"Mauler Ritter of Khorne",	"pts":75},
-		{"id":410,	"name":"Decay Ritter of Nurgle",	"pts":75},
-		{"id":411,	"name":"Change Ritter of Tzeentch",	"pts":75},
+		{"id":408,	"name":"Renegade Knight of Chaos Undivided",	"pts":75},
+		{"id":409,	"name":"Mauler Knight of Khorne",	"pts":75},
+		{"id":410,	"name":"Decay Knight of Nurgle",	"pts":75},
+		{"id":411,	"name":"Change Knight of Tzeentch",	"pts":75},
 
 		{"id":412,	"name":"Daemonic Assault Engine",	"pts":55},
 

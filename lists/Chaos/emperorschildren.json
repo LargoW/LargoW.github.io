@@ -45,7 +45,7 @@
       "units": [
         "Debaser",
         "Hell-Strider",
-        "Hell-Ritter",
+        "Hell-Knight",
         "Hell-Scourge",
         "Questor",
         "Subjugator"
@@ -175,8 +175,8 @@
           "points": 225
         },
         {
-          "name": "Hell-Ritters",
-          "units": "Drei Hell-Ritters",
+          "name": "Hell-Knights",
+          "units": "Drei Hell-Knights",
           "points": 325
         },
         {
@@ -306,6 +306,6 @@
     ]
   },
   "about": [
-    "EA-R Emperor's Children is based on the NetEA version of the list. Apart from all the changes inherited from Black Legion list, there are a few significant differences. It is no longer possible to play the list without Noise Marines, but it is also not possible to play a purely Furchtlos list. The list gets a Greater Daemon Pool point für free, to compensate für the loss of flexibility that the Black Legion has. Emperor's Children Terminatoren (Sirenshriek Terminatoren) are now Furchtlos, mostly für thematic reasons. The Questor und the Subjugator have slightly different loadouts that are closer to the fluff, while the Ritter formations are no longer 0-1 but are much smaller. The Hell-Ritters have slightly better stats to bring them in line with the Hell-Scourges. The 'Debaser' Defiler has been introduced from the E-UK list. The Chaos Thunderhawk costs 25 Punkte more, like in Codex Astartes."
+    "EA-R Emperor's Children is based on the NetEA version of the list. Apart from all the changes inherited from Black Legion list, there are a few significant differences. It is no longer possible to play the list without Noise Marines, but it is also not possible to play a purely Furchtlos list. The list gets a Greater Daemon Pool point für free, to compensate für the loss of flexibility that the Black Legion has. Emperor's Children Terminatoren (Sirenshriek Terminatoren) are now Furchtlos, mostly für thematic reasons. The Questor und the Subjugator have slightly different loadouts that are closer to the fluff, while the Knight formations are no longer 0-1 but are much smaller. The Hell-Knights have slightly better stats to bring them in line with the Hell-Scourges. The 'Debaser' Defiler has been introduced from the E-UK list. The Chaos Thunderhawk costs 25 Punkte more, like in Codex Astartes."
   ]
 }

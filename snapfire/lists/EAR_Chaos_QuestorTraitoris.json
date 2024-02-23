@@ -8,14 +8,14 @@
 			{"id":520, "name":"Hell-Forge Maniple",		"pts":225, "upgrades":[50,53, 54,55, 60,61,62,63, 69]}
 		]},
 		{"name":"DAEMONIC BANNER FORMATIONS <br/> Max 3 for each Hell-Forge Core formation <br/> Army may not mix Nurgle/Tzeentch or Slaanesh/Khorne formations", "formations":[
-			{"id":500, "name":"Hell-Ritters of Slaanesh",		"units":"Daemonic Pact",	"pts":100,  "upgrades":[80]},
+			{"id":500, "name":"Hell-Knights of Slaanesh",		"units":"Daemonic Pact",	"pts":100,  "upgrades":[80]},
 			{"id":501, "name":"Hell-Scourges of Slaanesh",		"units":"Daemonic Pact",	"pts":100,  "upgrades":[81]},
 			{"id":510, "name":"Hell-Striders of Slaanesh",	"units":"Daemonic Pact",	"pts":50,  "upgrades":[95]},
-			{"id":502, "name":"Ritters of Nurgle",		"units":"Daemonic Pact, 2 Ritter-Desecrators",	"pts":350, "upgrades":[120]},
-			{"id":503, "name":"Ritters of Khorne",		"units":"Daemonic Pact, 2 Ritter-Rampagers",		"pts":350, "upgrades":[120]},
-			{"id":504, "name":"Ritters of Tzeentch",	"units":"Daemonic Pact, 2 Ritter-Despoilers",			"pts":350, "upgrades":[120]},
-			{"id":505, "name":"Ritters of Chaos Undivided",		"units":"Daemonic Pact, 2 Ritter-Renegades",		"pts":350, "upgrades":[120]},
-			{"id":506, "name":"Tyrant of Chaos Undivided",		"units":"Daemonic Pact, Ritter-Tyrant",		"pts":275, "upgrades":[120]},
+			{"id":502, "name":"Knights of Nurgle",		"units":"Daemonic Pact, 2 Knight-Desecrators",	"pts":350, "upgrades":[120]},
+			{"id":503, "name":"Knights of Khorne",		"units":"Daemonic Pact, 2 Knight-Rampagers",		"pts":350, "upgrades":[120]},
+			{"id":504, "name":"Knights of Tzeentch",	"units":"Daemonic Pact, 2 Knight-Despoilers",			"pts":350, "upgrades":[120]},
+			{"id":505, "name":"Knights of Chaos Undivided",		"units":"Daemonic Pact, 2 Knight-Renegades",		"pts":350, "upgrades":[120]},
+			{"id":506, "name":"Tyrant of Chaos Undivided",		"units":"Daemonic Pact, Knight-Tyrant",		"pts":275, "upgrades":[120]},
 			{"id":515, "name":"Armigers of Chaos Undivided",	"units":"Daemonic Pact", "pts":50, "upgrades":[]}
 		]},
 		{"name":"HELL-FORGE SUPPORT & CHAOS NAVY ALLIES <br/> Max 33%", "formations":[
@@ -65,18 +65,18 @@
 		{"id":72,	"name":"Ordinatus Cyclothrathe",	"pts":50},
 
 
-		{"id":80,	"name":"Hell-Ritter of Slaanesh",	"pts":100},
+		{"id":80,	"name":"Hell-Knight of Slaanesh",	"pts":100},
 		{"id":81,	"name":"Hell-Scourge of Slaanesh",	"pts":100},
 
-		{"id":82,	"name":"Ritter-Desecrator of Nurgle",	"pts":100},
-		{"id":83,	"name":"Ritter-Rampager of Khorne",	"pts":100},
-		{"id":84,	"name":"Ritter-Despoiler of Tzeentch",	"pts":100},
-		{"id":85,	"name":"Ritter-Renegade of Chaos Undivided",	"pts":100},
+		{"id":82,	"name":"Knight-Desecrator of Nurgle",	"pts":100},
+		{"id":83,	"name":"Knight-Rampager of Khorne",	"pts":100},
+		{"id":84,	"name":"Knight-Despoiler of Tzeentch",	"pts":100},
+		{"id":85,	"name":"Knight-Renegade of Chaos Undivided",	"pts":100},
 
-		{"id":90,	"name":"4 Ritter-Doomglaives of Chaos Undivided",	"pts":200},
-		{"id":91,	"name":"5 Ritter-Doomglaives of Chaos Undivided",	"pts":250},
-		{"id":92,	"name":"4 Ritter-Perfidor of Chaos Undivided",	"pts":200},
-		{"id":93,	"name":"5 Ritter-Perfidor of Chaos Undivided",	"pts":250},
+		{"id":90,	"name":"4 Knight-Doomglaives of Chaos Undivided",	"pts":200},
+		{"id":91,	"name":"5 Knight-Doomglaives of Chaos Undivided",	"pts":250},
+		{"id":92,	"name":"4 Knight-Perfidor of Chaos Undivided",	"pts":200},
+		{"id":93,	"name":"5 Knight-Perfidor of Chaos Undivided",	"pts":250},
 
 		{"id":95,	"name":"Hell-Strider of Slaanesh",	"pts":50},
 

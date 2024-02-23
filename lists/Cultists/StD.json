@@ -79,7 +79,7 @@
         "Defiler",
         "Vernichter",
         "Death Wheel",
-        "Hell-Ritter",
+        "Hell-Knight",
         "Hell-Scourge",
         "Plague Tower",
         "Plague Reaper",
@@ -215,8 +215,8 @@
           "points": 300
         },
         {
-          "name": "Hell-Ritters",
-          "units": "Drei Hell-Ritters",
+          "name": "Hell-Knights",
+          "units": "Drei Hell-Knights",
           "points": 325
         },
         {
