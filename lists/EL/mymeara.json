@@ -75,7 +75,7 @@
   "sections": [
     {
       "name": "Mymeara Craftworld Special",
-      "Verbände": [
+      "formations": [
         {
           "name": "1 Avatar",
           "units": "Ein Avatar",
@@ -90,7 +90,7 @@
     },
     {
       "name": "Craftworld Mymeara Hosts",
-      "Verbände": [
+      "formations": [
         {
           "name": "0-1 Shadow Spectre Warhost",
           "units": "Acht Shadow Spectres",
@@ -120,7 +120,7 @@
     {
       "name": "Craftworld Mymeara Troupes",
       "description": " Bis zu zwei für jeweils 'Mymeara Hosts' taken",
-      "Verbände": [
+      "formations": [
         {
           "name": "Wasp Walkers",
           "units": "Vier Wasp Walkers",
@@ -188,7 +188,7 @@
     {
       "name": "Craftworld Mymeara Aircraft, Spacecraft und Titans",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Nightshade Aerie",
           "units": "Zwei Nightshade Interceptors",

@@ -72,7 +72,7 @@
   "sections": [
     {
       "name": "Legiones Mars Core Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Vanguard Manipel",
           "units": "Ein Magos, neun Skitarii Vanguards",
@@ -95,7 +95,7 @@
     {
       "name": "Legiones Mars Line Verbände",
       "description": " Bis zu drei Mars Line Verbände für jeweils Core Formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Sicarian Killclade",
           "units": "Vier Sicarian Ruststalkers, zwei Sicarian Infiltratoren",
@@ -161,7 +161,7 @@
     {
       "name": "Forge World Navy, Collegia Titanica und Questoris Mechanicus Support",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Questoris Banner",
           "units": "Zwei Questoris Ritters (may not mix configurations)",

@@ -100,7 +100,7 @@
     {
       "name": "Word Bearers Core Verbände",
       "description": " Bis zu eine Cultist Coven may be taken pro Word Bearer Retinue.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Word Bearers Retinue",
           "units": "Ein Dark Apostle, acht Chaos Space Marines, Daemonic Pact",
@@ -131,7 +131,7 @@
     {
       "name": "Word Bearers Elite Verbände",
       "description": " Bis zu zwei Elite Verbände may be taken pro Word Bearers Retinue.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Iconoclasts",
           "units": "Ein Diabolist, vier Word Bearers Iconoclasts, Daemonic Pact",
@@ -175,7 +175,7 @@
     {
       "name": "Daemon Engine Verbände",
       "description": " Bis zu zwei Daemon Engine Verbände may be taken pro Cultist Coven formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Cerberites",
           "units": "Drei Cerberites",
@@ -208,7 +208,7 @@
     {
       "name": "Kriegsmaschinen & Chaos Navy",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
-      "Verbände": [
+      "formations": [
         {
           "name": "0-1 Dreadblade",
           "units": "Daemonic Pact, eine Ritter-Dreadblade of any configuration",
@@ -248,7 +248,7 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte",
-      "Verbände": [
+      "formations": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine für jeweils Daemonic Pact in the army.",

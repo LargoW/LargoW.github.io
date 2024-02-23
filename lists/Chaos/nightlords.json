@@ -76,7 +76,7 @@
   "sections": [
     {
       "name": "Night Lords Core Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Night Raptor Kompanie",
           "units": "Ein Night Lords Captain, sechs Raptors",
@@ -92,7 +92,7 @@
     {
       "name": "Night Lords Elite Verbände",
       "description": " Bis zu eine Elite formation may be taken pro Night Lords Core Formation",
-      "Verbände": [
+      "formations": [
         {
           "name": "Auserwählte",
           "units": "Vier Night Lords Auserwählte, zwei Chaos Rhinos",
@@ -125,7 +125,7 @@
     {
       "name": "Night Lords Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände may be taken pro Night Lords Core Formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Destroyers",
           "units": "Vier Chaos Destroyers",
@@ -170,7 +170,7 @@
     {
       "name": "Night Lords Static Defenses und Navy",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände. Nicht mehr als eine Tarantula formation für jeweils Auserwählte formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Tarantula",
           "units": "Vier Chaos Tarantulas",
@@ -203,7 +203,7 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte",
-      "Verbände": [
+      "formations": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine für jeweils Dämonischer Pakt in the army.",

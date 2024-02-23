@@ -58,7 +58,7 @@
   "sections": [
     {
       "name": "Catachan Core Companies",
-      "Verbände": [
+      "formations": [
         {
           "name": "Catachan Regiments HQ",
           "units": "Ein Catachanischer Oberbefehlshaber, sieben Catachan Infanterie",
@@ -86,7 +86,7 @@
     {
       "name": "Catachan Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Leman Russ Zug",
           "units": "Sechs Leman Russ, Leman Russ Demolisher, oder Leman Russ Exterminators",
@@ -166,7 +166,7 @@
     {
       "name": "Verbände der Imperialen Luftstreitkräfte",
       "description": " Bis zu a fourth of the Punkte available may be spent on Verbände der Imperialen Luftstreitkräfte",
-      "Verbände": [
+      "formations": [
         {
           "name": "Thunderbolt Schwadron",
           "units": "Zwei Thunderbolts",

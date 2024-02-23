@@ -58,7 +58,7 @@
   "sections": [
     {
       "name": "Ork Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Goffs Warband",
           "units": "Zwei Bosse, sechs Boys, zwei Grotz",
@@ -207,7 +207,7 @@
     {
       "name": "Goffs 'Craft und Gargant Verbände",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Jagdbomma Skwadron",
           "units": "Drei Jagdbommas",

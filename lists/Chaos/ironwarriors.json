@@ -73,7 +73,7 @@
   "sections": [
     {
       "name": "Iron Warriors Core Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Iron Warriors Retinue",
           "units": "Ein Iron Warriors Warpsmith, sechs Chaos Space Marines",
@@ -111,7 +111,7 @@
     {
       "name": "Iron Warriors Elite Verbände",
       "description": "Ein Elite formation may be taken pro Core formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Auserwählte",
           "units": "Vier Auserwählte, zwei Chaos Rhinos",
@@ -154,7 +154,7 @@
     {
       "name": "Iron Warriors Siege Verbände",
       "description": "Ein Siege formation may be taken pro Core formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Heavy Siege Engine",
           "units": "Iron Warriors Stormsword",
@@ -193,7 +193,7 @@
     {
       "name": "Dark Mechanicus und Chaos Navy",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Maulerfiends",
           "units": "Vier Maulerfiends",

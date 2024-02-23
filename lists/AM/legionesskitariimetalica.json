@@ -71,7 +71,7 @@
   "sections": [
     {
       "name": "Legiones Metalica Core Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Hypaspist Manipel",
           "units": "Ein Magos, neun Hypaspists",
@@ -90,7 +90,7 @@
     {
       "name": "Legiones Metalica Line Verbände",
       "description": " Bis zu drei Metalica Line Verbände für jeweils Core Formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Ballistae Cohort",
           "units": "Vier Sagitarii",
@@ -154,7 +154,7 @@
     {
       "name": "Forge World Navy, Collegia Titanica und Questoris Mechanicus Support",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Paladin Household",
           "units": "Fünf Ritter-Paladins",

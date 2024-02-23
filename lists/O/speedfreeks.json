@@ -52,7 +52,7 @@
   "sections": [
     {
       "name": "Ork Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Evil Sunz Blitz Brigade",
           "units": "Vier Einheiten, in beliebiger Kombination: Killakopta, Flakwagon, Kampfpanza",
@@ -153,7 +153,7 @@
     {
       "name": "Speed Freek 'Craft Verbände",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Fighta Skwadron",
           "units": "Vier Dakkajets",

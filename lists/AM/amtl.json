@@ -73,7 +73,7 @@
   "sections": [
     {
       "name": "Battle Titan Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "0-1 Emperor Titan",
           "units": "Ein Imperator Titan oder Warmonger Titan, Veteran Princeps",
@@ -103,7 +103,7 @@
     {
       "name": "Recon Verbände",
       "description": " Bis zu zwei Recon Verbände für jeweils Battle Titan formation",
-      "Verbände": [
+      "formations": [
         {
           "name": "Warhounds",
           "units": "Ein Warhound Titan, of either Standard oder Support configuration",
@@ -126,7 +126,7 @@
     {
       "name": "Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände für jeweils Battle Titan formation",
-      "Verbände": [
+      "formations": [
         {
           "name": "Secutarii Titan Guard",
           "units": "Ein Secutarii Axiarch, acht Secutarii Hoplites oder acht Secutarii Pelasts",
@@ -164,7 +164,7 @@
     {
       "name": "Adeptus Mechanicus Navy",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Adeptus Mechanicus Navy Verbände.  Bis zu eine Lysander Fighter für jeweils Warmonger Titan oder Anvilus Carapace Landing Pad.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Lysander Fighter",
           "units": "Ein Lysander Fighter",

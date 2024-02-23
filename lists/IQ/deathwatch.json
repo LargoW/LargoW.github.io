@@ -71,7 +71,7 @@
     {
       "name": "Deathwatch Specials",
       "description": "",
-      "Verbände": [
+      "formations": [
         {
           "name": "0-1 Officio Assassinorum",
           "units": "Once pro battle, during an Assault that the Deathwatch player initiated (after all units have finished moving), a single unit anywhere in the enemy formation(s) is hit with D3 hits. These hits counts as being from CC, und have the 'Scharfschütze' und 'First Strike' Sonderregels. Any damage caused by these hits counts towards combat resolution (unless the target is Super-Entbehrlich).",
@@ -82,7 +82,7 @@
     {
       "name": "Deathwatch Detachments",
       "description": "",
-      "Verbände": [
+      "formations": [
         {
           "name": "Deathwatch Kill-Team",
           "units": "Ein Watch Sergeant, drei Deathwatch Taktischer Trupp",
@@ -135,7 +135,7 @@
     {
       "name": "Ordo Xenos Verbände",
       "description": "Ein Ordo Xenos Formation may be taken pro Deathwatch Core Formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "0-1 Ordo Xenos Inquisitor Task Force",
           "units": "Ordo Xenos Inquisitor, neun Arbitrators, fünf Arbites Repressors",
@@ -180,7 +180,7 @@
     {
       "name": "Deathwatch Drop Detachments",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Deathwatch Drop Detachments.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Corvus Dropship",
           "units": "Ein Corvus Blackstar Dropship",

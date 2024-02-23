@@ -70,7 +70,7 @@
     {
       "name": "Acolyte Verbände",
       "description": "Ein Broodcoven formation must be taken.",
-      "Verbände": [
+      "formations": [
         {
           "name": "1 Broodcoven",
           "units": "Ein Genestealer Patriarch und acht Metamorph Hybrids",
@@ -100,7 +100,7 @@
     {
       "name": "Elite Verbände",
       "description": " Bis zu eine Elite formation pro Acolyte Formation",
-      "Verbände": [
+      "formations": [
         {
           "name": "Atalan Jackals",
           "units": "Ein Hybrid Iconward, ten Neophyte Outriders",
@@ -138,7 +138,7 @@
     {
       "name": "Unterstützungsverbände",
       "description": " Bis zu eine Support Formation pro Acolyte formation",
-      "Verbände": [
+      "formations": [
         {
           "name": "Mechanisierte Neophyte Zug",
           "units": "Ein Hybrid Iconward, sechs Neophytes und drei Chimären",

@@ -69,7 +69,7 @@
     {
       "name": "Core Kompanieverbände",
       "description": "Ein Siegemaster Regiments HQ must be taken. Jeweils Core Kompanie formation must take between eine und drei Erweiterungen. Jeweils upgrade may be taken only once.",
-      "Verbände": [
+      "formations": [
         {
           "name": "1 Siegemaster Regiments HQ",
           "units": "Ein Baranische Belagerungsmeister mit einem Kommissar, neun Siege Infanterie",
@@ -97,7 +97,7 @@
     {
       "name": "Baran Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
-      "Verbände": [
+      "formations": [
           {
             "name": "Heavy Panzer Kompanie",
             "units": "Ein Kommissar, sechs Ragnarok Heavy Panzers",
@@ -188,7 +188,7 @@
     {
       "name": "Imperial Navy",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte",
-      "Verbände": [
+      "formations": [
         {
           "name": "Thunderbolt Schwadron",
           "units": "Zwei Thunderbolts",

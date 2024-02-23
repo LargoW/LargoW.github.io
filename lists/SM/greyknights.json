@@ -68,7 +68,7 @@
     {
       "name": "Blood Ravens Core Verbände",
       "description": "Ein Orbital Support formation must be taken.",
-      "Verbände": [
+      "formations": [
         {
           "name": "1 Orbital Support",
           "units": "Vanguard Class Light Cruiser",
@@ -120,7 +120,7 @@
     {
       "name": "Blood Ravens Support Detachments",
       "description": "Zwei Blood Ravens Support Detachments may be taken pro Blood Ravens Core Detachment.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Aufklärers",
           "units": "Ein Blood Ravens Scriptor, vier Aufklärers plus transport",
@@ -162,7 +162,7 @@
     {
       "name": "Grey Ritters Detachments",
       "description": "Ein Grey Ritters Detachment may be taken pro Blood Ravens Core Formation",
-      "Verbände": [
+      "formations": [
         {
           "name": "Interceptor Squads",
           "units": "Zwei Grey Ritters Interceptor Squads",
@@ -211,7 +211,7 @@
     {
       "name": "Blood Ravens Aircraft",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Storm Talons",
           "units": "Zwei Storm Talons",

@@ -75,7 +75,7 @@
   "sections": [
     {
       "name": "Ulthwé Special",
-      "Verbände": [
+      "formations": [
         {
           "name": "0-1 Avatar",
           "units": "Ein Avatar",
@@ -92,7 +92,7 @@
     },
     {
       "name": "Ulthwé Warhosts",
-      "Verbände": [
+      "formations": [
         {
           "name": "Black Guardian Warhost",
           "units": "Zwei Farseers, sechs Eldar Guardians",
@@ -121,7 +121,7 @@
     {
       "name": "Ulthwé Line Troupes",
       "description": " Bis zu zwei Ulthwé Line Troupes für jeweils Ulthwé Warhost",
-      "Verbände": [
+      "formations": [
           {
             "name": "War Walkers",
             "units": "Vier War Walkers",
@@ -189,7 +189,7 @@
     {
       "name": "Ulthwé Aircraft, Spacecraft und Titans",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Nightwing Aerie",
           "units": "Zwei Nightwing Interceptors",

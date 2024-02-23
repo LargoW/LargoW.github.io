@@ -71,7 +71,7 @@
     {
       "name": "Adepta Sororitas Core Verbände",
       "description": "",
-      "Verbände": [
+      "formations": [
         {
           "name": "Mission",
           "units": "Ein Palatine, acht Battle Sisters",
@@ -99,7 +99,7 @@
     {
       "name": "Adepta Sororita Unterstützungsverbände",
       "description": "Zwei Adepta Sororitas Unterstützungsverbände may be taken pro Adepta Sororitas Core Formation",
-      "Verbände": [
+      "formations": [
         {
           "name": "Immolation",
           "units": "Ein Palatine, drei Celestian Sisters, drei Sororitas Immolators",
@@ -159,7 +159,7 @@
     {
       "name": "Ordo Hereticus Verbände",
       "description": "Ein Ordo Hereticus Formation may be taken pro Adepta Sororitas Core Formation",
-      "Verbände": [
+      "formations": [
         {
           "name": "Vulture",
           "units": "Vier Vultures",
@@ -186,7 +186,7 @@
     {
       "name": "Verbände der Imperialen Luftstreitkräfte",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte",
-      "Verbände": [
+      "formations": [
         {
           "name": "Lightning Schwadron",
           "units": "Zwei Lightning Interceptors",

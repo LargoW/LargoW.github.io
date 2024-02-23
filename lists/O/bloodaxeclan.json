@@ -55,7 +55,7 @@
   "sections": [
     {
       "name": "Ork Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Blood Axe Warband",
           "units": "Zwei Bosse, sechs Boys, zwei Grotz",
@@ -229,7 +229,7 @@
     {
       "name": "Ork Aircraft und Gargant Verbände",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Jagdbomma Skwadron",
           "units": "Drei Jagdbommas",

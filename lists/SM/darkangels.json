@@ -59,7 +59,7 @@
   "sections": [
     {
       "name": "Dark Angels Core Detachments",
-      "Verbände": [
+      "formations": [
         {
           "name": "Ravenwing Attack",
           "units": "Ein Black Ritters, vier Ravenwing Assault Bikes, drei Ravenwing Land Speeders",
@@ -94,7 +94,7 @@
     {
       "name": "Dark Angels Support Detachments",
       "description": "Drei Support Detachments may be taken pro Core Detachment",
-      "Verbände": [
+      "formations": [
         {
           "name": "Land Raiders",
           "units": "Drei Land Raiders",
@@ -186,7 +186,7 @@
     {
       "name": "Ravenwing Aircraft & Dark Angels Swordwing",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände. Ein Swordwing Support formation must be taken",
-      "Verbände": [
+      "formations": [
         {
           "name": "Nephilims",
           "units": "Zwei Ravenwing Nephilim Interceptors",

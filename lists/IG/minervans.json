@@ -69,7 +69,7 @@
   "sections": [
     {
       "name": "Minervan Kompanieverbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Minervan Panzer Kompanie",
           "units": "Ein Leman Russ Vanquisher mit einem Kommissar-Captain, sieben Leman Russ",
@@ -107,7 +107,7 @@
     {
       "name": "Minervan Unterstützungsverbände",
       "description": " Bis zu drei Unterstützungsverbände für jeweils Minervan Kompanie.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Leman Russ Schwadron",
           "units": "Vier Leman Russ",
@@ -183,7 +183,7 @@
     {
       "name": "Collegia Titanica und Verbände der Imperialen Luftstreitkräfte",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Collegia Titanica und Verbände der Imperialen Luftstreitkräfte",
-      "Verbände": [
+      "formations": [
         {
           "name": "Warhounds",
           "units": "Ein Warhound Titan",

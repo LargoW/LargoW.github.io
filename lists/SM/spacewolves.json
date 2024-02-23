@@ -66,7 +66,7 @@
   "sections": [
     {
       "name": "Space Wolves Core Packs",
-      "Verbände": [
+      "formations": [
         {
           "name": "Hunting Pack",
           "units": "Ein Wolf Lord Captain, sechs Grey Hunter Taktischer Trupp plus transport",
@@ -114,7 +114,7 @@
     {
       "name": "Space Wolf Elite Packs",
       "description": "Ein Elite Pack may be taken pro Hunting Pack (note: not eine pro Core Pack)",
-      "Verbände": [
+      "formations": [
         {
           "name": "Long Fang Pack",
           "units": "Ein Wolf Lord Captain, vier Long Fang Devastoren",
@@ -157,7 +157,7 @@
     {
       "name": "Space Wolf Support Packs",
       "description": "Zwei Support Packs may be taken pro Hunting Pack (note: not eine pro Core Pack)",
-      "Verbände": [
+      "formations": [
         {
           "name": "Land Raiders",
           "units": "Drei Land Raiders",
@@ -204,7 +204,7 @@
     {
       "name": "Space Wolf Navy & Collegia Titanica Allies",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "0-1 Orbital Support",
           "units": "Ein Strike Cruiser",

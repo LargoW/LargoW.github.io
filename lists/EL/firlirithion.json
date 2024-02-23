@@ -59,7 +59,7 @@
   "sections": [
     {
       "name": "Fir Lirithion Special",
-      "Verbände": [
+      "formations": [
         {
           "name": "1 Avatar",
           "units": "Ein Avatar",
@@ -74,7 +74,7 @@
     },
     {
       "name": "Fir Lirithion Battle Titans",
-      "Verbände": [
+      "formations": [
         {
           "name": "0-1 Warlock Titan",
           "units": "Ein Warlock Titan",
@@ -95,7 +95,7 @@
     {
       "name": "Fir Lirithion Aufklärer Titans",
       "description": " Bis zu zwei Aufklärer Titan Verbände für jeweils Battle Titan",
-      "Verbände": [
+      "formations": [
         {
           "name": "Revenant Titan",
           "units": "Zwei Revenant Titans",
@@ -109,7 +109,7 @@
     {
       "name": "Fir Lirithion Troupes",
       "description": " Bis zu drei Troupes für jeweils Battle oder Aufklärer Titan formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "WraithRitter Troupe",
           "units": "Zwei WraithRitters (may not mix configurations)",
@@ -142,7 +142,7 @@
     {
       "name": "Craftworld Navy",
       "description": " Bis zu a fourth of the Punkte available may be spent on these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Nightwing Aerie",
           "units": "Zwei Nightwing Interceptors",

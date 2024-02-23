@@ -78,7 +78,7 @@
   "sections": [
     {
       "name": "Imperial Fists Core Detachments",
-      "Verbände": [
+      "formations": [
         {
           "name": "Devastoren",
           "units": "Vier Devastoren plus transport",
@@ -122,7 +122,7 @@
     {
       "name": "Imperial Fists Support Detachments",
       "description": " Bis zu zwei Support Detachments für jeweils Core Detachment.",
-      "Verbände": [
+      "formations": [
           {
             "name": "Land Raiders",
             "units": "Drei Land Raiders",
@@ -206,7 +206,7 @@
     {
       "name": "Imperial Fists Static Defenses, Navy & Titan Legion Allies",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.  Bis zu eine Tarantula oder Hyperios formation für jeweils Aufklärer detachment.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Bastion",
           "units": "Ein Bastion",

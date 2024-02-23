@@ -75,7 +75,7 @@
   "sections": [
     {
       "name": "Iyanden Special",
-      "Verbände": [
+      "formations": [
         {
           "name": " 1 Avatar",
           "units": "Ein Avatar",
@@ -90,7 +90,7 @@
     },
     {
       "name": "Iyanden Wraithhosts",
-      "Verbände": [
+      "formations": [
         {
           "name": "Spirit Guard Wraithhost",
           "units": "Ein Wraithguards mit einemSpiritseer character, drei Wraithguards",
@@ -118,7 +118,7 @@
     {
       "name": "Iyanden Troupes",
       "description": " Bis zu zwei für jeweils Iyanden Wraithhost taken",
-      "Verbände": [
+      "formations": [
           {
             "name": "Guardians",
             "units": "Ein Farseer unit und sieben Guardians",
@@ -193,7 +193,7 @@
     {
       "name": "Iyanden Aircraft, Spacecraft und Titans",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Nightwing Aerie",
           "units": "Zwei Nightwing Interceptors",

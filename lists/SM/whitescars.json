@@ -63,7 +63,7 @@
   "sections": [
     {
       "name": "White Scars Core Detachments",
-      "Verbände": [
+      "formations": [
         {
           "name": "Bikes",
           "units": "Acht White Scars Assault Bikes",
@@ -100,7 +100,7 @@
     {
       "name": "White Scars Support Detachments",
       "description": "Zwei Support Detachments may be taken pro Core Detachment",
-      "Verbände": [
+      "formations": [
         {
           "name": "Sturmtrupp",
           "units": "Vier Sturmtrupp",
@@ -149,7 +149,7 @@
     {
       "name": "White Scars Navy & Collegia Titanica Allies",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Storm Talons",
           "units": "Zwei Storm Talons",

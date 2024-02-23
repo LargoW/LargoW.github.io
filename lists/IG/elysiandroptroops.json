@@ -62,7 +62,7 @@
   "sections": [
     {
       "name": "Elysian Core Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "0-1 Regiments HQ",
           "units": "Ein Elysianischer Oberbefehlshaber mit einem Kommissar, sieben Elysianische Sturmtruppen, vier Valkyries.",
@@ -88,7 +88,7 @@
     {
       "name": "Elysian Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Luftlandungs-Sentinel Schwadron",
           "units": "Sechs Luftlandungs-Sentinels",
@@ -145,7 +145,7 @@
     {
       "name": "Static Defenses & Imperiale LuftstreitkräfteAllies",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.  Bis zu eine Tarantula formation für jeweils Tauros Recon Schwadron",
-      "Verbände": [
+      "formations": [
         {
           "name": "Tarantula",
           "units": "Vier Tarantulas",

@@ -70,7 +70,7 @@
   "sections": [
     {
       "name": "Saim-Hann Special",
-      "Verbände": [
+      "formations": [
         {
           "name": "1 Avatar",
           "units": "Ein Avatar",
@@ -86,7 +86,7 @@
     {
       "name": "Saim-Hann Warhosts",
       "description": " Bis zu eine Aspect Warrior Host für jeweils Wild Rider Warhost",
-      "Verbände": [
+      "formations": [
         {
           "name": "Wild Rider Warhost",
           "units": "Nine Saim-Hann Wild Riders",
@@ -110,7 +110,7 @@
     {
       "name": "Saim-Hann Troupes",
       "description": " Bis zu drei für jeweils Saim-Hann Warhost taken",
-      "Verbände": [
+      "formations": [
         {
           "name": "Beritten Aspect Warrior Troupe",
           "units": "Drei Wave Serpents und sechs Aspect Warriors chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions",
@@ -184,7 +184,7 @@
     {
       "name": "Saim-Hann Aircraft, Spacecraft und Titans",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Crimson Hunters",
           "units": "Zwei Nightshade Interceptors",

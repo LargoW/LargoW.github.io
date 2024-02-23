@@ -75,7 +75,7 @@
     {
       "name": "Codex Astartes Detachments",
       "description": " Bis zu eine Aufklärer Detachment für jeweils non-Aufklärer Detachment.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Sturmtrupp",
           "units": "Vier Sturmtrupp",
@@ -184,7 +184,7 @@
     {
       "name": "Codex Astartes Navy, Imperial Aircraft & Collegia Titanica Allies",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Storm Talons",
           "units": "Zwei Storm Talons",

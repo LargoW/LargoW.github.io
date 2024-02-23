@@ -87,7 +87,7 @@
   "sections": [
     {
       "name": "Hell-Forge Core Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Hell-Forge Manipel",
           "units": "Ein Hellwright, eleven Chaos Squats",
@@ -105,7 +105,7 @@
     {
       "name": "Daemonic Banner Verbände",
       "description": " Bis zu drei für jeweils Hell-Forge Core formation. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Höllenritter of Slaanesh",
           "units": "Dämonischer Pakt, zwei Höllenritter",
@@ -183,7 +183,7 @@
     {
       "name": "Hell-Forge Support, Traitor Titan und Chaos Navy Allies",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Chrono-Gladiators",
           "units": "Sechs Chrono-Gladiators",
@@ -236,7 +236,7 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte",
-      "Verbände": [
+      "formations": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine Lesser Daemon pool point für jeweils Dämonischer Pakt.",

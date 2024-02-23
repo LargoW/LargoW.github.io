@@ -56,7 +56,7 @@
   "sections": [
     {
       "name": "Primaris Core Detachments",
-      "Verbände": [
+      "formations": [
         {
           "name": "Battle Line Squad",
           "units": "Vier Intercessors, Assault Intercessors oder Hellblasters",
@@ -72,7 +72,7 @@
     },
     {
       "name": "Primaris Elite Detachments",
-      "Verbände": [
+      "formations": [
         {
           "name": "Inceptor Squad",
           "units": "Vier Inceptors",
@@ -109,7 +109,7 @@
     },
     {
       "name": "Primaris Support Detachments",
-      "Verbände": [
+      "formations": [
         {
           "name": "Unterstützungstrupp",
           "units": "Drei Aggressors oder drei Eradicators",
@@ -157,7 +157,7 @@
     {
       "name": "Codex Astartes Navy, Primaris Super Heavies",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Storm Talons",
           "units": "Zwei Storm Talons",

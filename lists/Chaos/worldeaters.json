@@ -88,7 +88,7 @@
   "sections": [
     {
       "name": "World Eaters Core Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "World Eaters Retinue",
           "units": "Ein Chaos Lord, vier Khorne Berserker, vier World Eaters Assault Marines, vier World Eaters Rhinos, Dämonischer Pakt",
@@ -120,7 +120,7 @@
     {
       "name": "World Eaters Elite Verbände",
       "description": "Ein Elite formation may be taken pro Core formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Destroyers",
           "units": "Vier Chaos Destroyers, Dämonischer Pakt",
@@ -163,7 +163,7 @@
     {
       "name": "World Eaters Unterstützungsverbände",
       "description": "Zwei Unterstützungsverbände may be taken pro Core formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Doomblasters",
           "units": "Drei Doomblasters",
@@ -198,7 +198,7 @@
     {
       "name": "Kriegsmaschinen und Chaos Navy Verbände",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Greater Brass Scorpions",
           "units": "Ein Greater Brass Scorpion",
@@ -244,7 +244,7 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte",

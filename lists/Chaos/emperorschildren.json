@@ -82,7 +82,7 @@
   "sections": [
     {
       "name": "Emperor's Children Core Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Emperor's Children Retinue",
           "units": "Ein Noise Lord, drei Noise Marines, drei Chaos Space Marines, Daemonic Pact",
@@ -114,7 +114,7 @@
     {
       "name": "Emperor's Children Elite Verbände",
       "description": "Ein Elite formation may be taken pro Core formation",
-      "Verbände": [
+      "formations": [
         {
           "name": "Chosen",
           "units": "Vier Chosen, zwei Emperor's Children Rhinos, Daemonic Pact",
@@ -135,7 +135,7 @@
     {
       "name": "Emperor's Children Unterstützungsverbände",
       "description": "Zwei Unterstützungsverbände may be taken pro Core formation",
-      "Verbände": [
+      "formations": [
         {
           "name": "Bike Kompanie",
           "units": "Ein Noise Lord, sechs Chaos Assault Bikes, Daemonic Pact",
@@ -166,7 +166,7 @@
     {
       "name": "Dark Mechanicus Daemon Engines und Chaos Navy",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Hell-Striders of Slaanesh",
           "units": "Vier Hell-Striders",
@@ -217,7 +217,7 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte",
-      "Verbände": [
+      "formations": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte",

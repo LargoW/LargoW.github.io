@@ -65,7 +65,7 @@
   "sections": [
     {
       "name": "Valhallan Core Kompanieverbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Valhallan Regiments HQ",
           "units": "Ein Valhallanischer Oberbefehlshaber mit einemMinistorum Priest, neun Valhallan Infanterie",
@@ -107,7 +107,7 @@
     {
       "name": "Valhallan Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Heavy Panzer Zug",
           "units": "Sechs Ragnarok Heavy Panzers",
@@ -158,7 +158,7 @@
     {
       "name": "Adeptus Ministorum und Imperiale LuftstreitkräfteAllies",
       "description": " Bis zu a fourth of the Punkte available may be spent on Adeptus Ministorum, Tunnelgräber und Imperiale LuftstreitkräfteAllies",
-      "Verbände": [
+      "formations": [
         {
           "name": "Ministorum Mission",
           "units": "Sechs Battle Sisters, drei Sororitas Rhinos",

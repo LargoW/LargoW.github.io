@@ -102,7 +102,7 @@
   "sections": [
     {
       "name": "Black Legion Core Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Black Legion Retinue",
           "units": "Ein Chaos Lord oder Sorcerer Lord, acht Chaos Space Marines",
@@ -126,7 +126,7 @@
     {
       "name": "Black Legion Elite Verbände",
       "description": "Ein Elite formation may be taken pro Core formation",
-      "Verbände": [
+      "formations": [
         {
           "name": "Auserwählte",
           "units": "Vier Auserwählte, zwei Chaos Rhinos",
@@ -156,7 +156,7 @@
     {
       "name": "Black Legion Unterstützungsverbände",
       "description": "Zwei Unterstützungsverbände may be taken pro Core formation",
-      "Verbände": [
+      "formations": [
         {
           "name": "Raptor Cult",
           "units": "Ein Chaos Lord oder Sorcerer Lord, vier Raptors",
@@ -201,7 +201,7 @@
     {
       "name": "Dark Mechanicus Daemon Engines, Traitor Titans und Chaos Navy",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Defiler Pack",
           "units": "Vier Defilers",
@@ -263,7 +263,7 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte",
-      "Verbände": [
+      "formations": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte",

@@ -47,7 +47,7 @@
   "sections": [
     {
       "name": "Snakebites War Hordes",
-      "Verbände": [
+      "formations": [
         {
           "name": "Snakebites Warband",
           "units": "Zwei Brutes, sechs Huntas und drei Grotz",
@@ -105,7 +105,7 @@
     {
       "name": "Snakebites Support Mobs",
       "description": "Ein Snakebites Support Mob may be taken pro Snakebites War Horde",
-      "Verbände": [
+      "formations": [
         {
           "name": "Junka Brigade",
           "units": "Ein Brutes, fünf Junkas und sechs Junkatrukks ",
@@ -177,7 +177,7 @@
     {
       "name": "Snakebites Gargants",
       "description": " Bis zu 25% of the Punkte available may be spent on these Verbände",
-      "Verbände": [
+      "formations": [
           {
             "name": "Snakebites Gargant Mob",
             "units": "Ein Steam Gargant",

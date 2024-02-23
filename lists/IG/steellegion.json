@@ -72,7 +72,7 @@
   "sections": [
     {
       "name": "Kompanieverbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Regiments HQ",
           "units": "Ein Stahlegion Oberbefehlshaber mit einem Kommissar, neun Infanteristen und fünf Chimären",
@@ -130,7 +130,7 @@
     {
       "name": "Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände pro Kompanieverband.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Mechanisierte Infanterie Zug",
           "units": "Sechs Infanteristen und drei Chimären",
@@ -212,7 +212,7 @@
     {
       "name": "Collegia Titanica und Verbände der Imperialen Luftstreitkräfte",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Collegia Titanica und Verbände der Imperialen Luftstreitkräfte ausgegeben werden",
-      "Verbände": [
+      "formations": [
         {
           "name": "Warhounds",
           "units": "Ein Warhound Titan",

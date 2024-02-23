@@ -53,7 +53,7 @@
     {
       "name": "Cult Core Verbände",
       "description": "Ein Nexus Brood formation must be taken.",
-      "Verbände": [
+      "formations": [
         {
           "name": "1 Nexus Brood",
           "units": "Ein Genestealer Patriarch, drei Genestealers, drei Hybrid Acolytes",
@@ -84,7 +84,7 @@
     {
       "name": "Coven Vanguard Verbände",
       "description": "Ein Coven Vanguard formation may be taken für jeweils Cult Core formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Genestealer Brood",
           "units": "Ein Broodlord, sechs Genestealers",
@@ -129,7 +129,7 @@
     {
       "name": "Coven Ambush Verbände",
       "description": "Ein Coven Ambush formation may be taken für jeweils Coven Vanguard formation. ",
-      "Verbände": [
+      "formations": [
         {
           "name": "Lictor Swarm",
           "units": "Fünf Lictors",
@@ -149,7 +149,7 @@
     {
       "name": "Cult Unterstützungsverbände",
       "description": "Ein Cult Support formation may be taken pro Cult Core formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Cult Superschwerer Zug",
           "units": "Ein Coven Locus character, eine Cult Baneblade oder Cult Stormblade",

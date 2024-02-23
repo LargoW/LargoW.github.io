@@ -76,7 +76,7 @@
   "sections": [
     {
       "name": "Biel-Tan Special",
-      "Verbände": [
+      "formations": [
         {
           "name": "1 Avatar",
           "units": "Ein Avatar mit einemCourt of the Young King character",
@@ -92,7 +92,7 @@
     {
       "name": "Biel-Tan Warhosts",
       "description": " Bis zu eine Guardian Warhost may be taken für jeweils Aspect oder Beritten Aspect Warhost",
-      "Verbände": [
+      "formations": [
         {
           "name": "Beritten Aspect Warrior Warhost",
           "units": "Vier Wave Serpents und acht Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions oder Swooping Hawks. The formation may not mix aspects.",
@@ -130,7 +130,7 @@
     {
       "name": "Biel-Tan Troupes",
       "description": " Bis zu drei Biel-Tan Troupes may be taken für jeweils Biel-Tan Warhost",
-      "Verbände": [
+      "formations": [
           {
             "name": "Rangers",
             "units": "Vier Eldar Rangers",
@@ -196,7 +196,7 @@
     {
       "name": "Biel-Tan Aircraft, Spacecraft und Titans",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Nightwing Aerie",
           "units": "Zwei Nightwing Interceptors",

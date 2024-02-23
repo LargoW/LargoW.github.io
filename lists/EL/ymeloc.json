@@ -67,7 +67,7 @@
   "sections": [
     {
       "name": "Yme-Loc Special",
-      "Verbände": [
+      "formations": [
         {
           "name": "1 Avatar",
           "units": "Ein Avatar",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Yme-Loc Vaulhosts",
-      "Verbände": [
+      "formations": [
         {
           "name": "Engines of Vaul",
           "units": "Ein Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
@@ -106,7 +106,7 @@
     {
       "name": "Yme-Loc Troupes",
       "description": " Bis zu zwei Yme-Loc Troupes may be taken für jeweils Yme-Loc Vaulhost",
-      "Verbände": [
+      "formations": [
         {
           "name": "Beritten Aspect Warrior Troupe",
           "units": "Drei Wave Serpents und sechs Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions, Swooping Hawks",
@@ -171,7 +171,7 @@
     {
       "name": "Yme-Loc Aircraft, Spacecraft und Titans",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Nightwing Aerie",
           "units": "Zwei Nightwing Interceptors",

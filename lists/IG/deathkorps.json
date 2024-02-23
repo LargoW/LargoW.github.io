@@ -73,7 +73,7 @@
   "sections": [
     {
       "name": "Todeskorps von Krieg Core Companies",
-      "Verbände": [
+      "formations": [
         {
           "name": "0-1 Death Korps Regiments HQ",
           "units": "Ein Todeskorps von Krieg Oberbefehlshaber mit einem Kommissar, neun Angriffsinfanterie , eine Gorgon",
@@ -106,7 +106,7 @@
     {
       "name": "Todeskorps von Krieg Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände pro Kompanieverband Formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Leman Russ Schwadron",
           "units": "Vier Leman Russ, Leman Russ Thunderers, oder Leman Russ Annihilators",
@@ -198,7 +198,7 @@
     {
       "name": "Collegia Titanica & Imperiale LuftstreitkräfteAllies",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Collegia Titanica & Verbände der Imperialen Luftstreitkräfte",
-      "Verbände": [
+      "formations": [
         {
           "name": "Warhounds",
           "units": "Ein Warhound Titan",

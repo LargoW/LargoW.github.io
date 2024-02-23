@@ -75,7 +75,7 @@
   "sections": [
     {
       "name": "Cadian Core Kompanieverbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "0–1 Regiments HQ",
           "units": "Ein Cadianischer Oberbefehlshaber mit einem Kommissar, acht Kasrkin, eine Stormlord.",
@@ -107,7 +107,7 @@
     {
       "name": "Cadian Unterstützungsverbände",
       "description": " Bis zu drei Cadian Unterstützungsverbände für jeweils Cadian Core Kompanie Formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Kasrkin Zug",
           "units": "Sechs Kasrkin, eine Crassus Assault Transport",
@@ -180,7 +180,7 @@
     {
       "name": "Collegia Titanica und Verbände der Imperialen Luftstreitkräfte",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Collegia Titanica und Verbände der Imperialen Luftstreitkräfte",
-      "Verbände": [
+      "formations": [
         {
           "name": "Warhound Pack",
           "units": "Zwei Warhounds",

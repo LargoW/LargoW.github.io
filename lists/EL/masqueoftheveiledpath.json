@@ -91,7 +91,7 @@
   "sections": [
     {
       "name": "Craftworld Lugganath Specials",
-      "Verbände": [
+      "formations": [
         {
           "name": "0-1 Avatar",
           "units": "Ein Avatar",
@@ -110,7 +110,7 @@
     {
       "name": "Craftworld Lugganath Warhosts/Wraithhosts",
       "description": " Bis zu eine Lugganath Wraithhost für jeweils Lugganath Warhost",
-      "Verbände": [
+      "formations": [
         {
           "name": "Lugganath Warhost",
           "units": "Ein Farseer, vier Guardians, fünf Venoms",
@@ -132,7 +132,7 @@
     {
       "name": "Craftworld Lugganath Troupes",
       "description": " Bis zu eine Lugganath Troupe für jeweils Lugganath Warhost/Wraithhost",
-      "Verbände": [
+      "formations": [
         {
           "name": "Corsair Aufklärers",
           "units": "Vier Ghost Walkers",
@@ -180,7 +180,7 @@
     {
       "name": "Masque of the Veiled Path Saedaths",
       "description": " Bis zu eine Veiled Path Saedath für jeweils Lugganath Warhost/Wraithhost",
-      "Verbände": [
+      "formations": [
         {
           "name": "Cegorach's Escape",
           "units": "Ein Harlequin Avatar, zwei Harlequin Troupes, eine Death Jesters, drei Starweavers",
@@ -228,7 +228,7 @@
     {
       "name": "Craftworld Lugganath Aircraft, Spacecraft und Titans",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
           {
             "name": "Skathach WraithRitters",
             "units": "Zwei Skathach WraithRitters (may not mix configurations)",

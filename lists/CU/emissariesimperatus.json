@@ -51,7 +51,7 @@
   "sections": [
     {
       "name": "Adeptus Custodes Core Detachments",
-      "Verbände": [
+      "formations": [
         {
           "name": "Custodes Guardian Squad",
           "units": "Zwei Sagittarum plus either Zwei Guardian OR Zwei Sentinel Guard und 2 Venerable Land Raiders oder 2 Coronus",
@@ -65,7 +65,7 @@
     {
       "name": "Adeptus Custodes Elite Detachments",
       "description": "Ein elite detachment may be taken pro core detachments",
-      "Verbände": [
+      "formations": [
         {
           "name": "Warden Wing",
           "units": "5 Wardens",
@@ -99,7 +99,7 @@
     {
       "name": "Adeptus Custodes Support Detachments",
       "description": "Zwei Support Detachments may be taken pro Core Detachment",
-      "Verbände": [
+      "formations": [
         {
           "name": "Venatari Wing",
           "units": "Fünf Venatari",
@@ -143,7 +143,7 @@
     {
       "name": "Adeptus Custodes Aerial Transport & Imperial Allies",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Orion Assault Ship",
           "units": "Ein Orion Assault Ship",

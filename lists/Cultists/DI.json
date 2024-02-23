@@ -88,7 +88,7 @@
     {
       "name": "Daemonic Incursion Specials",
       "description": "The Army must include eine Chaos Gate.",
-      "Verbände": [
+      "formations": [
         {
           "name": "1 Chaos Gate",
           "units": "Ersetze the Blitz objective marker in the Daemonic Incursion player's half of the table mit einemChaos Gate. It counts both as an objective und a Chaos Gate.",
@@ -100,7 +100,7 @@
     },
     {
       "name": "1+ Exalted Greater Daemons. Max eine für jeweils part of 1500 Punkte in the army.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Exalted Greater Daemon of Slaanesh",
           "units": "Ein Exalted Keeper of Secrets ",
@@ -138,7 +138,7 @@
     {
       "name": "Daemon Legions",
       "description": "Any number of Daemon Legion Verbände may be taken.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Slaneesh Legion of Excess",
           "units": "Zwei Herald of Slaanesh, fünf Lesser Daemon Pool Punkte",
@@ -184,7 +184,7 @@
     {
       "name": "Mortals und Daemon Engines",
       "description": " Bis zu half of the Punkte available may be spent on Mortals und Daemon Engines Verbände.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Cultist Coven",
           "units": "Dämonischer Pakt, Aspiring Champion, neun Chaos Cultists und/oder Mutants",
@@ -210,7 +210,7 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte",
-      "Verbände": [
+      "formations": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte",

@@ -63,7 +63,7 @@
   "sections": [
     {
       "name": "Ravenguard Core Detachments",
-      "Verbände": [
+      "formations": [
         {
           "name": "Storm Aufklärers",
           "units": "Drei Raven Guard Aufklärers, drei Land Speeder Storms",
@@ -89,7 +89,7 @@
     {
       "name": "Ravenguard Elite Detachments",
       "description": "Ein Elite Detachment may be taken pro Core Detachment",
-      "Verbände": [
+      "formations": [
         {
           "name": "Sternguard Veteran",
           "units": "Vier Sternguard Veterans plus transport",
@@ -123,7 +123,7 @@
     {
       "name": "Ravenguard Support Detachments",
       "description": "Zwei Support Detachment may be taken pro Core Detachment",
-      "Verbände": [
+      "formations": [
         {
           "name": "Sturmtrupp",
           "units": "Vier Sturmtrupp",
@@ -176,7 +176,7 @@
     {
       "name": "Ravenguard Navy & Collegia Titanica Allies",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Storm Talons",
           "units": "Zwei Storm Talons",

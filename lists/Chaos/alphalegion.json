@@ -97,7 +97,7 @@
     {
       "name": "Alpha Legion Core Verbände",
       "description": " Bis zu eine Cultist Coven formation für jeweils Alpha Legion Marines formation",
-      "Verbände": [
+      "formations": [
         {
           "name": "Alpha Legion Marines",
           "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Alpha Legion Marines plus transport",
@@ -130,7 +130,7 @@
     {
       "name": "Alpha Legion Elite Detachments",
       "description": " Bis zu eine Alpha Legion Elite Detachment für jeweils Alpha Legion Marines Formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Destroyers",
           "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Alpha Legion Destroyers",
@@ -171,7 +171,7 @@
     {
       "name": "Cultist Unterstützungsverbände",
       "description": " Bis zu zwei Cultist Unterstützungsverbände pro Cultist Coven",
-      "Verbände": [
+      "formations": [
         {
           "name": "Kavalleriezug",
           "units": "Sechs Kavallerieschwadronen",
@@ -206,7 +206,7 @@
     {
       "name": "Alpha Legion Navy",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Alpha Legion Navy.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Storm Eagle",
           "units": "Ein Alpha Legion Storm Eagle",
@@ -239,7 +239,7 @@
     },
     {
       "name": "Daemon Pool",
-      "Verbände": [
+      "formations": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte",

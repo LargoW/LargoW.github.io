@@ -101,7 +101,7 @@
   "sections": [
     {
       "name": "Cultist Coven Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Cultist Coven",
           "units": "Ein Aspiring Champion, neun Chaos Cultists und/oder Mutants, Dämonischer Pakt",
@@ -115,7 +115,7 @@
     {
       "name": "Chaos, Dark Mechanicus und Infestation Support Covens",
       "description": "Zwei Support Coven Verbände may be taken pro Cultist Coven. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände. Support Covens are 0-1 für jeweils part of 1500 Punkte in the army",
-      "Verbände": [
+      "formations": [
         {
           "name": "Chaos Space Marines of Chaos Undivided",
           "units": "Sechs Chaos Space Marines, drei Chaos Rhinos, Dämonischer Pakt",
@@ -233,7 +233,7 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte",
-      "Verbände": [
+      "formations": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte",

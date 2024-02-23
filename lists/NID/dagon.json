@@ -75,7 +75,7 @@
   "sections": [
     {
       "name": "Primary Synapse Swarms",
-      "Verbände": [
+      "formations": [
         {
           "name": "0-1 Nexus Swarm",
           "units": "Ein Dagon Dominatrix",
@@ -110,7 +110,7 @@
     {
       "name": "Secondary Synapse Swarms",
       "description": " Bis zu eine Secondary Synapse Swarm für jeweils Primary Synapse Swarm.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Nest Swarm",
           "units": "Ein Hive Nest",
@@ -150,7 +150,7 @@
     {
       "name": "Common Independent Swarms",
       "description": " Bis zu eine Common Independent Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Genestealer Swarm",
           "units": "Ein Brood Lord, sechs Genestealers",
@@ -171,7 +171,7 @@
     {
       "name": "Rare Independent Swarms",
       "description": " Bis zu eine Rare Independent Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Bio-Titan",
           "units": "Ein Hierophant Bio-Titan",

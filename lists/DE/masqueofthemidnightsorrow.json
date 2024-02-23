@@ -76,7 +76,7 @@
   "sections": [
     {
       "name": "Wraithkind Special",
-      "Verbände": [
+      "formations": [
         {
           "name": "0-1 Wraithgate",
           "units": "Ersetze eine objective marker in the Dark Eldar player's half of the table mit einemWraithgate, this counts as an objective marker und a Webway Portal which may not be attacked oder damaged in any way.",
@@ -89,7 +89,7 @@
     {
       "name": "Wraithkind Kabals",
       "description": "The army must contain eine Black Heart Coterie",
-      "Verbände": [
+      "formations": [
         {
           "name": "1 Wraithkind Coterie",
           "units": "Ein Arcon in a unit of Incubi, drei Incubi",
@@ -126,7 +126,7 @@
     {
       "name": "Wraithkind Partisans",
       "description": " Bis zu eine Wraithkind Partisans für jeweils Wraithkind Kabal",
-      "Verbände": [
+      "formations": [
           {
             "name": "Mandrake Throng",
             "units": "Vier Mandrakes",
@@ -166,7 +166,7 @@
     {
       "name": "Harlequins",
       "description": " Bis zu eine Harlequin formation für jeweils Wraithkind Kabal, und bis zu eine Harlequin Support für jeweils Harlequin Masque",
-      "Verbände": [
+      "formations": [
         {
           "name": "Harlequin Masque",
           "units": "Ein Shadowseer, drei Harlequin Troupes, eine Death Jesters, vier Starweavers",
@@ -190,7 +190,7 @@
     {
       "name": "Commorragh Navy & Kriegsmaschinen",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Commorragh Navy und Kriegsmaschine Verbände",
-        "Verbände": [
+        "formations": [
             {
                 "name": "Vessel of Pain",
                 "units": "Ein Vessel of Pain",

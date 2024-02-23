@@ -108,7 +108,7 @@
     {
       "name": "Slaves to Darkness Core Verbände",
       "description": " Bis zu eine Chaos Space Marine formation für jeweils Traitor Guard formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Traitor Guard",
           "units": "Ein Fallen Befehlshaber, neun units of Infanterie",
@@ -122,7 +122,7 @@
     {
       "name": "Slaves to Darkness Unterstützungsverbände",
       "description": " Bis zu eine Support formation für jeweils Core formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Flak Batterie",
           "units": "Drei Hydra",
@@ -178,7 +178,7 @@
     {
       "name": "Slaves to Darkness Chaos Allies",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Slaves to Darkness Chaos Allies. May not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände in the army.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Hell Blade Schwadron",
           "units": "Drei Hell Blade Interceptors",
@@ -259,7 +259,7 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte. Füge eine point to the Lesser Daemon pool für jeweils Daemonic Icon oder Daemonic Pact in the army.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte",

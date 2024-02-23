@@ -61,7 +61,7 @@
   "sections": [
     {
       "name": "Wodanaz Stronghold Brotherhood Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Warrior Brotherhood",
           "units": "Squat Hearthguards, neun Squat Warriors",
@@ -87,7 +87,7 @@
     {
       "name": "Wodanaz Stronghold Unterstützungsverbände",
       "description": " Bis zu zwei Stronghold Unterstützungsverbände für jeweils Stronghold Brotherhood Formation.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Bikers",
           "units": "Sechs Squat Bikers",
@@ -147,7 +147,7 @@
     {
       "name": "Wodanaz Stronghold Kriegsmaschinen",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Wodanaz Stronghold Kriegsmaschinen. Max eine Hellbore für jeweils Warrior Brotherhood formation with the 'Hellbore Transport' upgrade.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Hellbore",
           "units": "Ein Hellbore",

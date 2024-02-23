@@ -65,7 +65,7 @@
   "sections": [
     {
       "name": "Sa'cea Cadres",
-      "Verbände": [
+      "formations": [
         {
           "name": "XV8 Crisis Battlesuit Cadre",
           "units": "Ein Shas'el, vier XV8 Crisis Battlesuits",
@@ -97,7 +97,7 @@
     {
       "name": "Sa'cea Unterstützungsverbände",
       "description": " Bis zu drei für jeweils Sa'cea Cadre taken",
-      "Verbände": [
+      "formations": [
         {
           "name": "Hammerhead Group",
           "units": "Vier Ion oder vier Fusion Hammerheads",
@@ -165,7 +165,7 @@
     {
       "name": "Sa'cea Aircraft, Spacecraft und Titans",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Barracuda Schwadron",
           "units": "Zwei Barracudas",

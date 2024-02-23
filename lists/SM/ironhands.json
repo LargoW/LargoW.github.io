@@ -69,7 +69,7 @@
   "sections": [
     {
       "name": "Iron Hands Core Detachments",
-      "Verbände": [
+      "formations": [
         {
           "name": "Cybot Clan",
           "units": "Ein Iron Hands Captain oder Techmarine, vier Taktischer Trupp plus transport, und Zwei of the following: Cybot, Hellfire Cybot, Siege Cybot",
@@ -101,7 +101,7 @@
     {
       "name": "Iron Hands Support Detachments",
       "description": "Zwei Support Detachments may be taken pro Core Detachment",
-      "Verbände": [
+      "formations": [
         {
           "name": "Cybot Talon",
           "units": "Vier of the following: Cybot, Hellfire Cybot, Siege Cybot. Plus transport.",
@@ -168,7 +168,7 @@
     {
       "name": "Iron Hands Navy & Collegia Titanica Allies",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
-      "Verbände": [
+      "formations": [
         {
           "name": "Storm Talons",
           "units": "Zwei Storm Talons",

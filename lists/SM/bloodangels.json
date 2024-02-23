@@ -73,7 +73,7 @@
     {
       "name": "Blood Angels Core Detachments",
       "description": "Ein Death Kompanie formation must be taken.",
-      "Verbände": [
+      "formations": [
         {
           "name": "1 Death Kompanie",
           "units": "Ein Ordenspriester, vier Death Kompanie Marines plus transport (Drop Pods oder on foot only)",
@@ -126,7 +126,7 @@
     {
       "name": "Blood Angels Support Detachments",
       "description": " Bis zu zwei Support Detachments may be taken pro Core Detachment.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Baal Predators",
           "units": "Vier Einheiten, in beliebiger Kombination: Baal Predator Hades, Baal Predator Infernus",
@@ -180,7 +180,7 @@
     {
       "name": "Blood Angels Navy & Titan Legion Allies",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Storm Talons",
           "units": "Zwei Storm Talons",

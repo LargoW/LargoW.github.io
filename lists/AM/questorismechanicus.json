@@ -70,7 +70,7 @@
     {
       "name": "Kern Banners",
       "description": " Bis zu ein Dominus Banner pro Questoris Banner",
-      "Verbände": [
+      "formations": [
         {
           "name": "Questoris Banner",
           "units": "Zwei Questoris Paladinritter, Crusader, Fahrender Ritter, Wächterritter oder Duellritter. May not mix configurations",
@@ -96,7 +96,7 @@
     {
       "name": "Aufklärungsbanner",
       "description": " Bis zu ein Aufklärungsbanner pro Kern Banner",
-      "Verbände": [
+      "formations": [
         {
           "name": "Cerastus",
           "units": "Ein Cerastus Ritter",
@@ -120,7 +120,7 @@
     {
       "name": "Relikt Banner",
       "description": " Bis zu ein Relikt Banner pro angefangene 1500 Punkte in der Armee.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Armiger Schwertknappen Reliquae",
           "units": "Drei Armiger Relikt-Moiraxritter der selben Konfiguration",
@@ -158,7 +158,7 @@
     {
       "name": "Mechanicus Allies",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Maschinenweltalliierte ausgegeben werden.",
-      "Verbände": [
+      "formations": [
         {
           "name": "Skitarii Manipel",
           "units": "Magos, neun Hypaspists, ein Gorgon",
