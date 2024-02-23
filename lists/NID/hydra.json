@@ -4,7 +4,7 @@
   "version": "Alpha 0.7.0",
   "release": "2022-04-01",
   "strategy": "Tyranid Armeen haben einen Strategiewert von 1.",
-  "Initiative": "The Nexus Spawn Swarm has an Initiative Rating of 1+. All other Tyranid Verbände haben eine Initiativewert von 2+. In addition, all formations are subject to the 'Broodmind' special rule.",
+  "Initiative": "The Nexus Spawn Swarm has an Initiative Rating of 1+. All other Tyranid Verbände haben eine Initiativewert von 2+. In addition, all Verbände are subject to the 'Broodmind' Sonderregel.",
   "specialRules": [
     "Synapse",
     "Hive Mind Locus",
@@ -76,7 +76,7 @@
   "sections": [
     {
       "name": "Primary Synapse Swarms",
-      "formations": [
+      "Verbände": [
         {
           "name": "0-1 Nexus Spawn Swarm",
           "units": "Ein Hydra Dominatrix",
@@ -112,7 +112,7 @@
     {
       "name": "Secondary Synapse Swarms",
       "description": " Bis zu eine Secondary Synapse Swarm für jeweils Primary Synapse Swarm.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Tervigon Spawn Swarm",
           "units": "Ein Tervigon Prime",
@@ -153,7 +153,7 @@
     {
       "name": "Common Independent Swarms",
       "description": " Bis zu eine Common Independent Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Genestealer Swarm",
           "units": "Ein Brood Lord, sechs Genestealers",
@@ -175,7 +175,7 @@
     {
       "name": "Rare Independent Swarms",
       "description": " Bis zu eine Rare Independent Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Bio-Titan",
           "units": "Ein Hierophant Bio-Titan",

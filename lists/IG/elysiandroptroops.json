@@ -4,7 +4,7 @@
   "version": "0.9.0",
   "release": "2022-08-03",
   "strategy": "Elysianische Sturmtruppen Armeen haben einen Strategiewert von 3.",
-  "Initiative": "All formations have a Initiative of 2+.",
+  "Initiative": "All Verbände have a Initiative of 2+.",
   "specialRules": [
     "Mut, Disziplin und Loyalität",
     "Air Superiority",
@@ -42,7 +42,7 @@
         "Tarantula"
       ],
       "unitRules": [
-        "Machine Spirit"
+        "Maschinengeist"
       ]
     },
     {
@@ -61,8 +61,8 @@
   ],
   "sections": [
     {
-      "name": "Elysian Core Formations",
-      "formations": [
+      "name": "Elysian Core Verbände",
+      "Verbände": [
         {
           "name": "0-1 Regiments HQ",
           "units": "Ein Elysianischer Oberbefehlshaber mit einem Kommissar, sieben Elysianische Sturmtruppen, vier Valkyries.",
@@ -88,7 +88,7 @@
     {
       "name": "Elysian Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Luftlandungs-Sentinel Schwadron",
           "units": "Sechs Luftlandungs-Sentinels",
@@ -144,8 +144,8 @@
     },
     {
       "name": "Static Defenses & Imperiale LuftstreitkräfteAllies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.  Bis zu eine Tarantula formation für jeweils Tauros Recon Schwadron",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.  Bis zu eine Tarantula formation für jeweils Tauros Recon Schwadron",
+      "Verbände": [
         {
           "name": "Tarantula",
           "units": "Vier Tarantulas",

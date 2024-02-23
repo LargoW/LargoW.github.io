@@ -98,8 +98,8 @@
   ],
   "sections": [
     {
-      "name": "Death Guard Core Formations",
-      "formations": [
+      "name": "Death Guard Core Verbände",
+      "Verbände": [
         {
           "name": "Death Guard Retinue",
           "units": "Ein Chaos Lord oder Sorcerer Lord, vier Seuchenmarines, drei Chaos Space Marines, Dämonischer Pakt",
@@ -131,9 +131,9 @@
       ]
     },
     {
-      "name": "Death Guard Elite Formations",
+      "name": "Death Guard Elite Verbände",
       "description": "Ein Elite formation may be taken pro Core formation",
-      "formations": [
+      "Verbände": [
         {
           "name": "Havocs",
           "units": "Ein Chaos Lord oder Sorcerer Lord, vier Havocs, Dämonischer Pakt",
@@ -161,7 +161,7 @@
     {
       "name": "Death Guard Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände may be taken pro Core Formation.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Poxwalker Infestation",
           "units": "sieben Poxwalkers",
@@ -199,8 +199,8 @@
     },
     {
       "name": "Traitor Titans und Chaos Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "Plaguehound",
           "units": "Ein Plaguehound Titan",
@@ -235,7 +235,7 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte",
-      "formations": [
+      "Verbände": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte",

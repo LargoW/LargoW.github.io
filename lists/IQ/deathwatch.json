@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "strategy": "Deathwatch Armeen haben einen Strategiewert von 5.",
   "Initiative": "Ordo Xenos und Planetary Defense Force Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Deathwatch detachments und Aircraft formations.",
+  "armyRules": "The <i>They Shall Know No Fear</i> Sonderregel applies to all Deathwatch detachments und Aircraft Verbände.",
   "specialRules": [
     "Ad Hoc Detachments",
     "Telemetrieempfänger",
@@ -71,10 +71,10 @@
     {
       "name": "Deathwatch Specials",
       "description": "",
-      "formations": [
+      "Verbände": [
         {
           "name": "0-1 Officio Assassinorum",
-          "units": "Once pro battle, during an Assault that the Deathwatch player initiated (after all units have finished moving), a single unit anywhere in the enemy formation(s) is hit with D3 hits. These hits counts as being from CC, und have the 'Scharfschütze' und 'First Strike' special rules. Any damage caused by these hits counts towards combat resolution (unless the target is Super-Entbehrlich).",
+          "units": "Once pro battle, during an Assault that the Deathwatch player initiated (after all units have finished moving), a single unit anywhere in the enemy formation(s) is hit with D3 hits. These hits counts as being from CC, und have the 'Scharfschütze' und 'First Strike' Sonderregels. Any damage caused by these hits counts towards combat resolution (unless the target is Super-Entbehrlich).",
           "points": 50
         }
       ]
@@ -82,7 +82,7 @@
     {
       "name": "Deathwatch Detachments",
       "description": "",
-      "formations": [
+      "Verbände": [
         {
           "name": "Deathwatch Kill-Team",
           "units": "Ein Watch Sergeant, drei Deathwatch Taktischer Trupp",
@@ -133,9 +133,9 @@
       ]
     },
     {
-      "name": "Ordo Xenos Formations",
+      "name": "Ordo Xenos Verbände",
       "description": "Ein Ordo Xenos Formation may be taken pro Deathwatch Core Formation.",
-      "formations": [
+      "Verbände": [
         {
           "name": "0-1 Ordo Xenos Inquisitor Task Force",
           "units": "Ordo Xenos Inquisitor, neun Arbitrators, fünf Arbites Repressors",
@@ -180,7 +180,7 @@
     {
       "name": "Deathwatch Drop Detachments",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Deathwatch Drop Detachments.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Corvus Dropship",
           "units": "Ein Corvus Blackstar Dropship",

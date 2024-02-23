@@ -11,7 +11,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Spirit Lords",
+          "Geisterherr",
           "Anführer"
         ]
       },
@@ -285,7 +285,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 3",
-          "Support Craft"
+          "Hilfstransportschiff"
         ],
         "crit": "The Overlord is destroyed. All units within 5cm suffers a hit on 6+."
       },

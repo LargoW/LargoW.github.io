@@ -26,10 +26,10 @@
               "img": "images/AdeptusMechanicus_LegionesMetalica.jpg"
             },
             {
-              "name": "Knight World",
+              "name": "Ritter World",
               "file": "questorisimperialis",
               "status": "approved",
-              "img": "images/AdeptusMechanicus_KnightWorld.jpg"
+              "img": "images/AdeptusMechanicus_RitterWorld.jpg"
             },
             {
               "name": "Questoris Mechanicus",
@@ -116,10 +116,10 @@
           "abbreviation": "SM",
           "lists": [
             {
-              "name": "Blood Ravens/Grey Knights",
-              "file": "greyknights",
+              "name": "Blood Ravens/Grey Ritters",
+              "file": "greyRitters",
               "status": "alpha",
-              "img": "images/Inquisition_GreyKnights.jpg"
+              "img": "images/Inquisition_GreyRitters.jpg"
             },
             {
               "name": "Blood Angels",

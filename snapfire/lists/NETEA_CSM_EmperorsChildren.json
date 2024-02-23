@@ -59,7 +59,7 @@
 		{ "id":32, "name":"Daemon Prince (supreme commander)", "pts":100 },
 		{ "id":33, "name":"Raptors", "pts":35 },
 		{ "id":34, "name":"Hell-Strider", "pts":50 },
-		{ "id":35, "name":"Hell-Knight", "pts":75 },
+		{ "id":35, "name":"Höllenritter", "pts":75 },
 		{ "id":36, "name":"Hell-Scourge", "pts":90 },
 		{ "id":37, "name":"Emperor's Children Terminators", "pts":60 },
 		{ "id":38, "name":"Emperor's Children Land Raider", "pts":75 }

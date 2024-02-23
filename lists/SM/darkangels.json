@@ -7,7 +7,7 @@
   "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Dark Angels Space Marine chapter oder any of its successor chapters.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Dark Angels detachments.",
+  "armyRules": "The <i>They Shall Know No Fear</i> Sonderregel applies to all Dark Angels detachments.",
   "specialRules": [
     "Telemetrieempfänger",
     "Space Marine Transports",
@@ -26,9 +26,9 @@
         "Taktischer Trupp",
         "Dark Angels Devastoren",
         "Terminatoren",
-        "Deathwing Knights",
+        "Deathwing Ritters",
         "Cyclone Terminatoren",
-        "Ravenwing Black Knights",
+        "Ravenwing Black Ritters",
         "Ravenwing Assault Bikes",
         "Ravenwing Trike",
         "Ravenwing Land Speeder",
@@ -59,10 +59,10 @@
   "sections": [
     {
       "name": "Dark Angels Core Detachments",
-      "formations": [
+      "Verbände": [
         {
           "name": "Ravenwing Attack",
-          "units": "Ein Black Knights, vier Ravenwing Assault Bikes, drei Ravenwing Land Speeders",
+          "units": "Ein Black Ritters, vier Ravenwing Assault Bikes, drei Ravenwing Land Speeders",
           "extraUnits": [
             "Trikes",
             "Befehlshaber"
@@ -84,7 +84,7 @@
           "name": "Deathwing Strike",
           "units": "Vier Einheiten, in beliebiger Kombination: Terminatoren, Cyclone Terminatoren",
           "extraUnits": [
-            "Deathwing Knights",
+            "Deathwing Ritters",
             "Befehlshaber"
           ],
           "points": 350
@@ -94,7 +94,7 @@
     {
       "name": "Dark Angels Support Detachments",
       "description": "Drei Support Detachments may be taken pro Core Detachment",
-      "formations": [
+      "Verbände": [
         {
           "name": "Land Raiders",
           "units": "Drei Land Raiders",
@@ -185,8 +185,8 @@
     },
     {
       "name": "Ravenwing Aircraft & Dark Angels Swordwing",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations. Ein Swordwing Support formation must be taken",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände. Ein Swordwing Support formation must be taken",
+      "Verbände": [
         {
           "name": "Nephilims",
           "units": "Zwei Ravenwing Nephilim Interceptors",
@@ -218,8 +218,8 @@
         "points": "Kostenlos"
       },
       {
-        "name": "Deathwing Knights",
-        "description": "Ersetze eine unit of Terminatoren with Deathwing Knights",
+        "name": "Deathwing Ritters",
+        "description": "Ersetze eine unit of Terminatoren with Deathwing Ritters",
         "points": "25 Punkte"
       },
       {
@@ -294,8 +294,8 @@
     ]
   },
   "usage": [
-    "The EA-R Dark Angels list is inspired by the E-UK version of the list, but the differences are obviously way more numerous than the similarities. Für example, while the Unmodifizierter Rettungswurf on the Ravenwing formations has been retained, the Deathwing rule has been dropped, und the Telemetrieempfänger rule is greatly expanded.",
-    "Apart from the rigid structure und the changes inherited from the EA-R Codex Astartes list, the most major difference is that it has no access to air assault formations, but strongly encourages the player to concentrate on the Teleportieren aspects of the Dark Angels fluff, und bringing a strong ground game. The Battle Barge has been replaced with the Hunter Class Destroyer, which provides the army mit einemcheaper way to use the Telemetrieempfänger special rule.",
+    "The EA-R Dark Angels list is inspired by the E-UK version of the list, but the differences are obviously way more numerous than the similarities. Für example, while the Unmodifizierter Rettungswurf on the Ravenwing Verbände has been retained, the Deathwing rule has been dropped, und the Telemetrieempfänger rule is greatly expanded.",
+    "Apart from the rigid structure und the changes inherited from the EA-R Codex Astartes list, the most major difference is that it has no access to air assault Verbände, but strongly encourages the player to concentrate on the Teleportieren aspects of the Dark Angels fluff, und bringing a strong ground game. The Battle Barge has been replaced with the Hunter Class Destroyer, which provides the army mit einemcheaper way to use the Telemetrieempfänger Sonderregel.",
     "A great number of the Dark Angels' many special units has been added, somewhat compensating für the loss of air assault options und Collegia Titanica allies. The Glaive, being a relic Horus Heresy technology, has been restricted to eine formation für thematic purposes, while the normal Cybot loadouts have been replaced with the Mortis AA variant. The Land Speeder Typhoon has been replaced with the Land Speeder Venegance, und the formation reduced to vier units to keep the cost down, und make the formation more competitive with the Aufklärer formation. The Sturmtrupp detachment was expanded to sechs units und comes mit einemDark Angels Captain as standard (providing Telemetrieempfänger), making them more relevant in a list without Thunderhawks. The Nephilim is now more similar to the Storm Talon, und the Dark Talon provides the list mit einemFighter-Bomber option."
   ]
 }

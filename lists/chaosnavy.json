@@ -139,7 +139,7 @@
         "specialRules": [
           "Schadenskapazität 2",
           "Planetfall",
-          "Stubborn",
+          "Hartnäckig",
           "Verstärkte Panzerung",
           "Transport"
         ],
@@ -221,7 +221,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Stubborn",
+          "Hartnäckig",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -356,7 +356,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "May transport eine formation of only the following units: Alpha Legion Marines, Alpha Legion Havocs, Alpha Legion Headhunters, Lernaean Terminatoren, Alpha Legion Cybots. After the Drop Pod lands, its Deathwind attacks all enemy units within 15cm. Jeweils enemy formation attacked receives a Blast Marker für coming under fire, und an extra Blast Marker für jeweils casualty. Then any troops carried in the Drop Pod must disembark within 5cm of the Drop Pod oder within 5cm of another unit from the same formation that has already landed, so long as all units are placed within 15cm of the Drop Pod. Drop Pod models should be removed from the board once the formation they transport has disembarked."
+        "notes": "May transport eine formation of only the following units: Alpha Legion Marines, Alpha Legion Havocs, Alpha Legion Headhunters, Lernaean Terminatoren, Alpha Legion Cybots. After the Drop Pod lands, its Deathwind attacks all enemy units within 15cm. Jeweils enemy formation attacked receives a Beschussmarke für coming under fire, und an extra Beschussmarke für jeweils casualty. Then any troops carried in the Drop Pod must disembark within 5cm of the Drop Pod oder within 5cm of another unit from the same formation that has already landed, so long as all units are placed within 15cm of the Drop Pod. Drop Pod models should be removed from the board once the formation they transport has disembarked."
       }
     ]
   }

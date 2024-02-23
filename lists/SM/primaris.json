@@ -7,7 +7,7 @@
   "intro": "The following army...",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Primaris detachments und aircraft formations.",
+  "armyRules": "The <i>They Shall Know No Fear</i> Sonderregel applies to all Primaris detachments und aircraft Verbände.",
   "specialRules": [
     "They Shall Know No Fear"
   ],
@@ -56,7 +56,7 @@
   "sections": [
     {
       "name": "Primaris Core Detachments",
-      "formations": [
+      "Verbände": [
         {
           "name": "Battle Line Squad",
           "units": "Vier Intercessors, Assault Intercessors oder Hellblasters",
@@ -72,7 +72,7 @@
     },
     {
       "name": "Primaris Elite Detachments",
-      "formations": [
+      "Verbände": [
         {
           "name": "Inceptor Squad",
           "units": "Vier Inceptors",
@@ -109,7 +109,7 @@
     },
     {
       "name": "Primaris Support Detachments",
-      "formations": [
+      "Verbände": [
         {
           "name": "Unterstützungstrupp",
           "units": "Drei Aggressors oder drei Eradicators",
@@ -156,8 +156,8 @@
     },
     {
       "name": "Codex Astartes Navy, Primaris Super Heavies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "Verbände": [
         {
           "name": "Storm Talons",
           "units": "Zwei Storm Talons",

@@ -4,7 +4,7 @@
   "version": "1.1",
   "release": "2022-04-01",
   "strategy": "Mymeara Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Aspect Warrior formations, Titans, Knights und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "Aspect Warrior Verbände, Titans, Ritters und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Avatar (Mymeara)",
     "May not Garrison (Mymeara)",
@@ -48,14 +48,14 @@
         "Lynx",
         "Scorpion",
         "Cobra",
-        "Wraithknights",
+        "WraithRitters",
         "Revenant Titan",
         "Mymeara Phantom Titan"
       ],
       "unitRules": [
           "Lanze",
           "Schildbohrer",
-          "Shield Disruptor",
+          "Schildstörer",
           "Holofields (x)",
           "Schwergepanzertes Fahrzeug (H-AV)"
       ]
@@ -75,7 +75,7 @@
   "sections": [
     {
       "name": "Mymeara Craftworld Special",
-      "formations": [
+      "Verbände": [
         {
           "name": "1 Avatar",
           "units": "Ein Avatar",
@@ -90,7 +90,7 @@
     },
     {
       "name": "Craftworld Mymeara Hosts",
-      "formations": [
+      "Verbände": [
         {
           "name": "0-1 Shadow Spectre Warhost",
           "units": "Acht Shadow Spectres",
@@ -120,7 +120,7 @@
     {
       "name": "Craftworld Mymeara Troupes",
       "description": " Bis zu zwei für jeweils 'Mymeara Hosts' taken",
-      "formations": [
+      "Verbände": [
         {
           "name": "Wasp Walkers",
           "units": "Vier Wasp Walkers",
@@ -187,8 +187,8 @@
     },
     {
       "name": "Craftworld Mymeara Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "Nightshade Aerie",
           "units": "Zwei Nightshade Interceptors",
@@ -204,8 +204,8 @@
           "points": 225
         },
         {
-          "name": "Wraithknights",
-          "units": "Drei Wraithknights",
+          "name": "WraithRitters",
+          "units": "Drei WraithRitters",
           "Erweiterungen": [
           ],
           "points": 325

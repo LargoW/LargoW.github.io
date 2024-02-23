@@ -7,7 +7,7 @@
   "armyforge": "EAR_AdeptusAstartes_CodexAstartes",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "The Thunderbolt und Marauder Schwadron Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Codex Astartes Detachments und Space Marine Aircraft formations.",
+  "armyRules": "The <i>They Shall Know No Fear</i> Sonderregel applies to all Codex Astartes Detachments und Space Marine Aircraft Verbände.",
   "specialRules": [
     "Space Marine Transports",
     "They Shall Know No Fear"
@@ -75,7 +75,7 @@
     {
       "name": "Codex Astartes Detachments",
       "description": " Bis zu eine Aufklärer Detachment für jeweils non-Aufklärer Detachment.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Sturmtrupp",
           "units": "Vier Sturmtrupp",
@@ -183,8 +183,8 @@
     },
     {
       "name": "Codex Astartes Navy, Imperial Aircraft & Collegia Titanica Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "Verbände": [
         {
           "name": "Storm Talons",
           "units": "Zwei Storm Talons",

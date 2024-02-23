@@ -79,7 +79,7 @@
         "Defiler",
         "Vernichter",
         "Death Wheel",
-        "Hell-Knight",
+        "Höllenritter",
         "Hell-Scourge",
         "Plague Tower",
         "Plague Reaper",
@@ -106,9 +106,9 @@
   ],
   "sections": [
     {
-      "name": "Slaves to Darkness Core Formations",
+      "name": "Slaves to Darkness Core Verbände",
       "description": " Bis zu eine Chaos Space Marine formation für jeweils Traitor Guard formation.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Traitor Guard",
           "units": "Ein Fallen Befehlshaber, neun units of Infanterie",
@@ -122,7 +122,7 @@
     {
       "name": "Slaves to Darkness Unterstützungsverbände",
       "description": " Bis zu eine Support formation für jeweils Core formation.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Flak Batterie",
           "units": "Drei Hydra",
@@ -177,8 +177,8 @@
     },
     {
       "name": "Slaves to Darkness Chaos Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Slaves to Darkness Chaos Allies. May not mix Nurgle/Tzeentch oder Slaanesh/Khorne formations in the army.",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Slaves to Darkness Chaos Allies. May not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände in the army.",
+      "Verbände": [
         {
           "name": "Hell Blade Schwadron",
           "units": "Drei Hell Blade Interceptors",
@@ -215,8 +215,8 @@
           "points": 300
         },
         {
-          "name": "Hell-Knights",
-          "units": "Drei Hell-Knights",
+          "name": "Höllenritter",
+          "units": "Drei Höllenritter",
           "points": 325
         },
         {
@@ -259,7 +259,7 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte. Füge eine point to the Lesser Daemon pool für jeweils Daemonic Icon oder Daemonic Pact in the army.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte",

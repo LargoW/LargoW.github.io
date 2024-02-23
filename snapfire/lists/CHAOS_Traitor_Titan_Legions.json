@@ -44,7 +44,7 @@
 
 		{"name":"LESSER DAEMON ENGINES / / One Lesser Daemon Engine formation may be taken for each Battle Titan, Greater Daemon Engine Model and Greater Daemon Possession upgrade", "formations":[
 			{"id":570, "name":"DAEMON KNIGHTS Hell-Scourges (Slaanesh)",			"pts":75, "upgrades":[405]},
-			{"id":571, "name":"DAEMON KNIGHTS Hell-Knights (Slaanesh)",			"pts":45, "upgrades":[406]},
+			{"id":571, "name":"DAEMON KNIGHTS Höllenritters (Slaanesh)",			"pts":45, "upgrades":[406]},
 			{"id":572, "name":"DAEMON KNIGHTS Hell-Striders (Slaanesh)",			"pts":225, "upgrades":[]},
 
 			{"id":573, "name":"CHAOS KNIGHTS (Chaos Undivided)",	"pts":75, "upgrades":[408]},
@@ -286,7 +286,7 @@
 		{"id":404,	"name":"Questor Scout Titan",	"pts":225},
 
 		{"id":405,	"name":"Hell-Scourge",	"pts":75},
-		{"id":406,	"name":"Hell-Knight",	"pts":60},
+		{"id":406,	"name":"Höllenritter",	"pts":60},
 		{"id":407,	"name":"Hell-Strider",	"pts":0},
 
 		{"id":408,	"name":"Renegade Knight of Chaos Undivided",	"pts":75},

@@ -22,7 +22,7 @@
 		]},
 		{"name":"DARK MECHANICUS DAEMON ENGINES & CHAOS NAVY FORMATIONS <br/> Max 33%", "formations":[
 			{"id":510, "name":"Hell-Striders",	"pts":225, "units":"4 Hell-Striders", "upgrades":[]},
-			{"id":511, "name":"Hell-Knights",	"pts":350, "units":"3 Hell-Knights",  "upgrades":[]},
+			{"id":511, "name":"Höllenritters",	"pts":350, "units":"3 Höllenritters",  "upgrades":[]},
 			{"id":512, "name":"Hell-Scourges", "pts":350,  "units":"3 Hell-Scourges", "upgrades":[]},
 			{"id":513, "name":"Slaneesh Defiler Pack",  "units":"4 Debasers", "pts":250, "upgrades":[]},
 			{"id":514, "name":"Questor",	"pts":275, "upgrades":[]},

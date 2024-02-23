@@ -42,8 +42,8 @@
         "Squat Land Train"
       ],
       "unitRules": [
-        "Spirit Lords",
-        "Support Craft"
+        "Geisterherr",
+        "Hilfstransportschiff"
       ]
     },
     {
@@ -53,15 +53,15 @@
         "Tarantula"
       ],
       "unitRules": [
-        "Machine Spirit",
+        "Maschinengeist",
         "Ponderous"
       ]
     }
   ],
   "sections": [
     {
-      "name": "Wodanaz Stronghold Brotherhood Formations",
-      "formations": [
+      "name": "Wodanaz Stronghold Brotherhood Verbände",
+      "Verbände": [
         {
           "name": "Warrior Brotherhood",
           "units": "Squat Hearthguards, neun Squat Warriors",
@@ -87,7 +87,7 @@
     {
       "name": "Wodanaz Stronghold Unterstützungsverbände",
       "description": " Bis zu zwei Stronghold Unterstützungsverbände für jeweils Stronghold Brotherhood Formation.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Bikers",
           "units": "Sechs Squat Bikers",
@@ -147,7 +147,7 @@
     {
       "name": "Wodanaz Stronghold Kriegsmaschinen",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Wodanaz Stronghold Kriegsmaschinen. Max eine Hellbore für jeweils Warrior Brotherhood formation with the 'Hellbore Transport' upgrade.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Hellbore",
           "units": "Ein Hellbore",

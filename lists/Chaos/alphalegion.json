@@ -4,7 +4,7 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_AlphaLegion",
-  "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4. Alpha Legion armies are also subject to 'The Harrowing' special rule.",
+  "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4. Alpha Legion armies are also subject to 'The Harrowing' Sonderregel.",
   "Initiative": "Cultist Coven und Cultist Support Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
     "The Harrowing",
@@ -36,7 +36,7 @@
       ],
       "unitRules": [
         "Sabotage",
-        "Stubborn"
+        "Hartnäckig"
       ]
     },
     {
@@ -95,9 +95,9 @@
   ],
   "sections": [
     {
-      "name": "Alpha Legion Core Formations",
+      "name": "Alpha Legion Core Verbände",
       "description": " Bis zu eine Cultist Coven formation für jeweils Alpha Legion Marines formation",
-      "formations": [
+      "Verbände": [
         {
           "name": "Alpha Legion Marines",
           "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Alpha Legion Marines plus transport",
@@ -130,7 +130,7 @@
     {
       "name": "Alpha Legion Elite Detachments",
       "description": " Bis zu eine Alpha Legion Elite Detachment für jeweils Alpha Legion Marines Formation.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Destroyers",
           "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Alpha Legion Destroyers",
@@ -171,7 +171,7 @@
     {
       "name": "Cultist Unterstützungsverbände",
       "description": " Bis zu zwei Cultist Unterstützungsverbände pro Cultist Coven",
-      "formations": [
+      "Verbände": [
         {
           "name": "Kavalleriezug",
           "units": "Sechs Kavallerieschwadronen",
@@ -206,7 +206,7 @@
     {
       "name": "Alpha Legion Navy",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Alpha Legion Navy.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Storm Eagle",
           "units": "Ein Alpha Legion Storm Eagle",
@@ -239,7 +239,7 @@
     },
     {
       "name": "Daemon Pool",
-      "formations": [
+      "Verbände": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte",

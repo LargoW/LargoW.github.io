@@ -73,9 +73,9 @@
   ],
   "sections": [
     {
-      "name": "Battle Titan Formations",
-      "description": "Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne formations.",
-      "formations": [
+      "name": "Battle Titan Verbände",
+      "description": "Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
+      "Verbände": [
         {
           "name": "0-1 Chaos Emperor Titan",
           "units": "Ein Chaos Emperor Titan*",
@@ -109,8 +109,8 @@
     },
     {
       "name": "Unterstützungsverbände",
-      "description": " Bis zu vier für jeweils Battle Titan. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne formations.",
-      "formations": [
+      "description": " Bis zu vier für jeweils Battle Titan. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
+      "Verbände": [
         {
           "name": "Chaos Warhound",
           "units": "Ein Chaos Warhound*",
@@ -204,8 +204,8 @@
     },
     {
       "name": "Chaos Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "Heldrakes",
           "units": "Zwei Heldrakes",
@@ -232,12 +232,12 @@
     "items": [
       {
         "name": "0-1 Auge der Götter",
-        "description": "The formation gains 'Oberbefehlshaber' special rule.",
+        "description": "The formation gains 'Oberbefehlshaber' Sonderregel.",
         "points": "50 Punkte"
       },
       {
         "name": "Heralds of Chaos",
-        "description": "The formation gains the 'Anführer' special rule. May not be combined with Auge der Götter.",
+        "description": "The formation gains the 'Anführer' Sonderregel. May not be combined with Auge der Götter.",
         "points": "25 Punkte"
       }
     ]

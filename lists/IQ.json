@@ -98,7 +98,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Psycannon",
+          "Psibolter",
           "Zorn des Imperators",
           "Energiewaffe"
         ],
@@ -117,7 +117,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Psycannon",
+          "Psibolter",
           "Zorn des Imperators",
           "Energiewaffe"
         ],
@@ -200,7 +200,7 @@
         "ff": 5,
         "weapons": [
           "Granatwerfers",
-          "Power Mauls & Suppression Shields"
+          "Power Mauls & SuppressIonenfelder"
         ],
         "specialRules": []
       },
@@ -231,7 +231,7 @@
         "specialRules": [
           "Furchtlos",
           "Entbehrlich",
-          "Machine Spirit",
+          "Maschinengeist",
           "Ponderous"
         ]
       },
@@ -334,7 +334,7 @@
         "specialRules": [
           "Infiltratoren",
           "Furchtlos",
-          "Machine Spirit",
+          "Maschinengeist",
           "Entbehrlich"
         ]
       },
@@ -405,7 +405,7 @@
         "specialRules": [
           "Furchtlos",
           "Entbehrlich",
-          "Machine Spirit",
+          "Maschinengeist",
           "Geländegängig"
         ]
       },
