@@ -234,7 +234,7 @@
     {
       "title": "Gläubig",
       "description": [
-        "When performing an Engage that leads to an Assault (i.e. at least eine unit is within 15cm of an enemy unit), units that have the 'Gläubig' Sonderregel gain Furchtlos, und the formation counts as having eine additional character with the 'Inspirierend' Sonderregel. These effects lasts until the end of the current turn, but are lost if all Einheiten mit 'Gläubig' in the formation are destroyed."
+        "Gläubige Einheiten, die eine <i>Offensive</i> abhandeln und dabei in Angriffsreichweite gelangen (also mindestens eine Einheit innerhalb von 15cm zu einer gegnerischen Einheiten haben), zählen als Furchtlos und der Verband zählt als hätte er einen weiteres Charaktermodell mit der 'Inspirierend' Sonderregel. Dise Effekte halten bis zum Ende der aktuellen Runde an, verfallen aber automatisch sobald alle 'gläubigen'  Einheiten im Verband vernichtet werden."
       ]
     },
     {
