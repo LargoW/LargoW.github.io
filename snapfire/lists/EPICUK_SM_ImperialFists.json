@@ -6,9 +6,9 @@
         "sections":[
                 {"name":"IMPERIAL FISTS DETACHMENTS", "formations": [
     { "id":501, "name":"Centurions",                               "pts":0,   "upgrades":[28,31, 26] },
-    { "id":502, "name":"Devastators",   "units":"4 Devastators plus transport / 2 Bunkers, 50cm Minefields/Trenches",   "pts":250, "upgrades":[11,12,13,14, 16, 17,18, 26, 28,31,33, 45,46, 50,51]},
+    { "id":502, "name":"Devastators",   "units":"4 Devastators plus transport / 2 Bunkers, 50cm Minenfelder/Gräben",   "pts":250, "upgrades":[11,12,13,14, 16, 17,18, 26, 28,31,33, 45,46, 50,51]},
     { "id":503, "name":"Scouts",        "units":"4 Scouts plus transport",        "pts":150, "upgrades":[11,12,13,14, 44, 50,51] },
-    { "id":504, "name":"Tacticals",     "units":"6 Tacticals plus transport / 2 Bunkers, 50cm Minefields/Trenches",     "pts":300, "upgrades":[11,12,13,14, 16, 17,18, 26, 28,31,33, 45,46, 50,51] },
+    { "id":504, "name":"Tacticals",     "units":"6 Tacticals plus transport / 2 Bunkers, 50cm Minenfelder/Gräben",     "pts":300, "upgrades":[11,12,13,14, 16, 17,18, 26, 28,31,33, 45,46, 50,51] },
     { "id":505, "name":"Terminators",   "units":"4 Terminators",   "pts":350, "upgrades":[11,12,13,14, 17,18, 26, 28,31] },
     { "id":506, "name":"Thunderfires",  "units":"4 Thunderfire Cannons",  "pts":250, "upgrades":[15, 17,18] },
     { "id":507, "name":"Land Raiders",                             "pts":50, "upgrades":[11,12,13,14, 16, 26] },

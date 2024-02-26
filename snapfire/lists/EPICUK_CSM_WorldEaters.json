@@ -4,16 +4,16 @@
    "notes":    ["Add one free Lesser Daemon to the Lesser Daemon Pool per Daemonic Pact. Max four different upgrades per formation"],
    "by":"EA-Ragnarok",
    "sections": [
-      {"name": "WORLD EATERS CORE", "formations": [
+      {"name": "WORLD EATERS Kern", "formations": [
             {"id": 501, "name": "World Eater Retinue", "pts": 275, "upgrades": [58,62,61,52,53,64,65,66,54,67,68,56,57,71,72,63,69,70,60]},
             {"id": 551, "name": "Daemon Pool", "pts": 0, "upgrades": [50,51,49]}
          ]},
-	  {"name": "WORLD EATERS ELITE <br/> Max 1 for each Core formation", "formations": [
+	  {"name": "WORLD EATERS ELITE <br/> Max 1 for each Kern formation", "formations": [
 			{"id": 503, "name": "World Eater Terminators", "pts": 400, "units": "4 World Eaters Terminators", "upgrades": [52,56,57,71,72,63,69,70,60,53,64,65,66]},
 			{"id": 508, "name": "World Eater Juggernaughts", "pts": 350, "units": "8 Juggernaughts", "upgrades": [56,60]},
             {"id": 509, "name": "Bike Company", "pts": 350, "units": "8 World Eaters Bikes", "upgrades": [56,60]}
         ]},
-      {"name": "WORLD EATERS SUPPORT <br/> Max 2 for each Core formation", "formations": [
+      {"name": "WORLD EATERS SUPPORT <br/> Max 2 for each Kern formation", "formations": [
             {"id": 504, "name": "Chaos Space Marines", "pts": 250, "units": "6 Chaos Space Marines, 3 Chaos Rhinos", "upgrades": [56]},
             {"id": 505, "name": "Daemonic Artillery", "pts": 200, "units": "4 Cannons of Khorne", "upgrades": []},
             {"id": 506, "name": "Daemonic Assault Engine Pack", "pts": 15, "upgrades": [37,63,69,70]},

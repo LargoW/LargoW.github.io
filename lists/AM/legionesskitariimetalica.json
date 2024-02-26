@@ -70,7 +70,7 @@
   ],
   "sections": [
     {
-      "name": "Legiones Metalica Core Verbände",
+      "name": "Legiones Metalica Kern Verbände",
       "formations": [
         {
           "name": "Hypaspist Manipel",
@@ -89,7 +89,7 @@
     },
     {
       "name": "Legiones Metalica Line Verbände",
-      "description": " Bis zu drei Metalica Line Verbände für jeweils Core Formation.",
+      "description": " Bis zu drei Metalica Line Verbände für jeweils Kern Formation.",
       "formations": [
         {
           "name": "Ballistae Cohort",

@@ -68,7 +68,7 @@
   ],
   "sections": [
     {
-      "name": "Iron Hands Core Detachments",
+      "name": "Iron Hands Kern Detachments",
       "formations": [
         {
           "name": "Cybot Clan",
@@ -100,7 +100,7 @@
     },
     {
       "name": "Iron Hands Support Detachments",
-      "description": "Zwei Support Detachments may be taken pro Core Detachment",
+      "description": "Zwei Support Detachments may be taken pro Kern Detachment",
       "formations": [
         {
           "name": "Cybot Talon",

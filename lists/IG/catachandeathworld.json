@@ -57,10 +57,10 @@
   ],
   "sections": [
     {
-      "name": "Catachan Core Companies",
+      "name": "Catachan Kern Companies",
       "formations": [
         {
-          "name": "Catachan Regiments HQ",
+          "name": "Catachan Regiments Hauptquartier",
           "units": "Ein Catachanischer Oberbefehlshaber, sieben Catachan Infanterie",
           "extraUnits": [
             "Todeswelt Transport (Compulsory)",
@@ -85,7 +85,7 @@
     },
     {
       "name": "Catachan Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
+      "description": " Bis zu zwei Unterstützungsverbände für jeweils Kern Kompanie.",
       "formations": [
         {
           "name": "Leman Russ Zug",

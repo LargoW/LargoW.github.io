@@ -3,7 +3,7 @@
 	"version":"1.0.Beta",
 	"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"CORE COMPANY FORMATIONS", "formations":[
+		{"name":"Kern COMPANY FORMATIONS", "formations":[
 			{"id":500, "name":"Regimental HQ", 				"pts":375, "units":"Steel Legion Supreme Commander with a Commissar",  "upgrades":[45,48,50,54,57,58,52,55,59,60,61,62,63]},
 			{"id":501, "name":"Infantry Company", 			"pts":250, "units":"Steel Legion Commander with a Commissar", "upgrades":[45,49,51,54,57,58,66,56,59,60,61,64,65]},
 			{"id":502, "name":"Mechanized Infantry Company", 	"pts":325, "units":"Steel Legion Commander with a Commissar", "upgrades":[45,48,50,54,57,58,52,55,59,60,61,62,63]},
@@ -11,7 +11,7 @@
 			{"id":504, "name":"Super-Heavy Company", 		"pts":525, "units":"Commissar", "upgrades":[45,52,55,66,56,54,57,58]},
 		 	{"id":505, "name":"Artillery Company", 			"pts":400, "units":"Commissar", "upgrades":[45]}
 		]},
-		{"name":"SUPPORT FORMATIONS <br/> Max 2 for each Core Company", "formations":[
+		{"name":"SUPPORT FORMATIONS <br/> Max 2 for each Kern Company", "formations":[
 			{"id":510, "name":"Rough Rider Platoon", 			"pts":150, "upgrades":[], "units":"6 Rough Riders"},
 			{"id":511, "name":"Storm Trooper Company",				"pts":200, "upgrades":[42,43], "units":"Commissar, 8 Storm Troopers"},
 			{"id":512, "name":"Artillery Battery",				"pts":225, "upgrades":[]},

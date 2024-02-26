@@ -8,7 +8,7 @@
             {"id": 601, "name": "Necron Tomb Complex", "pts": 50, "units":"Tomb Complex", "upgrades": []}
          ]
       },
-      {"name": "NECRON CORE",
+      {"name": "NECRON Kern",
          "formations": [
             {"id": 701, "name": "Necron Phalanx", "pts": 250, "units": "6 Necron Warriors", "upgrades": [100,102,103,99]}
          ]

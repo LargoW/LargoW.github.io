@@ -4,11 +4,11 @@
 	"by":"EA-Ragnarok",
 	"notes":[],
 	"sections":[
-		{"name":"CORE BANNERS <br/> Max 1 Dominus Banner per Questoris Banner", "formations":[
+		{"name":"Kern BANNERS <br/> Max 1 Dominus Banner per Questoris Banner", "formations":[
 			{"id":500, "name":"Questoris", 		"pts":325, "upgrades":[6,7, 8]},
 			{"id":506, "name":"Dominus",	"pts":250, "upgrades":[6,7]}
 		]},
-		{"name":"Aufklärungsbanner <br/> Max 1 per Core Banner", "formations":[
+		{"name":"Aufklärungsbanner <br/> Max 1 per Kern Banner", "formations":[
 			{"id":501, "name":"Cerastus",	"pts":225, "upgrades":[6]},
 			{"id":502, "name":"Arminger",			"pts":200, "upgrades":[106]}
 		]},
@@ -94,7 +94,7 @@
     ],
 	"formationConstraints":[
 		{"max":1, "name":"Dominus Banner", "from":[506], "forEach":[499,500], "name2":"Questoris Banner"},
-		{"max":1, "name":"Recon Banner", "from":[501,502], "forEach":[499,500,506], "name2":"Core Banner"},
+		{"max":1, "name":"Recon Banner", "from":[501,502], "forEach":[499,500,506], "name2":"Kern Banner"},
 		{"maxPercent": 33.5, "name":"Forge World Allies", "from":[510,512,513,514,520,521,522,535]},
 		{"max":1, "name":"Relic Banner", "perPoints":1500, "from":[503,504,505,507]},
 		{"max":1, "perArmy":true, "from":[522]},

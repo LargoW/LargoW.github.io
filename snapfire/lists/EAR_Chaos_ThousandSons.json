@@ -8,11 +8,11 @@
 		{"name":"DAEMONS", "formations":[
 			{"id":500, "name":"Daemon Pool", "pts":0, "upgrades":[71,72,73]}
 		]},
-		{"name":"THOUSAND SONS CORE FORMATIONS <br/> Max 1 Thousand Sons Terminators for each Thousand Sons Retinue", "formations":[
+		{"name":"THOUSAND SONS Kern FORMATIONS <br/> Max 1 Thousand Sons Terminators for each Thousand Sons Retinue", "formations":[
 			{"id":501, "name":"Thousand Sons Retinue", "pts":375, "units": "5 Rubric Marines, Daemonic Pact", "upgrades":[15,16, 20,21, 30, 40]},
 			{"id":502, "name":"Thousand Sons Terminators", "pts":400, "units": "3 Scarab Occult Terminators, Daemonic Pact", "upgrades":[15, 22]}
 		]},
-		{"name":"THOUSAND SONS SUPPORT FORMATIONS <br/> Max 3 for each Core formation", "formations":[
+		{"name":"THOUSAND SONS SUPPORT FORMATIONS <br/> Max 3 for each Kern formation", "formations":[
 			{"id":505, "name":"Tzaangor Host",	"pts":200, "units":"8 Tzaangors, Daemonic Pact", "upgrades":[]},
 			{"id":506, "name":"Defilers of Tzeentch",	"pts":200, "units":"3 Decievers", "upgrades":[]},
 			{"id":503, "name":"Havocs", "pts":225,  "units": "4 Thousand Sons Havocs, 2 Chaos Rhinos, Daemonic Pact", "upgrades":[15, 30]},
@@ -74,7 +74,7 @@
 	"formationConstraints":[
 		{"max":1, "name":"Spacecraft", "from":[514]},
 		{"max":1, "name":"Thousand Sons Terminators", "from":[502], "forEach":[501], "name2":"Thousand Sons Retinue"},
-		{"max":3, "name":"Support Formations", "from":[503,504,506,507,505,508], "forEach":[501,502], "name2":"Core Formation"},
+		{"max":3, "name":"Support Formations", "from":[503,504,506,507,505,508], "forEach":[501,502], "name2":"Kern Formation"},
 		{"min":1, "max":1, "from":[500]},
 		{"maxPercent": 33.5, "name":"Dark Mechanicus and Thousand Sons Navy", "from":[509,510,511,512,513,514]}
 	],

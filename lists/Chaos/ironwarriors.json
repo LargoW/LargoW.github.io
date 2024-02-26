@@ -72,7 +72,7 @@
   ],
   "sections": [
     {
-      "name": "Iron Warriors Core Verbände",
+      "name": "Iron Warriors Kern Verbände",
       "formations": [
         {
           "name": "Iron Warriors Retinue",
@@ -110,7 +110,7 @@
     },
     {
       "name": "Iron Warriors Elite Verbände",
-      "description": "Ein Elite formation may be taken pro Core formation.",
+      "description": "Ein Elite formation may be taken pro Kern formation.",
       "formations": [
         {
           "name": "Auserwählte",
@@ -153,7 +153,7 @@
     },
     {
       "name": "Iron Warriors Siege Verbände",
-      "description": "Ein Siege formation may be taken pro Core formation.",
+      "description": "Ein Siege formation may be taken pro Kern formation.",
       "formations": [
         {
           "name": "Heavy Siege Engine",

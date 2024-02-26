@@ -3,16 +3,16 @@
   "version":"v29-05-15",
   "by":"EA-Ragnarok",
   "sections":[
-    {"name":"CORE HOUSEHOLDS", "formations":[
+    {"name":"Kern HOUSEHOLDS", "formations":[
       {"id":500, "name":"Baron", "pts":600, "units":"Baron, 5 Paladin Knights", "upgrades":[8]},
 	  {"id":501, "name":"Paladin", "pts":500, "units":"6 Paladin Knights", "upgrades":[8,13]}
     ]},
-    {"name":"SUPPORT HOUSEHOLDS <br/> Max 2 for each Core Household", "formations":[
+    {"name":"SUPPORT HOUSEHOLDS <br/> Max 2 for each Kern Household", "formations":[
       {"id":510, "name":"Support", "pts":50, "upgrades":[6,7,13]},
       {"id":511, "name":"Lancer", "pts":300, "units":"3 Lancer Knights", "upgrades":[13]},
       {"id":512, "name":"Errant", "pts":50, "upgrades":[8,13]}
     ]},
-    {"name":"RETAINERS <br/> Max 1 for each Core or Support Household", "formations":[
+    {"name":"RETAINERS <br/> Max 1 for each Kern or Support Household", "formations":[
       {"id":520, "name":"AA Battery", "pts":150, "units":"3 Heavy AA Guns, 3 Tractors", "upgrades":[]},
       {"id":521, "name":"Artillery", "pts":200, "units":"3 Earthshaker platforms, 3 Tractors", "upgrades":[]},
       {"id":522, "name":"Militia", "pts":125, "units":"6 Militia", "upgrades":[5]},

@@ -61,10 +61,10 @@
   ],
   "sections": [
     {
-      "name": "Elysian Core Verbände",
+      "name": "Elysian Kern Verbände",
       "formations": [
         {
-          "name": "0-1 Regiments HQ",
+          "name": "0-1 Regiments Hauptquartier",
           "units": "Ein Elysianischer Oberbefehlshaber mit einem Kommissar, sieben Elysianische Sturmtruppen, vier Valkyries.",
           "extraUnits": [
             "Luftlandungs-Sentinels",
@@ -87,7 +87,7 @@
     },
     {
       "name": "Elysian Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
+      "description": " Bis zu zwei Unterstützungsverbände für jeweils Kern Kompanie.",
       "formations": [
         {
           "name": "Luftlandungs-Sentinel Schwadron",

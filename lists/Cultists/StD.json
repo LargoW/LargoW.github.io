@@ -106,7 +106,7 @@
   ],
   "sections": [
     {
-      "name": "Slaves to Darkness Core Verbände",
+      "name": "Slaves to Darkness Kern Verbände",
       "description": " Bis zu eine Chaos Space Marine formation für jeweils Traitor Guard formation.",
       "formations": [
         {
@@ -121,7 +121,7 @@
     },
     {
       "name": "Slaves to Darkness Unterstützungsverbände",
-      "description": " Bis zu eine Support formation für jeweils Core formation.",
+      "description": " Bis zu eine Support formation für jeweils Kern formation.",
       "formations": [
         {
           "name": "Flak Batterie",

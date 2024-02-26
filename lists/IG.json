@@ -1,6 +1,6 @@
 [
   {
-    "name": "Streitmächte des Astra Militarum",
+    "name": "Astra Militarum",
     "specialRules": [
     ],
     "unit": [
@@ -37,7 +37,7 @@
         ]
       },
       {
-        "name": "Baranische Belagerungsmeister",
+        "name": "Baranischer Belagerungsmeister",
         "type": "INF",
         "speed": 15,
         "armour": 4,

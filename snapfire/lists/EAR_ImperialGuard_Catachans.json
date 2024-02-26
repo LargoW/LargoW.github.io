@@ -3,11 +3,11 @@
 	"version":"0.7.2",
 	"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"CATACHAN CORE COMPANY FORMATIONS", "formations":[
+		{"name":"CATACHAN Kern COMPANY FORMATIONS", "formations":[
 			{"id":500, "name":"Catachan Regimental HQ", "pts":200, "upgrades":[19], "units":"Catachan Supreme Commander"},
 			{"id":501, "name":"Catachan Company", "pts":150, "upgrades":[19], "units":"Catachan Commander"}
 		]},
-		{"name":"CATACHAN SUPPORT FORMATIONS <br/> Max 2 for each Core Company Formation", "formations":[
+		{"name":"CATACHAN SUPPORT FORMATIONS <br/> Max 2 for each Kern Company Formation", "formations":[
 			{"id":512, "name":"Leman Russ Platoon", "pts":375, "upgrades":[20] },
 			{"id":517, "name":"Vulture Squadron", "pts":300, "upgrades":[]},
 			{"id":510, "name":"Veteran Company", "pts":200, "upgrades":[22,10,11], "units":"Catachan Commander, 7 Death World Veterans"},
@@ -65,7 +65,7 @@
 		{"max":1, "from":[500]},
 		{"max":1, "from":[516]},
 		{"max":1, "from":[522]},
-		{"max":2, "name":"Support Formations", "from":[509,510,511,512,514,515,516,517,518,519], "forEach":[500,501], "name2":"Core Company"},
+		{"max":2, "name":"Support Formations", "from":[509,510,511,512,514,515,516,517,518,519], "forEach":[500,501], "name2":"Kern Company"},
 		{"maxPercent": 25.5, "name":"Imperial Navy Formations", "from":[520,521,522,523]}
 	],
 	"upgradeConstraints":[

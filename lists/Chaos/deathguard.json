@@ -5,7 +5,7 @@
   "release": "2023-01-28",
   "armyforge": "EAR_Chaos_DeathGuard",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Death Guard Core, Elite, und Traitor Titan Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "Death Guard Kern, Elite, und Traitor Titan Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Beschwörung",
     "Death Guard Beschwörungs Regeln",
@@ -98,7 +98,7 @@
   ],
   "sections": [
     {
-      "name": "Death Guard Core Verbände",
+      "name": "Death Guard Kern Verbände",
       "formations": [
         {
           "name": "Death Guard Retinue",
@@ -132,7 +132,7 @@
     },
     {
       "name": "Death Guard Elite Verbände",
-      "description": "Ein Elite formation may be taken pro Core formation",
+      "description": "Ein Elite formation may be taken pro Kern formation",
       "formations": [
         {
           "name": "Havocs",
@@ -160,7 +160,7 @@
     },
     {
       "name": "Death Guard Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände may be taken pro Core Formation.",
+      "description": " Bis zu zwei Unterstützungsverbände may be taken pro Kern Formation.",
       "formations": [
         {
           "name": "Poxwalker Infestation",

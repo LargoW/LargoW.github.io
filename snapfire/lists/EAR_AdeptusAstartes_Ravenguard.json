@@ -4,18 +4,18 @@
   "version":"Approved 1.0.Beta <a href=\"https://magnusdurr.github.io/list-view/index.html?race=SM&list=ravenguard\">Listview</a>",
   "by":"EA-Ragnarok",
   "sections":[
-    {"name":"RAVEN GUARD CORE DETACHMENTS", "formations":[
+    {"name":"RAVEN GUARD Kern DETACHMENTS", "formations":[
         {"id":502, "name":"Storm Scouts", "pts":175, "units": "3 Raven Guard Scouts, 3 Land Speeder Storms", "upgrades":[1,2,3,4,40,41,42,43]},
       {"id":500, "name":"Assaults", "pts":175, "units": "4 Assaults", "upgrades":[1,2,3,4,40,41,42,43]},
       {"id":501, "name":"Devastators", "pts":250, "units": "4 Devastators plus transport", "upgrades":[1,2,3,4,30,31,32,33,8,9,34,35]},
       {"id":503, "name":"Tacticals", "pts":200, "units": "4 Tacticals plus transport", "upgrades":[1,2,3,4,30,31,32,33,8,9,34,35]}
     ]},
-    {"name":"RAVEN GUARD ELITE DETACHMENTS <br/> Max 1 for each Raven Guard Core Detachment", "formations":[
+    {"name":"RAVEN GUARD ELITE DETACHMENTS <br/> Max 1 for each Raven Guard Kern Detachment", "formations":[
       {"id":510, "name":"Sternguard Veterans", "pts":250, "units": "4 Sternguard Veterans", "upgrades":[1,2,3,4,30,31,32,33,8,9,34,35]},
       {"id":512, "name":"Vanguard Veterans", "pts":225, "units": "4 Vanguard Veterans", "upgrades":[1,2,3,4,30,31,32,33]},
       {"id":511, "name":"Terminators", "pts":350, "units": "4 Terminators", "upgrades":[1,2,3,4]}
     ]},
-    {"name":"RAVEN GUARD SUPPORT DETACHMENTS <br/> Max 1 for each Raven Guard Core Detachment", "formations":[
+    {"name":"RAVEN GUARD SUPPORT DETACHMENTS <br/> Max 1 for each Raven Guard Kern Detachment", "formations":[
         {"id":523, "name":"Scouts", "pts":150, "units": "4 Raven Guard Scouts plus transport", "upgrades":[17,34,35,40,41,42,43]},
       {"id":520, "name":"Bikes", "pts":200, "upgrades":[1,2,3,4]},
       {"id":521, "name":"Land Speeders", "pts":50, "upgrades":[]},
@@ -79,8 +79,8 @@
     {"max":1, "name":"Terminators", "from":[511]},
     {"max":1, "name":"Spacecraft", "from":[522]},
 
-    {"max":1, "name":"Elite", "from":[510,511,512,513], "forEach":[500,501,502,503], "name2":"Core Detachment"},
-    {"max":1, "name":"Support", "from":[520,521,522,523], "forEach":[500,501,502,503], "name2":"Core Detachment"},
+    {"max":1, "name":"Elite", "from":[510,511,512,513], "forEach":[500,501,502,503], "name2":"Kern Detachment"},
+    {"max":1, "name":"Support", "from":[520,521,522,523], "forEach":[500,501,502,503], "name2":"Kern Detachment"},
 
     {"maxPercent": 33.5, "name":"Aircraft & Titans", "from":[530,531,532,540,541,550,551]}
   ],

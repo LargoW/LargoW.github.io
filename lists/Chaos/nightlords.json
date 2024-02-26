@@ -75,7 +75,7 @@
   ],
   "sections": [
     {
-      "name": "Night Lords Core Verbände",
+      "name": "Night Lords Kern Verbände",
       "formations": [
         {
           "name": "Night Raptor Kompanie",
@@ -91,7 +91,7 @@
     },
     {
       "name": "Night Lords Elite Verbände",
-      "description": " Bis zu eine Elite formation may be taken pro Night Lords Core Formation",
+      "description": " Bis zu eine Elite formation may be taken pro Night Lords Kern Formation",
       "formations": [
         {
           "name": "Auserwählte",
@@ -124,7 +124,7 @@
     },
     {
       "name": "Night Lords Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände may be taken pro Night Lords Core Formation.",
+      "description": " Bis zu zwei Unterstützungsverbände may be taken pro Night Lords Kern Formation.",
       "formations": [
         {
           "name": "Destroyers",

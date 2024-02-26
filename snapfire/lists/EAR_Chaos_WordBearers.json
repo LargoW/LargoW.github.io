@@ -8,7 +8,7 @@
 		{"name":"DAEMONS", "formations":[
 			{"id":666, "name":"Daemon Pool", "pts":0, "upgrades":[71,72,73]}
 		]},
-		{"name":"WORD BEARERS CORE FORMATIONS <br/> Max 1 Cultist Coven for each Word Bearers Retinue", "formations":[
+		{"name":"WORD BEARERS Kern FORMATIONS <br/> Max 1 Cultist Coven for each Word Bearers Retinue", "formations":[
 			{"id":500, "name":"Word Bearers Retinue", "pts":350, "units":"Daemonic Pact", "upgrades":[14,40,41,47,80]},
 			{"id":501, "name":"Cultist Coven", "pts":250, "units":"Demagogue, Daemonic Pact", "upgrades":[14,21,16,17]}
 		]},

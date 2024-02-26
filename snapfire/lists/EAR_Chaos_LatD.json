@@ -8,7 +8,7 @@
 		{"name":"DAEMONS", "formations":[
 			{"id":500, "name":"Daemon Pool", "pts":0, "upgrades":[71,72,73]}
 		]},
-		{"name":"LOST AND THE DAMNED CORE FORMATIONS", "formations":[
+		{"name":"LOST AND THE DAMNED Kern FORMATIONS", "formations":[
 			{"id":501, "name":"Cultist Coven", "pts":110, "units":"Daemonic Pact", "upgrades":[14,15,16,17,18,19]}
 		]},
 		{"name":"LOST AND THE DAMNED SUPPORT COVEN FORMATIONS <br/> Max 2 for each Cultist Coven <br/> Max 1 of each formation for each part of 1500 points in the army <br/> Army may not mix Nurgle/Tzeentch or Slaanesh/Khorne formations", "formations":[
