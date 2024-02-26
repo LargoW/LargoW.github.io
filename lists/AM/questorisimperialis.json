@@ -136,14 +136,14 @@
         },
         {
           "name": "Flak Emplacement",
-          "units": "Drei Schweres Flugabwehrgeschützs, drei Gun Emplacements",
+          "units": "Drei Schweres Flugabwehrgeschützs, drei Geschützstellungen",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Haubitzen Emplacement",
-          "units": "Vier Howitzers, vier Gun Emplacements",
+          "units": "Vier Howitzers, vier Geschützstellungen",
           "extraUnits": [
           ],
           "points": 275

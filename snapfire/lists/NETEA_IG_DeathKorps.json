@@ -23,7 +23,7 @@
 			{ "id":522, "name":"Super-Heavy Tank Company", "pts":500, "upgrades":[] }
 		]},
 		{"name":"FORTIFIED POSITIONS <br/> Max 1 for each Death Korps Regimental HQ or Infantry Company", "formations":[
-			{ "id":526, "name":"Trenchworks", "pts":75, "units":"80cm of Gräben, 4 Bunkers", "upgrades":[] }
+			{ "id":526, "name":"Trenchworks", "pts":75, "units":"80cm of Gräben, 4 Bunker", "upgrades":[] }
 		]},
 		{"name":"IMPERIAL NAVY & TITAN LEGION ALLIES <br/> Max 33%", "formations":[
 			{ "id":531, "name":"Thunderbolt Squadron", "pts":150, "units":"2 Thunderbolt Fighters", "upgrades":[] },
@@ -52,7 +52,7 @@
 		{ "id":35, "name":"20cm of Gräben", "pts":0 },
 
 		{ "id":37, "name":"9 Trojans", "pts":0 },
-		{ "id":38, "name":"9 Gun Emplacements", "pts":0 },
+		{ "id":38, "name":"9 Geschützstellungen", "pts":0 },
 
 		{ "id":39, "name":"3 Hydra Platforms", "pts":125 },
 		{ "id":40, "name":"2 Hydra Platforms, Heavy AA Platform", "pts":125 },
@@ -61,7 +61,7 @@
 		{ "id":43, "name":"3 Earthshaker Platforms", "pts":200 },
 		{ "id":44, "name":"3 Medusa Platforms", "pts":275 },
 		{ "id":46, "name":"3 Trojans", "pts":25 },
-		{ "id":47, "name":"3 Gun Emplacements", "pts":0 },
+		{ "id":47, "name":"3 Geschützstellungen", "pts":0 },
 
 		{ "id":51, "name":"8 Centaurs", "pts":75 },
 		{ "id":53, "name":"Gorgon (formation loses Scout)", "pts":75 },

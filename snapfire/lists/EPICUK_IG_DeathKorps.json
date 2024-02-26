@@ -23,7 +23,7 @@
 			{ "id":513, "name":"Tank Platoon", "pts":400, "upgrades":[1] }
 		]},
 		{"name":"FORTIFIED POSITIONS <br/> Max 1 for each Regimental HQ or Infantry Company", "formations":[
-			{ "id":526, "name":"Trenchworks", "pts":100, "units":"100cm of Gräben, and 3 Bunkers", "upgrades":[] }
+			{ "id":526, "name":"Trenchworks", "pts":100, "units":"100cm of Gräben, and 3 Bunker", "upgrades":[] }
 		]},
 		{"name":"IMPERIAL NAVY & TITAN LEGIONS <br/> Max 33%", "formations":[
 			{ "id":531, "name":"Thunderbolt Squadron", "pts":150, "units":"2 Thunderbolt Fighters", "upgrades":[] },
@@ -43,9 +43,9 @@
 		{ "id":22, "name":"Shadowsword", "pts":0 },
 		{ "id":24, "name":"Stormsword", "pts":0 },
 		{ "id":46, "name":"3 Tractors", "pts":0 },
-		{ "id":47, "name":"3 Gun Emplacements", "pts":0 },
+		{ "id":47, "name":"3 Geschützstellungen", "pts":0 },
 		{ "id":48, "name":"4 Tractors", "pts":0 },
-		{ "id":49, "name":"4 Gun Emplacements", "pts":0 },
+		{ "id":49, "name":"4 Geschützstellungen", "pts":0 },
 		{ "id":51, "name":"8 Tractors", "pts":75 },
 		{ "id":52, "name":"Gorgon", "pts":75 },
 

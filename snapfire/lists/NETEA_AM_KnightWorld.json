@@ -24,7 +24,7 @@
   ],
   "upgrades":[
     {"id":1, "name":"Aspirant", "pts":25},
-    {"id":3, "name":"3 Gun Emplacements", "pts":0},
+    {"id":3, "name":"3 Geschützstellungen", "pts":0},
     {"id":4, "name":"3 Gun Transporters", "pts":0},
     {"id":5, "name":"2 Infantry Levy", "pts":25},
     {"id":6, "name":"Knight Castellan", "pts":115},

@@ -24,7 +24,7 @@
 	]},
 
 		{"name":"IMPERIAL FISTS STATIC DEFENSES, NAVY & COLLEGIA TITANICA ALLIES <br/> Max 33% <br/> Max 1 Tarantula or Hyperios formation for each Scouts detachment", "formations":[
-            { "id":520, "name":"Fortified Positions",        "pts":50, "units":"2 Bunkers, 40cm Gräben and/or Minenfelder", "upgrades":[] },
+            { "id":520, "name":"Fortified Positions",        "pts":50, "units":"2 Bunker, 40cm Gräben and/or Minenfelder", "upgrades":[] },
             { "id":522, "name":"Tarantula",      "pts":125, "upgrades": [] },
             { "id":521, "name":"Hyperios",       "pts":150,  "units":"3 Hyperios Sentries",     "upgrades":[] },
 			{"id":524, "name":"Bastion",	         		 "pts":300, "upgrades":[]},

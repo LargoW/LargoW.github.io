@@ -14,8 +14,8 @@
 			{"id":518, "name":"Sapper Company",					"pts":250, "upgrades":[], "units":"Baran Commander with a Commissar, 7 Sappers, Hades Breaching Drill"},
 			{"id":511, "name":"Siege Artillery Emplacement", 	"pts":250, "upgrades":[15]},
 			{"id":519, "name":"Super-Heavy Platoon", 			"pts":200, "upgrades":[]},
-			{"id":510, "name":"Howitzer Emplacement", 			"pts":275, "upgrades":[], "units":"4 Howitzers, 4 Gun Emplacements"},
-			{"id":514, "name":"Flak Emplacement", 				"pts":175, "upgrades":[], "units":"3 Heavy AA Guns, 3 Gun Emplacements"},
+			{"id":510, "name":"Howitzer Emplacement", 			"pts":275, "upgrades":[], "units":"4 Howitzers, 4 Geschützstellungen"},
+			{"id":514, "name":"Flak Emplacement", 				"pts":175, "upgrades":[], "units":"3 Heavy AA Guns, 3 Geschützstellungen"},
 			{"id":517, "name":"Death Rider Platoon",			"pts":150, "upgrades":[], "units":"6 Death Riders"},
 			{"id":516, "name":"Siege Recon Squadron",			"pts":150, "upgrades":[], "units":"4 Siegfried Light Tanks"}
 		]},
@@ -25,14 +25,14 @@
 		]}
 	],
 	"upgrades":[
-		{"id":6, "name":"4 Ragnarok Heavy Tanks, 4 Gun Emplacements",	"pts":0},
-		{"id":7, "name":"2 Malcador Annihilators, 4 Ragnarok Heavy Tanks, 4 Gun Emplacements",	"pts":175},
-		{"id":8, "name":"7 Ragnarok Heavy Tanks, 7 Gun Emplacements",	"pts":175},
-		{"id":9, "name":"2 Malcadors, 4 Ragnarok Heavy Tanks, 4 Gun Emplacements",	"pts":175},
-		{"id":12, "name":"3 Basilisk and 3 Gun Emplacements",								"pts":0},
-		{"id":13, "name":"3 Bombards and 3 Gun Emplacements",								"pts":0},
-		{"id":14, "name":"4 Medusa Guns and 4 Gun Emplacements",								"pts":0},
-		{"id":15, "name":"Deathstrike and Gun Emplacement",								"pts":50},
+		{"id":6, "name":"4 Ragnarok Heavy Tanks, 4 Geschützstellungen",	"pts":0},
+		{"id":7, "name":"2 Malcador Annihilators, 4 Ragnarok Heavy Tanks, 4 Geschützstellungen",	"pts":175},
+		{"id":8, "name":"7 Ragnarok Heavy Tanks, 7 Geschützstellungen",	"pts":175},
+		{"id":9, "name":"2 Malcadors, 4 Ragnarok Heavy Tanks, 4 Geschützstellungen",	"pts":175},
+		{"id":12, "name":"3 Basilisk and 3 Geschützstellungen",								"pts":0},
+		{"id":13, "name":"3 Bombards and 3 Geschützstellungen",								"pts":0},
+		{"id":14, "name":"4 Medusa Guns and 4 Geschützstellungen",								"pts":0},
+		{"id":15, "name":"Deathstrike and Geschützstellung",								"pts":50},
 
 		{"id":16, "name":"Baneblade",								"pts":0},
 		{"id":26, "name":"Shadowsword",								"pts":0},
@@ -48,12 +48,12 @@
 		{"id":24, "name":"Snipers",									"pts":25},
 		{"id":27, "name":"2 Snipers",								"pts":50},
 		{"id":25, "name":"40cm Stacheldraht, 40cm Gräben",		"pts":0},
-		{"id":28, "name":"40cm Stacheldraht, 20cm Gräben, 2 Bunkers",		"pts":25},
+		{"id":28, "name":"40cm Stacheldraht, 20cm Gräben, 2 Bunker",		"pts":25},
 
 		{ "id":40, "name":"Macharius Command Tank with a Commissar (Twin Vanquishers)", "pts":0 },
 		{ "id":41, "name":"Macharius Command Tank with a Commissar (Vulcan Mega-Bolter)", "pts":0 },
 
-		{ "id":44, "name":"3 Ragnarok Heavy Tanks, 3 Gun Emplacements",	"pts":175},
+		{ "id":44, "name":"3 Ragnarok Heavy Tanks, 3 Geschützstellungen",	"pts":175},
 		{ "id":45, "name":"2 Malcadors", "pts":175},
 		{ "id":46, "name":"2 Malcador Annihilators", "pts":175}
 

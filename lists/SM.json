@@ -2113,7 +2113,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "Darf sechs Infanterie Einheiten ohne Beritten Eigenschaft transportieren; Terminatoren und Cybots zählen als zwei Einheiten. Counts as a Landing Craft für die Transport Regel.",
+        "notes": "Darf sechs Infanterie Einheiten ohne Beritten Eigenschaft transportieren; Terminatoren und Cybots zählen als zwei Einheiten. Zählt als a Landing Craft für die Transport Regel.",
         "crit": "The Stormwolf und all units being carried are destroyed."
       },
       {
@@ -2184,7 +2184,7 @@
           "Descent of Angels",
           "Transport"
         ],
-        "notes": "May transport eine Terminator oder zwei Infanterie Einheiten without Beritten. May in addition transport eine Cybot. Counts as a Drop Pod für the purpose of being transported."
+        "notes": "May transport eine Terminator oder zwei Infanterie Einheiten without Beritten. May in addition transport eine Cybot. Zählt als a Drop Pod für the purpose of being transported."
       },
       {
         "name": "Corvus Blackstar Dropship",
@@ -2267,7 +2267,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport vier Infanterie Einheiten without Beritten; Terminatoren und Cybots zählen als zwei Einheiten. Counts as a Thunderhawk für the purpose of being transported.",
+        "notes": "May transport vier Infanterie Einheiten without Beritten; Terminatoren und Cybots zählen als zwei Einheiten. Zählt als a Thunderhawk für the purpose of being transported.",
         "crit": "The Storm Eagle und all units being carried are destroyed."
       },
       {

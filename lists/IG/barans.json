@@ -74,9 +74,9 @@
           "name": "1 Siegemaster Regiments Hauptquartier",
           "units": "Ein Baranischer Belagerungsmeister mit einem Kommissar, neun Siege Infanterie",
           "extraUnits": [
-              "40cm of Stacheldraht und 4cm of Gräben für jeweils unit of INF in the formation: 50 Punkte. Ersetze 24cm of Gräben with zwei Bunkers: 25 Punkte",
+              "40cm of Stacheldraht und 4cm of Gräben für jeweils unit of INF in the formation: 50 Punkte. Ersetze 24cm of Gräben with zwei Bunker: 25 Punkte",
               "Fünf Siege Infanterie, oder zwei Scharfschützen, oder zwei Pioniere, oder zwei Ogryns: 50 Punkte",
-              "Vier Rapiers, oder drei Mole Launcher Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafettes with zwei Gun Emplacements, oder eine Todesstoss-Raketensystem: 75 Punkte",
+              "Vier Rapiers, oder drei Mole Launcher Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafettes with zwei Geschützstellungen, oder eine Todesstoss-Raketensystem: 75 Punkte",
               "Ein Defense Laser, oder zwei Malcadors, oder zwei Malcador Defenders: 150 Punkte"
           ],
           "points": 225
@@ -85,9 +85,9 @@
           "name": "Siege Infanterie Kompanie",
           "units": "Ein Baranischer Befehlshaber mit einem Kommissar, neun Siege Infanterie",
           "extraUnits": [
-              "40cm of Stacheldraht und 4cm of Gräben für jeweils unit of INF in the formation: 50 Punkte. Ersetze 24cm of Gräben with zwei Bunkers: 25 Punkte",
+              "40cm of Stacheldraht und 4cm of Gräben für jeweils unit of INF in the formation: 50 Punkte. Ersetze 24cm of Gräben with zwei Bunker: 25 Punkte",
               "Fünf Siege Infanterie, oder zwei Scharfschützen, oder zwei Pioniere, oder zwei Ogryns: 50 Punkte",
-              "Vier Rapiers, oder drei Mole Launcher Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafettes with zwei Gun Emplacements, oder eine Todesstoss-Raketensystem: 75 Punkte",
+              "Vier Rapiers, oder drei Mole Launcher Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafettes with zwei Geschützstellungen, oder eine Todesstoss-Raketensystem: 75 Punkte",
               "Ein Defense Laser, oder zwei Malcadors, oder zwei Malcador Defenders: 150 Punkte"
           ],
           "points": 175
@@ -121,24 +121,24 @@
         },
         {
           "name": "Siege Artillerie Emplacement",
-          "units": "Vier Medusa Kanonenlafettes und vier Gun Emplacements",
+          "units": "Vier Medusa Kanonenlafettes und vier Geschützstellungen",
           "extraUnits": [
-              "Ersetze vier Medusa Kanonenlafettes und vier Gun Emplacements with drei Bombard und drei Gun Emplacements: 25 Punkte"
+              "Ersetze vier Medusa Kanonenlafettes und vier Geschützstellungen with drei Bombard und drei Geschützstellungen: 25 Punkte"
           ],
           "points": 200
         },
         {
           "name": "Haubitzen Emplacement",
-          "units": "Drei Howitzers, drei Gun Emplacements",
+          "units": "Drei Howitzers, drei Geschützstellungen",
           "extraUnits": [
-              "Füge drei Howitzers und drei Gun Emplacements (100 Punkte), oder add a Kommissar, sechs Howitzers, und sechs Gun Emplacements (200 Punkte)",
-              "Füge eine Schweres Flugabwehrgeschütz und eine Gun Emplacement: 50 Punkte"
+              "Füge drei Howitzers und drei Geschützstellungen (100 Punkte), oder add a Kommissar, sechs Howitzers, und sechs Geschützstellungen (200 Punkte)",
+              "Füge eine Schweres Flugabwehrgeschütz und eine Geschützstellung: 50 Punkte"
           ],
           "points": 175
         },
         {
           "name": "Flak Emplacement",
-          "units": "Drei Schweres Flugabwehrgeschützs, drei Gun Emplacements",
+          "units": "Drei Schweres Flugabwehrgeschützs, drei Geschützstellungen",
           "extraUnits": [
           ],
           "points": 150

@@ -59,12 +59,12 @@
 		{ "id":35, "name":"2 Malcadors", "pts":175},
 		{ "id":36, "name":"2 Malcador Annihilators", "pts":175},
 
-		{ "id":42, "name":"4 Medusa Guns, 4 Gun Emplacements", "pts":0},
+		{ "id":42, "name":"4 Medusa Guns, 4 Geschützstellungen", "pts":0},
 		{ "id":43, "name":"4 Medusa Guns, 4 Trojans", "pts":0},
-		{ "id":44, "name":"4 Earthshaker Guns, 4 Gun Emplacements", "pts":50},
+		{ "id":44, "name":"4 Earthshaker Guns, 4 Geschützstellungen", "pts":50},
 		{ "id":45, "name":"4 Earthshaker Guns, 4 Trojans", "pts":50},
 
-		{ "id":46, "name":"4 Heavy AA Guns, 4 Gun Emplacements", "pts":0},
+		{ "id":46, "name":"4 Heavy AA Guns, 4 Geschützstellungen", "pts":0},
 		{ "id":47, "name":"4 Heavy AA Guns, 4 Trojans", "pts":0},
 
 		{ "id":50, "name":"Baneblade", "pts":0 },

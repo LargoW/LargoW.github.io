@@ -6,9 +6,9 @@
         "sections":[
                 {"name":"IMPERIAL FISTS DETACHMENTS", "formations": [
                         { "id":501, "name":"Centurions",                               "pts":0,   "upgrades":[28,29,30,31,32, 26,27] },
-                        { "id":502, "name":"Devastators",   "units":"4 Devastators plus transport / 2 Bunkers, 50cm Minenfelder/Gräben",   "pts":250, "upgrades":[11,12,13,14, 16, 17,18, 26,27, 28,29,30,31,32,33,34, 45,46, 50,51]},
+                        { "id":502, "name":"Devastators",   "units":"4 Devastators plus transport / 2 Bunker, 50cm Minenfelder/Gräben",   "pts":250, "upgrades":[11,12,13,14, 16, 17,18, 26,27, 28,29,30,31,32,33,34, 45,46, 50,51]},
                         { "id":503, "name":"Scouts",        "units":"4 Scouts plus enough Rhinos to transport the formation",        "pts":150, "upgrades":[11,12,13,14, 44, 50,51] },
-                        { "id":504, "name":"Tacticals",     "units":"6 Tacticals plus transport / 2 Bunkers, 50cm Minenfelder/Gräben",     "pts":275, "upgrades":[11,12,13,14, 16, 17,18, 26,27, 28,29,30,31,32,33,34, 45,46, 50,51] },
+                        { "id":504, "name":"Tacticals",     "units":"6 Tacticals plus transport / 2 Bunker, 50cm Minenfelder/Gräben",     "pts":275, "upgrades":[11,12,13,14, 16, 17,18, 26,27, 28,29,30,31,32,33,34, 45,46, 50,51] },
                         { "id":505, "name":"Terminators",   "units":"4 Terminators",   "pts":325, "upgrades":[11,12,13,14, 17,18, 26,27, 28,29,30,31,32] },
                         { "id":506, "name":"Thunderfires",  "units":"4 Thunderfire Cannons",  "pts":250, "upgrades":[15, 17,18] },
                         { "id":507, "name":"Land Raiders",                             "pts":325, "upgrades":[11,12,13,14, 16, 26,27] },
@@ -83,8 +83,8 @@
                 { "id":50, "name":"Razorback (Twin HB)",  "pts":25},
                 { "id":51, "name":"Razorback (Twin Las)",  "pts":25},
 
-                { "id":70, "name":"Tarantula (Twin Heavy Bolter), Gun Emplacement","pts":25 },
-                { "id":71, "name":"Tarantula (Twin Lascannon), Gun Emplacement","pts":25 }
+                { "id":70, "name":"Tarantula (Twin Heavy Bolter), Geschützstellung","pts":25 },
+                { "id":71, "name":"Tarantula (Twin Lascannon), Geschützstellung","pts":25 }
         ],
         "formationConstraints":[
                 {"maxPercent":33.5, "name":"Static Defenses, Navy and Titan Legion Allies", "from":[521,522,523,531,532,541,542]},

@@ -9,7 +9,7 @@
 		]},
 		{"name":"BARAN SUPPORT FORMATIONS <br/> Max 2 for each Baran Company", "formations":[
 			{"id":501, "name":"Artillery Battery", 			"pts":150, "upgrades":[], "units":"3 Götterdämmerung Howitzers, 3 Bruenhilde"},
-			{"id":500, "name":"Artillery Company", 			"pts":425, "upgrades":[], "units":"9 Götterdämmerung Howitzers, 9 Gun Emplacements"},
+			{"id":500, "name":"Artillery Company", 			"pts":425, "upgrades":[], "units":"9 Götterdämmerung Howitzers, 9 Geschützstellungen"},
 			{"id":503, "name":"Bombard Battery",				"pts":250, "upgrades":[], "units":"3 Bombards"},
 			{"id":506, "name":"Deathstrike Missile Battery",	"pts":200, "upgrades":[], "units":"2 Deathstrike Missile Launchers"},
 			{"id":502, "name":"Flak Battery", 			"pts":150, "upgrades":[], "units":"3 Blitzen AA Guns"},
@@ -20,7 +20,7 @@
 			{"id":507, "name":"Super-Heavy Platoon", 		"pts":200, "upgrades":[]}
 		]},
 		{"name":"BARAN FORTIFIED POSITIONS <br/> Max 1 for each Baran Company", "formations":[
-			{"id":530, "name":"Fortified Positions",	"pts":75, "upgrades":[], "units":"Up to 50cm Gräben, 50cm Stacheldraht, plus 6 Gun Emplacements or Bunkers."}
+			{"id":530, "name":"Fortified Positions",	"pts":75, "upgrades":[], "units":"Up to 50cm Gräben, 50cm Stacheldraht, plus 6 Geschützstellungen or Bunker."}
 		]},
 		{"name":"IMPERIAL NAVY <br/> Max 25%", "formations":[
 			{"id":520, "name":"Marauder Squadron",		"pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
@@ -31,7 +31,7 @@
 		{"id":7, "name":"Distribute formation to one or more Baran Companies",			"pts":0},
 		{"id":8, "name":"Sappers (Requires a Sapper Platoon)",			"pts":0},
 
-		{"id":12, "name":"3 Gun Emplacements",	"pts":0},
+		{"id":12, "name":"3 Geschützstellungen",	"pts":0},
 		{"id":11, "name":"3 Bruenhilde",		"pts":0},
 
 		{"id":17, "name":"Baneblade",			"pts":0},

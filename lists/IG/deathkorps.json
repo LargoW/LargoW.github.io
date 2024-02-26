@@ -126,18 +126,18 @@
         },
         {
           "name": "Artillerie Emplacement",
-          "units": "Vier Medusa Kanonenlafettes, vier Gun Emplacements",
+          "units": "Vier Medusa Kanonenlafettes, vier Geschützstellungen",
           "extraUnits": [
-            "Ersetze vier Gun Emplacements with vier Trojans: Kostenlos",
+            "Ersetze vier Geschützstellungen with vier Trojans: Kostenlos",
             "Ersetze vier Medusa Kanonenlafettes with vier Tremorkanonenlafettes: 50 Punkte"
           ],
           "points": 225
         },
         {
           "name": "Flak Emplacement",
-          "units": "Vier Schweres Flugabwehrgeschützs, vier Gun Emplacements",
+          "units": "Vier Schweres Flugabwehrgeschützs, vier Geschützstellungen",
           "Erweiterungen": [
-            "Ersetze vier Gun Emplacements with vier Trojans: Kostenlos"
+            "Ersetze vier Geschützstellungen with vier Trojans: Kostenlos"
           ],
           "points": 175
         },
