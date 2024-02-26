@@ -71,7 +71,7 @@
   ],
   "sections": [
     {
-      "name": "Legiones Mars Core Verbände",
+      "name": "Legiones Mars Kern Verbände",
       "formations": [
         {
           "name": "Vanguard Manipel",
@@ -94,7 +94,7 @@
     },
     {
       "name": "Legiones Mars Line Verbände",
-      "description": " Bis zu drei Mars Line Verbände für jeweils Core Formation.",
+      "description": " Bis zu drei Mars Line Verbände für jeweils Kern Formation.",
       "formations": [
         {
           "name": "Sicarian Killclade",

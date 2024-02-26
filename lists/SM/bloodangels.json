@@ -71,7 +71,7 @@
   ],
   "sections": [
     {
-      "name": "Blood Angels Core Detachments",
+      "name": "Blood Angels Kern Detachments",
       "description": "Ein Death Kompanie formation must be taken.",
       "formations": [
         {
@@ -125,7 +125,7 @@
     },
     {
       "name": "Blood Angels Support Detachments",
-      "description": " Bis zu zwei Support Detachments may be taken pro Core Detachment.",
+      "description": " Bis zu zwei Support Detachments may be taken pro Kern Detachment.",
       "formations": [
         {
           "name": "Baal Predators",

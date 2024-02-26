@@ -86,7 +86,7 @@
   ],
   "sections": [
     {
-      "name": "Hell-Forge Core Verbände",
+      "name": "Hell-Forge Kern Verbände",
       "formations": [
         {
           "name": "Hell-Forge Manipel",
@@ -104,7 +104,7 @@
     },
     {
       "name": "Daemonic Banner Verbände",
-      "description": " Bis zu drei für jeweils Hell-Forge Core formation. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
+      "description": " Bis zu drei für jeweils Hell-Forge Kern formation. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
       "formations": [
         {
           "name": "Höllenritter of Slaanesh",

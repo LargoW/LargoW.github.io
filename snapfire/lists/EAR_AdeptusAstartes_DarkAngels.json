@@ -4,12 +4,12 @@
 	"by":"EA-Ragnarok",
 
 	"sections":[
-		{"name":"DARK ANGELS CORE DETACHMENTS", "formations":[
+		{"name":"DARK ANGELS Kern DETACHMENTS", "formations":[
 			{"id":501, "name":"Ravenwing Attack", 					"pts":350, "units":"Ravenwing Black Knights, 3 Ravenwing Land Speeders", "upgrades":[10,11,12,13]},
 			{"id":503, "name":"Tacticals",					"pts":275, "units":"6 Tacticals plus transport", "upgrades":[10,11,12,13, 30,31,32, 33, 36,37]},
 			{"id":505, "name":"Deathwing Strike",		"pts":350,  "upgrades":[10,11,12,13]}
 		]},
-		{"name":"DARK ANGELS SUPPORT DETACHMENTS <br/> Max 3 for each Core Detachment", "formations":[
+		{"name":"DARK ANGELS SUPPORT DETACHMENTS <br/> Max 3 for each Kern Detachment", "formations":[
 			{"id":502, "name":"Land Raiders",				"pts":125, "upgrades":[30,31,32, 35]},
 			{"id":514, "name":"Ares Siege",				"pts":375, "units":"3 Land Raider Ares",  "upgrades":[]},
 			{"id":515, "name":"Deathwing Armour",			"pts":450,  "units":"3 Land Raiders, 3 Terminators", "upgrades":[10,11,12,13]},
@@ -75,7 +75,7 @@
 		{"id":51, "name":"Hunter Class Destroyer",						"pts":100}
 	],
 	"formationConstraints":[
-		{"max":3, "name":"Support Detachments", "from":[504,500,502,509,510,511,512,513,514,515,516,517], "forEach":[501,503,505], "name2":"Core Detachment"},
+		{"max":3, "name":"Support Detachments", "from":[504,500,502,509,510,511,512,513,514,515,516,517], "forEach":[501,503,505], "name2":"Kern Detachment"},
 		{"max":1,"perArmy":true, "name":"Dreadwing Relics", "from":[517]},
 		{"max":1, "min":1, "perArmy":true, "name":"Spacecraft", "from":[522]},
 		{"maxPercent": 33.5, "name":"Dark Angels Navy", "from":[520,521,522]}

@@ -57,7 +57,7 @@
   ],
   "sections": [
     {
-      "name": "Catachan Core Companies",
+      "name": "Catachan Kern Companies",
       "formations": [
         {
           "name": "Catachan Regiments Hauptquartier",
@@ -85,7 +85,7 @@
     },
     {
       "name": "Catachan Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
+      "description": " Bis zu zwei Unterstützungsverbände für jeweils Kern Kompanie.",
       "formations": [
         {
           "name": "Leman Russ Zug",

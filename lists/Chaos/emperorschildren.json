@@ -6,7 +6,7 @@
   "armyforge": "EAR_Chaos_EmperorsChildren",
   "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Emperor's Children Traitor Legion. The Emperor's Children are a fast moving, agile army relying on daemons to bolster their relatively small Verbände.",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "All Emperor's Children Core, Support und the Chosen formation have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "All Emperor's Children Kern, Support und the Chosen formation have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Beschwörung",
     "Emperor's Children Beschwörungs Regeln",
@@ -81,7 +81,7 @@
   ],
   "sections": [
     {
-      "name": "Emperor's Children Core Verbände",
+      "name": "Emperor's Children Kern Verbände",
       "formations": [
         {
           "name": "Emperor's Children Retinue",
@@ -113,7 +113,7 @@
     },
     {
       "name": "Emperor's Children Elite Verbände",
-      "description": "Ein Elite formation may be taken pro Core formation",
+      "description": "Ein Elite formation may be taken pro Kern formation",
       "formations": [
         {
           "name": "Chosen",
@@ -134,7 +134,7 @@
     },
     {
       "name": "Emperor's Children Unterstützungsverbände",
-      "description": "Zwei Unterstützungsverbände may be taken pro Core formation",
+      "description": "Zwei Unterstützungsverbände may be taken pro Kern formation",
       "formations": [
         {
           "name": "Bike Kompanie",

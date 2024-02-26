@@ -77,7 +77,7 @@
   ],
   "sections": [
     {
-      "name": "Imperial Fists Core Detachments",
+      "name": "Imperial Fists Kern Detachments",
       "formations": [
         {
           "name": "Devastoren",
@@ -121,7 +121,7 @@
     },
     {
       "name": "Imperial Fists Support Detachments",
-      "description": " Bis zu zwei Support Detachments für jeweils Core Detachment.",
+      "description": " Bis zu zwei Support Detachments für jeweils Kern Detachment.",
       "formations": [
           {
             "name": "Land Raiders",

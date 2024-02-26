@@ -5,20 +5,20 @@
    "notes":[],
 
    "sections": [
-        {"name": "BLOOD RAVENS CORE FORMATIONS", "formations": [
+        {"name": "BLOOD RAVENS Kern FORMATIONS", "formations": [
 	        {"id":500, "name":"1 Orbital Support", "pts": 150, "upgrades": [] },
             {"id":501, "name":"Tacticals",			    "pts":275, "units":"6 Tacticals plus transport", "upgrades":[18,19,27,28,29,30, 31,32]},
             {"id":510, "name":"Devastators",			    "pts":250, "units":"4 Devastators plus transport", "upgrades":[27,28,29,30, 33,34,35]},
             {"id":504, "name":"Assaults",			    "pts":225, "units":"6 Assaults", "upgrades":[]},
             {"id":513, "name":"Land Raiders",			"pts":25, "upgrades":[40,41,42]}
 	  ]},
-      {"name": "BLOOD RAVENS SUPPORT DETACHMENTS <br/> Max 2 for each Core Detachment", "formations": [
+      {"name": "BLOOD RAVENS SUPPORT DETACHMENTS <br/> Max 2 for each Kern Detachment", "formations": [
           {"id":512, "name":"Scouts",					"pts":150, "upgrades":[18,19,27,28,29,30]},
           {"id":502, "name":"Land Speeders",			"pts":200, "upgrades":[]},
           {"id":503, "name":"Bikes", 				"pts":200, "upgrades":[]},
           {"id":511, "name":"Predators",				"pts":250, "upgrades":[31,32]}
     ]},
-        {"name": "GREY KNIGHTS DETACHMENTS <br/> Max 1 for each Core Formation", "formations": [
+        {"name": "GREY KNIGHTS DETACHMENTS <br/> Max 1 for each Kern Formation", "formations": [
         {"id": 522, "name": "Interceptor Squads", "pts": 200, "units": "2 Grey Knights Interceptor Squads", "upgrades": [14]},
         {"id": 524, "name": "Strike Squads", "pts": 200, "units": "2 Grey Knights Strike Squads plus transport", "upgrades": [14,48,52,53]},
         {"id": 523, "name": "Purgation Squads", "pts": 225, "units": "2 Grey Knights Purgation Squads plus transport", "upgrades": [14,48,52,53]},
@@ -93,8 +93,8 @@
       {"min": 1, "max": 1, "from": [500]},
       {"max": 1, "from": [520]},
       {"maxPercent": 33.5, "name": "Blood Ravens Aircraft, Collegia Titanica Allies", "from": [530,531,532,533]},
-      {"max": 2, "name": "Blood Ravens Support Detachment", "from": [502,503,512,511], "forEach": [504,513,500,501,510], "name2": "Blood Ravens Core Formation" },
-      {"max": 1, "name": "Grey Knights Detachment", "from": [521,522,523,524,525], "forEach": [504,513,500,501,510], "name2": "Blood Raven Core Formation" }
+      {"max": 2, "name": "Blood Ravens Support Detachment", "from": [502,503,512,511], "forEach": [504,513,500,501,510], "name2": "Blood Ravens Kern Formation" },
+      {"max": 1, "name": "Grey Knights Detachment", "from": [521,522,523,524,525], "forEach": [504,513,500,501,510], "name2": "Blood Raven Kern Formation" }
    ],
    "upgradeConstraints": [
        {"max":1, "perArmy":true, "from":[11,13]},

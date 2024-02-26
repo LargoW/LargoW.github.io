@@ -3,12 +3,12 @@
 	"version":"0.6.2",
 	"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"CADIAN CORE COMPANIES", "formations":[
+		{"name":"CADIAN Kern COMPANIES", "formations":[
 			{"id":500, "name":"Regimental HQ", "pts":400, "upgrades":[30,31,32,33, 34,35,36], "units":"Cadian Supreme Commander with a Commissar, 8 Kasrkin"},
 			{"id":501, "name":"Whiteshield Company", "pts":400, "upgrades":[30,31,32,33, 34,35,36], "units":"Cadian Commander with a Commissar, 15 Whiteshields, 2 Stormlord"},
 			{"id":502, "name":"Shock Trooper Company", "pts":400, "upgrades":[], "units":"Cadian Commander with Commissar, 11 Infantry, 2 Crassus Assault Transport"}
 		]},
-		{"name":"CADIAN SUPPORT FORMATIONS <br/> Up to 3 for each Core Company", "formations":[
+		{"name":"CADIAN SUPPORT FORMATIONS <br/> Up to 3 for each Kern Company", "formations":[
 			{"id":509, "name":"Kasrkin Platoon", "pts":275, "upgrades":[], "units":"6 Kasrkin, Crassus Assault Transport"},
 			{"id":510, "name":"Praetor Battery", "pts":275, "upgrades":[], "units":"Praetor Assault Launcher"},
 			{"id":511, "name":"Siege Artillery Battery", "pts":225, "upgrades":[18]},
@@ -66,7 +66,7 @@
 		{"max":1, "from":[500]},
 		{"max":1, "from":[519]},
 		{"max":1, "from":[532]},
-		{"max":3, "name":"Cadian Support Formations", "from":[509,510,511,512,513,514,515,517,518,519], "forEach":[500,501,502], "name2":"Cadian Core Company"},
+		{"max":3, "name":"Cadian Support Formations", "from":[509,510,511,512,513,514,515,517,518,519], "forEach":[500,501,502], "name2":"Cadian Kern Company"},
 		{"maxPercent": 33.5, "name":"Collegia Titanica and Imperial Navy formations", "from":[520,530,531,532]}
 
 	],

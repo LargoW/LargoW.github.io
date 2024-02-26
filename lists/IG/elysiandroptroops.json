@@ -61,7 +61,7 @@
   ],
   "sections": [
     {
-      "name": "Elysian Core Verbände",
+      "name": "Elysian Kern Verbände",
       "formations": [
         {
           "name": "0-1 Regiments Hauptquartier",
@@ -87,7 +87,7 @@
     },
     {
       "name": "Elysian Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
+      "description": " Bis zu zwei Unterstützungsverbände für jeweils Kern Kompanie.",
       "formations": [
         {
           "name": "Luftlandungs-Sentinel Schwadron",

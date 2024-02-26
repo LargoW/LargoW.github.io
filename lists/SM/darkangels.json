@@ -58,7 +58,7 @@
   ],
   "sections": [
     {
-      "name": "Dark Angels Core Detachments",
+      "name": "Dark Angels Kern Detachments",
       "formations": [
         {
           "name": "Ravenwing Attack",
@@ -93,7 +93,7 @@
     },
     {
       "name": "Dark Angels Support Detachments",
-      "description": "Drei Support Detachments may be taken pro Core Detachment",
+      "description": "Drei Support Detachments may be taken pro Kern Detachment",
       "formations": [
         {
           "name": "Land Raiders",

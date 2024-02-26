@@ -134,7 +134,7 @@
     },
     {
       "name": "Ordo Xenos Verbände",
-      "description": "Ein Ordo Xenos Formation may be taken pro Deathwatch Core Formation.",
+      "description": "Ein Ordo Xenos Formation may be taken pro Deathwatch Kern Formation.",
       "formations": [
         {
           "name": "0-1 Ordo Xenos Inquisitor Task Force",

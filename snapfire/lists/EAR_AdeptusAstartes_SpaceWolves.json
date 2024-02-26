@@ -4,12 +4,12 @@
 	"by":"EA-Ragnarok",
 
 	"sections":[
-		{"name":"SPACE WOLVES CORE PACKS", "formations":[
+		{"name":"SPACE WOLVES Kern PACKS", "formations":[
 			{"id":500, "name":"Hunting Pack", 							"pts":350,  "units":"plus transport",  "upgrades":[12,13, 17, 27,28, 31,32, 33, 34,35]},
 			{"id":501, "name":"Blood Claw Assault Pack", 				"pts":175, "units":"5 Blood Claw Assaults plus transport", "upgrades":[12,13, 34,35]},
 			{"id":502, "name":"Sky Claw Assault Pack",					"pts":175, "units":"5 Sky Claw Assaults", "upgrades":[12,13]}
 		]},
-		{"name":"SPACE WOLVES SUPPORT PACKS <br/> Max 2 Support Packs for each Core Pack", "formations":[
+		{"name":"SPACE WOLVES SUPPORT PACKS <br/> Max 2 Support Packs for each Kern Pack", "formations":[
 			{"id":520, "name":"Wolf Guard Terminator Pack",		"pts":400,   "units":"plus transport", "upgrades":[12,13, 27,28, 33]},
 			{"id":521, "name":"Swift Claw Biker Pack", 			"pts":200,  "units":"4 Swift Claw Assault Bikes, 2 Fenrisian Wolves", "upgrades":[12,13]},
 			{"id":522, "name":"Wolf Scout Recon Pack",			"pts":175,  "units":"4 Wolf Scout Veterans plus transport", "upgrades":[12,13, 34,35]},
@@ -73,7 +73,7 @@
 		{"max":1,"perArmy":true, "from":[534]},
 		{"max":1,"perArmy":true, "from":[535]},
 		{"max":1,"perArmy":true, "from":[536]},
-		{"max":2, "name":"Space Wolves Support Packs", "from":[520,521,522,523,524,525,526,528], "forEach":[500,501,502], "name2":"Space Wolves Core Pack"},
+		{"max":2, "name":"Space Wolves Support Packs", "from":[520,521,522,523,524,525,526,528], "forEach":[500,501,502], "name2":"Space Wolves Kern Pack"},
 		{"maxPercent": 33.5, "name":"Aircraft & Freeblade Knights", "from":[530,531,532,527,533,534,535,536]}
 	],
 	"upgradeConstraints":[

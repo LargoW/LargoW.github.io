@@ -57,7 +57,7 @@
   ],
   "sections": [
     {
-      "name": "Ritter Welten Core Households",
+      "name": "Ritter Welten Kern Households",
       "formations": [
         {
           "name": "Paladin Household",
@@ -73,7 +73,7 @@
     },
     {
       "name": "Ritter Welten Support Households",
-      "description": " Bis zu zwei Support Households für jeweils Core Household.",
+      "description": " Bis zu zwei Support Households für jeweils Kern Household.",
       "formations": [
         {
           "name": "Castellan Household",
@@ -115,7 +115,7 @@
     },
     {
       "name": "Ritter Welten Retainer Verbände",
-      "description": " Bis zu eine Retainer Formation für jeweils Core oder Support Household.",
+      "description": " Bis zu eine Retainer Formation für jeweils Kern oder Support Household.",
       "formations": [
         {
           "name": "Planetary Defense Zug",

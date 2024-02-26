@@ -64,7 +64,7 @@
   ],
   "sections": [
     {
-      "name": "Valhallan Core Kompanieverbände",
+      "name": "Valhallan Kern Kompanieverbände",
       "formations": [
         {
           "name": "Valhallan Regiments Hauptquartier",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Valhallan Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
+      "description": " Bis zu zwei Unterstützungsverbände für jeweils Kern Kompanie.",
       "formations": [
         {
           "name": "Heavy Panzer Zug",

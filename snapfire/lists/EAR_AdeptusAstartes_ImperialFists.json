@@ -5,14 +5,14 @@
 	"by":"EA-Ragnarok",
 
 	"sections":[
-		{"name":"IMPERIAL FISTS CORE DETACHMENTS", "formations":[
+		{"name":"IMPERIAL FISTS Kern DETACHMENTS", "formations":[
 			{"id":501, "name":"Tacticals",					"pts":275, "units":"6 Tacticals", "upgrades":[10,11,12,13,14, 15,16, 26,27, 28,29, 50,51]},
             {"id":502, "name":"Devastators",				"pts":225, "units":"4 Devastators", "upgrades":[10,11,12,13,14, 15,16, 26,27, 28,29, 50,51, 65,66,67]},
             {"id":503, "name":"Land Raiders",		     	"pts":125, "upgrades":[15,16, 26,27, 35]},
 			{"id":516, "name":"Support Battery",				"pts":250, "upgrades":[65,66,67]}
 
 		]},
-		{"name":"IMPERIAL FISTS SUPPORT DETACHMENTS <br/> Max 2 for each Core Detachment", "formations":[
+		{"name":"IMPERIAL FISTS SUPPORT DETACHMENTS <br/> Max 2 for each Kern Detachment", "formations":[
             {"id":510, "name":"Land Speeders",	         		"pts":200, "upgrades":[]},
             {"id":511, "name":"Terminators",	               	"pts":325, "units":"4 Terminators", "upgrades":[10,11,12,13,14, 26,27, 28,29]},
             {"id":512, "name":"Centurions",		                "pts":275, "upgrades":[26,27, 28,29]},
@@ -111,7 +111,7 @@
 
 	],
 	"formationConstraints":[
-		{"max":2, "name":"Support Detachments", "from":[510,511,512,513,514,515,517,518,504], "forEach":[516,501,502,503], "name2":"Core Detachment"},
+		{"max":2, "name":"Support Detachments", "from":[510,511,512,513,514,515,517,518,504], "forEach":[516,501,502,503], "name2":"Kern Detachment"},
 		{"max":1, "name":"Tarantula or Hyperios", "from":[521,522], "forEach":[513], "name2":"Scouts Detachment"},
 		{"max":1,"perArmy":true, "name":"Fellblade Relics", "from":[517]},
 		{"maxPercent": 33.5, "name":"Imperial Fist Static Defenses, Navy and Collegia Titanica Allies", "from":[520,521,522,523,524,525,526]}

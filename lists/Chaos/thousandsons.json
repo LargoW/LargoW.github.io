@@ -98,7 +98,7 @@
   ],
   "sections": [
     {
-      "name": "Thousand Sons Core Verbände",
+      "name": "Thousand Sons Kern Verbände",
       "description": " Bis zu eine Thousand Sons Terminatoren formation für jeweils Thousand Sons Retinue.",
       "formations": [
         {
@@ -131,7 +131,7 @@
     },
     {
       "name": "Thousand Sons Unterstützungsverbände",
-      "description": " Bis zu drei may be taken pro Thousand Sons Core formation.",
+      "description": " Bis zu drei may be taken pro Thousand Sons Kern formation.",
       "formations": [
         {
           "name": "Tzaangor Host",

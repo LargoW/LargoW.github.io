@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
-  "armyRules": "The <i>Sie kennen keine Furcht</i> Sonderregel applies to all Space Wolves detachments und Aircraft Verbände. <i>Rudelmentalität</i> applies to all Core und Elite Packs.",
+  "armyRules": "The <i>Sie kennen keine Furcht</i> Sonderregel applies to all Space Wolves detachments und Aircraft Verbände. <i>Rudelmentalität</i> applies to all Kern und Elite Packs.",
   "specialRules": [
     "Rudelmentalität",
     "Space Marine Transports",
@@ -65,7 +65,7 @@
   ],
   "sections": [
     {
-      "name": "Space Wolves Core Packs",
+      "name": "Space Wolves Kern Packs",
       "formations": [
         {
           "name": "Hunting Pack",
@@ -113,7 +113,7 @@
     },
     {
       "name": "Space Wolf Elite Packs",
-      "description": "Ein Elite Pack may be taken pro Hunting Pack (note: not eine pro Core Pack)",
+      "description": "Ein Elite Pack may be taken pro Hunting Pack (note: not eine pro Kern Pack)",
       "formations": [
         {
           "name": "Long Fang Pack",
@@ -156,7 +156,7 @@
     },
     {
       "name": "Space Wolf Support Packs",
-      "description": "Zwei Support Packs may be taken pro Hunting Pack (note: not eine pro Core Pack)",
+      "description": "Zwei Support Packs may be taken pro Hunting Pack (note: not eine pro Kern Pack)",
       "formations": [
         {
           "name": "Land Raiders",

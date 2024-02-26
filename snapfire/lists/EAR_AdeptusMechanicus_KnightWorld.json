@@ -3,16 +3,16 @@
 	"version":"Approved 1.0.Beta <a href=\"https://magnusdurr.github.io/list-view/index.html?race=AM&list=questorisimperialis\">Listview</a>",
 	"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"CORE HOUSEHOLDS", "formations":[
+		{"name":"Kern HOUSEHOLDS", "formations":[
 			{"id":501, "name":"Paladin Household",	"pts":75, "upgrades":[13,10,11]}
 		]},
-		{"name":"SUPPORT HOUSEHOLDS <br/> Max 2 per Core Household", "formations":[
+		{"name":"SUPPORT HOUSEHOLDS <br/> Max 2 per Kern Household", "formations":[
 			{"id":511, "name":"Castellan Household",	"pts":50, "upgrades":[14,24,12]},
 			{"id":514, "name":"Errant Household",	"pts":25, "upgrades":[19,12]},
 			{"id":512, "name":"Lancer Household", 	"pts":50, "upgrades":[15,12]},
 			{"id":513, "name":"Warden Household",		"pts":50, "upgrades":[16,17,18,12]}
 		]},
-		{"name":"RETAINER FORMATIONS <br/> Max 1 per Core or Support Household", "formations":[
+		{"name":"RETAINER FORMATIONS <br/> Max 1 per Kern or Support Household", "formations":[
 			{"id":521, "name":"Planetary Defence Platoon",	"pts":150, "units":"8 PDF Infantry", "upgrades":[20,21,22,25]},
 			{"id":524, "name":"Rough Rider Platoon",		"pts":150, "units":"6 Rough Riders", "upgrades":[]},
 			{"id":522, "name":"Flak Emplacement", 		"pts":175, "units":"3 Heavy AA, 3 Gun Emplacements", "upgrades":[]},
@@ -47,8 +47,8 @@
 
 	],
 	"formationConstraints":[
-		{"max":2, "name":"Support Households", "from":[511,512,513,514], "forEach":[501], "name2":"Core Households"},
-		{"max":1, "name":"Retainer Formations", "from":[521,522,523,524,525], "forEach":[501,511,512,513,514], "name2":"Core or Support Household"},
+		{"max":2, "name":"Support Households", "from":[511,512,513,514], "forEach":[501], "name2":"Kern Households"},
+		{"max":1, "name":"Retainer Formations", "from":[521,522,523,524,525], "forEach":[501,511,512,513,514], "name2":"Kern or Support Household"},
 		{"maxPercent": 33.5, "name":"Imperial Navy", "from":[541,542]}
 	],
 	"upgradeConstraints":[

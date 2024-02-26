@@ -3,12 +3,12 @@
 	"version":"2019-10-16",
 	"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"DEATH KORPS CORE COMPANIES", "formations":[
+		{"name":"DEATH KORPS Kern COMPANIES", "formations":[
 			{ "id":501, "name":"Regimental HQ", "pts":400, "units":"Death Korps Supreme Commander, 19 Death Korps Infantry" , "upgrades":[107,108,105,109,111,114,120,121,122,123] },
 			{ "id":502, "name":"Infantry Company", "pts":300, "units":"Death Korps Commander, 19 Death Korps Infantry", "upgrades":[107,108,105,109,111,114,120,121,122,123] },
 			{ "id":503, "name":"Death Rider Company", "pts":250, "units":"12 Death Riders", "upgrades":[105,109,111,114,120,121,122,123] }
 		]},
-		{"name":"SUPPORT FORMATIONS <br/> Max 2 for each Death Corps Core Company", "formations":[
+		{"name":"SUPPORT FORMATIONS <br/> Max 2 for each Death Corps Kern Company", "formations":[
 			{ "id":511, "name":"Grenadiers Platoon", "pts":225, "units":"8 Death Korps Grenadiers", "upgrades":[51,53] },
 			{ "id":512, "name":"Engineers Platoon", "pts":250, "units":"8 Death Korps Engineers, Hades Breaching Drill", "upgrades":[] },
 			{ "id":513, "name":"Tank Platoon", "pts":280, "upgrades":[] },

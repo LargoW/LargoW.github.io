@@ -67,8 +67,8 @@
   ],
   "sections": [
     {
-      "name": "Core Kompanieverbände",
-      "description": "Ein Siegemaster Regiments Hauptquartier must be taken. Jeweils Core Kompanie formation must take between eine und drei Erweiterungen. Jeweils upgrade may be taken only once.",
+      "name": "Kern Kompanieverbände",
+      "description": "Ein Siegemaster Regiments Hauptquartier must be taken. Jeweils Kern Kompanie formation must take between eine und drei Erweiterungen. Jeweils upgrade may be taken only once.",
       "formations": [
         {
           "name": "1 Siegemaster Regiments Hauptquartier",
@@ -96,7 +96,7 @@
     },
     {
       "name": "Baran Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
+      "description": " Bis zu zwei Unterstützungsverbände für jeweils Kern Kompanie.",
       "formations": [
           {
             "name": "Heavy Panzer Kompanie",

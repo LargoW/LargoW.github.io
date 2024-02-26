@@ -51,7 +51,7 @@
   ],
   "sections": [
     {
-      "name": "Cult Core Verbände",
+      "name": "Cult Kern Verbände",
       "description": "Ein Nexus Brood formation must be taken.",
       "formations": [
         {
@@ -83,7 +83,7 @@
     },
     {
       "name": "Coven Vanguard Verbände",
-      "description": "Ein Coven Vanguard formation may be taken für jeweils Cult Core formation.",
+      "description": "Ein Coven Vanguard formation may be taken für jeweils Cult Kern formation.",
       "formations": [
         {
           "name": "Symbionten Brood",
@@ -148,7 +148,7 @@
     },
     {
       "name": "Cult Unterstützungsverbände",
-      "description": "Ein Cult Support formation may be taken pro Cult Core formation.",
+      "description": "Ein Cult Support formation may be taken pro Cult Kern formation.",
       "formations": [
         {
           "name": "Cult Superschwerer Zug",
