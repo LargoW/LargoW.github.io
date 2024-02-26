@@ -4,7 +4,7 @@
   "version": "1.0.beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_Ravenguard",
-  "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Raven Guard Space Marine chapter oder any of its successor chapters. The Raven Guard specialise in guerrilla warfare, moving behind enemy lines with unrivalled stealth, und striking with precise application of force.",
+  "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Raven Guard Space Marine Orden oder einen der Nachfolgeorden aufstellen. The Raven Guard specialise in guerrilla warfare, moving behind enemy lines with unrivalled stealth, und striking with precise application of force.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "specialRules": [

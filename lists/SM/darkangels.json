@@ -4,7 +4,7 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_DarkAngels",
-  "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Dark Angels Space Marine chapter oder any of its successor chapters.",
+  "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Dark Angels Space Marine Orden oder einen der Nachfolgeorden aufstellen.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "armyRules": "The <i>Sie kennen keine Furcht</i> Sonderregel applies to all Dark Angels detachments.",
