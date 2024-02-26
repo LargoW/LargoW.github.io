@@ -58,7 +58,7 @@
 		{"id":64, "name":"Snipers",						"pts":25},
 		{"id":65, "name":"2 Snipers",					"pts":50},
 
-		{"id":70, "name":"Entrenchments (40cm Razor Wire, 40cm Trenches)",		"pts":50}
+		{"id":70, "name":"Entrenchments (40cm Stacheldraht, 40cm Gräben)",		"pts":50}
 
 	],
 	"formationConstraints":[

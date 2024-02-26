@@ -23,7 +23,7 @@
 			{ "id":513, "name":"Tank Platoon", "pts":400, "upgrades":[1] }
 		]},
 		{"name":"FORTIFIED POSITIONS <br/> Max 1 for each Regimental HQ or Infantry Company", "formations":[
-			{ "id":526, "name":"Trenchworks", "pts":100, "units":"100cm of Trenches, and 3 Bunkers", "upgrades":[] }
+			{ "id":526, "name":"Trenchworks", "pts":100, "units":"100cm of Gräben, and 3 Bunkers", "upgrades":[] }
 		]},
 		{"name":"IMPERIAL NAVY & TITAN LEGIONS <br/> Max 33%", "formations":[
 			{ "id":531, "name":"Thunderbolt Squadron", "pts":150, "units":"2 Thunderbolt Fighters", "upgrades":[] },

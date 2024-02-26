@@ -40,7 +40,7 @@
 		{"id":19, "name":"Knight-Errant",					"pts":100},
 		{"id":20, "name":"3 Rapiers",						"pts":50},
 		{"id":21, "name":"2 Thudd Guns",					"pts":50},
-		{"id":22, "name":"40cm Trenches, 40cm Razor Wire",	"pts":50},
+		{"id":22, "name":"40cm Gräben, 40cm Stacheldraht",	"pts":50},
 		{"id":23, "name":"Snipers",								"pts":25},
 		{"id":26, "name":"2 Snipers",								"pts":50},
 		{"id":25, "name":"4 Land Transporters",						"pts":25}

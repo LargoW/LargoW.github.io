@@ -67,7 +67,7 @@
       "name": "Valhallan Core Kompanieverbände",
       "formations": [
         {
-          "name": "Valhallan Regiments HQ",
+          "name": "Valhallan Regiments Hauptquartier",
           "units": "Ein Valhallanischer Oberbefehlshaber mit einemMinistorum Priest, neun Valhallan Infanterie",
           "extraUnits": [
             "Vallhalanischer Greifen",
@@ -240,7 +240,7 @@
         "name": "Entrenchments",
         "options": [
           {
-            "description": "40cm Razor Wire, 40cm Trenches",
+            "description": "40cm Stacheldraht, 40cm Gräben",
             "points": "50 Punkte"
           }
         ]
