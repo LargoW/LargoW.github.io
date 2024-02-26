@@ -24,7 +24,7 @@
         ],
         "specialRules": [
           "Befehlshaber",
-          "Extended Command",
+          "Erweiterter Befehlsradius",
           "Unmodifizierter Rettungswurf",
           "Anführer"
         ]
@@ -187,7 +187,7 @@
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Extended Command",
+          "Erweiterter Befehlsradius",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -1636,7 +1636,7 @@
           "Sturmbolter"
         ],
         "specialRules": [
-          "Extended Command",
+          "Erweiterter Befehlsradius",
           "Transport"
         ],
         "notes": "Darf eine Infanterie Einheit (außer Terminatoren) ohne Sprungmodule oder Beritten Eigenschaft transportieren."
@@ -1968,7 +1968,7 @@
           "Doppeltsynchronisierter schwerer Bolter|2"
         ],
         "specialRules": [
-          "Extended Command",
+          "Erweiterter Befehlsradius",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Transport"

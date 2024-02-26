@@ -59,7 +59,7 @@
     {
       "title": "Hilfstransportschiff",
       "description": [
-        "Hilfstransportschiffe ähneln einer Mischung aus einem Antigrav Fahrzeug und einem Flugzeug. Sie bleiben hoch oben in der Luft, schweben aber über dem Schlachtfeld und schießen, wenn notwendig, über dazwischen liegendes Gelände. Die Hilfstransportschiffe Fähigkeit ist identisch mit denen einer aufgetauchten Antigrav Einheit. Hilfstransportschiffe können regulär beschossen werden, Flugabwehrwaffen sind nicht erforderlich. Bei einem Angriff erzwingen Hilfstransportschiffe automatisch ein Feuergefecht auf die gleiche Art und Weise, wie es auch Antigrav Einheiten tun können. Es wird davon ausgegangen, dass Hilfstransportschiffe oder die von ihnen transportierten Truppen entsprechend ausgerüstet sind, um wie gewohnt Truppen ein- und auszuladen. Truppen dürfen wie üblich einen Rettungswurf durchführen wenn das Hilfstransportschiff zerstört wird."
+        "Hilfstransportschiffe ähneln einer Mischung aus einem Antigrav Fahrzeug und einem Flugzeug. Sie bleiben hoch oben in der Luft, schweben aber über dem Schlachtfeld und schießen, wenn notwendig, über dazwischen liegendes Gelände. Die Hilfstransportschiffe Sonderregel ist identisch mit denen einer aufgetauchten Antigrav Einheit. Hilfstransportschiffe können regulär beschossen werden, Flugabwehrwaffen sind nicht erforderlich. Bei einem Angriff erzwingen Hilfstransportschiffe automatisch ein Feuergefecht auf die gleiche Art und Weise, wie es auch Antigrav Einheiten tun können. Es wird davon ausgegangen, dass Hilfstransportschiffe oder die von ihnen transportierten Truppen entsprechend ausgerüstet sind, um wie gewohnt Truppen ein- und auszuladen. Truppen dürfen wie üblich einen Rettungswurf durchführen wenn das Hilfstransportschiff zerstört wird."
       ]
     },
     {
@@ -216,7 +216,7 @@
     {
       "title": "Tunnelgräber",
       "description": [
-        "Verbände, in denen alle Einheiten Tunnelgräber sind oder in Einheiten mit dieser Fähigkeit transportiert werden, können in Reserve gehalten werden und ab Beginn der zweiten Runde oder danach erscheinen. Stell die Einheiten so auf, dass sie die Tischkante ihrer eigenen Seite berühren, bevor das Spiel beginnt, und zwar gleichzeitig mit dem Aufstellen der Raumschiffe (siehe 4.3.1). Zu diesem Zeitpunkt sollten auch alle transportierten Einheiten aus dem Verband zur Seite gestellt werden.",
+        "Verbände, in denen alle Einheiten Tunnelgräber sind oder in Einheiten mit dieser Sonderregel transportiert werden, können in Reserve gehalten werden und ab Beginn der zweiten Runde oder danach erscheinen. Stell die Einheiten so auf, dass sie die Tischkante ihrer eigenen Seite berühren, bevor das Spiel beginnt, und zwar gleichzeitig mit dem Aufstellen der Raumschiffe (siehe 4.3.1). Zu diesem Zeitpunkt sollten auch alle transportierten Einheiten aus dem Verband zur Seite gestellt werden.",
         "Notiere insgeheim den Zeitpunkt und die Koordinaten an dem die Tunnelgräber auftauchen (siehe 4.3.1). Tunnelgräber  können ab der zweiten Runde in der eigenen Tischhälfte auftauchen und ab der dritten Runde auch in der gegnerischen Tischhälfte.",
         "Platziere die Tunnelgräbereinheit zu Beginn der angegebenen Runde an den notierten Koordinaten, bevor Einheiten mit der Teleportieren Eigenschaft platziert werden. Alle Einheiten in Transportern dürfen sofort nach dem Erscheinen den Transporter verlassen. Das Erscheinen zählt nicht als Bewegung zum Auslösen von Feuerbereitschaft, das Verlassen der Transportfahrzeuge hingegen löst wie gewohnt die Feuerbereitschaft aus",
         "Wenn die Tunnelgräber Einheit in einem für sie unpassierbaren Gelände, unter einer befreundeten Einheit oder in einer feindlichen Kontrollzone auftaucht, wird davon ausgegangen, dass die an Bord befindliche Sensorausrüstung sie zu einem anderen Austrittspunkt umleitet. Die Einheit sollte vom gegnerischen Spieler zum nächstgelegenen Punkt auf dem Tisch bewegt werden, an welchem sie erscheinen kann.",
@@ -250,9 +250,9 @@
       ]
     },
     {
-      "title": "Extended Command",
+      "title": "Erweiterter Befehlsradius",
       "description": [
-        "Verbände mit at least eine unit with the 'Extended Command' ability extend the range at which Befehlshabers within the formation can call other Verbände to follow them when they make a combined assault from 5cm to 15cm (see 2.1.2)."
+        "Verbände die mindestens eine Einheit mit der Sonderregel 'Erweiterter Befehlsradius' haben, erweitern die Reichweite einer Einheit mit 'Befehlshaber' für einen kombinierten Angriff von 5 cm auf 15 cm (siehe 2.1.2)."
       ]
     },
     {
