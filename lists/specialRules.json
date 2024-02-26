@@ -258,8 +258,8 @@
     {
       "title": "Sie kennen keine Furcht",
       "description": [
-        "Space Marines are renowned für their tenacity und Tapferkeit. This is represented by the following rules:",
-        "<ul><li>It takes 2 Beschussmarke to suppress a Space Marine unit oder kill a unit in a broken formation (ignore any leftover Beschussmarke)</li><li>Space Marine Verbände are only broken if they have 2 Beschussmarke pro unit in the formation.</li><li>Space Marines Verbände only count half their number of Blaster markers in assault resolution (rounding down to a minimum of eine). Halve the number of extra hits suffered by a Space Marine formation that loses an assault, rounding down in favour of the Space Marines.</li><li>When a broken Space Marine formation rallies, it receives a number of Beschussmarke equal to the number of units, rather than half this number.</li></ul>"
+        "Space Marines sind für ihre Hartnäckigkeit und Tapferkeit bekannt. Dies wird durch die folgenden Regeln dargestellt:",
+        "<ul><li>Es werden zwei Beschussmarken benötigt, um eine Space Marine Einheit zu unterdrücken oder eine Einheit in einem aufgeriebenen Verband auszuschalten (ignoriert alle verbleibenden Beschussmarken).</li><li>Space Marine Verbände werden nur aufgerieben, wenn sie zwei Beschussmarken pro Einheit im Verband haben.</li><li>Verbände der Space Marines zählen nur die Hälfte ihrer Beschussmarken in der Ergebnisberechnung im Angriff (abgerundet - beachte das dies keinen Einfluss auf den Bonus von +1 für „Hat keine Beschussmarken“ hat). Halbiert die Anzahl der zusätzlichen Treffer, die ein Space Marine Verband erleidet, wenn er einen Angriff verliert, und rundet ab, zugunsten der Space Marines.</li><li>Wenn sich ein aufgeriebener Space Marine Verband sammelt, erhält er eine Anzahl an Beschussmarken, welche der Anzahl der Einheiten entspricht, und nicht der Hälfte dieser Anzahl.</li></ul>"
       ]
     },
     {
