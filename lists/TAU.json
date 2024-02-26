@@ -26,7 +26,7 @@
         ],
         "specialRules": [
           "Anführer",
-          "Coordinated Fire"
+          "Koordinierter Beschuss"
         ]
       },
       {
@@ -37,7 +37,7 @@
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Coordinated Fire"
+          "Koordinierter Beschuss"
         ]
       },
       {
@@ -52,7 +52,7 @@
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Coordinated Fire"
+          "Koordinierter Beschuss"
         ]
       },
       {
@@ -162,7 +162,7 @@
           "Pulse Carbines"
         ],
         "specialRules": [
-          "Coordinated Fire",
+          "Koordinierter Beschuss",
           "Markerlights",
           "Aufklärer"
         ]
@@ -436,7 +436,7 @@
           "Tetra Pulse Rifles"
         ],
         "specialRules": [
-          "Coordinated Fire",
+          "Koordinierter Beschuss",
           "Markerlights",
           "Aufklärer",
           "Antigrav"

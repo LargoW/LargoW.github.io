@@ -1,11 +1,11 @@
 [
   {
-    "name": "Genestealer Streitmächte",
+    "name": "Symbionten Streitmächte",
     "specialRules": [
     ],
     "unit": [
       {
-        "name": "Genestealer Patriarch",
+        "name": "Symbionten Patriarch",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -22,7 +22,7 @@
         ]
       },
       {
-        "name": "Genestealer Magus",
+        "name": "Symbionten Magus",
         "type": "CH",
         "weapons": [
           "Psyker powers"
@@ -138,7 +138,7 @@
         ]
       },
       {
-        "name": "Genestealers",
+        "name": "Symbionten",
         "type": "INF",
         "speed": 20,
         "armour": 6,
@@ -167,7 +167,7 @@
         ]
       },
       {
-        "name": "Lictor",
+        "name": "Liktor",
         "type": "LV",
         "speed": 15,
         "armour": 5,
@@ -198,7 +198,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Hybrid Aberrants und Genestealer Patriarch counts as zwei units."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Hybrid Aberrants und Symbionten Patriarch counts as zwei units."
       },
       {
         "name": "Coven Technical",
@@ -241,7 +241,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Hybrid Aberrants und Genestealer Patriarch counts as zwei units."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Hybrid Aberrants und Symbionten Patriarch counts as zwei units."
       },
       {
         "name": "Coven Thunderbolt",
@@ -444,7 +444,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
       },
       {
         "name": "Cult Stormblade",
@@ -462,7 +462,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
       },
       {
         "name": "Cult Shadowsword",
@@ -479,7 +479,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
       }
     ]
   }

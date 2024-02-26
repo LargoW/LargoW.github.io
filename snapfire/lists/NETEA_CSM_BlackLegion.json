@@ -42,7 +42,7 @@
 		{"id":13, "name":"(Slaanesh)",			"pts":0},
 		{"id":14, "name":"(Tzeentch)",			"pts":0},
 		{"id":17, "name":"Chaos Lord", 		"pts":0},
-		{"id":18, "name":"Sorcerer Lord", 		"pts":0},
+		{"id":18, "name":"Hexer Lord", 		"pts":0},
 		{"id":19, "name":"Daemon Prince (Replaces the Chaos Lord and its unit. Max one per faction in the army)", 		"pts":50},
 		{"id":20, "name":"Chaos Warlord (Supreme Commander)", "pts":50},
 		{"id":21, "name":"Daemon Prince (Supreme Commander. Replaces the Chaos Lord and its unit. Max one per faction in the army)", "pts":100},

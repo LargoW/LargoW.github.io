@@ -1,11 +1,11 @@
 [
   {
-    "name": "Genestealer Streitmächte",
+    "name": "Symbionten Streitmächte",
     "specialRules": [
     ],
     "unit": [
       {
-        "name": "Genestealer Patriarch",
+        "name": "Symbionten Patriarch",
         "type": "CH",
         "weapons": [
           "Large Rending Klauen||EA(+1)"
@@ -19,7 +19,7 @@
         ]
       },
       {
-        "name": "Genestealer Magus",
+        "name": "Symbionten Magus",
         "type": "CH",
         "weapons": [
           "Mental Onslaught"
@@ -32,7 +32,7 @@
         ]
       },
       {
-        "name": "Genestealer Primus",
+        "name": "Symbionten Primus",
         "type": "CH",
         "weapons": [
           "Large Rending Klauen||EA(+1)"
@@ -82,7 +82,7 @@
         "notes": "Eine von zwei Einheiten (aufgerundet) hat eine Schweres Maschinengewehr"
       },
       {
-        "name": "Genestealers",
+        "name": "Symbionten",
         "type": "INF",
         "speed": 20,
         "armour": 6,
@@ -276,7 +276,7 @@
           "Schadenskapazität 4",
           "Furchtlos"
         ],
-        "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All units within 5cm of the model suffer a hit on a roll of 4+."
+        "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All Einheiten mitin 5cm of the model suffer a hit on a roll of 4+."
       },
       {
         "name": "Assault Excavator",

@@ -7,12 +7,12 @@
   "strategy": "Necron Armeen haben einen Strategiewert von 1.",
   "Initiative": "All Necron Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
-    "Necron Reserves",
-    "Necron Garrisons",
+    "Necron Reserven",
+    "Necron Garnison",
     "The Unbidden",
-    "Necron Portals",
-    "Extradimensional Conduit",
-    "Implacable Advance",
+    "Necron Portale",
+    "Extradimensionaler Leiter",
+    "Unaufhaltsamer Vormarsch",
     "Phase Out"
   ],
   "usage": [
@@ -44,7 +44,7 @@
       ],
       "unitRules": [
         "Regeneration",
-        "Living Metal",
+        "Lebendes Metall",
         "Maschinengeist",
         "Enduring"
       ]
@@ -66,7 +66,7 @@
       "formations": [
         {
           "name": "0–1 Necron Tomb Complex",
-          "units": "Ersetze eine objective marker in the Necron player's half of the table mit einemTomb Complex, this counts as an objective marker und a Necron Portal. It may not be destroyed. Verbände using the Portal should measure from the centre of the objective.",
+          "units": "Ersetze eine objective marker in the Necron Spieler's half of the table mit einemTomb Complex, this counts as an objective marker und a Necron Portal. It may not be destroyed. Verbände using the Portal should measure from the centre of the objective.",
           "points": 75
         }
       ]
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "name": "Maynarkh Dynasty Harvesters und Navy",
+      "name": "Maynarkh Dynasty Ernters und Navy",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
@@ -158,7 +158,7 @@
           "points": 350
         },
         {
-          "name": "0–1 Harvester Engine",
+          "name": "0–1 Ernter Engine",
           "units": "Either an Æonic Orb oder an Abbatoir",
           "extraUnits": [
           ],

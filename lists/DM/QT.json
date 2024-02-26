@@ -9,7 +9,7 @@
     "Beschwörung",
     "QT Beschwörungs Regeln",
     "Fickle Masters",
-    "QT Eternal Animosity"
+    "QT Eternal Animösität"
   ],
   "usage": [
     "The following army list allows you to field an army from the Traitor Titan Legions with Dark Mechanicus support."
@@ -55,11 +55,11 @@
     {
       "from": "daemons.json",
       "units": [
-        "Daemonettes of Slaanesh",
+        "Dämonetten des Slaanesh",
         "Plaguebearers des Nurgle",
         "Bloodletters des Khorne",
         "Horrors des Tzeentch",
-        "Daemonic Beasts of Chaos Undivided"
+        "Dämonenbestien des ungeteilten Chaos"
       ],
       "unitRules": [
       ]

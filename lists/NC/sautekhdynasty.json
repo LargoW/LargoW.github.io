@@ -6,11 +6,11 @@
   "strategy": "Necron Armeen haben einen Strategiewert von 2.",
   "Initiative": "All Necron Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
-    "Necron Reserves",
-    "Necron Garrisons",
+    "Necron Reserven",
+    "Necron Garnison",
     "The Unbidden",
-    "Necron Portals",
-    "Implacable Advance",
+    "Necron Portale",
+    "Unaufhaltsamer Vormarsch",
     "Phase Out"
   ],
   "usage": [
@@ -57,7 +57,7 @@
         "Night Scythe",
         "Doom Scythe",
         "Night Shroud Bomber",
-        "Scythe Class Harvester"
+        "Scythe Class Ernter"
       ],
       "unitRules": [
       ]
@@ -69,7 +69,7 @@
       "formations": [
         {
           "name": "0–1 pro army - Tomb Complex",
-          "units": "The first objective the Necron player places on their own table edge functions both as a Portal und as an objective für the rules purposes. It may not be destroyed. Verbände using the Portal should measure from the edge of the board as the formation’s starting point.",
+          "units": "The first objective the Necron Spieler places on their own table edge functions both as a Portal und as an objective für the rules purposes. It may not be destroyed. Verbände using the Portal should measure from the edge of the board as the formation’s starting point.",
           "points": 25
         },
         {
@@ -171,11 +171,11 @@
       ]
     },
     {
-      "name": "Maynarkh Dynasty Harvesters",
+      "name": "Maynarkh Dynasty Ernters",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
-          "name": "0–1 Harvester Engine",
+          "name": "0–1 Ernter Engine",
           "units": "Ein Einheiten, in beliebiger Kombination: Abattoir, Æonic Orb",
           "Erweiterungen": [
             "None"
@@ -184,7 +184,7 @@
         },
         {
           "name": "0–1 Spacecraft",
-          "units": "Ein Scythe Class Harvester",
+          "units": "Ein Scythe Class Ernter",
           "Erweiterungen": [
             "None"
           ],

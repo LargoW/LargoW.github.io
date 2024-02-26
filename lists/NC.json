@@ -106,7 +106,7 @@
           "Regeneration",
           "Teleportieren"
         ],
-        "notes": "'The Unbidden': Albträume may only contest objectives, must start the game in the reserves, und may not use Necron Portals."
+        "notes": "'The Unbidden': Albträume may only contest objectives, must start the game in the Reserven, und may not use Necron Portale."
       },
       {
         "name": "Immortals",
@@ -280,7 +280,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Living Metal",
+          "Lebendes Metall",
           "Portal",
           "Antigrav",
           "Teleportieren"
@@ -299,7 +299,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Living Metal",
+          "Lebendes Metall",
           "Antigrav",
           "Teleportieren"
         ]
@@ -460,11 +460,11 @@
           "Schadenskapazität 2",
           "Furchtlos",
           "Maschinengeist",
-          "Living Metal",
+          "Lebendes Metall",
           "Teleportieren",
           "Enduring"
         ],
-        "crit": "The Pylon is destroyed. All units within 5cm suffer a hit on a roll of 4+."
+        "crit": "The Pylon is destroyed. All Einheiten mitin 5cm suffer a hit on a roll of 4+."
       },
       {
         "name": "Megalith",
@@ -481,7 +481,7 @@
           "Schadenskapazität 4",
           "Furchtlos",
           "Portal",
-          "Living Metal",
+          "Lebendes Metall",
           "Antigrav",
           "Teleportieren",
           "Transport",
@@ -502,7 +502,7 @@
         "specialRules": [
           "Schadenskapazität 6",
           "Furchtlos",
-          "Living Metal",
+          "Lebendes Metall",
           "Hilfstransportschiff",
           "Enduring"
         ],
@@ -517,12 +517,12 @@
         "ff": 4,
         "weapons": [
           "Gauss Flux Array",
-          "Harvester Tendrils"
+          "Ernter Tendrils"
         ],
         "specialRules": [
           "Schadenskapazität 6",
           "Furchtlos",
-          "Living Metal",
+          "Lebendes Metall",
           "Portal",
           "Antigrav",
           "Enduring"

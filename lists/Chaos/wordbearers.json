@@ -19,8 +19,8 @@
     {
       "from": "CSM.json",
       "units": [
-        "Grand Apostle",
-        "Dark Apostle",
+        "Großer Apostel",
+        "Dunkler Apostel",
         "Diabolist",
         "Daemon Prince",
         "Icon Bearer",
@@ -29,15 +29,15 @@
         "Word Bearers Possessed",
         "Word Bearers Iconoclasts",
         "Chaos Terminatoren",
-        "Chaos Assault Bikes",
+        "Chaos Space Marine Bikes",
         "Chaos Rhino",
         "Chaos Stalker",
         "Chaos Land Raider",
         "Chaos Cybot"
       ],
       "unitRules": [
-          "Augment Beschwörung (+x)",
-          "Daemonic Focus"
+          "Verbesserte Beschwörung (+x)",
+          "Dämonischer Fokuspunkt"
       ]
     },
     {
@@ -71,15 +71,15 @@
     {
       "from": "daemons.json",
       "units": [
-        "Daemonettes of Slaanesh",
-        "Plaguebearers of Nurgle",
-        "Bloodletters of Khorne",
-        "Horrors of Tzeentch",
-        "Keeper of Secrets",
-        "Great Unclean Ein",
-        "Bloodthirster",
-        "Lord of Change",
-        "Daemonic Beasts of Chaos Undivided"
+        "Dämonetten des Slaanesh",
+        "Seuchenhüter des Nurgle",
+        "Zerfleischer des Khorne",
+        "Horrors des Tzeentch",
+        "Hüter der Geheimnisse",
+        "Großer Verpester",
+        "Blutdämon",
+        "Herrscher des Wandels",
+        "Dämonenbestien des ungeteilten Chaos"
       ],
       "unitRules": [
       ]
@@ -103,7 +103,7 @@
       "formations": [
         {
           "name": "Word Bearers Retinue",
-          "units": "Ein Dark Apostle, acht Chaos Space Marines, Daemonic Pact",
+          "units": "Ein Dunkler Apostel, acht Chaos Space Marines, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
             "Transport",
@@ -117,7 +117,7 @@
         },
         {
           "name": "Cultist Coven",
-          "units": "Ein Demagogue, neun Cultists und/oder Mutants, Daemonic Pact",
+          "units": "Ein Demagogue, neun Cultists und/oder Mutants, Dämonischer Pakt",
           "extraUnits": [
             "Icon Bearer",
             "Füge eine Chaos Spawn: 35 Punkte",
@@ -134,7 +134,7 @@
       "formations": [
         {
           "name": "Iconoclasts",
-          "units": "Ein Diabolist, vier Word Bearers Iconoclasts, Daemonic Pact",
+          "units": "Ein Diabolist, vier Word Bearers Iconoclasts, Dämonischer Pakt",
           "extraUnits": [
             "Icon Bearer"
           ],
@@ -142,7 +142,7 @@
         },
         {
           "name": "Havocs",
-          "units": "Ein Diabolist, vier Havocs, zwei Chaos Rhinos, Daemonic Pact",
+          "units": "Ein Diabolist, vier Havocs, zwei Chaos Rhinos, Dämonischer Pakt",
           "extraUnits": [
             "Ersetze zwei Chaos Rhinos with Chaos Land Raiders: 75 Punkte",
             "Icon Bearer"
@@ -151,7 +151,7 @@
         },
         {
           "name": "Bike Kompanie",
-          "units": "Ein Diabolist, acht Chaos Assault Bikes, Daemonic Pact",
+          "units": "Ein Diabolist, acht Chaos Space Marine Bikes, Dämonischer Pakt",
           "extraUnits": [
             "Icon Bearer"
           ],
@@ -159,7 +159,7 @@
         },
         {
           "name": "Chaos Terminatoren",
-          "units": "Ein Dark Apostle, vier Chaos Terminatoren, Daemonic Pact",
+          "units": "Ein Dunkler Apostel, vier Chaos Terminatoren, Dämonischer Pakt",
           "extraUnits": [
             "Füge bis zu zwei Chaos Terminatoren: 50 Punkte jeweils",
             "Oberbefehlshaber",
@@ -211,7 +211,7 @@
       "formations": [
         {
           "name": "0-1 Dreadblade",
-          "units": "Daemonic Pact, eine Ritter-Dreadblade of any configuration",
+          "units": "Dämonischer Pakt, eine Ritter-Dreadblade of any configuration",
           "extraUnits": [
           ],
           "points": 250
@@ -251,7 +251,7 @@
       "formations": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine für jeweils Daemonic Pact in the army.",
+          "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine für jeweils Dämonischer Pakt in the army.",
           "points": 20
         },
         {
@@ -278,11 +278,11 @@
             "description": "Choose eine of the following:"
           },
           {
-            "description": "Ersetze the Dark Apostle mit einemGrand Apostle",
+            "description": "Ersetze the Dunkler Apostel mit einemGroßer Apostel",
             "points": "50 Punkte"
           },
           {
-            "description": "Ersetze the Dark Apostle und its unit mit einemDaemon Prince",
+            "description": "Ersetze the Dunkler Apostel und its unit mit einemDaemon Prince",
             "points": "50 Punkte"
           }
         ]

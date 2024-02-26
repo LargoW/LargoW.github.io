@@ -10,11 +10,11 @@
     "Dürfen nicht als Garnison aufstellen (Lugganath)",
     "Farsight",
     "Hit und Run",
-    "Webway Portal",
+    "Netz der tausend Tore Portal",
     "Fleet of Foot",
     "Cegorach, the Laughing God",
     "Shadowsight",
-    "Masters of the Webway"
+    "Masters of the Netz der tausend Tore"
   ],
   "usage": [
     "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Craftworld Lugganath, with Corsair support und Harlequin allies from the Masque of the Veiled Path."
@@ -99,7 +99,7 @@
         },
         {
           "name": "1 Wraithgate",
-          "units": "Ersetze eine objective marker in the Eldar player's half of the table mit einemWraithgate, this counts as an objective marker und a Webway Portal which may not be attacked oder damaged in any way. ",
+          "units": "Ersetze eine objective marker in the Eldar Spieler's half of the table mit einemWraithgate, this counts as an objective marker und a Netz der tausend Tore Portal which may not be attacked oder damaged in any way. ",
           "extraUnits": [
             "Füge einen zusätzlichen Wraithgate: 75 Punkte"
           ],

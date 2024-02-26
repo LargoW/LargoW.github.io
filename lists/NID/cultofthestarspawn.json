@@ -17,18 +17,18 @@
     {
       "from": "GS2.json",
       "units": [
-        "Genestealer Patriarch",
+        "Symbionten Patriarch",
         "Coven Locus",
         "Broodlord",
-        "Genestealer Primus",
+        "Symbionten Primus",
         "Acolytes",
         "Hybrid Metamorphs",
-        "Lictor",
+        "Liktor",
         "Hybrid Aberrants",
         "Coven Bikers",
         "Cult Infanterie",
         "Cult Unterstützungstrupps",
-        "Genestealers",
+        "Symbionten",
         "Coven Ridgerunner",
         "Coven Goliath",
         "Coven Limousine",
@@ -56,10 +56,10 @@
       "formations": [
         {
           "name": "1 Nexus Brood",
-          "units": "Ein Genestealer Patriarch, drei Genestealers, drei Hybrid Acolytes",
+          "units": "Ein Symbionten Patriarch, drei Symbionten, drei Hybrid Acolytes",
           "extraUnits": [
             "Füge vier Coven Limousines (75 Punkte) oder vier Coven Goliaths (125 Punkte)",
-            "Ersetze drei Genestealers with drei Hybrid Acolytes, oder drei Hybrid Acolytes with drei Genestealers: Kostenlos",
+            "Ersetze drei Symbionten with drei Hybrid Acolytes, oder drei Hybrid Acolytes with drei Symbionten: Kostenlos",
             "Hybrid Aberrants",
             "Coven Flak"
           ],
@@ -86,10 +86,10 @@
       "description": "Ein Coven Vanguard formation may be taken für jeweils Cult Core formation.",
       "formations": [
         {
-          "name": "Genestealer Brood",
-          "units": "Ein Broodlord, sechs Genestealers",
+          "name": "Symbionten Brood",
+          "units": "Ein Broodlord, sechs Symbionten",
           "extraUnits": [
-            "Genestealers"
+            "Symbionten"
           ],
           "points": 175
         },
@@ -131,8 +131,8 @@
       "description": "Ein Coven Ambush formation may be taken für jeweils Coven Vanguard formation. ",
       "formations": [
         {
-          "name": "Lictor Swarm",
-          "units": "Fünf Lictors",
+          "name": "Liktor Swarm",
+          "units": "Fünf Liktoren",
           "extraUnits": [
           ],
           "points": 225
@@ -201,8 +201,8 @@
         "points": "75 Punkte"
       },
       {
-        "name": "Genestealers",
-        "description": "Füge drei Genestealers",
+        "name": "Symbionten",
+        "description": "Füge drei Symbionten",
         "points": "75 Punkte"
       },
       {

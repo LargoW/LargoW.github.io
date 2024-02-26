@@ -17,7 +17,7 @@
 			{"id":506, "name":"Defilers of Tzeentch",	"pts":200, "units":"3 Decievers", "upgrades":[]},
 			{"id":503, "name":"Havocs", "pts":225,  "units": "4 Thousand Sons Havocs, 2 Chaos Rhinos, Daemonic Pact", "upgrades":[15, 30]},
 			{"id":504, "name":"Armoured Company", "pts":0, "upgrades":[]},
-			{"id":507, "name":"Disc Riders", "pts":250, "units": "5 Sorcerer Disc Riders, Daemonic Pact", "upgrades":[15,16] },
+			{"id":507, "name":"Disc Riders", "pts":250, "units": "5 Hexer Disc Riders, Daemonic Pact", "upgrades":[15,16] },
 			{"id":508, "name":"Silver Towers of Tzeench",	"pts":300, "units":"4 Silver Towers", "upgrades":[]}
 		]},
 		{"name":"DARK MECHANICUS AND THOUSAND SONS NAVY FORMATIONS <br/> Max 33%", "formations":[
@@ -29,11 +29,11 @@
 			]}
 	],
 	"upgrades":[
-		{"id":10, "name":"Aspiring Sorcerer", 				"pts":0},
-		{"id":11, "name":"Scarab Occult Terminators with Aspiring Sorcerer", 	"pts":0},
-		{"id":12, "name":"Exalted Sorcerer", 				"pts":50},
-		{"id":13, "name":"Scarab Occult Terminators with Exalted Sorcerer", 	"pts":50},
-		{"id":14, "name":"Daemon Prince of Tzeentch (Replaces the Aspiring Sorcerer and its unit)", 	"pts":100},
+		{"id":10, "name":"Aspiring Hexer", 				"pts":0},
+		{"id":11, "name":"Scarab Occult Terminators with Aspiring Hexer", 	"pts":0},
+		{"id":12, "name":"Exalted Hexer", 				"pts":50},
+		{"id":13, "name":"Scarab Occult Terminators with Exalted Hexer", 	"pts":50},
+		{"id":14, "name":"Daemon Prince of Tzeentch (Replaces the Aspiring Hexer and its unit)", 	"pts":100},
 
 		{"id":15, "name":"Icon Bearer", 			"pts":25},
 		{"id":16, "name":"Champion of Chaos", 			"pts":50},

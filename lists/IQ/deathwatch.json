@@ -74,7 +74,7 @@
       "formations": [
         {
           "name": "0-1 Officio Assassinorum",
-          "units": "Once pro battle, during an Assault that the Deathwatch player initiated (after all units have finished moving), a single unit anywhere in the enemy formation(s) is hit with D3 hits. These hits counts as being from CC, und have the 'Scharfschütze' und 'Erstschlag' Sonderregels. Any damage caused by these hits counts towards combat resolution (unless the target is Super-Entbehrlich).",
+          "units": "Once pro battle, during an Assault that the Deathwatch Spieler initiated (after all units have finished moving), a single unit anywhere in the enemy formation(s) is hit with D3 hits. These hits counts as being from CC, und have the 'Scharfschütze' und 'Erstschlag' Sonderregels. Any damage caused by these hits counts towards combat resolution (unless the target is Vollkommen Entbehrlich).",
           "points": 50
         }
       ]

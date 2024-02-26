@@ -6,7 +6,7 @@
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
-    "In Midnight Clad",
+    "In Mitternacht gehüllt",
     "Beschwörung",
     "Night Lords Beschwörungs Regeln",
     "Fickle Masters",
@@ -23,9 +23,9 @@
         "Night LordsErster Captain",
         "Night Lords Captain",
         "Ikonenträger",
-        "Chaos Assault Marines",
+        "Chaos Sturmtrupps",
         "Chaos Space Marines",
-        "Raptors",
+        "Raptoren",
         "Warp Talons",
         "Night Lords Auserwählte",
         "Chaos Destroyers",
@@ -79,9 +79,9 @@
       "formations": [
         {
           "name": "Night Raptor Kompanie",
-          "units": "Ein Night Lords Captain, sechs Raptors",
+          "units": "Ein Night Lords Captain, sechs Raptoren",
           "extraUnits": [
-            "Füge bis zu zwei Raptors: 30 Punkte jeweils",
+            "Füge bis zu zwei Raptoren: 30 Punkte jeweils",
             "Oberbefehlshaber",
             "Ikonenträger"
           ],
@@ -135,7 +135,7 @@
         },
         {
           "name": "Terror Kompanie",
-          "units": "Ein Night Lords Captain, vier Night Lords Assault Marines, zwei Night Lords Cybots",
+          "units": "Ein Night Lords Captain, vier Night Lords Sturmtrupps, zwei Night Lords Cybots",
           "extraUnits": [
             "Oberbefehlshaber",
             "Ikonenträger",
