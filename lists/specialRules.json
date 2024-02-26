@@ -296,7 +296,7 @@
     {
       "title": "Schnell wie der Wind",
       "description": [
-        "Einheiten mit <i>Schnell wie der Wind</i> ignore the -1 to hit penalty on shooting when carrying out a double action, but do not gain the +1 to hit bonus on shooting when carrying out a sustained fire action."
+        "Einheiten mit <i>Schnell wie der Wind</i> ignorieren den -1 Malus auf den Trefferwurf wenn sie eine 'Eilschritt' Aktion ausführen. Im Gegenzug erhalten sie keinen +1 Bonus wenn sie eine 'Dauerfeuer' Aktion durchführen."
       ]
     },
     {
