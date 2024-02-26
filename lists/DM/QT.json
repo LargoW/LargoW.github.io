@@ -6,8 +6,8 @@
   "strategy": "Dark Mechanicus Armeen haben einen Strategiewert von 3.",
   "Initiative": "The Chaos Warbringer formation has an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
-    "Summoning",
-    "QT Summoning Rules",
+    "Beschwörung",
+    "QT Beschwörungs Regeln",
     "Fickle Masters",
     "QT Eternal Animosity"
   ],

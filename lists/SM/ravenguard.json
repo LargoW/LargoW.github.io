@@ -10,7 +10,7 @@
   "specialRules": [
     "Land Speeder Escort",
     "Space Marine Transports",
-    "They Shall Know No Fear"
+    "Sie kennen keine Furcht"
   ],
   "units": [
     {
@@ -46,8 +46,8 @@
         "Drop Pod"
       ],
       "unitRules": [
-          "Expert Reconnaissance",
-          "Lightning Charge"
+          "Aufklärungsspezialisten",
+          "Blitzangriff"
       ]
     },
     {

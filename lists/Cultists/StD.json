@@ -7,8 +7,8 @@
   "strategy": "Slaves to Darkness Armeen haben einen Strategiewert von 1.",
   "Initiative": "Chaos Space Marine Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
-    "Summoning",
-    "Slaves to Darkness Summoning Rules",
+    "Beschwörung",
+    "Slaves to Darkness Beschwörungs Regeln",
     "Fickle Masters",
     "StD Eternal Animosity"
   ],
@@ -29,7 +29,7 @@
         "Land Transporter"
       ],
       "unitRules": [
-        "Augment Summoning (+x)",
+        "Augment Beschwörung (+x)",
         "Daemonic Focus"
       ]
     },

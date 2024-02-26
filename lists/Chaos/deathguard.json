@@ -7,8 +7,8 @@
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
   "Initiative": "Death Guard Core, Elite, und Traitor Titan Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
-    "Summoning",
-    "Death Guard Summoning Rules",
+    "Beschwörung",
+    "Death Guard Beschwörungs Regeln",
     "Fickle Masters",
     "Death Guard Characters"
   ],

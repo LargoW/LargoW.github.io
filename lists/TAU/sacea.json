@@ -17,7 +17,7 @@
     {
       "from": "TAU.json",
       "units": [
-        "Ethereal",
+        "Himmlischer",
         "Shas'o",
         "Shas'el",
         "XV8 Crisis Battlesuits",
@@ -41,7 +41,7 @@
       ],
       "unitRules": [
         "Coordinated Fire",
-        "Ethereal",
+        "Himmlischer",
         "Guided Raketen",
         "Markerlights",
         "Tau Jet Packs",
@@ -81,7 +81,7 @@
           "units": "Acht Fire Warriors, oder sechs Fire Warriors und drei Devilfish.",
           "extraUnits": [
             "Broadsides",
-            "Ethereal",
+            "Himmlischer",
             "Piranhas",
             "Fire Warriors",
             "Pathfinders",
@@ -228,8 +228,8 @@
         "points": "75 Punkte"
       },
       {
-        "name": "0–1 Ethereal",
-        "description": "Once pro army, add eine Ethereal to a unit of Fire Warriors",
+        "name": "0–1 Himmlischer",
+        "description": "Once pro army, add eine Himmlischer to a unit of Fire Warriors",
         "points": "50 Punkte"
       },
       {

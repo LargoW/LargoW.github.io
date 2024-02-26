@@ -6,13 +6,13 @@
     ],
     "unit": [
       {
-        "name": "Ethereal",
+        "name": "Himmlischer",
         "type": "CH",
         "weapons": [
           "Honour Blade"
         ],
         "specialRules": [
-          "Ethereal",
+          "Himmlischer",
           "Inspirierend",
           "Anführer",
           "Unmodifizierter Rettungswurf"
@@ -212,7 +212,7 @@
           "Silenced Burst Cannons"
         ],
         "specialRules": [
-          "First Strike",
+          "Erstschlag",
           "Verstärkte Panzerung",
           "Markerlights",
           "Aufklärers",
@@ -231,7 +231,7 @@
           "Fusion Blasters"
         ],
         "specialRules": [
-          "First Strike",
+          "Erstschlag",
           "Verstärkte Panzerung",
           "Markerlights",
           "Aufklärers",
@@ -385,7 +385,7 @@
           "Fusion Blaster"
         ],
         "specialRules": [
-          "First Strike",
+          "Erstschlag",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Markerlights",

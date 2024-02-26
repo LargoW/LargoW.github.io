@@ -11,7 +11,7 @@
     "Broodcoven",
     "Broodmind",
     "Extreme Mobility (Genestealer Cult)",
-    "Genestealer Cult Characters",
+    "Genestealer Cult Charaktermodelle",
     "Tunnelgräber"
   ],
   "units": [
@@ -43,7 +43,7 @@
       ],
       "unitRules": [
         "Extended Command",
-        "Honour Guard"
+        "Ehrengarde"
       ]
     },
     {
