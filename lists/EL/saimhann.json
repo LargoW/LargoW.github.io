@@ -7,11 +7,11 @@
   "Initiative": "Shining Spears, Aspect Warriors, Crimson Hunters, Titans, und the Avatar Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Avatar (Saim-Hann)",
-    "May not Garrison (Saim-Hann)",
+    "Dürfen nicht als Garnison aufstellen (Saim-Hann)",
     "Farsight",
     "Hit und Run",
-    "Webway Portal",
-    "Independent Twins"
+    "Netz der tausend Tore Portal",
+    "Unabhängige Zwilllinge"
   ],
   "usage": [
     "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Eldar Craftworld Saim-Hann."
@@ -78,7 +78,7 @@
         },
         {
           "name": "0-1 Wraithgate",
-          "units": "Ersetze eine objective marker in the Eldar player's half of the table mit einemWraithgate, this counts as an objective marker und a Webway Portal which may not be attacked oder damaged in any way. ",
+          "units": "Ersetze eine objective marker in the Eldar Spieler's half of the table mit einemWraithgate, this counts as an objective marker und a Netz der tausend Tore Portal which may not be attacked oder damaged in any way. ",
           "points": 50
         }
       ]
@@ -210,7 +210,7 @@
           "name": "Revenants",
           "units": "Zwei Revenant Titans",
           "extraUnits": [
-            "Independent Twins"
+            "Unabhängige Zwilllinge"
           ],
           "points": 650
         },

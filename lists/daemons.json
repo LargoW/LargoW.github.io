@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Exalted Keeper of Secrets",
+        "name": "Exalted Hüter der Geheimnisse",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -30,7 +30,7 @@
         "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
       },
       {
-        "name": "Keeper of Secrets",
+        "name": "Hüter der Geheimnisse",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -49,7 +49,7 @@
           "Geländegängig",
           "Verbesserte Beschwörung (+1)"
         ],
-        "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+"
+        "crit": "The Greater Daemon is destroyed. Any summoned Daemon Einheiten mitin 5cm are destroyed on 5+"
       },
       {
         "name": "Herald of Slaanesh",
@@ -86,7 +86,7 @@
         ]
       },
       {
-        "name": "Daemonettes of Slaanesh",
+        "name": "Dämonetten des Slaanesh",
         "type": "INF",
         "speed": 20,
         "armour": 4,
@@ -100,7 +100,7 @@
         ]
       },
       {
-        "name": "Fiends of Slaanesh",
+        "name": "Slaaneshbestien",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -114,7 +114,7 @@
         ]
       },
       {
-        "name": "Seekers of Slaanesh",
+        "name": "Jägerinnen des Slaanesh",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -130,7 +130,7 @@
         ]
       },
       {
-        "name": "Exalted Great Unclean Ein",
+        "name": "Exalted Großer Verpester",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -155,7 +155,7 @@
         "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
       },
       {
-        "name": "Great Unclean Ein",
+        "name": "Großer Verpester",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -174,7 +174,7 @@
           "Geländegängig",
           "Verbesserte Beschwörung (+1)"
         ],
-        "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+"
+        "crit": "The Greater Daemon is destroyed. Any summoned Daemon Einheiten mitin 5cm are destroyed on 5+"
       },
       {
         "name": "Herald des Nurgle on Palanquin",
@@ -260,7 +260,7 @@
         ]
       },
       {
-        "name": "Exalted Bloodthirster",
+        "name": "Exalted Blutdämon",
         "type": "WE",
         "speed": 30,
         "armour": 4,
@@ -286,7 +286,7 @@
         "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
       },
       {
-        "name": "Bloodthirster",
+        "name": "Blutdämon",
         "type": "WE",
         "speed": 30,
         "armour": 4,
@@ -306,7 +306,7 @@
           "Jump Pack",
           "Verbesserte Beschwörung (+1)"
         ],
-        "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+"
+        "crit": "The Greater Daemon is destroyed. Any summoned Daemon Einheiten mitin 5cm are destroyed on 5+"
       },
       {
         "name": "Herald des Khorne on Skull Geschütz",
@@ -388,7 +388,7 @@
         ]
       },
       {
-        "name": "Exalted Lord of Change",
+        "name": "Exalted Herrscher des Wandels",
         "type": "WE",
         "speed": 30,
         "armour": 4,
@@ -411,10 +411,10 @@
           "Jump Pack",
           "Verbesserte Beschwörung (+W3)"
         ],
-        "crit": "The Exalted Greater Daemon is destroyed. All Daemon units within 5cm are destroyed."
+        "crit": "The Exalted Greater Daemon is destroyed. All Daemon Einheiten mitin 5cm are destroyed."
       },
       {
-        "name": "Lord of Change",
+        "name": "Herrscher des Wandels",
         "type": "WE",
         "speed": 30,
         "armour": 4,
@@ -434,7 +434,7 @@
           "Jump Pack",
           "Verbesserte Beschwörung (+1)"
         ],
-        "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+."
+        "crit": "The Greater Daemon is destroyed. Any summoned Daemon Einheiten mitin 5cm are destroyed on 5+."
       },
       {
         "name": "Herald des Tzeentch",
@@ -515,7 +515,7 @@
         ]
       },
       {
-        "name": "Daemonic Beasts of Chaos Undivided",
+        "name": "Dämonenbestien des ungeteilten Chaos",
         "type": "INF",
         "speed": 30,
         "armour": 5,
@@ -538,7 +538,7 @@
           "Klauen"
         ],
         "specialRules": [
-          "In Midnight Clad",
+          "In Mitternacht gehüllt",
           "Entbehrlich",
           "Sprungmodule",
           "Unmodifizierter Rettungswurf"
@@ -552,7 +552,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Harvester Geschütz",
+          "Ernter Geschütz",
           "Warpsword"
         ],
         "specialRules": [

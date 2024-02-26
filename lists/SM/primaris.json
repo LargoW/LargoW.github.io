@@ -7,9 +7,9 @@
   "intro": "The following army...",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> Sonderregel applies to all Primaris detachments und aircraft Verbände.",
+  "armyRules": "The <i>Sie kennen keine Furcht</i> Sonderregel applies to all Primaris detachments und aircraft Verbände.",
   "specialRules": [
-    "They Shall Know No Fear"
+    "Sie kennen keine Furcht"
   ],
   "usage": [
     "The following army list..."
@@ -55,7 +55,7 @@
   ],
   "sections": [
     {
-      "name": "Primaris Core Detachments",
+      "name": "Primaris Kern Detachments",
       "formations": [
         {
           "name": "Battle Line Squad",

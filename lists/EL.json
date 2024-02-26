@@ -357,7 +357,7 @@
           "Shuriken Pistols"
         ],
         "specialRules": [
-          "First Strike",
+          "Erstschlag",
           "Infiltratoren"
         ]
       },
@@ -419,7 +419,7 @@
           "Death Spinners"
         ],
         "specialRules": [
-          "First Strike",
+          "Erstschlag",
           "Sprungmodule"
         ]
       },
@@ -703,7 +703,7 @@
           "Holofield (5+)",
           "Antigrav"
         ],
-        "crit": "The Lynx is destroyed. Any units within 5cm take a hit on 6+."
+        "crit": "The Lynx is destroyed. Any Einheiten mitin 5cm take a hit on 6+."
       },
       {
         "name": "Scorpion",
@@ -723,7 +723,7 @@
           "Holofield (4+)",
           "Antigrav"
         ],
-        "crit": "The Scorpion is destroyed. Any units within 5cm take a hit on 6+."
+        "crit": "The Scorpion is destroyed. Any Einheiten mitin 5cm take a hit on 6+."
       },
       {
         "name": "Cobra",
@@ -743,7 +743,7 @@
           "Holofield (4+)",
           "Antigrav"
         ],
-        "crit": "The Cobra is destroyed. Any units within 5cm take a hit on 6+."
+        "crit": "The Cobra is destroyed. Any Einheiten mitin 5cm take a hit on 6+."
       },
       {
         "name": "Storm Serpent",
@@ -760,10 +760,10 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung",
           "Holofield (4+)",
-          "Webway Portal",
+          "Netz der tausend Tore Portal",
           "Antigrav"
         ],
-        "crit": "The Storm Serpent is destroyed. Any units within 5cm take a hit on 6+."
+        "crit": "The Storm Serpent is destroyed. Any Einheiten mitin 5cm take a hit on 6+."
       },
       {
         "name": "Void Spinner",
@@ -780,7 +780,7 @@
           "Verstärkte Panzerung",
           "Antigrav"
         ],
-        "crit": "The Void Spinner is destroyed. Any units within 5cm take a hit on 6+."
+        "crit": "The Void Spinner is destroyed. Any Einheiten mitin 5cm take a hit on 6+."
       },
       {
         "name": "Skathach WraithRitter",

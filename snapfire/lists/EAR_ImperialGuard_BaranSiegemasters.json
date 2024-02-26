@@ -3,12 +3,12 @@
 	"version":"0.6.4",
 	"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"CORE COMPANIES", "formations":[
+		{"name":"Kern COMPANIES", "formations":[
 			{"id":501, "name":"1 Siegemaster Regimental HQ", "pts":350, "upgrades":[18,20,21,19,22,24,27,44,45,46], "units":"Baran Siegemaster with a Commissar, 9 Siege Infantry"},
 		 	{"id":502, "name":"Siege Infantry Company", "pts":300, "upgrades":[18,20,21,19,22,24,27,44,45,46], "units":"Baran Commander with a Commissar, 9 Siege Infantry"}
 
 		]},
-		{"name":"SUPPORT FORMATIONS <br/> Max 3 for each Core Company", "formations":[
+		{"name":"SUPPORT FORMATIONS <br/> Max 3 for each Kern Company", "formations":[
 			{"id":515, "name":"Heavy Tank Emplacement",			"pts":325, "upgrades":[]},
 			{"id":520, "name":"Macharius Company", 				"pts":375,  "units":"2 Macharius", "upgrades":[]},
 			{"id":518, "name":"Sapper Company",					"pts":250, "upgrades":[], "units":"Baran Commander with a Commissar, 7 Sappers, Hades Breaching Drill"},
@@ -38,17 +38,17 @@
 		{"id":26, "name":"Shadowsword",								"pts":0},
 		{"id":17, "name":"Stormsword",								"pts":0},
 
-		{"id":18, "name":"3 Mole Launcher Squads, 12cm Trenches",					"pts":75},
-		{"id":20, "name":"4 Rapiers, 16cm Trenches",								"pts":75},
-		{"id":21, "name":"3 Thudd Guns, 12cm Trenches",							"pts":75},
-		{"id":19, "name":"2 Baran Fire Support Squads, 8cm Trenches",					"pts":50},
-		{"id":22, "name":"4 Baran Fire Support Squads, 16cm Trenches",					"pts":100},
+		{"id":18, "name":"3 Mole Launcher Squads, 12cm Gräben",					"pts":75},
+		{"id":20, "name":"4 Rapiers, 16cm Gräben",								"pts":75},
+		{"id":21, "name":"3 Thudd Guns, 12cm Gräben",							"pts":75},
+		{"id":19, "name":"2 Baran Fire Support Squads, 8cm Gräben",					"pts":50},
+		{"id":22, "name":"4 Baran Fire Support Squads, 16cm Gräben",					"pts":100},
 
 		{"id":23, "name":"3 Griffons",								"pts":75},
 		{"id":24, "name":"Snipers",									"pts":25},
 		{"id":27, "name":"2 Snipers",								"pts":50},
-		{"id":25, "name":"40cm Razor Wire, 40cm Trenches",		"pts":0},
-		{"id":28, "name":"40cm Razor Wire, 20cm Trenches, 2 Bunkers",		"pts":25},
+		{"id":25, "name":"40cm Stacheldraht, 40cm Gräben",		"pts":0},
+		{"id":28, "name":"40cm Stacheldraht, 20cm Gräben, 2 Bunkers",		"pts":25},
 
 		{ "id":40, "name":"Macharius Command Tank with a Commissar (Twin Vanquishers)", "pts":0 },
 		{ "id":41, "name":"Macharius Command Tank with a Commissar (Vulcan Mega-Bolter)", "pts":0 },

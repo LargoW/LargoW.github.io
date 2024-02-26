@@ -200,7 +200,7 @@
         ]
       },
       {
-        "name": "Raveners",
+        "name": "Venatoren",
         "type": "INF",
         "speed": 25,
         "armour": 5,
@@ -209,12 +209,12 @@
           "Burrowclaws"
         ],
         "specialRules": [
-          "Gaunts",
+          "Ganten",
           "Tunneler"
         ]
       },
       {
-        "name": "Termagants",
+        "name": "Termaganten#",
         "type": "INF",
         "speed": 20,
         "cc": 6,
@@ -223,11 +223,11 @@
           "Bohrkäferschleuder"
         ],
         "specialRules": [
-          "Gaunts"
+          "Ganten"
         ]
       },
       {
-        "name": "Hormagaunts",
+        "name": "Hormaganten",
         "type": "INF",
         "speed": 20,
         "cc": 5,
@@ -235,7 +235,7 @@
           "Ripping Klauen"
         ],
         "specialRules": [
-          "Gaunts",
+          "Ganten",
           "Infiltratoren"
         ]
       },
@@ -249,12 +249,12 @@
           "Swarm Strike"
         ],
         "specialRules": [
-          "Gaunts",
+          "Ganten",
           "Sprungmodule"
         ]
       },
       {
-        "name": "Genestealers",
+        "name": "Symbionten",
         "type": "INF",
         "speed": 20,
         "armour": 6,
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "name": "Lictor",
+        "name": "Liktor",
         "type": "LV",
         "speed": 15,
         "armour": 5,
@@ -292,7 +292,7 @@
           "Scythed Klauen"
         ],
         "specialRules": [
-          "First Strike",
+          "Erstschlag",
           "Infiltratoren",
           "Aufklärer",
           "Unmodifizierter Rettungswurf",
@@ -403,7 +403,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport bis zu vier units of Termagants, Hormagaunts, Gargoyles und Raveners. Biovores, Tyranid Warriors und Zoanthropes counts as anderthalb Einheiten, rounded up."
+        "notes": "May transport bis zu vier units of Termaganten#, Hormaganten, Gargoyles und Venatoren. Biovores, Tyranid Warriors und Zoanthropes counts as anderthalb Einheiten, rounded up."
       },
       {
         "name": "Barbed Carnifex",
@@ -454,7 +454,7 @@
           "Transport",
           "Swarm (2)"
         ],
-        "notes": "May transport zwei units of Termagants und Hormagaunts. May bring back zwei units of Termagants und/oder Hormagaunts when Swarming."
+        "notes": "May transport zwei units of Termaganten# und Hormaganten. May bring back zwei units of Termaganten# und/oder Hormaganten when Swarming."
       },
       {
         "name": "Tervigon",
@@ -473,7 +473,7 @@
           "Transport",
           "Swarm (1)"
         ],
-        "notes": "May transport zwei units of Termagants und Hormagaunts. May bring back eine unit of Termagants und/oder Hormagaunts when Swarming."
+        "notes": "May transport zwei units of Termaganten# und Hormaganten. May bring back eine unit of Termaganten# und/oder Hormaganten when Swarming."
       },
       {
         "name": "Viragon",
@@ -719,7 +719,7 @@
           "Transport",
           "Swarm (3)"
         ],
-        "notes": "May transport fünf units of Termagants, Hormagaunts und Gargoyles. May bring back drei units of Termagants, Hormagaunts und/oder Gargoyles when Swarming. May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",
+        "notes": "May transport fünf units of Termaganten#, Hormaganten und Gargoyles. May bring back drei units of Termaganten#, Hormaganten und/oder Gargoyles when Swarming. May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",
         "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
       },
       {

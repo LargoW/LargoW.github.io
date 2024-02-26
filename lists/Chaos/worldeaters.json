@@ -5,10 +5,10 @@
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_WorldEaters",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "All World Eaters Core und Elite Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "All World Eaters Kern und Elite Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
-    "Summoning",
-    "World Eaters Summoning Rules",
+    "Beschwörung",
+    "World Eaters Beschwörungs Regeln",
     "Fickle Masters",
     "World Eaters Dreadclaws",
     "World Eaters Characters"
@@ -20,12 +20,12 @@
     {
       "from": "CSM.json",
       "units": [
-        Kriegsherr,
+        "Kriegsherr",
         "Chaos Lord",
         "Champion des Chaos",
         "Ikonenträger",
         "Dämonenprinz des Khorne",
-        "Chaos Assault Marines",
+        "Chaos Sturmtrupps",
         "Chaos Space Marines",
         "Skullseeker Terminatoren",
         "Khorne Berserker",
@@ -68,7 +68,7 @@
         "Bloodletters des Khorne",
         "Fleshhounds des Khorne",
         "Bloodcrushers des Khorne",
-        "Bloodthirster"
+        "Blutdämon"
       ],
       "unitRules": [
       ]
@@ -87,11 +87,11 @@
   ],
   "sections": [
     {
-      "name": "World Eaters Core Verbände",
+      "name": "World Eaters Kern Verbände",
       "formations": [
         {
           "name": "World Eaters Retinue",
-          "units": "Ein Chaos Lord, vier Khorne Berserker, vier World Eaters Assault Marines, vier World Eaters Rhinos, Dämonischer Pakt",
+          "units": "Ein Chaos Lord, vier Khorne Berserker, vier World Eaters Sturmtrupps, vier World Eaters Rhinos, Dämonischer Pakt",
           "extraUnits": [
             "Füge zwei Berzerker Cybots: 75 Punkte",
             "Oberbefehlshaber",
@@ -119,7 +119,7 @@
     },
     {
       "name": "World Eaters Elite Verbände",
-      "description": "Ein Elite formation may be taken pro Core formation.",
+      "description": "Ein Elite formation may be taken pro Kern formation.",
       "formations": [
         {
           "name": "Destroyers",
@@ -162,7 +162,7 @@
     },
     {
       "name": "World Eaters Unterstützungsverbände",
-      "description": "Zwei Unterstützungsverbände may be taken pro Core formation.",
+      "description": "Zwei Unterstützungsverbände may be taken pro Kern formation.",
       "formations": [
         {
           "name": "Doomblasters",

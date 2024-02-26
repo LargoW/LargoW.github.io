@@ -3,11 +3,11 @@
 	"version":"NetEA Dark Angels v1.97b <a href=\"http://www.taccmd.tacticalwargames.net/viewtopic.php?f=73&t=32991\">TCMD forum</a>",
 	"by":"Mrdiealot",
 "sections":[
-		{"name":"Dark Angles Core Detachments", "formations": [
+		{"name":"Dark Angles Kern Detachments", "formations": [
             { "id":501, "name":"Tacticals", "units":"6 Tacticals plus Transport",        "pts":275, "upgrades":[13,14,16,17,19,31] },
 			{ "id":532, "name":"Land Raiders", "units":"3 Land Raiders",   "pts":250, "upgrades":[13,14,16,30] }
    	 ]},
-	 		{"name":"Dark Angles Support Detachments (Four Support Detachments may be taken for each Core Detachment)", "formations": [
+	 		{"name":"Dark Angles Support Detachments (Four Support Detachments may be taken for each Kern Detachment)", "formations": [
             { "id":502, "name":"Scouts", "units":"4 Space Marine Sniper Scouts, 2 Rhinos",        "pts":200, "upgrades":[17] },
             { "id":503, "name":"Assaults", "units":"6 Dark Angels Assault Marines, 1 Dark Angels Captain",        "pts":275, "upgrades":[] },
             { "id":504, "name":"Devastators", "units":"4 Dark Angels Devastators plus Transport",        "pts":250, "upgrades":[13,14,17,19,31] },
@@ -62,7 +62,7 @@
 	],
 	"formationConstraints":[
 	
-	{"max":4, "name":"Dark Angels Support Detachments", "from":[502,503,504,531,533,534], "forEach":[501,532], "name2":"Dark Angels Core Detachments"},
+	{"max":4, "name":"Dark Angels Support Detachments", "from":[502,503,504,531,533,534], "forEach":[501,532], "name2":"Dark Angels Kern Detachments"},
 	
 	{"max":4, "name":"Deathwing & Ravenwing Specialist Detachments", "from":[513,514,515,516,522], "forEach":[511,521], "name2":"Deathwing & Ravenwing Strike Detachments"},
 	

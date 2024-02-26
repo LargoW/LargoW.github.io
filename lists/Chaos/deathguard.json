@@ -5,10 +5,10 @@
   "release": "2023-01-28",
   "armyforge": "EAR_Chaos_DeathGuard",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Death Guard Core, Elite, und Traitor Titan Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "Death Guard Kern, Elite, und Traitor Titan Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
-    "Summoning",
-    "Death Guard Summoning Rules",
+    "Beschwörung",
+    "Death Guard Beschwörungs Regeln",
     "Fickle Masters",
     "Death Guard Characters"
   ],
@@ -19,9 +19,9 @@
     {
       "from": "CSM.json",
       "units": [
-        Kriegsherr,
+        "Kriegsherr",
         "Chaos Lord",
-        "Sorcerer Lord",
+        "Hexer Lord",
         "Champion des Chaos",
         "Ikonenträger",
         "Dämonenprinz des Nurgle",
@@ -70,7 +70,7 @@
         "Plaguebearers des Nurgle",
         "Beasts des Nurgle",
         "Plague Drones des Nurgle",
-        "Great Unclean Ein"
+        "Großer Verpester"
       ],
       "unitRules": [
       ]
@@ -98,11 +98,11 @@
   ],
   "sections": [
     {
-      "name": "Death Guard Core Verbände",
+      "name": "Death Guard Kern Verbände",
       "formations": [
         {
           "name": "Death Guard Retinue",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Seuchenmarines, drei Chaos Space Marines, Dämonischer Pakt",
+          "units": "Ein Chaos Lord oder Hexer Lord, vier Seuchenmarines, drei Chaos Space Marines, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
             "Retinue Transport",
@@ -117,7 +117,7 @@
         },
         {
           "name": "Death Guard Terminatoren",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Blightlord Terminatoren, Dämonischer Pakt",
+          "units": "Ein Chaos Lord oder Hexer Lord, vier Blightlord Terminatoren, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
             "Terminator Transport",
@@ -132,11 +132,11 @@
     },
     {
       "name": "Death Guard Elite Verbände",
-      "description": "Ein Elite formation may be taken pro Core formation",
+      "description": "Ein Elite formation may be taken pro Kern formation",
       "formations": [
         {
           "name": "Havocs",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Havocs, Dämonischer Pakt",
+          "units": "Ein Chaos Lord oder Hexer Lord, vier Havocs, Dämonischer Pakt",
           "extraUnits": [
             "Havoc Transport",
             "Cybots",
@@ -160,7 +160,7 @@
     },
     {
       "name": "Death Guard Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände may be taken pro Core Formation.",
+      "description": " Bis zu zwei Unterstützungsverbände may be taken pro Kern Formation.",
       "formations": [
         {
           "name": "Poxwalker Infestation",

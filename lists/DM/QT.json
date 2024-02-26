@@ -6,10 +6,10 @@
   "strategy": "Dark Mechanicus Armeen haben einen Strategiewert von 3.",
   "Initiative": "The Chaos Warbringer formation has an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
-    "Summoning",
-    "QT Summoning Rules",
+    "Beschwörung",
+    "QT Beschwörungs Regeln",
     "Fickle Masters",
-    "QT Eternal Animosity"
+    "QT Eternal Animösität"
   ],
   "usage": [
     "The following army list allows you to field an army from the Traitor Titan Legions with Dark Mechanicus support."
@@ -55,11 +55,11 @@
     {
       "from": "daemons.json",
       "units": [
-        "Daemonettes of Slaanesh",
+        "Dämonetten des Slaanesh",
         "Plaguebearers des Nurgle",
         "Bloodletters des Khorne",
         "Horrors des Tzeentch",
-        "Daemonic Beasts of Chaos Undivided"
+        "Dämonenbestien des ungeteilten Chaos"
       ],
       "unitRules": [
       ]
@@ -86,7 +86,7 @@
   ],
   "sections": [
     {
-      "name": "Hell-Forge Core Verbände",
+      "name": "Hell-Forge Kern Verbände",
       "formations": [
         {
           "name": "Hell-Forge Manipel",
@@ -104,7 +104,7 @@
     },
     {
       "name": "Daemonic Banner Verbände",
-      "description": " Bis zu drei für jeweils Hell-Forge Core formation. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
+      "description": " Bis zu drei für jeweils Hell-Forge Kern formation. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
       "formations": [
         {
           "name": "Höllenritter of Slaanesh",

@@ -8,7 +8,7 @@
   "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Mut, Disziplin und Loyalität",
-    "Fortified Positions"
+    "Befestigte Stellungen"
   ],
   "units": [
     {
@@ -72,10 +72,10 @@
   ],
   "sections": [
     {
-      "name": "Todeskorps von Krieg Core Companies",
+      "name": "Todeskorps von Krieg Kern Companies",
       "formations": [
         {
-          "name": "0-1 Death Korps Regiments HQ",
+          "name": "0-1 Death Korps Regiments Hauptquartier",
           "units": "Ein Todeskorps von Krieg Oberbefehlshaber mit einem Kommissar, neun Angriffsinfanterie , eine Gorgon",
           "extraUnits": [
             "Füge ten Assault Infanteristen und eine Gorgon: 250 Punkte",
@@ -117,9 +117,9 @@
         },
         {
           "name": "Siege Infanterie Kompanie",
-          "units": "Todeskorps von Krieg Befehlshaber with Kommissar, 9 Siege Infanterie, 40cm Trenches, 40cm Razor Wire",
+          "units": "Todeskorps von Krieg Befehlshaber with Kommissar, 9 Siege Infanterie, 40cm Gräben, 40cm Stacheldraht",
           "extraUnits": [
-            "Füge vier Rapiers und 16cm Trenches, oder drei Thudd Guns und 12cm Trenches: 75 Punkte",
+            "Füge vier Rapiers und 16cm Gräben, oder drei Thudd Guns und 12cm Gräben: 75 Punkte",
             "Füge bis zu zwei Scharfschützen: 25 Punkte jeweils"
           ],
           "points": 225

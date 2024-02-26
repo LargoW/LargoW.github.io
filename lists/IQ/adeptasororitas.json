@@ -69,7 +69,7 @@
   ],
   "sections": [
     {
-      "name": "Adepta Sororitas Core Verbände",
+      "name": "Adepta Sororitas Kern Verbände",
       "description": "",
       "formations": [
         {
@@ -98,7 +98,7 @@
     },
     {
       "name": "Adepta Sororita Unterstützungsverbände",
-      "description": "Zwei Adepta Sororitas Unterstützungsverbände may be taken pro Adepta Sororitas Core Formation",
+      "description": "Zwei Adepta Sororitas Unterstützungsverbände may be taken pro Adepta Sororitas Kern Formation",
       "formations": [
         {
           "name": "Immolation",
@@ -158,7 +158,7 @@
     },
     {
       "name": "Ordo Hereticus Verbände",
-      "description": "Ein Ordo Hereticus Formation may be taken pro Adepta Sororitas Core Formation",
+      "description": "Ein Ordo Hereticus Formation may be taken pro Adepta Sororitas Kern Formation",
       "formations": [
         {
           "name": "Vulture",

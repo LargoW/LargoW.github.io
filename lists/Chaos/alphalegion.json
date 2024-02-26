@@ -8,9 +8,9 @@
   "Initiative": "Cultist Coven und Cultist Support Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
     "The Harrowing",
-    "Alpha Legion Transports",
-    "Summoning",
-    "Alpha Legion Summoning Rules",
+    "Alpha Legion Transporter",
+    "Beschwörung",
+    "Alpha Legion Beschwörungs Regeln",
     "Fickle Masters"
   ],
   "intro": [
@@ -21,7 +21,7 @@
       "from": "CSM.json",
       "units": [
         "Alpha Legion Lord",
-        "Alpha Legion Sorcerer",
+        "Alpha Legion Hexer",
         "Alpha Legion Marines",
         "Alpha Legion Havocs",
         "Alpha Legion Headhunters",
@@ -71,11 +71,11 @@
     {
       "from": "daemons.json",
       "units": [
-        "Daemonettes of Slaanesh",
+        "Dämonetten des Slaanesh",
         "Plaguebearers des Nurgle",
         "Bloodletters des Khorne",
         "Horrors des Tzeentch",
-        "Daemonic Beasts of Chaos Undivided"
+        "Dämonenbestien des ungeteilten Chaos"
       ],
       "unitRules": [
       ]
@@ -95,12 +95,12 @@
   ],
   "sections": [
     {
-      "name": "Alpha Legion Core Verbände",
+      "name": "Alpha Legion Kern Verbände",
       "description": " Bis zu eine Cultist Coven formation für jeweils Alpha Legion Marines formation",
       "formations": [
         {
           "name": "Alpha Legion Marines",
-          "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Alpha Legion Marines plus transport",
+          "units": "Ein Alpha Legion Lord oder Alpha Legion Hexer, vier Alpha Legion Marines plus transport",
           "extraUnits": [
             "Ersetze vier Alpha Legion Marines with vier Alpha Legion Havocs: 50 Punkte",
             "Füge bis zu zwei Alpha Legion Land Raiders: 50 Punkte jeweils",
@@ -133,7 +133,7 @@
       "formations": [
         {
           "name": "Destroyers",
-          "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Alpha Legion Destroyers",
+          "units": "Ein Alpha Legion Lord oder Alpha Legion Hexer, vier Alpha Legion Destroyers",
           "extraUnits": [
             "Oberbefehlshaber",
             "Predators"
@@ -142,7 +142,7 @@
         },
         {
           "name": "Headhunters",
-          "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Alpha Legion Headhunters plus transport",
+          "units": "Ein Alpha Legion Lord oder Alpha Legion Hexer, vier Alpha Legion Headhunters plus transport",
           "extraUnits": [
             "Oberbefehlshaber",
             "Vindicators"
@@ -151,7 +151,7 @@
         },
         {
           "name": "Terminatoren",
-          "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Lernaean Terminatoren plus transport",
+          "units": "Ein Alpha Legion Lord oder Alpha Legion Hexer, vier Lernaean Terminatoren plus transport",
           "extraUnits": [
             "Oberbefehlshaber",
             "Cybots"

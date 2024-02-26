@@ -5,11 +5,11 @@
 	"sections":[
 
 
-		{"name":"Cult Core Formations", "formations": [
+		{"name":"Cult Kern Formations", "formations": [
 			{ "id":500, "name":"Nexus Brood", "units":"Genestealer Patriarch", "pts":350, "upgrades":[22,23, 24, 41]},
 			{ "id":502, "name":"Cult Company", "pts":275, "units":"Hybrid Primus", "upgrades":[13, 21, 27,32, 25, 26,28] }
 		]},
-		{"name":"Cult Support Formations <br/> Max 1 for each Cult Core Formation", "formations": [
+		{"name":"Cult Support Formations <br/> Max 1 for each Cult Kern Formation", "formations": [
 			{ "id":530, "name":"Cult Super-Heavy Platoon", "pts":200, "units":"Coven Locus", "upgrades":[] },
 			{ "id":531, "name":"Cult Leman Russ Platoon", "pts":425, "units":"Coven Locus",  "upgrades":[] },
 			{ "id":532, "name":"Cult Basilisk Battery", "pts":250, "units":"Coven Locus, 3 Cult Basilisks", "upgrades":[]},
@@ -17,7 +17,7 @@
 			{ "id":535, "name":"Cult Flak Battery", "pts":175, "units":"Coven Locus, 3 Cult Hydras", "upgrades":[]}
 
 		]},
-		{"name":"Coven Vanguard Formations <br/> Max 1 for each Cult Core Formation", "formations": [
+		{"name":"Coven Vanguard Formations <br/> Max 1 for each Cult Kern Formation", "formations": [
 			{ "id":510, "name":"Genestealer Brood", "pts":175,  "units":"Broodlord", "upgrades":[] },
 			{ "id":501, "name":"Hybrid Brood", "pts":175, "units":"6 Hybrid Acolytes", "upgrades":[19, 24, 41] },
 			{ "id":511, "name":"Biker Brood", "pts":175,"units":"6 Coven Bikers", "upgrades":[24]},
@@ -26,7 +26,7 @@
 		]},
 
 		{"name":"Coven Ambush Formations <br/> Max 1 for each Coven Vanguard Formation", "formations": [
-			{ "id":520, "name":"Lictor Swarm", "pts":225, "units":"5 Lictors", "upgrades":[]},
+			{ "id":520, "name":"Liktor Swarm", "pts":225, "units":"5 Liktoren", "upgrades":[]},
 			{ "id":521, "name":"Metamorph Brood", "pts":175, "units":"6 Hybrid Metamorphs", "upgrades":[]}
 		]}
 
@@ -71,9 +71,9 @@
 	],
 	"formationConstraints":[
 		{"min":1, "max":1, "from":[500]},
-		{"max":1, "name":"Coven Vanguard Formations", "from":[501,510,511,512,513], "forEach":[500,502], "name2":"Cult Core formation"},
+		{"max":1, "name":"Coven Vanguard Formations", "from":[501,510,511,512,513], "forEach":[500,502], "name2":"Cult Kern formation"},
 		{"max":1, "name":"Coven Ambush Formations", "from":[520,521], "forEach":[501,510,511,512,513], "name2":"Coven Vanguard formation"},
-		{"max":1, "name":"Cult Support Formations", "from":[530,531,532,533,535], "forEach":[500,502], "name2":"Cult Core formation"}
+		{"max":1, "name":"Cult Support Formations", "from":[530,531,532,533,535], "forEach":[500,502], "name2":"Cult Kern formation"}
 	],
 	"upgradeConstraints":[
 		{"max":1, "from":[12]},

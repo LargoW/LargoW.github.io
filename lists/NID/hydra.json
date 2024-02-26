@@ -9,7 +9,7 @@
     "Synapse",
     "Hive Mind Locus",
     "Broodmind",
-    "Shoot the Big Ones!",
+    "Knallt die Großen ab!",
     "Extreme Mobility",
     "Swarm (x)",
     "Tunnelgräber",
@@ -23,15 +23,15 @@
       "from": "NIDS.json",
       "units": [
         "Brood Lord",
-        "Termagants",
-        "Hormagaunts",
+        "Termaganten#",
+        "Hormaganten",
         "Gargoyles",
-        "Genestealers",
+        "Symbionten",
         "Biovore",
         "Tyranid Warriors",
         "Tyranid Warrior Shrikes",
         "Zoanthrope",
-        "Lictor",
+        "Liktor",
         "Dimachaeron",
         "Swarmlord",
         "Swarmlord Shrike",
@@ -58,7 +58,7 @@
       ],
       "unitRules": [
           "Regeneration",
-          "Gaunts",
+          "Ganten",
         "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
@@ -151,30 +151,30 @@
       ]
     },
     {
-      "name": "Common Independent Swarms",
-      "description": " Bis zu eine Common Independent Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
+      "name": "Common Unabhängig Swarms",
+      "description": " Bis zu eine Common Unabhängig Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
-          "name": "Genestealer Swarm",
-          "units": "Ein Brood Lord, sechs Genestealers",
+          "name": "Symbionten Swarm",
+          "units": "Ein Brood Lord, sechs Symbionten",
           "extraUnits": [
-            "Füge bis zu drei Genestealers: 25 Punkte jeweils"
+            "Füge bis zu drei Symbionten: 25 Punkte jeweils"
           ],
           "points": 200
         },
         {
           "name": "Infiltrator Swarm",
-          "units": "Vier Lictors",
+          "units": "Vier Liktoren",
           "extraUnits": [
-            "Ersetze vier Lictors with vier Dimachaerons: Kostenlos"
+            "Ersetze vier Liktoren with vier Dimachaerons: Kostenlos"
           ],
           "points": 225
         }
       ]
     },
     {
-      "name": "Rare Independent Swarms",
-      "description": " Bis zu eine Rare Independent Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
+      "name": "Rare Unabhängig Swarms",
+      "description": " Bis zu eine Rare Unabhängig Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
           "name": "Bio-Titan",
@@ -200,8 +200,8 @@
     "description": "It is compulsory to buy the minimum amount of Instinctive Swarms.",
     "items": [
       {
-        "name": "Gaunts",
-        "description": "Fünf Termagants und/oder Hormagaunts",
+        "name": "Ganten",
+        "description": "Fünf Termaganten# und/oder Hormaganten",
         "points": "75 Punkte"
       },
       {
@@ -226,7 +226,7 @@
       },
       {
         "name": "Spawner",
-        "description": "Ein Tervigon, zwei Termagants oder zwei Hormagaunts",
+        "description": "Ein Tervigon, zwei Termaganten# oder zwei Hormaganten",
         "points": "100 Punkte"
       },
       {

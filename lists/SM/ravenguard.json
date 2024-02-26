@@ -10,7 +10,7 @@
   "specialRules": [
     "Land Speeder Escort",
     "Space Marine Transports",
-    "They Shall Know No Fear"
+    "Sie kennen keine Furcht"
   ],
   "units": [
     {
@@ -46,8 +46,8 @@
         "Drop Pod"
       ],
       "unitRules": [
-          "Expert Reconnaissance",
-          "Lightning Charge"
+          "Aufklärungsspezialisten",
+          "Blitzangriff"
       ]
     },
     {
@@ -62,7 +62,7 @@
   ],
   "sections": [
     {
-      "name": "Ravenguard Core Detachments",
+      "name": "Ravenguard Kern Detachments",
       "formations": [
         {
           "name": "Storm Aufklärers",
@@ -88,7 +88,7 @@
     },
     {
       "name": "Ravenguard Elite Detachments",
-      "description": "Ein Elite Detachment may be taken pro Core Detachment",
+      "description": "Ein Elite Detachment may be taken pro Kern Detachment",
       "formations": [
         {
           "name": "Sternguard Veteran",
@@ -122,7 +122,7 @@
     },
     {
       "name": "Ravenguard Support Detachments",
-      "description": "Zwei Support Detachment may be taken pro Core Detachment",
+      "description": "Zwei Support Detachment may be taken pro Kern Detachment",
       "formations": [
         {
           "name": "Sturmtrupp",

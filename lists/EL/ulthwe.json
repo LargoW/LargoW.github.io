@@ -10,10 +10,10 @@
   "specialRules": [
     "Seers of Ulthwé",
     "Avatar (Ulthwé)",
-    "May not Garrison (Ulthwé)",
+    "Dürfen nicht als Garnison aufstellen (Ulthwé)",
     "Farsight",
     "Hit und Run",
-    "Webway Portal"
+    "Netz der tausend Tore Portal"
   ],
   "units": [
     {
@@ -83,7 +83,7 @@
         },
         {
           "name": "1 Wraithgate",
-          "units": "Ersetze eine objective marker in the Eldar player's half of the table mit einemWraithgate, this counts as an objective marker und a Webway Portal which may not be attacked oder damaged in any way.",
+          "units": "Ersetze eine objective marker in the Eldar Spieler's half of the table mit einemWraithgate, this counts as an objective marker und a Netz der tausend Tore Portal which may not be attacked oder damaged in any way.",
           "extraUnits": [
           ],
           "points": "Kostenlos"

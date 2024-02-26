@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": Kriegsherr,
+        "name": "Kriegsherr",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -53,7 +53,7 @@
         ]
       },
       {
-        "name": "Blood Lord",
+        "name": "Herrscher des Blutes",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -65,7 +65,7 @@
         ]
       },
       {
-        "name": "Grand Apostle",
+        "name": "Großer Apostel",
         "type": "CH",
         "weapons": [
           "Daemonic Bolt"
@@ -78,7 +78,7 @@
         ]
       },
       {
-        "name": "Exalted Sorcerer",
+        "name": "Exalted Hexer",
         "type": "CH",
         "weapons": [
           "Blue Fire of Metamorphosis",
@@ -90,7 +90,7 @@
         ]
       },
       {
-        "name": "Dark Apostle",
+        "name": "Dunkler Apostel",
         "type": "CH",
         "weapons": [
           "Daemonic Bolt"
@@ -190,7 +190,7 @@
         ]
       },
       {
-        "name": "Sorcerer Lord",
+        "name": "Hexer Lord",
         "type": "CH",
         "weapons": [
           "Warp Bolt"
@@ -213,7 +213,7 @@
         ]
       },
       {
-        "name": "Alpha Legion Sorcerer",
+        "name": "Alpha Legion Hexer",
         "type": "CH",
         "weapons": [
           "Warp Bolt"
@@ -234,7 +234,7 @@
           "Verbesserte Beschwörung (+2W3)",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "May be sacrificed. Before rolling its Verbände summoning Punkte this unit’s Verbesserte Beschwörung (+2W3) ability is changed to Verbesserte Beschwörung (+6). After this roll the unit with the Champion is destroyed with no saves allowed. A unit sacrificed in this way does not cause a Beschussmarke."
+        "notes": "May be sacrificed. Before rolling its Verbände Beschwörung Punkte this unit’s Verbesserte Beschwörung (+2W3) ability is changed to Verbesserte Beschwörung (+6). After this roll the unit with the Champion is destroyed with no saves allowed. A unit sacrificed in this way does not cause a Beschussmarke."
       },
       {
         "name": "Night Lords Sergeant",
@@ -425,7 +425,7 @@
         ]
       },
       {
-        "name": "Chaos Assault Marines",
+        "name": "Chaos Sturmtrupps",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -437,7 +437,7 @@
         ]
       },
       {
-        "name": "Iron Warriors Assault Marines",
+        "name": "Iron Warriors Sturmtrupps",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -448,7 +448,7 @@
         ]
       },
       {
-        "name": "World Eaters Assault Marines",
+        "name": "World Eaters Sturmtrupps",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -553,7 +553,7 @@
         ]
       },
       {
-        "name": "Raptors",
+        "name": "Raptoren",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -568,7 +568,7 @@
         ]
       },
       {
-        "name": "Night Raptors",
+        "name": "Night Raptoren",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -728,7 +728,7 @@
           "Sprungmodule",
           "Furchtlos"
         ],
-        "notes": "Must start the game in the reserves, und may only enter the battlefield by Teleportation. May not be transported."
+        "notes": "Must start the game in the Reserven, und may only enter the battlefield by Teleportation. May not be transported."
       },
       {
         "name": "Word Bearers Possessed",
@@ -919,7 +919,7 @@
         ]
       },
       {
-        "name": "Sorcerer Disc Riders",
+        "name": "Hexer Disc Riders",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -934,7 +934,7 @@
         ]
       },
       {
-        "name": "Chaos Assault Bikes",
+        "name": "Chaos Space Marine Bikes",
         "type": "INF",
         "speed": 35,
         "armour": 4,
@@ -1578,7 +1578,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
       }
     ]
   }

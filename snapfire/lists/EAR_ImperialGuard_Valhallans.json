@@ -3,12 +3,12 @@
 	"version":"0.6.0",
 	"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"VALHALLAN CORE COMPANIES", "formations":[
+		{"name":"VALHALLAN Kern COMPANIES", "formations":[
 			{"id":500, "name":"Regimental HQ", 				"pts":300, "units":"Valhallan Supreme Commander with a Ministorum Priest, 11 Valhallan Infantry", "upgrades":[45,46,47,49,51,53,64,65,70]},
 			{"id":501, "name":"Infantry Company", 			"pts":250, "units":"Valhallan Commander with a Ministorum Priest", "upgrades":[45,46,47,49,51,53,64,65,70]},
 	 		{"id":502, "name":"Artillery Company", 			"pts":400, "units":"Ministorum Priest", "upgrades":[45]}
 		]},
-		{"name":"VALHALLAN SUPPORT FORMATIONS <br/> Max 2 for each Core Company", "formations":[
+		{"name":"VALHALLAN SUPPORT FORMATIONS <br/> Max 2 for each Kern Company", "formations":[
 			{"id":513, "name":"Heavy Tank Platoon", 				"pts":375, "units":"6 Ragnarok Heavy Tanks", "upgrades":[45,53]},
 			{"id":509, "name":"Macharius Company", 					"pts":375,  "units":"2 Macharius", "upgrades":[45]},
 			{"id":511, "name":"Deathstrike Battery", "pts":225, "units":"2 Deathstrike", "upgrades":[]},
@@ -58,7 +58,7 @@
 		{"id":64, "name":"Snipers",						"pts":25},
 		{"id":65, "name":"2 Snipers",					"pts":50},
 
-		{"id":70, "name":"Entrenchments (40cm Razor Wire, 40cm Trenches)",		"pts":50}
+		{"id":70, "name":"Entrenchments (40cm Stacheldraht, 40cm Gräben)",		"pts":50}
 
 	],
 	"formationConstraints":[

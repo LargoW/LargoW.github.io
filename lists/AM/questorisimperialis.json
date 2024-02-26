@@ -1,14 +1,14 @@
 {
   "fraction": "Adeptus Mechanicus",
-  "army": "Ritter World",
+  "army": "Ritter Welten",
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_RitterWorld",
-  "strategy": "Ritter World Armeen haben einen Strategiewert von 2.",
+  "strategy": "Ritter Welten Armeen haben einen Strategiewert von 2.",
   "Initiative": "All Verbände haben eine Initiativewert von 2+. In addition, all Ritter Household Verbände are subject to the 'Tapferkeit' Sonderregel.",
   "specialRules": [
     "Tapferkeit",
-    "Fortified Positions"
+    "Befestigte Stellungen"
   ],
   "units": [
     {
@@ -26,7 +26,7 @@
       ],
       "unitRules": [
         "Ionenfeld (x)",
-        "Lightning Charge",
+        "Blitzangriff",
         "Schwergepanzertes Fahrzeug (H-AV)",
         "Lanze"
       ]
@@ -57,7 +57,7 @@
   ],
   "sections": [
     {
-      "name": "Ritter World Core Households",
+      "name": "Ritter Welten Kern Households",
       "formations": [
         {
           "name": "Paladin Household",
@@ -72,8 +72,8 @@
       ]
     },
     {
-      "name": "Ritter World Support Households",
-      "description": " Bis zu zwei Support Households für jeweils Core Household.",
+      "name": "Ritter Welten Support Households",
+      "description": " Bis zu zwei Support Households für jeweils Kern Household.",
       "formations": [
         {
           "name": "Castellan Household",
@@ -114,8 +114,8 @@
       ]
     },
     {
-      "name": "Ritter World Retainer Verbände",
-      "description": " Bis zu eine Retainer Formation für jeweils Core oder Support Household.",
+      "name": "Ritter Welten Retainer Verbände",
+      "description": " Bis zu eine Retainer Formation für jeweils Kern oder Support Household.",
       "formations": [
         {
           "name": "Planetary Defense Zug",
@@ -168,7 +168,7 @@
     }
   ],
   "Erweiterungen": {
-    "title": "Ritter World Erweiterungen",
+    "title": "Ritter Welten Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
@@ -213,13 +213,13 @@
       },
       {
         "name": "Entrenchments",
-        "description": "40cm Razor Wire, 40cm Trenches",
+        "description": "40cm Stacheldraht, 40cm Gräben",
         "points": "50 Punkte"
       }
     ]
   },
   "about": [
-    "v1.0.Beta: The Ritter World list is a mix of the E-UK und NetEA Ritter lists, with stats und structure taken from both. As these lists are based on the retro-40k 1990s fluff, most Ritters have had their names changed to prevent naming conflicts with the Ritters in the current fluff.",
+    "v1.0.Beta: The Ritter Welten list is a mix of the E-UK und NetEA Ritter lists, with stats und structure taken from both. As these lists are based on the retro-40k 1990s fluff, most Ritters have had their names changed to prevent naming conflicts with the Ritters in the current fluff.",
     "The biggest change from the E-UK und the NetEA Ritters is obviously the fact that Ritters no longer are DC2 WE, but are H-AV instead. This change makes Ritter Verbände a lot more sane to play with/against, und makes it a lot easier to stay within the EA rules. It also means that sniping the Baron mit einemPin-Point is no longer an issue.",
     "Another significant change is that the Retainer Verbände are more accessible, making the list a bit more flexible."
   ]

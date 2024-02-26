@@ -7,7 +7,7 @@
 		{"name":"DAEMONS", "formations": [
 			{ "id":401, "name":"Daemon Pool", "pts":0, "upgrades":[50,51] }
 		]},
-		{"name":"ALPHA LEGION CORE FORMATIONS <br/> Max 1 Cultist Coven for each Alpha Legion Marines", "formations": [
+		{"name":"ALPHA LEGION Kern FORMATIONS <br/> Max 1 Cultist Coven for each Alpha Legion Marines", "formations": [
 				{ "id":501, "name":"Alpha Legion Marines", "pts":200, "upgrades":[30,31,32,33] },
 				{ "id":500, "name":"Cultist Coven", "pts":225, "upgrades":[16,17,45,46,48] }
 		]},
@@ -34,7 +34,7 @@
 	],
 	"upgrades":[
 		{ "id":10, "name":"Alpha Legion Lord", "pts":0 },
-		{ "id":11, "name":"Alpha Legion Sorcerer", "pts":0 },
+		{ "id":11, "name":"Alpha Legion Hexer", "pts":0 },
 		{ "id":12, "name":"Alpha Legion Lord <br/>'I'm Alpharius!' (Alpha Legion Lords all count as being the Supreme Commander)", "pts":75 },
 		{ "id":13, "name":"Aspiring Champion", "pts":0 },
 		{ "id":14, "name":"Daemon Prince", "pts":100 },

@@ -7,8 +7,8 @@
   "Initiative": "Ministorum Mission Verbände haben eine Initiativewert von 1+. All other Verbände have a Initiative Rating of 2+.",
   "specialRules": [
     "Mut, Disziplin und Loyalität",
-    "Grim Demeanour",
-    "Fortified Positions"
+    "Düsteres Auftreten",
+    "Befestigte Stellungen"
   ],
   "usage": [
     "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Valhallan Ice Warriors"
@@ -64,10 +64,10 @@
   ],
   "sections": [
     {
-      "name": "Valhallan Core Kompanieverbände",
+      "name": "Valhallan Kern Kompanieverbände",
       "formations": [
         {
-          "name": "Valhallan Regiments HQ",
+          "name": "Valhallan Regiments Hauptquartier",
           "units": "Ein Valhallanischer Oberbefehlshaber mit einemMinistorum Priest, neun Valhallan Infanterie",
           "extraUnits": [
             "Vallhalanischer Greifen",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Valhallan Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
+      "description": " Bis zu zwei Unterstützungsverbände für jeweils Kern Kompanie.",
       "formations": [
         {
           "name": "Heavy Panzer Zug",
@@ -240,7 +240,7 @@
         "name": "Entrenchments",
         "options": [
           {
-            "description": "40cm Razor Wire, 40cm Trenches",
+            "description": "40cm Stacheldraht, 40cm Gräben",
             "points": "50 Punkte"
           }
         ]

@@ -48,10 +48,10 @@
         "weapons": [
           "Supa-Zzap-Waffe|0-1|",
           "Mega Kanonä|0-1|",
-          "D3+1 Power Fields|0-1|"
+          "D3+1 Schpezialkraftfelder|0-1|"
         ],
         "specialRules": [
-          "Ersetze eine Kanonä entweder mit einer Supa-Zzap-Waffe oder mit einer Mega Kanonä. Alternativ kann die Einheit W3+1 power fields erhalten."
+          "Ersetze eine Kanonä entweder mit einer Supa-Zzap-Waffe oder mit einer Mega Kanonä. Alternativ kann die Einheit W3+1 Schpezialkraftfelder erhalten."
         ]
       },
       {
@@ -60,7 +60,7 @@
         "weapons": [
           "Mega Kanonä|0-1|",
           "Weirdboy Turm|0-1|",
-          "D3+1 Power Fields|0-1|"
+          "D3+1 Schpezialkraftfelder|0-1|"
         ],
         "specialRules": [
         ],
@@ -71,11 +71,11 @@
         "type": "CH",
         "weapons": [
           "Smäsha-Kanonä|0-1|",
-          "D3+1 Power Fields|0-1|",
+          "D3+1 Schpezialkraftfelder|0-1|",
           "Deff-Rolla & Fresh Paint Job|0-1|"
         ],
         "specialRules": [
-          "The unit either replaces a Kanonä mit einemLifta Droppa, oder [*] adds D3+1 Power Fields, oder [**] is equipped mit einemDeff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)"
+          "The unit either replaces a Kanonä mit einemLifta Droppa, oder [*] adds D3+1 Schpezialkraftfelder, oder [**] is equipped mit einemDeff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)"
         ]
       },
       {
@@ -121,7 +121,7 @@
           "Grot-Shootas und Knives"
         ],
         "specialRules": [
-          "Super-Entbehrlich",
+          "Vollkommen Entbehrlich",
           "Jetz' geht's los"
         ]
       },
@@ -340,7 +340,7 @@
         ],
         "specialRules": [
           "Anführer",
-          "D3 Power Fields"
+          "D3 Schpezialkraftfelder"
         ]
       },
       {
@@ -610,7 +610,7 @@
         "specialRules": [
           "Schadenskapazität 3"
         ],
-        "crit": "The Skullhamma is destroyed. All units within 5cm takes a hit on 6+"
+        "crit": "The Skullhamma is destroyed. All Einheiten mitin 5cm takes a hit on 6+"
       },
       {
         "name": "Supa-Stompa",
@@ -626,7 +626,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 4",
-          "Power Fields 1D3",
+          "Schpezialkraftfelder 1D3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -653,7 +653,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 4",
-          "Power Fields 1D3",
+          "Schpezialkraftfelder 1D3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -674,7 +674,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 7",
-          "Power Fields 1D3+3",
+          "Schpezialkraftfelder 1D3+3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
@@ -706,7 +706,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 7",
-          "Power Fields 1D3+3",
+          "Schpezialkraftfelder 1D3+3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -729,7 +729,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 10",
-          "Power Fields 1D3+6",
+          "Schpezialkraftfelder 1D3+6",
           "Gottgleiche Maschine",
           "Feuer aufteilen",
           "Furchtlos",
@@ -764,7 +764,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 10",
-          "Power Fields 1D3+6",
+          "Schpezialkraftfelder 1D3+6",
           "Gottgleiche Maschine",
           "Feuer aufteilen",
           "Furchtlos",
@@ -790,7 +790,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 13",
-          "Power Fields 1D3+9",
+          "Schpezialkraftfelder 1D3+9",
           "Gottgleiche Maschine",
           "Feuer aufteilen",
           "Geländegängig",
@@ -845,7 +845,7 @@
           "AC Synchronisierter Kustom Mega-Geschütz||FxF"
         ],
         "specialRules": [
-          "Power Fields 1D3"
+          "Schpezialkraftfelder 1D3"
         ]
       },
       {

@@ -3,11 +3,11 @@
 	"version":"Alpha v0.6.0 <a href=\"https://magnusdurr.github.io/list-view/index.html?race=AM&list=legionesskitariimars\">Listview</a>",
 	"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"LEGIONES MARS CORE FORMATIONS", "formations":[
+		{"name":"LEGIONES MARS Kern FORMATIONS", "formations":[
 			{"id":501, "name":"Vanguard Maniple",	"pts":225, "upgrades":[109,107,108,80,81,82,83,90]},
 			{"id":502, "name":"Onager Cataphractii",			 "units":"8 Onager Dunecrawlers",	"pts":450, "upgrades":[]}
 		]},
-		{"name":"LEGIONES MARS LINE FORMATIONS <br/> Max 3 for each Core Formation", "formations":[
+		{"name":"LEGIONES MARS LINE FORMATIONS <br/> Max 3 for each Kern Formation", "formations":[
 			{"id":507, "name":"Sicarian Killclade",			"pts":175, "units":"4 Sicarian Ruststalkers, 2 Sicarian Infiltrators",		 "upgrades":[]},
 			{"id":508, "name":"Ranger Cohort",			"pts":150,  "units":"4 Skitarii Rangers",		 "upgrades":[112,113]},
 			{"id":514, "name":"Kastelan Maniple",		"pts":50, "units":"Tech-Priest", "upgrades":[114]},
@@ -111,7 +111,7 @@
 	"formationConstraints":[
 		{"max":1, "perArmy":true, "from":[516]},
 		{"max":1, "perArmy":true, "from":[525]},
-		{"max":3, "name":"Line formations", "from":[507,508,509,510,511,512,513,514,515,516], "forEach":[501], "name2":"Core formation"},
+		{"max":3, "name":"Line formations", "from":[507,508,509,510,511,512,513,514,515,516], "forEach":[501], "name2":"Kern formation"},
 		{"maxPercent": 33.5, "name":"Mechanicus Allies", "from":[519,520,521,522,523,524,525]}
 	],
 	"upgradeConstraints":[

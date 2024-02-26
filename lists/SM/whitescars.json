@@ -7,10 +7,10 @@
   "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee White Scars Space Marine chapter oder any of its successor chapters. The White Scars practice a highly mobile method of warfare, tearing into their enemies with lightning-quick attacks und vanishing before a response can be made.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> Sonderregel applies to all White Scars detachments und Aircraft Verbände.",
+  "armyRules": "The <i>Sie kennen keine Furcht</i> Sonderregel applies to all White Scars detachments und Aircraft Verbände.",
   "specialRules": [
     "White Scars Transports",
-    "They Shall Know No Fear"
+    "Sie kennen keine Furcht"
   ],
   "units": [
     {
@@ -62,7 +62,7 @@
   ],
   "sections": [
     {
-      "name": "White Scars Core Detachments",
+      "name": "White Scars Kern Detachments",
       "formations": [
         {
           "name": "Bikes",
@@ -99,7 +99,7 @@
     },
     {
       "name": "White Scars Support Detachments",
-      "description": "Zwei Support Detachments may be taken pro Core Detachment",
+      "description": "Zwei Support Detachments may be taken pro Kern Detachment",
       "formations": [
         {
           "name": "Sturmtrupp",

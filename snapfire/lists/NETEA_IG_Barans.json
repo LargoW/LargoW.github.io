@@ -20,7 +20,7 @@
 			{"id":507, "name":"Super-Heavy Platoon", 		"pts":200, "upgrades":[]}
 		]},
 		{"name":"BARAN FORTIFIED POSITIONS <br/> Max 1 for each Baran Company", "formations":[
-			{"id":530, "name":"Fortified Positions",	"pts":75, "upgrades":[], "units":"Up to 50cm Trenches, 50cm Razor Wire, plus 6 Gun Emplacements or Bunkers."}
+			{"id":530, "name":"Fortified Positions",	"pts":75, "upgrades":[], "units":"Up to 50cm Gräben, 50cm Stacheldraht, plus 6 Gun Emplacements or Bunkers."}
 		]},
 		{"name":"IMPERIAL NAVY <br/> Max 25%", "formations":[
 			{"id":520, "name":"Marauder Squadron",		"pts":250, "upgrades":[], "units":"2 Marauder Bombers"},

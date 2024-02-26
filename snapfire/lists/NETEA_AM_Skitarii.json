@@ -3,15 +3,15 @@
 	"version":"2.1",
 	"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"SKITARII CORE FORMATIONS", "formations":[
+		{"name":"SKITARII Kern FORMATIONS", "formations":[
 			{"id":500, "name":"Skitarii Demi-Century",	"pts":225, "upgrades":[10,40,41,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75]},
 			{"id":501, "name":"Sagitarii Demi-Century",	"pts":250, "units":"5 Sagitarii", "upgrades":[10,40,41,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75]}
 		]},
-		{"name":"CENTURIO ORDINATUS FORMATIONS <br/> Max 1 for each Skitarii Core Formation", "formations":[
+		{"name":"CENTURIO ORDINATUS FORMATIONS <br/> Max 1 for each Skitarii Kern Formation", "formations":[
 			{"id":510, "name":"Ordinatus Minorus",	"pts":50, "upgrades":[60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75]},
 			{"id":511, "name":"Ordinatus Majoris",	"pts":450, "upgrades":[]}
 		]},
-		{"name":"SKITARII SUPPORT FORMATIONS <br/> Max 2 for each Skitarii Core Formation", "formations":[
+		{"name":"SKITARII SUPPORT FORMATIONS <br/> Max 2 for each Skitarii Kern Formation", "formations":[
 			{"id":520, "name":"Crusader Scout Maniple",				"pts":125, "units":"4 Crusader Robots",	 "upgrades":[]},
 			{"id":521, "name":"Colossus Assault Maniple",			"pts":200, "units":"4 Colossus Robots", "upgrades":[]},
 			{"id":522, "name":"Praetorian Servitor Maniple",		"pts":250, "units":"5 Praetorian Combat Servitors", "upgrades":[60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75]},
@@ -110,8 +110,8 @@
 	],
 	"formationConstraints":[
 		{"max":1, "perArmy":true, "from":[524]},
-		{"max":1, "name":"Ordinatus formation", "from":[510,511], "forEach":[500,501], "name2":"Skitarii Core formation"},
-		{"max":2, "name":"Skitarii Support formation", "from":[520,521,522,523,524], "forEach":[500,501], "name2":"Skitarii Core formation"},
+		{"max":1, "name":"Ordinatus formation", "from":[510,511], "forEach":[500,501], "name2":"Skitarii Kern formation"},
+		{"max":2, "name":"Skitarii Support formation", "from":[520,521,522,523,524], "forEach":[500,501], "name2":"Skitarii Kern formation"},
 		{"maxPercent":33.5, "name":"Mechanicus Allies", "from":[530,531,532,533,534,535]}
 	],
 	"upgradeConstraints":[

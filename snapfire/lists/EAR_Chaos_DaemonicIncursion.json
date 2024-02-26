@@ -18,7 +18,7 @@
 			{"id":668, "name":"Khorne Blood Legion", "pts":200, "units":"5 Lesser Daemon Pool points", "upgrades":[60]},
 			{"id":669, "name":"Tzeentch Scintillating Legion", "pts":200, "units":"5 Lesser Daemon Pool points", "upgrades":[60]}
 		]},
-		{"name":"PORTALS &amp; MORTALS <br/> Max 25%", "formations":[
+		{"name":"Portale &amp; MORTALS <br/> Max 25%", "formations":[
 			{"id":501, "name":"Lost and the Damned", "pts":175,  "upgrades":[25]},
 			{"id":502, "name":"Warp Altar", "pts":225, "units": "Warp Altar of Chaos Undivided", "upgrades":[26]}
 

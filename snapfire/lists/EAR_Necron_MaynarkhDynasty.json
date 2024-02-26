@@ -8,12 +8,12 @@
             {"id": 601, "name": "Necron Tomb Complex", "pts": 50, "units":"Tomb Complex", "upgrades": []}
          ]
       },
-      {"name": "NECRON CORE",
+      {"name": "NECRON Kern",
          "formations": [
             {"id": 701, "name": "Necron Phalanx", "pts": 250, "units": "6 Necron Warriors", "upgrades": [100,102,103,99]}
          ]
       },
-      {"name": "NECRON PORTALS <br/> Max 1 for each Necron Phalanx",
+      {"name": "NECRON Portale <br/> Max 1 for each Necron Phalanx",
          "formations": [
             {"id": 503, "name": "Monolith Phalanx", "pts": 250, "units": "3 Monoliths", "upgrades": [105]},
             {"id": 505, "name": "Monolith Maniple", "pts": 0, "upgrades": [105]}
@@ -66,7 +66,7 @@
       {"max": 1, "from": [802]},
       {"max": 1, "from": [803]},
       {"maxPercent": 33.5, "name": "War Engines & Allies", "from": [801,802,803,804,805,806]},
-      {"max": 1, "name": "Necron Portals", "from": [503,505], "forEach": [701], "name2": "Necron Phalanx"},
+      {"max": 1, "name": "Necron Portale", "from": [503,505], "forEach": [701], "name2": "Necron Phalanx"},
       {"max": 2, "name": "Necron Support", "from": [702,501,502,504,506], "forEach": [701], "name2": "Necron Phalanx"}
    ],
    "upgradeConstraints": [

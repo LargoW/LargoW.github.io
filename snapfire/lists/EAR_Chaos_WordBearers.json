@@ -8,14 +8,14 @@
 		{"name":"DAEMONS", "formations":[
 			{"id":666, "name":"Daemon Pool", "pts":0, "upgrades":[71,72,73]}
 		]},
-		{"name":"WORD BEARERS CORE FORMATIONS <br/> Max 1 Cultist Coven for each Word Bearers Retinue", "formations":[
+		{"name":"WORD BEARERS Kern FORMATIONS <br/> Max 1 Cultist Coven for each Word Bearers Retinue", "formations":[
 			{"id":500, "name":"Word Bearers Retinue", "pts":350, "units":"Daemonic Pact", "upgrades":[14,40,41,47,80]},
 			{"id":501, "name":"Cultist Coven", "pts":250, "units":"Demagogue, Daemonic Pact", "upgrades":[14,21,16,17]}
 		]},
 		{"name":"WORD BEARERS ELITE FORMATIONS <br/> Max 2 for each Word Bearers Retinue", "formations":[
 			{"id":505, "name":"Iconoclasts",	"pts":225, "units":"Diabolist, 4 Word Bearers Iconoclasts, Daemonic Pact", "upgrades":[14]},
 			{"id":507, "name":"Havocs",	"pts":225, "units":"Diabolist, 4 Havocs, Daemonic Pact", "upgrades":[14]},
-			{"id":504, "name":"Bike Company",	"pts":325, "units":"Diabolist, 8 Chaos Assault Bikes, Daemonic Pact", "upgrades":[14]},
+			{"id":504, "name":"Bike Company",	"pts":325, "units":"Diabolist, 8 Chaos Space Marine Bikes, Daemonic Pact", "upgrades":[14]},
 			{"id":502, "name":"Chaos Terminators", "pts":150, "units":"Daemonic Pact", "upgrades":[50,14,41,47,80]}
 		]},
 		{"name":"DAEMON ENGINE FORMATIONS <br/> Max 2 for each Cultist Coven", "formations":[
@@ -37,9 +37,9 @@
 
 		{"id":9, "name":"Diabolist", 		"pts":0},
 
-		{"id":11, "name":"Dark Apostle", 		"pts":0},
-		{"id":12, "name":"Grand Apostle", 		"pts":50},
-		{"id":13, "name":"Daemon Prince (replaces the Dark Apostle and its unit)", 		"pts":50},
+		{"id":11, "name":"Dunkler Apostel", 		"pts":0},
+		{"id":12, "name":"Großer Apostel", 		"pts":50},
+		{"id":13, "name":"Daemon Prince (replaces the Dunkler Apostel and its unit)", 		"pts":50},
 
 		{"id":14, "name":"Icon Bearer", "pts":25},
 

@@ -4,10 +4,10 @@
 	"notes":[],
 	"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"HELL-FORGE CORE FORMATIONS", "formations":[
+		{"name":"HELL-FORGE Kern FORMATIONS", "formations":[
 			{"id":520, "name":"Hell-Forge Maniple",		"pts":225, "upgrades":[50,53, 54,55, 60,61,62,63, 69]}
 		]},
-		{"name":"DAEMONIC BANNER FORMATIONS <br/> Max 3 for each Hell-Forge Core formation <br/> Army may not mix Nurgle/Tzeentch or Slaanesh/Khorne formations", "formations":[
+		{"name":"DAEMONIC BANNER FORMATIONS <br/> Max 3 for each Hell-Forge Kern formation <br/> Army may not mix Nurgle/Tzeentch or Slaanesh/Khorne formations", "formations":[
 			{"id":500, "name":"Höllenritters of Slaanesh",		"units":"Daemonic Pact",	"pts":100,  "upgrades":[80]},
 			{"id":501, "name":"Hell-Scourges of Slaanesh",		"units":"Daemonic Pact",	"pts":100,  "upgrades":[81]},
 			{"id":510, "name":"Hell-Striders of Slaanesh",	"units":"Daemonic Pact",	"pts":50,  "upgrades":[95]},
@@ -97,7 +97,7 @@
 		{"min": 1, "max": 1, "from": [600]},
 		{"max": 1, "from": [524]},
 		{"max": 1, "from": [537]},
-      	{"max": 3, "name": "Daemonic Banner", "from": [500,501,502,503,504,505,506,510,515],  "forEach": [520], "name2": "Hell-Forge Core" },
+      	{"max": 3, "name": "Daemonic Banner", "from": [500,501,502,503,504,505,506,510,515],  "forEach": [520], "name2": "Hell-Forge Kern" },
 		{"maxPercent": 33.5, "name": "Hell-Forge Support, Traitor Titan and Chaos Navy Allies", "from": [521,522,523,524,525,526,536,537,538]}
 
 	],

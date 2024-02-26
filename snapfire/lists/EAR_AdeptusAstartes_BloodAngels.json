@@ -4,14 +4,14 @@
 	"by":"EA-Ragnarok",
 
 	"sections":[
-		{"name":"BLOOD ANGELS CORE DETACHMENTS", "formations":[
+		{"name":"BLOOD ANGELS Kern DETACHMENTS", "formations":[
 			{"id":500, "name":"1 Death Company", 					"pts":250, "units":"Chaplain",  "upgrades":[3]},
 			{"id":503, "name":"Tacticals",							"pts":275, "upgrades":[10,11,12, 31,32, 33,34, 36,38, 40,42]},
 			{"id":505, "name":"Assaults", 							"pts":250, "upgrades":[10,11,12, 36,38, 40,42]},
 			{"id":512, "name":"Assault Terminators",		"pts":325, "units":"4 Assault Terminators", "upgrades":[10,11,12, 33,34, 40,42]}
 
 		]},
-		{"name":"BLOOD ANGELS SUPPORT DETACHMENTS <br/> Max 2 for each Core Detachment", "formations":[
+		{"name":"BLOOD ANGELS SUPPORT DETACHMENTS <br/> Max 2 for each Kern Detachment", "formations":[
 			{"id":509, "name":"Baal Predators",					"pts":250, "upgrades":[31,32]},
 			{"id":510, "name":"Bikes",							"pts":200, "upgrades":[10,11,12]},
 			{"id":511, "name":"Devastators","pts":250, "units":"4 Devastators plus transport", "upgrades":[10,11,12, 31,32, 33,34, 36,38, 40,42]},
@@ -96,7 +96,7 @@
 		{"max":1,"perArmy":true, "name":"Sanguinary Guard", "from":[501]},
 		{"max":1, "perArmy":true, "name":"Spacecraft", "from":[523]},
 
-		{"max":2, "name":"Support Detachments", "from":[509,507,508,510,511,513,514,523,515,516,517,523], "forEach":[500,503,505,512], "name2":"Core Detachment"},
+		{"max":2, "name":"Support Detachments", "from":[509,507,508,510,511,513,514,523,515,516,517,523], "forEach":[500,503,505,512], "name2":"Kern Detachment"},
 		{"maxPercent": 33.5, "name":"Aircraft, Navy & Titans", "from":[520,521,522]}
 	],
 	"upgradeConstraints":[

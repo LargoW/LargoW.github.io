@@ -7,19 +7,19 @@
 	    {"id": 501, "name": "Daemon Pool", "pts": 0, "upgrades": [71,72,74]}
       ]},
 
-      {"name": "WORLD EATERS CORE FORMATIONS <br/> Max 1 World Eaters Terminators for each World Eaters Retinue", "formations": [
+      {"name": "WORLD EATERS Kern FORMATIONS <br/> Max 1 World Eaters Terminators for each World Eaters Retinue", "formations": [
             {"id": 521, "name": "World Eaters Retinue", "pts": 350, "units": "4 Chaos Assault Marines, 4 Khorne Berzerkers, Daemonic Pact", "upgrades": [26,27,22,18,30]},
             {"id": 532, "name": "World Eaters Terminators", "pts": 400, "units": "4 Skullseeker Terminators, Daemonic Pact", "upgrades": [17,21,26,27,39]}
        ]},
 
-      {"name": "WORLD EATERS ELITE FORMATIONS <br/> Max 1 for each World Eaters Core Formation", "formations": [
+      {"name": "WORLD EATERS ELITE FORMATIONS <br/> Max 1 for each World Eaters Kern Formation", "formations": [
           {"id": 534, "name": "Destroyers", "pts": 225, "units": "4 Chaos Destroyers, Daemonic Pact", "upgrades": []},
           {"id": 536, "name": "Chaos Space Marines", "pts": 275, "units": "6 Chaos Space Marines, Daemonic Pact",  "upgrades": [18,30]},
             {"id": 533, "name": "Berzerker Bikes", "pts": 275, "units": "6 Khorne Berzerker Assault Bikes, Daemonic Pact", "upgrades": [26,27]},
             {"id": 531, "name": "Juggernauts", "pts": 300, "units": "6 Juggernaut Riders, Daemonic Pact", "upgrades": [26,27]}
        ]},
 
-      {"name": "WORLD EATERS SUPPORT FORMATIONS <br/> Max 2 for each World Eaters Core Formation", "formations": [
+      {"name": "WORLD EATERS SUPPORT FORMATIONS <br/> Max 2 for each World Eaters Kern Formation", "formations": [
           {"id": 544, "name": "Doomblasters", "pts": 200, "units": "3 Doomblasters", "upgrades": []},
             {"id": 541, "name": "Khorne Defiler Pack", "pts": 50, "upgrades": [35]},
           {"id": 543, "name": "Cannons of Khorne", "pts": 225, "units": "4 Cannons of Khorne", "upgrades": []},
@@ -76,8 +76,8 @@
       {"min": 1,"max": 1, "from": [501]},
       {"maxPercent": 33.5, "name": "War Engines & Allies", "from": [551,552,553,554,555,557]},
       {"max": 1, "name": "World Eaters Terminators", "from": [532],  "forEach": [521], "name2": "World Eaters Retinue"},
-      {"max": 1, "name": "Elite Formations", "from": [530,531,533,536,534],  "forEach": [521,532], "name2": "Core Formation"},
-      {"max": 2, "name": "Support Formations", "from": [535,541,542,543,544,545],  "forEach": [521,532], "name2": "Core Formation"}
+      {"max": 1, "name": "Elite Formations", "from": [530,531,533,536,534],  "forEach": [521,532], "name2": "Kern Formation"},
+      {"max": 2, "name": "Support Formations", "from": [535,541,542,543,544,545],  "forEach": [521,532], "name2": "Kern Formation"}
    ],
    "upgradeConstraints": [
       {"max": 1, "from": [13,14], "perArmy": true},

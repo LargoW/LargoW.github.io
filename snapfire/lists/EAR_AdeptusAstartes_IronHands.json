@@ -3,11 +3,11 @@
 	"version":"Approved 1.0.Beta <a href=\"https://magnusdurr.github.io/list-view/index.html?race=SM&list=ironhands\">Listview</a>",
 	"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"IRON HANDS CORE DETACHMENTS", "formations":[
+		{"name":"IRON HANDS Kern DETACHMENTS", "formations":[
 			{"id":500, "name":"Dreadnought Clan", "pts":200, "upgrades":[20,21,22,23,24, 56,57,58,59, 31,32,33,42,43,44,45,46]},
 			{"id":501, "name":"Mechanized Clan", "pts":275,	"upgrades":[49, 56,57,58,59, 31,32,33,42,43,44,45,46]}
 		]},
-		{"name":"IRON HANDS SUPPORT DETACHMENTS <br/> Max 2 per Core Detachment", "formations":[
+		{"name":"IRON HANDS SUPPORT DETACHMENTS <br/> Max 2 per Kern Detachment", "formations":[
 			{"id":510, "name":"Dreadnought Talon", "pts":50, "units":"plus transport", "upgrades":[20,21,22,23,24]},
 			{"id":511, "name":"Land Raiders", "pts":125,"upgrades":[40,39,41, 56,57,58,59, 50]},
 			{"id":513, "name":"Predators", "pts":250, "upgrades":[56,57,58,59]},
@@ -110,7 +110,7 @@
 		{"max":1, "from":[517]},
 
 
-		{"max":2, "name":"Support Detachments", "from":[510,511,512,513,514,515,516,517,518], "forEach":[500,501], "name2":"Core Detachments"},
+		{"max":2, "name":"Support Detachments", "from":[510,511,512,513,514,515,516,517,518], "forEach":[500,501], "name2":"Kern Detachments"},
 
 		{"maxPercent": 33.5, "name":"Aircraft and Imperial Allies", "from":[520,521,522,523]}
 	],

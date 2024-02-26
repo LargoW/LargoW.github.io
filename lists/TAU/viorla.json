@@ -34,7 +34,7 @@
         "KX139 Ta'unar Supremacy Armour"
       ],
       "unitRules": [
-        "Coordinated Fire",
+        "Koordinierter Beschuss",
         "Guided Raketen",
         "Markerlights",
         "Schildstörer",
@@ -57,7 +57,7 @@
   ],
   "sections": [
     {
-      "name": "Vior'la Core Verbände",
+      "name": "Vior'la Kern Verbände",
       "formations": [
         {
           "name": "XV8 Crisis Battlesuit Cadre",
@@ -91,7 +91,7 @@
     },
     {
       "name": "Vior'la Unterstützungsverbände",
-      "description": " Bis zu zwei für jeweils Vior'la Core Formation taken",
+      "description": " Bis zu zwei für jeweils Vior'la Kern Formation taken",
       "formations": [
         {
           "name": "Fire Warrior Strike Group",

@@ -3,18 +3,18 @@
 	"version":"1.0.Beta",
 		"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"IRON WARRIORS CORE FORMATIONS", "formations":[
+		{"name":"IRON WARRIORS Kern FORMATIONS", "formations":[
 			{"id":500, "name":"Iron Warriors Retinue", "pts":225, "upgrades":[39,40,41,43,42,52,53,54,55,80]},
 			{"id":501, "name":"Iron Warriors Armoured Company", "pts":275, "upgrades":[] },
 			{"id":502, "name":"Havocs",	"pts":300, "units":"4 Havocs, 2 Chaos Land Raiders", "upgrades":[43]}
 		]},
-		{"name":"IRON WARRIORS ELITE FORMATIONS <br/> Max 1 for each Core formation", "formations":[
+		{"name":"IRON WARRIORS ELITE FORMATIONS <br/> Max 1 for each Kern formation", "formations":[
 			{"id":510, "name":"Chosen", "pts":125, "units":"4 Chosen", "upgrades":[43]},
 			{"id":511, "name":"Bezashk Destroyers",	"pts":200, "units":"Warpsmith, 4 Bezashk Destroyers", "upgrades":[43]},
 			{"id":512, "name":"Dreadnought Assault Pack", "pts":250, "upgrades":[54,55,80]},
 			{"id":513, "name":"Tyrant Terminators", "pts":275, "units":"4 Tyrant Siege Terminators",  "upgrades":[42,52,53,54,55,80]}
 		]},
-		{"name":"IRON WARRIORS SIEGE FORMATIONS <br/> Max 1 for each Core formation", "formations":[
+		{"name":"IRON WARRIORS SIEGE FORMATIONS <br/> Max 1 for each Kern formation", "formations":[
 			{"id":523, "name":"Heavy Siege Engine", "pts":225, "units":"Iron Warriors Stormsword", "upgrades":[42,43,52,53,54,55]},
 			{"id":522, "name":"Bezashk Siege Battery",	"pts":250, "units":"4 Bezashk Medusa", "upgrades":[]},
 			{"id":520, "name":"Iron Warriors Artillery Battery", "pts":250, "upgrades":[] },
@@ -87,8 +87,8 @@
 	"formationConstraints":[
 		{"max":1, "name":"Spacecraft", "from":[538,539]},
 		{"max":1, "name":"Ordinatus Cyclothrathe", "from":[534]},
-		{"max":1, "name":"Iron Warriors Elite Formation", "from":[510,511,512,513], "forEach":[500,501,502], "name2":"Iron Warriors Core Formations"},
-		{"max":1, "name":"Iron Warriors Siege Formation", "from":[520,521,522,523], "forEach":[500,501,502], "name2":"Iron Warriors Core Formation"},
+		{"max":1, "name":"Iron Warriors Elite Formation", "from":[510,511,512,513], "forEach":[500,501,502], "name2":"Iron Warriors Kern Formations"},
+		{"max":1, "name":"Iron Warriors Siege Formation", "from":[520,521,522,523], "forEach":[500,501,502], "name2":"Iron Warriors Kern Formation"},
 		{"maxPercent": 33.5, "name":"Dark Mechanicus & Chaos Navy", "from":[530,531,532,533,534,535,536,537,538,539]}
 	],
 	"upgradeConstraints":[

@@ -4,11 +4,11 @@
    "notes":    ["Add one free Lesser Daemon to the Lesser Daemon Pool per Daemonic Pact. Max four different upgrades per formation"],
    "by":"EA-Ragnarok",
    "sections": [
-      {"name": "THOUSAND SONS CORE", "formations": [
+      {"name": "THOUSAND SONS Kern", "formations": [
 			{"id": 501, "name": "Thousand Sons Retinue", "pts": 275, "upgrades": [22,53,64,65,66,60,57,67,68,62]},
 			{"id": 552, "name": "Daemon Pool", "pts": 0, "upgrades": [50,51,52]}
 	]},
-      {"name": "THOUSAND SONS SUPPORT <br/> Max 2 for each Core formation", "formations": [
+      {"name": "THOUSAND SONS SUPPORT <br/> Max 2 for each Kern formation", "formations": [
 			{"id": 503, "name": "Thousand Sons Terminators", "pts": 400, "units": "4 Thousand Sons Terminators", "upgrades": [22,63,70,71,53,64,65,66,56,60,57,67,68]},
 			{"id": 506, "name": "Thousand Sons Defiler Pack", "pts": 275, "units": "4 Thousand Sons Defilers",  "upgrades": [63]},
 			{"id": 508, "name": "Disc Riders", "pts": 275, "units": "8 Disc Riders", "upgrades": [56,60]},
@@ -29,13 +29,13 @@
        {"id": 14, "name": "Daemon Prince (Replaces the Chaos Lord and its unit)", "pts": 50},
        {"id": 15, "name": "Daemon Prince (Supreme Commander. Replaces the Chaos Lord and its unit)", "pts": 100},
        {"id": 16, "name": "Chaos Lord", "pts": 0},
-       {"id": 17, "name": "Cabal of Sorcerers w/ Chaos Warlord (Supreme Commander)", "pts": 50},
-       {"id": 18, "name": "Chaos Sorcerer", "pts": 0},
+       {"id": 17, "name": "Cabal of Hexers w/ Chaos Warlord (Supreme Commander)", "pts": 50},
+       {"id": 18, "name": "Chaos Hexer", "pts": 0},
        {"id": 19, "name": "Daemon Prince", "pts": 50},
        {"id": 20, "name": "Chaos Warlord (Supreme Commander)", "pts": 50},
        {"id": 21, "name": "Daemon Prince (Supreme Commander)", "pts": 100},
  	  {"id": 22, "name": "Chaos Champion", "pts": 50},
-       {"id": 23, "name": "Cabal of Sorcerers", "pts": 0},
+       {"id": 23, "name": "Cabal of Hexers", "pts": 0},
        {"id": 27, "name": "Chaos Predator", "pts": 50},
  	  {"id": 28, "name": "Chaos Vindicator", "pts": 35},
  	  {"id": 29, "name": "Chaos Predator", "pts": 50},
@@ -45,7 +45,7 @@
       {"id": 39, "name": "Firelord", "pts": 100},
       {"id": 50, "name": "Greater Daemon", "pts": 50},
       {"id": 51, "name": "Lesser Daemon", "pts": 15},
-      {"id": 52, "name": "Lesser Daemon (Daemonic Pact / Cabal of Sorcerers)", "pts": 0},
+      {"id": 52, "name": "Lesser Daemon (Daemonic Pact / Cabal of Hexers)", "pts": 0},
       {"id": 53, "name": "Chaos Land Raider", "pts": 75},
       {"id": 56, "name": "Daemonic Pact", "pts": 25},
       {"id": 57, "name": "Thousand Sons Defiler", "pts": 75},

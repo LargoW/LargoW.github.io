@@ -8,15 +8,15 @@
 		{"name":"DAEMONS", "formations":[
 			{"id":500, "name":"Daemon Pool", "pts":0, "upgrades":[71,72,74]}
 		]},
-			{"name":"EMPERORS CHILDREN CORE FORMATIONS", "formations":[
+			{"name":"EMPERORS CHILDREN Kern FORMATIONS", "formations":[
 			{"id":501, "name":"Emperor's Children Retinue", "pts":275, "units": "3 Chaos Space Marines, Daemonic Pact", "upgrades":[14,15,30,31,35,44,80]}
 		]},
-		{"name":"EMPERORS CHILDREN ELITE FORMATIONS <br/> Max 1 for each Core formation", "formations":[
+		{"name":"EMPERORS CHILDREN ELITE FORMATIONS <br/> Max 1 for each Kern formation", "formations":[
 			{"id":502, "name":"Emperor's Children Terminators", "pts":400, "units": "4 Sirenshriek Terminators, Daemonic Pact", "upgrades":[14,15,32,35,80]},
 			{"id":503, "name":"Chosen", "pts":175, "units":"4 Chosen, Daemonic Pact", "upgrades":[]}
 		]},
-		{"name":"EMPERORS CHILDREN SUPPORT FORMATIONS <br/> Max 2 for each Core formation", "formations":[
-			{"id":504, "name":"Bike Company",	"pts":250, "units":"6 Chaos Assault Bikes, Daemonic Pact", "upgrades":[14]},
+		{"name":"EMPERORS CHILDREN SUPPORT FORMATIONS <br/> Max 2 for each Kern formation", "formations":[
+			{"id":504, "name":"Bike Company",	"pts":250, "units":"6 Chaos Space Marine Bikes, Daemonic Pact", "upgrades":[14]},
 			{"id":505, "name":"Raptor Cult",	"pts":80, "units":"Daemonic Pact", "upgrades":[17]},
 			{"id":506, "name":"Armoured Company", "pts":0, "upgrades":[44] }
 		]},
@@ -35,7 +35,7 @@
 	],
 	"upgrades":[
 	{"id":10, "name":"Chaos Lord", 		"pts":0},
-		{"id":11, "name":"Sorcerer Lord", 		"pts":0},
+		{"id":11, "name":"Hexer Lord", 		"pts":0},
 		{"id":12, "name":"Chaos Warlord", 		"pts":50},
 		{"id":13, "name":"Daemon Prince (replaces one unit of Chaos Space Marines)", 		"pts":100},
 		{"id":16, "name":"Daemon Prince (replaces one unit of Emperor's Children Terminators)", 		"pts":100},
@@ -79,8 +79,8 @@
 	],
 	"formationConstraints":[
 		{"max":1, "name":"Spacecraft", "from":[520,521]},
-		{"max":1, "name":"Emperor's Children Elite Formation", "from":[502,503], "forEach":[501], "name2":"Emperor's Children Core Formation"},
-		{"max":2, "name":"Emperor's Children Support Formations", "from":[504,505,506], "forEach":[501], "name2":"Emperor's Children Core Formation"},
+		{"max":1, "name":"Emperor's Children Elite Formation", "from":[502,503], "forEach":[501], "name2":"Emperor's Children Kern Formation"},
+		{"max":2, "name":"Emperor's Children Support Formations", "from":[504,505,506], "forEach":[501], "name2":"Emperor's Children Kern Formation"},
 		{"min":1, "max":1, "from":[500]},
 		{"maxPercent": 33.5, "name":"Daemon Engines & Chaos Navy", "from":[510,511,512,513,514,515,517,518,519,520,521]}
 	],

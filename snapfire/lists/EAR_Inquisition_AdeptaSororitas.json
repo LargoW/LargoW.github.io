@@ -5,10 +5,10 @@
    "notes":["No more transports than needed to carry the formation with no space left over."],
 
    "sections": [
-        {"name": "SORORITAS CORE FORMATIONS", "formations": [
+        {"name": "SORORITAS Kern FORMATIONS", "formations": [
             {"id": 500, "name": "Mission", "pts": 225, "upgrades": [10,11,12,16,13]}
 	  ]},
-        {"name": "SORORITAS SUPPORT FORMATIONS <br/> Max 2 for each Core Formation", "formations": [
+        {"name": "SORORITAS SUPPORT FORMATIONS <br/> Max 2 for each Kern Formation", "formations": [
         {"id": 515, "name": "Immolation", "pts": 275, "units": "Palatine, 3 Celestian Sisters, 3 Sororitas Immolators", "upgrades": []},
 	    {"id": 510, "name": "Exorcism", "pts": 225, "upgrades": [16]},
 	    {"id": 511, "name": "Seraph", "pts": 225,  "upgrades": []},
@@ -16,7 +16,7 @@
         {"id": 521, "name": "Repentance", "pts": 175, "units": "3 Repentia Sisters, 3 Mortifiers", "upgrades": []},
         {"id": 513, "name": "Dominus", "pts": 175, "units": "Palatine, 4 Dominion Sisters", "upgrades": []}
          ]},
-        {"name": "ORDO HERETICUS FORMATIONS <br/> Max 1 for each Core Formation or Inquisitor Retinue", "formations": [
+        {"name": "ORDO HERETICUS FORMATIONS <br/> Max 1 for each Kern Formation or Inquisitor Retinue", "formations": [
             {"id": 520, "name": "Ordo Hereticus Inquisitor Retinue", "pts": 250, "units": "5 Storm Troopers, 3 Chimeras", "upgrades": [25,26]},
 	        {"id": 522, "name": "Redemption", "pts": 150, "units": "Ministorum Priest, 6 Redemptionists", "upgrades": [25]},
             {"id": 523, "name": "Infernus", "pts": 175, "units": "4 Hellhounds", "upgrades": []}
@@ -82,8 +82,8 @@
       {"max": 1, "from": [534]},
       {"max": 1, "from": [520]},
       {"maxPercent": 33.5, "name": "Imperial Navy", "from": [532,533,534,535]},
-      {"max": 2, "name": "Sororitas Support Formations", "from": [510,521,511,512,513,514,515], "forEach": [500], "name2": "Core Formation" },
-      {"max": 1, "name": "Ordo Hereticus Formations", "from": [522,523], "forEach": [500], "name2": "Core Formation or Inquisitor Retinue" }
+      {"max": 2, "name": "Sororitas Support Formations", "from": [510,521,511,512,513,514,515], "forEach": [500], "name2": "Kern Formation" },
+      {"max": 1, "name": "Ordo Hereticus Formations", "from": [522,523], "forEach": [500], "name2": "Kern Formation or Inquisitor Retinue" }
    ],
    "upgradeConstraints": [
 	  {"max": 1, "perArmy": true, "from": [3,8,24]},

@@ -7,11 +7,11 @@
   "strategy": "Baranische Belagerungsmeister Armeen haben einen Strategiewert von 2.",
   "Initiative": "Alle Verbände haben einen Initiativewert von 2+.",
   "specialRules": [
-    "Baran Regiments HQ",
+    "Baran Regiments Hauptquartier",
     "Belagerungsmeister",
     "Mut, Disziplin und Loyalität",
     "Tunnelgräber",
-    "Fortified Positions"
+    "Befestigte Stellungen"
   ],
   "usage": [
     "Der folgende Armeeorganisationsplan ermöglicht es eine Armee der Baranischen Belagerungsmeister aufzustellen"
@@ -20,7 +20,7 @@
     {
       "from": "IG.json",
       "units": [
-        "Baranische Belagerungsmeister",
+        "Baranischer Belagerungsmeister",
         "Baranischer Befehlshaber",
         "Kommissar",
         "Siege Infanterie",
@@ -67,14 +67,14 @@
   ],
   "sections": [
     {
-      "name": "Core Kompanieverbände",
-      "description": "Ein Siegemaster Regiments HQ must be taken. Jeweils Core Kompanie formation must take between eine und drei Erweiterungen. Jeweils upgrade may be taken only once.",
+      "name": "Kern Kompanieverbände",
+      "description": "Ein Siegemaster Regiments Hauptquartier must be taken. Jeweils Kern Kompanie formation must take between eine und drei Erweiterungen. Jeweils upgrade may be taken only once.",
       "formations": [
         {
-          "name": "1 Siegemaster Regiments HQ",
-          "units": "Ein Baranische Belagerungsmeister mit einem Kommissar, neun Siege Infanterie",
+          "name": "1 Siegemaster Regiments Hauptquartier",
+          "units": "Ein Baranischer Belagerungsmeister mit einem Kommissar, neun Siege Infanterie",
           "extraUnits": [
-              "40cm of Razor Wire und 4cm of Trenches für jeweils unit of INF in the formation: 50 Punkte. Ersetze 24cm of Trenches with zwei Bunkers: 25 Punkte",
+              "40cm of Stacheldraht und 4cm of Gräben für jeweils unit of INF in the formation: 50 Punkte. Ersetze 24cm of Gräben with zwei Bunkers: 25 Punkte",
               "Fünf Siege Infanterie, oder zwei Scharfschützen, oder zwei Pioniere, oder zwei Ogryns: 50 Punkte",
               "Vier Rapiers, oder drei Mole Launcher Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafettes with zwei Gun Emplacements, oder eine Todesstoss-Raketensystem: 75 Punkte",
               "Ein Defense Laser, oder zwei Malcadors, oder zwei Malcador Defenders: 150 Punkte"
@@ -85,7 +85,7 @@
           "name": "Siege Infanterie Kompanie",
           "units": "Ein Baranischer Befehlshaber mit einem Kommissar, neun Siege Infanterie",
           "extraUnits": [
-              "40cm of Razor Wire und 4cm of Trenches für jeweils unit of INF in the formation: 50 Punkte. Ersetze 24cm of Trenches with zwei Bunkers: 25 Punkte",
+              "40cm of Stacheldraht und 4cm of Gräben für jeweils unit of INF in the formation: 50 Punkte. Ersetze 24cm of Gräben with zwei Bunkers: 25 Punkte",
               "Fünf Siege Infanterie, oder zwei Scharfschützen, oder zwei Pioniere, oder zwei Ogryns: 50 Punkte",
               "Vier Rapiers, oder drei Mole Launcher Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafettes with zwei Gun Emplacements, oder eine Todesstoss-Raketensystem: 75 Punkte",
               "Ein Defense Laser, oder zwei Malcadors, oder zwei Malcador Defenders: 150 Punkte"
@@ -96,7 +96,7 @@
     },
     {
       "name": "Baran Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
+      "description": " Bis zu zwei Unterstützungsverbände für jeweils Kern Kompanie.",
       "formations": [
           {
             "name": "Heavy Panzer Kompanie",
@@ -145,9 +145,9 @@
         },
         {
           "name": "Light Artillerie Emplacement",
-          "units": "Vier Rapiers, vier Thudd Guns, oder vier Mole Launchers, with 16cm Trenches",
+          "units": "Vier Rapiers, vier Thudd Guns, oder vier Mole Launchers, with 16cm Gräben",
           "extraUnits": [
-              "Füge vier units of the same type, 16cm Trenches, und a Kommissar: 125 Punkte"
+              "Füge vier units of the same type, 16cm Gräben, und a Kommissar: 125 Punkte"
           ],
           "points": 150
         },

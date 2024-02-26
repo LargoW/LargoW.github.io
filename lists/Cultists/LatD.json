@@ -7,9 +7,9 @@
   "strategy": "Lost und the Damned Armeen haben einen Strategiewert von 1.",
   "Initiative": "Chaos Space Marine Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
-    "Summoning",
-    "Lost und the Damned Summoning Rules",
-    "LatD Eternal Animosity"
+    "Beschwörung",
+    "Lost und the Damned Beschwörungs Regeln",
+    "LatD Eternal Animösität"
   ],
   "usage": [
     "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Lost und the Damned, the Cultists of Chaos."
@@ -84,15 +84,15 @@
     {
       "from": "daemons.json",
       "units": [
-        "Daemonettes of Slaanesh",
+        "Dämonetten des Slaanesh",
         "Plaguebearers des Nurgle",
         "Bloodletters des Khorne",
         "Horrors des Tzeentch",
-        "Keeper of Secrets",
-        "Great Unclean Ein",
-        "Bloodthirster",
-        "Lord of Change",
-        "Daemonic Beasts of Chaos Undivided"
+        "Hüter der Geheimnisse",
+        "Großer Verpester",
+        "Blutdämon",
+        "Herrscher des Wandels",
+        "Dämonenbestien des ungeteilten Chaos"
       ],
       "unitRules": [
       ]

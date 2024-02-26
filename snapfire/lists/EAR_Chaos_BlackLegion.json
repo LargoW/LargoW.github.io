@@ -8,14 +8,14 @@
 		{"name":"DAEMONS", "formations":[
 			{"id":500, "name":"Daemon Pool", "pts":0, "upgrades":[71,72,73]}
 		]},
-		{"name":"BLACK LEGION CORE FORMATIONS", "formations":[
+		{"name":"BLACK LEGION Kern FORMATIONS", "formations":[
 			{"id":501, "name":"Black Legion Retinue", "pts":275, "upgrades":[14,15,40,41,42,43,44,70,80]}
 		]},
-		{"name":"BLACK LEGION ELITE FORMATIONS <br/> Max 1 for each Core formation", "formations":[
+		{"name":"BLACK LEGION ELITE FORMATIONS <br/> Max 1 for each Kern formation", "formations":[
 			{"id":503, "name":"Chosen", "pts":150, "units":"4 Chosen", "upgrades":[70]},
 			{"id":502, "name":"Chaos Terminators", "pts":275, "units":"4 Chaos Terminators", "upgrades":[14,15,41,42,51,70,80]}
 		]},
-		{"name":"BLACK LEGION SUPPORT FORMATIONS <br/> Max 2 for each Core formation", "formations":[
+		{"name":"BLACK LEGION SUPPORT FORMATIONS <br/> Max 2 for each Kern formation", "formations":[
 			{"id":505, "name":"Raptor Cult",	"pts":55,  "upgrades":[21,70]},
 			{"id":506, "name":"Armoured Company", "pts":200, "upgrades":[43,44] },
 			{"id":507, "name":"Havocs",	"pts":200, "units":"4 Havocs", "upgrades":[43,44,70]},
@@ -37,7 +37,7 @@
 	],
 	"upgrades":[
 		{"id":10, "name":"Chaos Lord", 		"pts":0},
-		{"id":11, "name":"Sorcerer Lord", 		"pts":0},
+		{"id":11, "name":"Hexer Lord", 		"pts":0},
 		{"id":12, "name":"Chaos Warlord", 		"pts":50},
 		{"id":13, "name":"Daemon Prince (replaces one unit of Chaos Space Marines or Havocs)", 		"pts":100},
 		{"id":16, "name":"Daemon Prince (replaces one unit of Chaos Terminators)", 		"pts":100},
@@ -96,8 +96,8 @@
 	],
 	"formationConstraints":[
 		{"max":1, "name":"Spacecraft", "from":[520,521]},
-		{"max":1, "name":"Black Legion Elite Formation", "from":[502,503], "forEach":[501], "name2":"Black Legion Core Formation"},
-		{"max":2, "name":"Black Legion Support Formations", "from":[504,505,506,507], "forEach":[501], "name2":"Black Legion Core Formation"},
+		{"max":1, "name":"Black Legion Elite Formation", "from":[502,503], "forEach":[501], "name2":"Black Legion Kern Formation"},
+		{"max":2, "name":"Black Legion Support Formations", "from":[504,505,506,507], "forEach":[501], "name2":"Black Legion Kern Formation"},
 		{"max":1, "from":[500]},
 		{"maxPercent": 33.5, "name":"Daemon Engines, Titans & Chaos Navy", "from":[511,512,513,514,515,516,517,518,519,520,521]}
 	],

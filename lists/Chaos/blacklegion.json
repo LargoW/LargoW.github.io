@@ -6,10 +6,10 @@
   "armyforge": "EAR_Chaos_BlackLegion",
   "intro": "The Black Legion is meant to cover a wide variety of Undivided Chaos Space Marine Warbands und armies, und thus has access to a wider variety of unit types than other CSM lists.",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "All Black Legion Core, Elite und Unterstützungsverbände, as well as all Traitor Titan Verbände, have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "All Black Legion Kern, Elite und Unterstützungsverbände, as well as all Traitor Titan Verbände, have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
-    "Summoning",
-    "Black Legion Summoning Rules",
+    "Beschwörung",
+    "Black Legion Beschwörungs Regeln",
     "Fickle Masters",
     "Black Legion Dreadclaws",
     "Black Legion Characters"
@@ -18,23 +18,23 @@
     {
       "from": "CSM.json",
       "units": [
-        Kriegsherr,
+        "Kriegsherr",
         "Chaos Lord",
-        "Sorcerer Lord",
+        "Hexer Lord",
         "Champion des Chaos",
         "Ikonenträger",
         "Dämonenprinz",
         "Chaos Space Marines",
         "Havocs",
         "Auserwählte",
-        "Raptors",
+        "Raptoren",
         "Chaos Terminatoren",
         "Noise Marines",
         "Seuchenmarines",
         "Khorne Berserker",
         "Rubric Marines",
         "Kyborgs",
-        "Chaos Assault Bikes",
+        "Chaos Space Marine Bikes",
         "Chaos Rhino",
         "Chaos Land Raider",
         "Chaos Predator",
@@ -61,15 +61,15 @@
     {
       "from": "daemons.json",
       "units": [
-        "Daemonettes of Slaanesh",
+        "Dämonetten des Slaanesh",
         "Plaguebearers des Nurgle",
         "Bloodletters des Khorne",
         "Horrors des Tzeentch",
-        "Keeper of Secrets",
-        "Great Unclean Ein",
-        "Bloodthirster",
-        "Lord of Change",
-        "Daemonic Beasts of Chaos Undivided"
+        "Hüter der Geheimnisse",
+        "Großer Verpester",
+        "Blutdämon",
+        "Herrscher des Wandels",
+        "Dämonenbestien des ungeteilten Chaos"
       ],
       "unitRules": [
       ]
@@ -101,11 +101,11 @@
   ],
   "sections": [
     {
-      "name": "Black Legion Core Verbände",
+      "name": "Black Legion Kern Verbände",
       "formations": [
         {
           "name": "Black Legion Retinue",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, acht Chaos Space Marines",
+          "units": "Ein Chaos Lord oder Hexer Lord, acht Chaos Space Marines",
           "extraUnits": [
             "Oberbefehlshaber",
             "Transport",
@@ -125,7 +125,7 @@
     },
     {
       "name": "Black Legion Elite Verbände",
-      "description": "Ein Elite formation may be taken pro Core formation",
+      "description": "Ein Elite formation may be taken pro Kern formation",
       "formations": [
         {
           "name": "Auserwählte",
@@ -138,7 +138,7 @@
         },
         {
           "name": "Chaos Terminatoren",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Chaos Terminatoren",
+          "units": "Ein Chaos Lord oder Hexer Lord, vier Chaos Terminatoren",
           "extraUnits": [
             "Oberbefehlshaber",
             "Champion",
@@ -155,13 +155,13 @@
     },
     {
       "name": "Black Legion Unterstützungsverbände",
-      "description": "Zwei Unterstützungsverbände may be taken pro Core formation",
+      "description": "Zwei Unterstützungsverbände may be taken pro Kern formation",
       "formations": [
         {
           "name": "Raptor Cult",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Raptors",
+          "units": "Ein Chaos Lord oder Hexer Lord, vier Raptoren",
           "extraUnits": [
-            "Füge bis zu vier Raptors: 30 Punkte jeweils",
+            "Füge bis zu vier Raptoren: 30 Punkte jeweils",
             "Dämonischer Pakt"
           ],
           "points": 175
@@ -178,7 +178,7 @@
         },
         {
           "name": "Havocs",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Havocs, zwei Chaos Rhinos",
+          "units": "Ein Chaos Lord oder Hexer Lord, vier Havocs, zwei Chaos Rhinos",
           "extraUnits": [
             "Ersetze zwei Chaos Rhinos with Chaos Land Raiders: 75 Punkte",
             "Dämonischer Pakt",
@@ -189,7 +189,7 @@
         },
         {
           "name": "Bike Kompanie",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, acht Chaos Assault Bikes",
+          "units": "Ein Chaos Lord oder Hexer Lord, acht Chaos Space Marine Bikes",
           "extraUnits": [
             "Dämonischer Pakt",
             "Ikonenträger"
@@ -367,8 +367,8 @@
     ]
   },
   "about": [
-    "The EA-R Black Legion list is based on the NetEA version, but has some significant differences. Factions are gone, und the list is instead Chaos Undivided, but with cheaper summoning costs. Horrors have replaced Flammenwerfer as the basic Tzeentch lesser daemon, und the Daemonic Beast has been replaced with the Furies. These zwei changes are both für thematic reasons but mostly to better balance the different basic lesser daemons against eine another. All Daemon type units always have Unmodifizierter Rettungswurf, both für theme und to reduce confusion.",
+    "The EA-R Black Legion list is based on the NetEA version, but has some significant differences. Factions are gone, und the list is instead Chaos Undivided, but with cheaper Beschwörung costs. Horrors have replaced Flammenwerfer as the basic Tzeentch lesser daemon, und the Daemonic Beast has been replaced with the Furies. These zwei changes are both für thematic reasons but mostly to better balance the different basic lesser daemons against eine another. All Daemon type units always have Unmodifizierter Rettungswurf, both für theme und to reduce confusion.",
     "Havocs und Cult Marines now replace Chaos Space Marines in the Retinue rather than adding to them. Auserwählte may no longer take Dreadclaws, und come with Chaos Rhinos as standard, but may replace the Rhinos with Chaos Cybots. Chaos Cybots have a Reaper Maschinenkanone instead of a Synchronisierter Maschinenkanone to bring it to parity with the Feuerkraft of a Loyalist Cybot. A Chaos Stalker has been added to the list in order to reduce the list's reliance on Kyborgs. Kyborgs can only be added to Chaos Terminatoren.",
-    "Chaos Land Raiders are cheaper, in line mit einemgeneral reduction of transport vehicle costs. The Armoured Kompanie has been moved from the Core section to support, but can take Stalkers, und the Land Raiders are slightly cheaper as an upgrade. The Raptor formation is bigger, but is slightly cheaper für the size. All Daemon Engines have 2+ Initiative und always have an Unmodifizierter Rettungswurf. To compensate für the loss in initiative, they also have a Daemon Engine (x) rule which makes jeweils power's units act thematically und be a bit more dependable in some aspect. This has made it possible to make Defiler type Verbände significantly cheaper. Hell Blade Interceptors have the E-UK stats, und the Harbringer Bomber has been moved to the Iron Warriors army. The Chaos Titans have been reduced in cost und has changed stats in line with other Imperial Titans. The Chaos Battleship is slightly cheaper und has the 'Slow to Arrive' rule instead of 'Slow und Steady'."
+    "Chaos Land Raiders are cheaper, in line mit einemgeneral reduction of transport vehicle costs. The Armoured Kompanie has been moved from the Kern section to support, but can take Stalkers, und the Land Raiders are slightly cheaper as an upgrade. The Raptor formation is bigger, but is slightly cheaper für the size. All Daemon Engines have 2+ Initiative und always have an Unmodifizierter Rettungswurf. To compensate für the loss in initiative, they also have a Daemon Engine (x) rule which makes jeweils power's units act thematically und be a bit more dependable in some aspect. This has made it possible to make Defiler type Verbände significantly cheaper. Hell Blade Interceptors have the E-UK stats, und the Harbringer Bomber has been moved to the Iron Warriors army. The Chaos Titans have been reduced in cost und has changed stats in line with other Imperial Titans. The Chaos Battleship is slightly cheaper und has the 'Slow to Arrive' rule instead of 'Slow und Steady'."
   ]
 }

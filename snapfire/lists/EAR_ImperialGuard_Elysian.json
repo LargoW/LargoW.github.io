@@ -3,11 +3,11 @@
 	"version":"0.5.0",
 	"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"ELYSIAN CORE COMPANIES", "formations":[
+		{"name":"ELYSIAN Kern COMPANIES", "formations":[
 			{"id":502, "name":"Regimental HQ", "pts":350, "upgrades":[12], "units":"Elysian Supreme Commander with Commissar,  4 Valkyries"},
 			{"id":500, "name":"Drop Troop Company", "pts":300, "upgrades":[12], "units":"Elysian Commander with Commissar, 4 Valkyries"}
 		]},
-		{"name":"ELYSIAN SUPPORT FORMATIONS <br/> Max 2 for each Core Company Formation", "formations":[
+		{"name":"ELYSIAN SUPPORT FORMATIONS <br/> Max 2 for each Kern Company Formation", "formations":[
 			{"id":510, "name":"Elysian Commando Company", "pts":300, "upgrades":[22], "units":"Commissar, 6 Elysian Storm Troopers, 3 Valkyries"},
 			{"id":511, "name":"Tauros Venator Squadron", "pts":200, "upgrades":[21], "units":"6 Tauros Venators"},
 			{"id":512, "name":"Tauros Recon Squadron", "pts":150, "upgrades":[21], "units":"4 Tauros"},
@@ -47,7 +47,7 @@
 	"formationConstraints":[
 		{"max":1, "from":[502]},
 		{"max":1, "from":[524]},
-		{"max":2, "name":"Support Formations", "from":[510,511,512,513,514,518,519], "forEach":[500,502], "name2":"Core Company"},
+		{"max":2, "name":"Support Formations", "from":[510,511,512,513,514,518,519], "forEach":[500,502], "name2":"Kern Company"},
 		{"max":1, "name":"Tarantula formation", "from":[520], "forEach":[512], "name2":"Tauros Recon Squadron"},
 		{"maxPercent": 33.5, "name":"Static Defenses and Imperial Navy formations", "from":[520,521,522,523,524,525,526]}
 	],
