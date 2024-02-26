@@ -166,7 +166,7 @@
     },
     {
           "id": 507,
-          "name": "Lictor Swarm",
+          "name": "Liktor Swarm",
           "pts": 100,
           "upgrades": [
             142
@@ -197,32 +197,32 @@
   "upgrades": [
     {
       "id": 100,
-      "name": "Gaunts (5 Termagants)",
+      "name": "Gaunts (5 Termaganten#)",
       "pts": 50
     },
     {
       "id": 101,
-      "name": "Gaunts (4 Termagants, Hormagaunt)",
+      "name": "Gaunts (4 Termaganten#, Hormagaunt)",
       "pts": 50
     },
 	    {
       "id": 102,
-      "name": "Gaunts (3 Termagants, 2 Hormagaunt)",
+      "name": "Gaunts (3 Termaganten#, 2 Hormagaunt)",
       "pts": 50
     },
 	    {
       "id": 103,
-      "name": "Gaunts (2 Termagants, 3 Hormagaunts)",
+      "name": "Gaunts (2 Termaganten#, 3 Hormaganten)",
       "pts": 50
     },
 	    {
       "id": 104,
-      "name": "Gaunts (Termagants, 4 Hormagaunts)",
+      "name": "Gaunts (Termaganten#, 4 Hormaganten)",
       "pts": 50
     },
 	    {
       "id": 105,
-      "name": "Gaunts (5 Hormagaunts)",
+      "name": "Gaunts (5 Hormaganten)",
       "pts": 50
     },
     {
@@ -287,7 +287,7 @@
     },
     {
       "id": 120,
-      "name": "Mycetic Spore // May transport Termagants, Hormagaunts, Biovores, Carnifex, Raveners, Hive Tyrants, Dagon Overlord, Tyranid Warriors, Zoanthropes // Transported units may not have Wings",
+      "name": "Mycetic Spore // May transport Termaganten#, Hormaganten, Biovores, Carnifex, Raveners, Hive Tyrants, Dagon Overlord, Tyranid Warriors, Zoanthropes // Transported units may not have Wings",
       "pts": 50
     },
     {
@@ -302,7 +302,7 @@
     },
     {
       "id": 142,
-      "name": "Dagon Lictors",
+      "name": "Dagon Liktoren",
       "pts": 25
     },
     {
@@ -332,32 +332,32 @@
     },
     {
 	  "id": 179,
-      "name": "Gaunts (5 Termagants)",
+      "name": "Gaunts (5 Termaganten#)",
       "pts": 50
     },
     {
 	  "id": 180,
-      "name": "Gaunts (4 Termagants, Hormagaunt)",
+      "name": "Gaunts (4 Termaganten#, Hormagaunt)",
       "pts": 50
     },
 	{
       "id": 181,
-      "name": "Gaunts (3 Termagants, 2 Hormagaunt)",
+      "name": "Gaunts (3 Termaganten#, 2 Hormagaunt)",
       "pts": 50
     },
 	    {
       "id": 182,
-      "name": "Gaunts (2 Termagants, 3 Hormagaunts)",
+      "name": "Gaunts (2 Termaganten#, 3 Hormaganten)",
       "pts": 50
     },
 	    {
       "id": 183,
-      "name": "Gaunts (Termagants, 4 Hormagaunts)",
+      "name": "Gaunts (Termaganten#, 4 Hormaganten)",
       "pts": 50
     },
 	    {
       "id": 184,
-      "name": "Gaunts (5 Hormagaunts)",
+      "name": "Gaunts (5 Hormaganten)",
       "pts": 50
     },
 	{

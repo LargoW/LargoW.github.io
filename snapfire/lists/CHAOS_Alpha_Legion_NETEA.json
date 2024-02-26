@@ -39,7 +39,7 @@
 		{ "id":11, "name":"Army benefits from the ''I'm Alpharius!'' special rule", "pts":75 },
 		{ "id":12, "name":"Lesser Daemon", "pts":15 },
 
-		{ "id":20, "name":"Alpha Legion Sorcerer", "pts":0 },
+		{ "id":20, "name":"Alpha Legion Hexer", "pts":0 },
 		{ "id":21, "name":"Alpha Legion Lord", "pts":0 },
 		{ "id":23, "name":"1 Alpha Legion Cultist w. Daemonic Icon", "pts":0 },
 		{ "id":26, "name":"1 Alpha Legion Aspiring Champion w. Daemonic Icon", "pts":25},

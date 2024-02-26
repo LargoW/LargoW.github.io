@@ -38,7 +38,7 @@
 		{ "id":11, "name":"Lesser Daemon", "pts":15 },
 		{ "id":12, "name":"Greater Daemon", "pts":50 },
 		{ "id":13, "name":"Chaos Lord", "pts":0 },
-		{ "id":14, "name":"Sorcerer Lord", "pts":0 },
+		{ "id":14, "name":"Hexer Lord", "pts":0 },
 		{ "id":15, "name":"Chaos Warlord (Supreme Commander)", "pts":50 },
 		{ "id":16, "name":"Daemon Prince", "pts":50 },
 		{ "id":17, "name":"Emperor's Children Dreadnought", "pts":50 },

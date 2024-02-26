@@ -10,7 +10,7 @@
     "Beschwörung",
     "Slaves to Darkness Beschwörungs Regeln",
     "Fickle Masters",
-    "StD Eternal Animosity"
+    "StD Eternal Animösität"
   ],
   "usage": [
     "The following army list allows you to field an army based on a Renegade Imperial Guard regiment with Chaos allies."
@@ -29,8 +29,8 @@
         "Land Transporter"
       ],
       "unitRules": [
-        "Augment Beschwörung (+x)",
-        "Daemonic Focus"
+        "Verbesserte Beschwörung (+x)",
+        "Dämonischer Fokuspunkt"
       ]
     },
     {
@@ -65,11 +65,11 @@
     {
       "from": "daemons.json",
       "units": [
-        "Daemonettes of Slaanesh",
-        "Plaguebearers of Nurgle",
-        "Bloodletters of Khorne",
-        "Horrors of Tzeentch",
-        "Daemonic Beasts of Chaos Undivided"
+        "Dämonetten des Slaanesh",
+        "Seuchenhüter des Nurgle",
+        "Zerfleischer des Khorne",
+        "Horrors des Tzeentch",
+        "Dämonenbestien des ungeteilten Chaos"
       ],
       "unitRules": []
     },
@@ -193,7 +193,7 @@
           "name": "Chaos Space Marines of Chaos Undivided",
           "units": "Sechs Chaos Space Marines, drei Chaos Rhinos",
           "extraUnits": [
-            "Füge Daemonic Pact to the formation: 25 Punkte"
+            "Füge Dämonischer Pakt to the formation: 25 Punkte"
           ],
           "points": 250
         },
@@ -258,7 +258,7 @@
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool Punkte. Füge eine point to the Lesser Daemon pool für jeweils Daemonic Icon oder Daemonic Pact in the army.",
+      "description": "Any amount may be spent on Daemon Pool Punkte. Füge eine point to the Lesser Daemon pool für jeweils Daemonic Icon oder Dämonischer Pakt in the army.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",

@@ -3,15 +3,15 @@
   "army": "Cult of the Rusted Claw",
   "version": "1.0.Beta",
   "release": "2022-04-01",
-  "armyforge": "EAR_GenestealerCult_Cult",
-  "intro": "The Cult of the Rusted Claw army list allows you to field an army based on the Cult of the Rusted Claw genestealer cult. The list represents an army made up of units from all stages of the Genestealer infection cycle.",
-  "strategy": "Genestealer Cult Armeen haben einen Strategiewert von 2.",
+  "armyforge": "EAR_SymbiontenCult_Cult",
+  "intro": "The Cult of the Rusted Claw army list allows you to field an army based on the Cult of the Rusted Claw Symbiontenkult. The list represents an army made up of units from all stages of the Symbionten infection cycle.",
+  "strategy": "Symbiontenkult Armeen haben einen Strategiewert von 2.",
   "Initiative": "All Verbände haben eine Initiativewert von 2+, und are subject to the 'Broodmind' Sonderregel.",
   "specialRules": [
     "Broodcoven",
     "Broodmind",
-    "Extreme Mobility (Genestealer Cult)",
-    "Genestealer Cult Charaktermodelle",
+    "Extreme Mobility (Symbiontenkult)",
+    "Symbiontenkult Charaktermodelle",
     "Tunnelgräber"
   ],
   "units": [
@@ -19,12 +19,12 @@
       "from": "GS2.json",
       "units": [
         "Brood Lord",
-        "Genestealer Magus",
-        "Genestealer Patriarch",
-        "Genestealer Primus",
+        "Symbionten Magus",
+        "Symbionten Patriarch",
+        "Symbionten Primus",
         "Hybrid Iconward",
         "Acolyte Hybrids",
-        "Genestealers",
+        "Symbionten",
         "Aberrants",
         "Metamorph Hybrids",
         "Neophytes",
@@ -73,10 +73,10 @@
       "formations": [
         {
           "name": "1 Broodcoven",
-          "units": "Ein Genestealer Patriarch und acht Metamorph Hybrids",
+          "units": "Ein Symbionten Patriarch und acht Metamorph Hybrids",
           "extraUnits": [
             "Cult Transports",
-            "Genestealers",
+            "Symbionten",
             "Technicals"
           ],
           "points": 275
@@ -112,10 +112,10 @@
           "points": 225
         },
         {
-          "name": "Genestealer Swarm",
-          "units": "Ein Brood Lord, sechs Genestealers",
+          "name": "Symbionten Swarm",
+          "units": "Ein Brood Lord, sechs Symbionten",
           "extraUnits": [
-            "Genestealers"
+            "Symbionten"
           ],
           "points": 200
         },
@@ -237,14 +237,14 @@
       },
       {
         "name": "Coven Anführer",
-        "description": "Ersetze a Hybrid Iconward mit einemGenestealer Primus oder Genestealer Magus.",
+        "description": "Ersetze a Hybrid Iconward mit einemSymbionten Primus oder Symbionten Magus.",
         "options": [
           {
-            "description": "Genestealer Primus",
+            "description": "Symbionten Primus",
             "points": "25 Punkte"
           },
           {
-            "description": "Genestealer Magus",
+            "description": "Symbionten Magus",
             "points": "25 Punkte"
           }
         ]
@@ -268,8 +268,8 @@
         "points": "50 Punkte"
       },
       {
-        "name": "Genestealers",
-        "description": "Füge bis zu drei Genestealers",
+        "name": "Symbionten",
+        "description": "Füge bis zu drei Symbionten",
         "points": "25 Punkte jeweils"
       },
       {

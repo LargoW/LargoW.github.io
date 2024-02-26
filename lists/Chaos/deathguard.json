@@ -19,9 +19,9 @@
     {
       "from": "CSM.json",
       "units": [
-        Kriegsherr,
+        "Kriegsherr",
         "Chaos Lord",
-        "Sorcerer Lord",
+        "Hexer Lord",
         "Champion des Chaos",
         "Ikonenträger",
         "Dämonenprinz des Nurgle",
@@ -70,7 +70,7 @@
         "Plaguebearers des Nurgle",
         "Beasts des Nurgle",
         "Plague Drones des Nurgle",
-        "Great Unclean Ein"
+        "Großer Verpester"
       ],
       "unitRules": [
       ]
@@ -102,7 +102,7 @@
       "formations": [
         {
           "name": "Death Guard Retinue",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Seuchenmarines, drei Chaos Space Marines, Dämonischer Pakt",
+          "units": "Ein Chaos Lord oder Hexer Lord, vier Seuchenmarines, drei Chaos Space Marines, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
             "Retinue Transport",
@@ -117,7 +117,7 @@
         },
         {
           "name": "Death Guard Terminatoren",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Blightlord Terminatoren, Dämonischer Pakt",
+          "units": "Ein Chaos Lord oder Hexer Lord, vier Blightlord Terminatoren, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
             "Terminator Transport",
@@ -136,7 +136,7 @@
       "formations": [
         {
           "name": "Havocs",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Havocs, Dämonischer Pakt",
+          "units": "Ein Chaos Lord oder Hexer Lord, vier Havocs, Dämonischer Pakt",
           "extraUnits": [
             "Havoc Transport",
             "Cybots",

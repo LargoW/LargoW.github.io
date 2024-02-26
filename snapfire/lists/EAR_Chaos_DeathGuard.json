@@ -35,7 +35,7 @@
       {"id": 13, "name": "Chaos Warlord", "pts": 50},
       {"id": 14, "name": "Daemon Prince of Nurgle (replaces the Chaos Lord and its unit)", "pts": 100},
       {"id": 15, "name": "Chaos Lord", "pts": 0},
-      {"id": 16, "name": "Sorcerer Lord", "pts": 0},
+      {"id": 16, "name": "Hexer Lord", "pts": 0},
       {"id": 17, "name": "3 Chaos Space Marines", "pts": 0},
       {"id": 18, "name": "3 Havocs", "pts": 35},
       {"id": 19, "name": "3 Plague Marines", "pts": 0},

@@ -20,12 +20,12 @@
     {
       "from": "CSM.json",
       "units": [
-        Kriegsherr,
+        "Kriegsherr",
         "Chaos Lord",
         "Champion des Chaos",
         "Ikonenträger",
         "Dämonenprinz des Khorne",
-        "Chaos Assault Marines",
+        "Chaos Sturmtrupps",
         "Chaos Space Marines",
         "Skullseeker Terminatoren",
         "Khorne Berserker",
@@ -68,7 +68,7 @@
         "Bloodletters des Khorne",
         "Fleshhounds des Khorne",
         "Bloodcrushers des Khorne",
-        "Bloodthirster"
+        "Blutdämon"
       ],
       "unitRules": [
       ]
@@ -91,7 +91,7 @@
       "formations": [
         {
           "name": "World Eaters Retinue",
-          "units": "Ein Chaos Lord, vier Khorne Berserker, vier World Eaters Assault Marines, vier World Eaters Rhinos, Dämonischer Pakt",
+          "units": "Ein Chaos Lord, vier Khorne Berserker, vier World Eaters Sturmtrupps, vier World Eaters Rhinos, Dämonischer Pakt",
           "extraUnits": [
             "Füge zwei Berzerker Cybots: 75 Punkte",
             "Oberbefehlshaber",

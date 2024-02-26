@@ -287,7 +287,7 @@
           "Schadenskapazität 3",
           "Hilfstransportschiff"
         ],
-        "crit": "The Overlord is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "The Overlord is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
       },
       {
         "name": "Termite",
@@ -340,7 +340,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm takes a hit."
+        "crit": "The unit is destroyed. All Einheiten mitin 5cm takes a hit."
       },
       {
         "name": "Leviathan",
@@ -385,7 +385,7 @@
           "Verstärkte Heckpanzerung",
           "Furchtlos"
         ],
-        "crit": "The Cyclops may no longer fire its Hellfury Geschütz. Subsequent crits destroys the Cyclops, und all units within 5cm takes a hit."
+        "crit": "The Cyclops may no longer fire its Hellfury Geschütz. Subsequent crits destroys the Cyclops, und all Einheiten mitin 5cm takes a hit."
       },
       {
         "name": "Colossus",

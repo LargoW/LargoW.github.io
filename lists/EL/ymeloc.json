@@ -10,8 +10,8 @@
     "Dürfen nicht als Garnison aufstellen (Yme-Loc)",
     "Farsight",
     "Hit und Run",
-    "Webway Portal",
-    "Large Webway Portal"
+    "Netz der tausend Tore Portal",
+    "Large Netz der tausend Tore Portal"
   ],
   "units": [
     {
@@ -75,7 +75,7 @@
         },
         {
           "name": "0-1 Gate of Vaul",
-          "units": "Ersetze eine objective marker in the Eldar player's half of the table mit einemGate of Vaul, this counts as an objective marker und a Large Webway Portal which may not be attacked oder damaged in any way. ",
+          "units": "Ersetze eine objective marker in the Eldar Spieler's half of the table mit einemGate of Vaul, this counts as an objective marker und a Large Netz der tausend Tore Portal which may not be attacked oder damaged in any way. ",
           "points": 100
         }
       ]

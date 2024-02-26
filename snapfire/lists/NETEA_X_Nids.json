@@ -18,7 +18,7 @@
             {"id": 518, "name": "Dactylis Swarm", "pts": 0, "upgrades": [31]},
             {"id": 519, "name": "Exocrine Swarm", "pts": 0,"upgrades": [28]},
             {"id": 520, "name": "Genestealer Swarm", "pts": 0, "upgrades": [80,81]},
-            {"id": 524, "name": "Lictor Swarm", "pts": 10, "upgrades": [41]}
+            {"id": 524, "name": "Liktor Swarm", "pts": 10, "upgrades": [41]}
          ]
       },
       {
@@ -37,8 +37,8 @@
 
        {"id": 8, "name": "3 Tyranid Warriors", "pts": 150},
        {"id": 10, "name": "Dominatrix", "pts": 325},
-      {"id": 11, "name": "Termagants", "pts": 15},
-      {"id": 12, "name": "Hormagaunts", "pts": 15},
+      {"id": 11, "name": "Termaganten#", "pts": 15},
+      {"id": 12, "name": "Hormaganten", "pts": 15},
       {"id": 13, "name": "2 Tyranid Warriors", "pts": 100},
       {"id": 14, "name": "Hive Tyrant", "pts": 100},
       {"id": 15, "name": "Tyranid Warriors", "pts": 50},
@@ -71,7 +71,7 @@
 
       {"id": 38, "name": "Harridan", "pts": 150},
 
-      {"id": 41, "name": "Lictors", "pts": 35},
+      {"id": 41, "name": "Liktoren", "pts": 35},
 
       {"id": 60, "name": "Bile Launcher", "pts": 0},
       {"id": 61, "name": "Bio-Titan Bio-Cannon", "pts": 0},
@@ -85,7 +85,7 @@
    ],
    "formationConstraints": [
       {"max": 1, "name": "Independent Swarm", "from":[517,518,519,520,524], "forEach":[500,501,502], "name2":"Synapse Swarm"},
-      {"max": 2, "name": "Lictor Swarms", "from": [524]},
+      {"max": 2, "name": "Liktor Swarms", "from": [524]},
       {"maxPercent": 25, "name": "Tyranid War Engines", "from": [521,522,523,526]}
   ],
    "upgradeConstraints": [

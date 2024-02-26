@@ -26,7 +26,7 @@
 		]},
 
 		{"name":"Coven Ambush Formations <br/> Max 1 for each Coven Vanguard Formation", "formations": [
-			{ "id":520, "name":"Lictor Swarm", "pts":225, "units":"5 Lictors", "upgrades":[]},
+			{ "id":520, "name":"Liktor Swarm", "pts":225, "units":"5 Liktoren", "upgrades":[]},
 			{ "id":521, "name":"Metamorph Brood", "pts":175, "units":"6 Hybrid Metamorphs", "upgrades":[]}
 		]}
 

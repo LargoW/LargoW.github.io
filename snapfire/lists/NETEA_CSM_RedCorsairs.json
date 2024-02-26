@@ -71,7 +71,7 @@
 		{ "id":54, "name":"Raptors", "pts":35 },
 
 		{ "id":90, "name":"Chaos Lord", "pts":0 },
-		{ "id":91, "name":"Sorcerer Lord", "pts":0 },
+		{ "id":91, "name":"Hexer Lord", "pts":0 },
 		{ "id":92, "name":"Chaos Warlord (Supreme Commander)", "pts":50 },
 		{ "id":93, "name":"Daemon Prince (Replaces the Chaos Lord and its unit)", "pts":50 },
 		{ "id":94, "name":"Daemon Prince (Supreme Commander. Replaces the Chaos Lord and its unit)", "pts":100 }

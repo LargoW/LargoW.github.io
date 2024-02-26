@@ -19,14 +19,14 @@
 			{"id":532, "name":"Harassment Swarm", "pts":250,"upgrades":[], "units":"Harridan" },
 			{"id":533, "name":"Hierophant", "pts":300},
 			{"id":534, "name":"Hydraphant", "pts":500},
-			{"id":535, "name":"Lictor Swarm", "pts":75,	"upgrades":[27] },
+			{"id":535, "name":"Liktor Swarm", "pts":75,	"upgrades":[27] },
 			{"id":536, "name":"Subterranean Swarm", "pts":180, "upgrades":[16], "units":"Trygon" }
 		]}
 	],
 	"upgrades":[
 		{"id":12, "name":"Hive Tyrant", "pts":50},
-		{"id":13, "name":"Termagants", "pts":15},
-		{"id":14, "name":"Hormagaunts", "pts":15},
+		{"id":13, "name":"Termaganten#", "pts":15},
+		{"id":14, "name":"Hormaganten", "pts":15},
 		{"id":15, "name":"Biovore", "pts":25},
 		{"id":16, "name":"Raveners", "pts":35},
 		{"id":18, "name":"Carnifex", "pts":50},
@@ -38,7 +38,7 @@
 		{"id":24, "name":"Hierodule", "pts":125},
 		{"id":25, "name":"Genestealers", "pts":25},
 		{"id":26, "name":"Spore Mine Cluster", "pts":50},
-		{"id":27, "name":"Lictor", "pts":35},
+		{"id":27, "name":"Liktor", "pts":35},
 		{"id":30, "name":"Gargoyles", "pts":20},
 		{"id":31, "name":"2 Gargoyles", "pts":0},
 		{"id":32, "name":"6 Gargoyles", "pts":50}

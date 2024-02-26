@@ -14,13 +14,13 @@
     "Thousand Sons Characters"
   ],
   "intro": [
-    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Thousand Sons Traitor Legion. The Thousand Sons make extensive use of Sorcerers leading squads of unrelenting Rubric Marines into battle, und may utilize powerful Warp Rifts to enter the Battlefield."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Thousand Sons Traitor Legion. The Thousand Sons make extensive use of Hexers leading squads of unrelenting Rubric Marines into battle, und may utilize powerful Warp Rifts to enter the Battlefield."
   ],
   "units": [
     {
       "from": "CSM.json",
       "units": [
-        "Exalted Sorcerer",
+        "Exalted Hexer",
         "Aufstrebender Hexer",
         "Champion des Chaos",
         "Ikonenträger",
@@ -29,7 +29,7 @@
         "Thousand Sons Havocs",
         "Scarab Occult Terminatoren",
         "Rubric Marines",
-        "Sorcerer Disc Riders",
+        "Hexer Disc Riders",
         "Thousand Sons Rhino",
         "Thousand Sons Land Raider",
         "Thousand Sons Predator",
@@ -71,7 +71,7 @@
         "Horrors des Tzeentch",
         "Flammenwerfer des Tzeentch",
         "Screamers des Tzeentch",
-        "Lord of Change"
+        "Herrscher des Wandels"
       ],
       "unitRules": [
       ]
@@ -168,7 +168,7 @@
         },
         {
           "name": "Disc Riders",
-          "units": "Ein Aufstrebender Hexer, sechs Sorcerer Disc Riders, Dämonischer Pakt",
+          "units": "Ein Aufstrebender Hexer, sechs Hexer Disc Riders, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
             "Ikonenträger",
@@ -253,7 +253,7 @@
         "description": "Choose eine of the following:",
         "options": [
           {
-            "description": "Ersetze the Aufstrebender Hexer mit einem Exalted Sorcerer (Retinue und Disc Riders Only).",
+            "description": "Ersetze the Aufstrebender Hexer mit einem Exalted Hexer (Retinue und Disc Riders Only).",
             "points": "50 Punkte"
           },
           {

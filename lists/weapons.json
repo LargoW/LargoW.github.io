@@ -4970,7 +4970,7 @@
       ]
     },
     {
-      "name": "Harvester Tendrils",
+      "name": "Ernter Tendrils",
       "modes": [
         {
           "Feuerkraft": "Nahkampfwaffen",
@@ -4982,7 +4982,7 @@
       ]
     },
     {
-      "name": "Harvester Geschütz",
+      "name": "Ernter Geschütz",
       "modes": [
         {
           "Feuerkraft": "3x AP5+/AT6+/AA6+",
@@ -8462,7 +8462,7 @@
       ]
     },
     {
-      "name": "D3+1 Power Fields",
+      "name": "D3+1 Schpezialkraftfelder",
       "modes": [
         {
           "Feuerkraft": "n/a",

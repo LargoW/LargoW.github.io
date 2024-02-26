@@ -31,7 +31,7 @@
   ],
    "upgrades": [
       {"id": 17, "name": "Chaos Lord", "pts": 0},
-      {"id": 18, "name": "Chaos Sorcerer", "pts": 0},
+      {"id": 18, "name": "Chaos Hexer", "pts": 0},
       {"id": 19, "name": "Daemon Prince (Replaces the Chaos Lord and its unit)", "pts": 50},
       {"id": 20, "name": "Chaos Warlord (Supreme Commander)", "pts": 50},
       {"id": 21, "name": "Daemon Prince (Supreme Commander. Replaces the Chaos Lord and its unit)", "pts": 100},
