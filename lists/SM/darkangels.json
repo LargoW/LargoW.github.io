@@ -7,11 +7,11 @@
   "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Dark Angels Space Marine chapter oder any of its successor chapters.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> Sonderregel applies to all Dark Angels detachments.",
+  "armyRules": "The <i>Sie kennen keine Furcht</i> Sonderregel applies to all Dark Angels detachments.",
   "specialRules": [
     "Telemetrieempfänger",
     "Space Marine Transports",
-    "They Shall Know No Fear"
+    "Sie kennen keine Furcht"
   ],
   "units": [
     {

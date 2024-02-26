@@ -9,8 +9,8 @@
   "specialRules": [
     "Changer of Ways",
     "Fickle Masters",
-    "Summoning",
-    "Thousand Sons Summoning Rules",
+    "Beschwörung",
+    "Thousand Sons Beschwörungs Regeln",
     "Thousand Sons Characters"
   ],
   "intro": [
@@ -303,7 +303,7 @@
     ]
   },
   "feedback": [
-    "Summoning wording is spread out",
+    "Beschwörung wording is spread out",
     "Thousand sons dreadnought is useless, make it melee",
     "Defilers des Tzeentch 4 (250)"
   ]

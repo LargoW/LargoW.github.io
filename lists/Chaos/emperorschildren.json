@@ -8,8 +8,8 @@
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
   "Initiative": "All Emperor's Children Core, Support und the Chosen formation have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
-    "Summoning",
-    "Emperor's Children Summoning Rules",
+    "Beschwörung",
+    "Emperor's Children Beschwörungs Regeln",
     "Fickle Masters",
     "Emperor's Children Dreadclaws",
     "Emperor's Children Characters"
@@ -36,7 +36,7 @@
         "Chaos Stalker"
       ],
       "unitRules": [
-          "Augment Summoning (+x)",
+          "Augment Beschwörung (+x)",
           "Daemonic Focus"
       ]
     },

@@ -5,13 +5,13 @@
   "release": "2022-04-01",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände have an Initiative of 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> Sonderregel applies to all Verbände.",
+  "armyRules": "The <i>Sie kennen keine Furcht</i> Sonderregel applies to all Verbände.",
   "specialRules": [
     "Telemetrieempfänger",
     "Navis Bossilite",
     "Space Marine Transports",
-    "Grey Ritters Transports",
-    "They Shall Know No Fear"
+    "Grey Knights Transports",
+    "Sie kennen keine Furcht"
   ],
   "usage": [
     "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Blood Ravens with Ordo Malleus allies"
@@ -22,22 +22,22 @@
       "units": [
         "Blood Ravens Oberbefehlshaber",
         "Blood Ravens Scriptor",
-        "Grey Ritters Justicar",
+        "Grey Knights Justicar",
         "Aufklärers",
         "Taktischer Trupp",
         "Devastoren",
         "Sturmtrupp",
-        "Grey Ritters Strike Squad",
-        "Grey Ritters Terminatoren",
-        "Grey Ritters Interceptor Squad",
-        "Grey Ritters Purgation Squad",
+        "Grey Knights Strike Squad",
+        "Grey Knights Terminatoren",
+        "Grey Knights Interceptor Squad",
+        "Grey Knights Purgation Squad",
         "Assault Bikes",
         "Trike",
         "Land Speeder",
         "Land Speeder Tornado",
         "Land Speeder Typhoon",
         "Rhino",
-        "Grey Ritters Rhino",
+        "Grey Knights Rhino",
         "Razorback",
         "Predator Annihilator",
         "Predator Destructor",
@@ -55,7 +55,7 @@
         "Fire Raptor",
         "Thunderhawk Transporter",
         "Vanguard Class Light Cruiser",
-        "Grey Ritters Strike Cruiser",
+        "Grey Knights Strike Cruiser",
         "Drop Pod"
       ],
       "unitRules": [
@@ -73,7 +73,7 @@
           "name": "1 Orbital Support",
           "units": "Vanguard Class Light Cruiser",
           "extraUnits": [
-            "Ersetze the Strike Cruiser mit einemGrey Ritters Strike Cruiser: 75 Punkte"
+            "Ersetze the Strike Cruiser mit einemGrey Knights Strike Cruiser: 75 Punkte"
           ],
           "points": 150
         },
@@ -160,12 +160,12 @@
       ]
     },
     {
-      "name": "Grey Ritters Detachments",
-      "description": "Ein Grey Ritters Detachment may be taken pro Blood Ravens Core Formation",
+      "name": "Grey Knights Detachments",
+      "description": "Ein Grey Knights Detachment may be taken pro Blood Ravens Core Formation",
       "formations": [
         {
           "name": "Interceptor Squads",
-          "units": "Zwei Grey Ritters Interceptor Squads",
+          "units": "Zwei Grey Knights Interceptor Squads",
           "extraUnits": [
             "Justicar"
           ],
@@ -173,25 +173,25 @@
         },
         {
           "name": "Strike Squads",
-          "units": "Zwei Grey Ritters Strike Squads plus transport",
+          "units": "Zwei Grey Knights Strike Squads plus transport",
           "extraUnits": [
-            "Grey Ritters Support",
+            "Grey Knights Support",
             "Justicar"
           ],
           "points": 200
         },
         {
           "name": "Purgation Squads",
-          "units": "Zwei Grey Ritters Purgation Squads plus transport",
+          "units": "Zwei Grey Knights Purgation Squads plus transport",
           "extraUnits": [
-            "Grey Ritters Support",
+            "Grey Knights Support",
             "Justicar"
           ],
           "points": 225
         },
         {
           "name": "Terminatoren",
-          "units": "Zwei Grey Ritters Terminatoren",
+          "units": "Zwei Grey Knights Terminatoren",
           "extraUnits": [
             "Füge eine Vortimer Land Raider Redeemer: 75 Punkte",
             "Justicar"
@@ -247,13 +247,13 @@
       },
       {
         "name": "Justicar",
-        "description": "Füge eine Grey Ritters Justicar to the formation.",
+        "description": "Füge eine Grey Knights Justicar to the formation.",
         "points": [
           "25 Punkte"
         ]
       },
       {
-        "name": "Grey Ritters Support",
+        "name": "Grey Knights Support",
         "description": "Füge eine Vortimer Land Raider oder Vortimer Land Raider Redeemer, oder eine Doomglaive Cybot.",
         "points": [
           "75 Punkte"

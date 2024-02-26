@@ -7,8 +7,8 @@
   "strategy": "Lost und the Damned Armeen haben einen Strategiewert von 1.",
   "Initiative": "Chaos Space Marine Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
-    "Summoning",
-    "Lost und the Damned Summoning Rules",
+    "Beschwörung",
+    "Lost und the Damned Beschwörungs Regeln",
     "LatD Eternal Animosity"
   ],
   "usage": [

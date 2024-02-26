@@ -5,9 +5,9 @@
   "release": "2022-04-01",
   "strategy": "Deathwatch Armeen haben einen Strategiewert von 5.",
   "Initiative": "Ordo Xenos und Planetary Defense Force Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> Sonderregel applies to all Deathwatch detachments und Aircraft Verbände.",
+  "armyRules": "The <i>Sie kennen keine Furcht</i> Sonderregel applies to all Deathwatch detachments und Aircraft Verbände.",
   "specialRules": [
-    "Ad Hoc Detachments",
+    "Ad Hoc Verbände",
     "Telemetrieempfänger",
     "Wings of the Sky Angel"
   ],
@@ -48,7 +48,7 @@
         "Dark Hunter Class Destroyer"
       ],
       "unitRules": [
-        "They Shall Know No Fear"
+        "Sie kennen keine Furcht"
       ]
     },
     {
@@ -74,7 +74,7 @@
       "formations": [
         {
           "name": "0-1 Officio Assassinorum",
-          "units": "Once pro battle, during an Assault that the Deathwatch player initiated (after all units have finished moving), a single unit anywhere in the enemy formation(s) is hit with D3 hits. These hits counts as being from CC, und have the 'Scharfschütze' und 'First Strike' Sonderregels. Any damage caused by these hits counts towards combat resolution (unless the target is Super-Entbehrlich).",
+          "units": "Once pro battle, during an Assault that the Deathwatch player initiated (after all units have finished moving), a single unit anywhere in the enemy formation(s) is hit with D3 hits. These hits counts as being from CC, und have the 'Scharfschütze' und 'Erstschlag' Sonderregels. Any damage caused by these hits counts towards combat resolution (unless the target is Super-Entbehrlich).",
           "points": 50
         }
       ]

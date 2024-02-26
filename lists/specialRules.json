@@ -69,7 +69,7 @@
       ]
     },
     {
-      "title": "Tunneling Transports",
+      "title": "Tunnelgräbertransporter",
       "description": [
         "Verbände, die Einheiten mit sowohl den Spezialregeln Transport als auch Tunnelgräber besitzen, müssen das Spiel in Reserve beginnen und dürfen das Schlachtfeld nur via Tunnelgräber betreten. Kriegsmaschinen mit diesen Spezialregeln dürfen nicht ohne Passagiere starten, sondern müssen einen andere Verband transportieren."
       ]
@@ -127,51 +127,51 @@
       ]
     },
     {
-      "title": "Lightning Charge",
+      "title": "Blitzangriff",
       "description": [
-        "Weapon oder Unit gains <i>First Strike</i> during engages initiated by the formation."
+        "Die Waffe oder Einheit erhält <i>Erstschlag</i> während Angriffen, welche dieser Verband initiiert."
       ]
     },
     {
-      "title": "Unstable",
+      "title": "Instabil",
       "description": [
-        "If a natural 1 is rolled when rolling to hit, roll another dice. If the result is yet another natural 1, the wielder is destroyed."
+        "Falls eine natürliche 1 für den Trefferwurf erzielt wurde, würfle erneut. Ist dies eine weitere natürliche 1, wird der Träger ausgeschaltet."
       ]
     },
     {
       "title": "Mut, Disziplin und Loyalität",
       "description": [
-        "Wenn der Oberbefehlshaber-Wiederholungswurf auf einen Verband angewendet wird, welcher einen Kommissar oder einen Ministorum-Priester enthält, hat der Verband als Initiative-Wert von 1+ beim Wiederholungswurf des Aktionswurfs."
+        "Wenn der Oberbefehlshaber-Wiederholungswurf auf einen Verband angewendet wird, welcher einen Kommissar oder einen Ministorum-Priester enthält, hat der Verband einen Initiative-Wert von 1+ beim Wiederholungswurf des Aktionswurfs."
       ]
     },
     {
-      "title": "Grim Demeanour",
+      "title": "Düsteres Auftreten",
       "description": [
-        "Valhallan Verbände that contain a Ministorum Priest gain +1 on their Action Test when attempting to Marshal."
+        "Valhallanische Verbände die einen Ministorum Priester enthalten, bekommen einen +1 Bonus auf ihren Aktionstest wenn sie eine <i>Ordnen</i> Aktion durchführen."
       ]
     },
     {
       "title": "Gravschirme",
       "description": [
-        "Units with the <i>Gravschirme</i> Sonderregel may disembark within 10cm of a <i>Antigrav</i> transport vehicles instead of the normal 5cm."
+        "Einheiten mit der <i>Gravschirme</i> Sonderregel dürfen innerhalb von 10cm zu einem Transporter mit der <i>Antigrav</i> Eigenschaft aussteigen anstatt der regulären 5cm."
       ]
     },
     {
-      "title": "Ethereal",
+      "title": "Himmlischer",
       "description": [
-        "All units in a formation joined by an Ethereal gain Furchtlos. When the unit with the Ethereal is killed the formation loses Furchtlos und receives 1D3 Beschussmarke."
+        "Alle Einheiten in einem Verband mt einem Himmlischen zählen als Furchtlos. Wenn die Einheit mit dem Himmlischen zerstört wird, verliert der Verband Furchtlos und erhält 1W3 Beschussmarken."
       ]
     },
     {
       "title": "Catachanischer Befehlshaber",
       "description": [
-        "When the Oberbefehlshaber re-roll is used on any formation containing a Catachanischer Oberbefehlshaber oder Catachanischer Befehlshaber, the formation counts as having 1+ Initiative Rating when re-rolling the Action Test"
+        "Wenn der Oberbefehlshaber-Wiederholungswurf auf einen Verband angewendet wird, welcher einen Catachanischen Oberbefehlshaber oder Catachanischer Befehlshaber enthält, hat der Verband einen Initiative-Wert von 1+ beim Wiederholungswurf des Aktionswurfs."
       ]
     },
     {
-      "title": "Fortified Positions",
+      "title": "Befestigte Stellungen",
       "description": [
-        "Fortified Positions are set up at the same time as the formation they are bought with. Units from such Verbände must be set up within the fortified positions, so that no space is left empty. All pieces of fortified positions must be within 5cm from another piece. Once set up, Fortified Positions counts as terrain that do not block Line of Sight, und may be used by either side. Units of INF that benefit from Cover inside a Fortified Position may only be Barged by WE in such a way that they are not moved outside of their Fortified Position.",
+        "Befestigte Stellungen are set up at the same time as the formation they are bought with. Units from such Verbände must be set up within the Befestigte Stellungen, so that no space is left empty. All pieces of Befestigte Stellungen must be within 5cm from another piece. Once set up, Befestigte Stellungen counts as terrain that do not block Line of Sight, und may be used by either side. Units of INF that benefit from Cover inside a Fortified Position may only be Barged by WE in such a way that they are not moved outside of their Fortified Position.",
         "<b>Gun Emplacement</b>: Provides a Cover Save of 4+ eine unit of INF, oder a 5+ Cover Save to eine unit of AV oder LV (but not H-AV).",
         "<b>Bunker</b>: Provides a Cover Save of 3+ und Verstärkte Heckpanzerung to bis zu drei units of INF. Counts as Dangerous Terrain für AV und WE. Bunkers can be a maximum of 8cm x 8cm in size.",
         "<b>Trench</b>: Provides a cover save of 4+ to INF. May contain eine unit of INF pro 4cm of lenght. Counts as Dangerous Terrain für AV.",
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "title": "Air Superiority",
+      "title": "Luftüberlegenheit",
       "description": [
         "Elysianische Sturmtruppen may ignore eine Beschussmarke when rolling to activate aircraft Verbände.",
         "In addition, Elysianische Sturmtruppen may instead of starting with garrisons on overwatch place aircrafts on Combat Air Patrol.  Bis zu zwei Verbände may start on overwatch oder CAP. Aircraft formation placed on CAP in this way will follow all the normal rules für CAP, but are setup during the pre-game garrisoning phase."
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "title": "Siege Specialists",
+      "title": "Belagerungsspezialisten",
       "description": [
         "Units may re-roll failed dangerous terrain tests when making a move through Minefields oder Razor Wire on the friendly part of the table, und units with <i>Geländegängig</i> may use it against Minefields oder Razor Wire on the enemy part of the table.",
         "In addition, bis zu drei Verbände that garrison may start on Overwatch instead of the usual zwei."
@@ -253,14 +253,14 @@
       ]
     },
     {
-      "title": "They Shall Know No Fear",
+      "title": "Sie kennen keine Furcht",
       "description": [
         "Space Marines are renowned für their tenacity und Tapferkeit. This is represented by the following rules:",
         "<ul><li>It takes 2 Beschussmarke to suppress a Space Marine unit oder kill a unit in a broken formation (ignore any leftover Beschussmarke)</li><li>Space Marine Verbände are only broken if they have 2 Beschussmarke pro unit in the formation.</li><li>Space Marines Verbände only count half their number of Blaster markers in assault resolution (rounding down to a minimum of eine). Halve the number of extra hits suffered by a Space Marine formation that loses an assault, rounding down in favour of the Space Marines.</li><li>When a broken Space Marine formation rallies, it receives a number of Beschussmarke equal to the number of units, rather than half this number.</li></ul>"
       ]
     },
     {
-      "title": "Space Marine Transports",
+      "title": "Space Marine Transporter",
       "description": [
         "The Space Marines are a highly mobile army. Because of this, the Punkte cost of a detachment usually includes enough Rhino transport vehicles to transport it und any Erweiterungen that have been taken. Determine the number of Rhinos needed after all Erweiterungen have been purchased. The number of Rhinos will always be the minimum needed to carry the formation, you can’t take extras along to cover any losses!",
         "Note that many Verbände don’t receive Rhinos, usually because they can’t fit into them. Detachments that come with Rhinos will be noted as having plus transport in the units section of the army list opposite.",
@@ -270,13 +270,13 @@
       ]
     },
     {
-      "title": "Grey Ritters Transports",
+      "title": "Grey Knights Transporter",
       "description": [
-        "Grey Ritters Verbände with 'plus transport' may take Grey Ritters Rhinos instead of normal Rhinos."
+        "Grey Knights Verbände with 'plus transport' may take Grey Knights Rhinos instead of normal Rhinos."
       ]
     },
     {
-      "title": "Imperial Fists Transports",
+      "title": "Imperial Fists Transporter",
       "description": [
         "The Imperial Fists are a highly mobile army. Because of this, the Punkte cost of a detachment usually includes enough Rhino transport vehicles to transport it und any Erweiterungen that have been taken. Determine the number of Rhinos needed after all Erweiterungen have been purchased. The number of Rhinos will always be the minimum needed to carry the formation, you can’t take extras along to cover any losses!",
         "Note that many Verbände don’t receive Rhinos, usually because they can’t fit into them. Detachments that come with Rhinos will be noted as having plus transport in the units section of the army list opposite.",
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "title": "White Scars Transports",
+      "title": "White Scars Transporter",
       "description": [
         "The White Scars are an exceptionally mobile army. Because of this the Punkte cost of a detachment usually includes enough transport vehicles to transport it und any Erweiterungen that have been taken. The number of vehicles will always be the minimum needed to carry the formation, you can’t take extras along to cover any losses!",
         "Note that many Verbände don’t receive transports, usually because they can’t fit into them. Detachments that come with vehicles will be noted as having 'plus transport'. White Scars detachments must take the transport vehicles für a detachment. You cannot leave them behind in order to use the unit as a garrison, to use Teleportieren oder in order to be deployed by a Thunderhawk.",
@@ -308,11 +308,11 @@
     {
       "title": "Navis Bossilite",
       "description": [
-        "Grey Ritter spacecraft are among the fastest und best piloted ships in the Galaxy. If a Grey Ritters Strike Cruiser has been bought, the Blood Ravens player counts as having a Strategy Rating of 6 für the purposes of choosing which turn the spacecraft will pass over the battlefield."
+        "Grey Ritter spacecraft are among the fastest und best piloted ships in the Galaxy. If a Grey Knights Strike Cruiser has been bought, the Blood Ravens player counts as having a Strategy Rating of 6 für the purposes of choosing which turn the spacecraft will pass over the battlefield."
       ]
     },
     {
-      "title": "Ad Hoc Detachments",
+      "title": "Ad Hoc Verbände",
       "description": [
         "By necessity, the Ordo Xenos has become experts of improvisation, rapidly mustering local allies und adapting to the Deathwatch's ever-changing roster of skills und individuals. Für this reason, Verbände with Befehlshaber may also use the ability when their own oder another friendly formation within 5cm of their formation is defending against an assault, declaring both Verbände to be intermingled (see 1.12.10). Once declared intermingled, the Befehlshabers' Verbände follow all rules exactly as if the enemy had declared them intermingled. Note that if either player declares intermingling, the Verbände are intermingled."
       ]
@@ -343,9 +343,9 @@
       ]
     },
     {
-      "title": "Pack Mentality",
+      "title": "Rudelmentalität",
       "description": [
-        "Space Wolves Packs counts as having eine character with the <i>Inspirierend</i> Sonderregel when they initiate an assault where they have another formation with the <i>Pack Mentality</i> Sonderregel in support."
+        "Space Wolves Packs counts as having eine character with the <i>Inspirierend</i> Sonderregel when they initiate an assault where they have another formation with the <i>Rudelmentalität</i> Sonderregel in support."
       ]
     },
     {
@@ -355,9 +355,9 @@
       ]
     },
     {
-      "title": "Independent",
+      "title": "Unabhängig",
       "description": [
-        "The Independent Sonderregel allows a Kriegsmaschine formation to operate as zwei independent Kriegsmaschinen für all purposes, including für determining the army BTS (jeweils unit counts as its own formation worth half of the Punkte value of the original formation, including Erweiterungen). If eine of the zwei Kriegsmaschinen are destroyed, the surviving eine immediately recieves a Beschussmarke.",
+        "The Unabhängig Sonderregel allows a Kriegsmaschine formation to operate as zwei Unabhängig Kriegsmaschinen für all purposes, including für determining the army BTS (jeweils unit counts as its own formation worth half of the Punkte value of the original formation, including Erweiterungen). If eine of the zwei Kriegsmaschinen are destroyed, the surviving eine immediately recieves a Beschussmarke.",
         ""
       ]
     },
@@ -370,9 +370,9 @@
       ]
     },
     {
-      "title": "Honour Guard",
+      "title": "Ehrengarde",
       "description": [
-        "Units with the Honour Guard Sonderregel are Furchtlos as long as their formation contains a character with the Oberbefehlshaber Sonderregel. If they are in the same formation, the Oberbefehlshaber may be added to a unit with this Sonderregel."
+        "Units with the Ehrengarde Sonderregel are Furchtlos as long as their formation contains a character with the Oberbefehlshaber Sonderregel. If they are in the same formation, the Oberbefehlshaber may be added to a unit with this Sonderregel."
       ]
     },
     {
@@ -382,9 +382,9 @@
       ]
     },
     {
-      "title": "Expert Reconnaissance",
+      "title": "Aufklärungsspezialisten",
       "description": [
-        "Friendly Raven Guard Verbände that enter the battlefield through <i>Planetfall</i> that are placed within 30cm of a unit with the <i>Expert Reconnaissance</i> Sonderregel does not roll für scatter. In addition, friendly Raven Guard Verbände that enter the battlefield through <i>Teleportieren</i> und are placed within 15cm of a unit with the <i>Expert Reconnaissance</i> Sonderregel may re-roll 1:s when testing für Teleportieren Mishap."
+        "Friendly Raven Guard Verbände that enter the battlefield through <i>Planetfall</i> that are placed within 30cm of a unit with the <i>Aufklärungsspezialisten</i> Sonderregel does not roll für scatter. In addition, friendly Raven Guard Verbände that enter the battlefield through <i>Teleportieren</i> und are placed within 15cm of a unit with the <i>Aufklärungsspezialisten</i> Sonderregel may re-roll 1:s when testing für Teleportieren Mishap."
       ]
     },
     {
@@ -505,69 +505,69 @@
       ]
     },
     {
-      "title": "May not Garrison (Kabal of the Black Heart)",
+      "title": "Dürfen nicht als Garnison aufstellen (Kabal of the Black Heart)",
       "description": [
-        "Only Mandrakes are allowed to garrison objectives in the Epic tournament game scenario."
+        "Nur Mandrakes dürfen als Garnison im Turnierspiel aufgestellt werden."
       ]
     },
     {
-      "title": "May not Garrison (Saim-Hann)",
+      "title": "Dürfen nicht als Garnison aufstellen (Saim-Hann)",
       "description": [
-        "Only Saim-Hann Hornets are allowed to garrison objectives in the Epic tournament game scenario."
+        "Nur Saim-Hann Hornets dürfen als Garnison im Turnierspiel aufgestellt werden."
       ]
     },
     {
-      "title": "May not Garrison (Iyanden)",
+      "title": "Dürfen nicht als Garnison aufstellen (Iyanden)",
       "description": [
-        "Only Eldar Rangers und War Geländegängigs are allowed to garrison objectives in the Epic tournament game scenario."
+        "Nur Eldar Ranger und War Walker dürfen als Garnison im Turnierspiel aufgestellt werden."
       ]
     },
     {
-      "title": "May not Garrison (Biel-Tan)",
+      "title": "Dürfen nicht als Garnison aufstellen (Biel-Tan)",
       "description": [
-        "Only Eldar Rangers und War Geländegängigs are allowed to garrison objectives in the Epic tournament game scenario."
+        "Nur Eldar Ranger und War Walker dürfen als Garnison im Turnierspiel aufgestellt werden."
       ]
     },
     {
-      "title": "May not Garrison (Ulthwé)",
+      "title": "Dürfen nicht als Garnison aufstellen (Ulthwé)",
       "description": [
-        "Only Eldar Rangers und War Geländegängigs are allowed to garrison objectives in the Epic tournament game scenario."
+        "Nur Eldar Ranger und War Walker dürfen als Garnison im Turnierspiel aufgestellt werden."
       ]
     },
     {
-      "title": "May not Garrison (Mymeara)",
+      "title": "Dürfen nicht als Garnison aufstellen (Mymeara)",
       "description": [
-        "Only Ghost Walkers, Wasp Walkers und Hornets are allowed to garrison objectives in the Epic tournament game scenario."
+        "Nur Ghost Walkers, Wasp Walkers und Hornets dürfen als Garnison im Turnierspiel aufgestellt werden."
       ]
     },
     {
-      "title": "May not Garrison (Lugganath)",
+      "title": "Dürfen nicht als Garnison aufstellen (Lugganath)",
       "description": [
-        "Only Ghost Walkers und Wasp Walkers are allowed to garrison objectives in the Epic tournament game scenario."
+        "Nur Ghost Walkers und Wasp Walkers dürfen als Garnison im Turnierspiel aufgestellt werden."
       ]
     },
     {
-      "title": "May not Garrison (Yme-Loc)",
+      "title": "Dürfen nicht als Garnison aufstellen (Yme-Loc)",
       "description": [
-        "Only Hornets are allowed to garrison objectives in the Epic tournament game scenario."
+        "Nur Hornets dürfen als Garnison im Turnierspiel aufgestellt werden."
       ]
     },
     {
-      "title": "May not Garrison (Fir Lirithion)",
+      "title": "Dürfen nicht als Garnison aufstellen (Fir Lirithion)",
       "description": [
-        "No Verbände are allowed to garrison in the Epic tournament game scenario."
+        "Kein Verband darf als Garnison im Turnierspiel aufgestellt werden."
       ]
     },
     {
-      "title": "May not Garrison (Black Heart)",
+      "title": "Dürfen nicht als Garnison aufstellen (Black Heart)",
       "description": [
-        "Only Mandrakes are allowed to garrison objectives in the Epic tournament game scenario."
+        "Nur Mandrakes dürfen als Garnison im Turnierspiel aufgestellt werden."
       ]
     },
     {
-      "title": "May not Garrison (Wraithkind)",
+      "title": "Dürfen nicht als Garnison aufstellen (Wraithkind)",
       "description": [
-        "Only Mandrakes are allowed to garrison objectives in the Epic tournament game scenario."
+        "Nur Mandrakes dürfen als Garnison im Turnierspiel aufgestellt werden."
       ]
     },
     {
@@ -600,10 +600,10 @@
       ]
     },
     {
-      "title": "Independent Twins",
+      "title": "Unabhängige Zwilllinge",
       "description": [
-        "Allows a formation of Revenant Titans to operate as zwei independent Kriegsmaschinen für all purposes, including für determining the army BTS. If eine of the pair is destroyed, the surviving Revenant Synchronisierter receives a Beschussmarke.",
-        "In addition, Independent Twins may use the Befehlshaber ability with its Synchronisierter. In this case, the Befehlshaber ability counts as having an unlimited range instead of the normal 5cm."
+        "Allows a formation of Revenant Titans to operate as zwei Unabhängig Kriegsmaschinen für all purposes, including für determining the army BTS. If eine of the pair is destroyed, the surviving Revenant Synchronisierter receives a Beschussmarke.",
+        "In addition, Unabhängige Zwilllinge may use the Befehlshaber ability with its Synchronisierter. In this case, the Befehlshaber ability counts as having an unlimited range instead of the normal 5cm."
       ]
     },
     {
@@ -631,13 +631,13 @@
       ]
     },
     {
-      "title": "Summoning",
+      "title": "Beschwörung",
       "description": [
         "Any formation that either has a unit with Daemonic Pact oder a Daemonic Pact formation upgrade may summon Daemons. Jeweils Daemonic Pact in the army automatically provides eine point to the Lesser Daemon Pool at the start of the battle (the player may also purchase additional Lesser Daemon Pool Punkte und/oder Greater Daemon Pool Punkte).",
         "Daemon Pools are not faction specific. The size of the Daemon Pools must be visible to all players at all times und it is suggested that either tokens oder dice are used to indicate the size of the pool. As daemons are summoned the pool must be changed to reflect its current size.",
         "To summon daemons the formation declares its intention to summon before any action roll is made (but after the choice of action). If the formation that wishes to Summon is being transported inside another formation (e.g. a Chaos Thunderhawk) it cannot choose to Summon when the Chaos Thunderhawk prepares to activate.",
-        "The player then rolls 2D3 to generate the number of Summoning Points available für this formation. The formation may then summon daemons bis zu the number of Summoning Points generated, with any Punkte not used lost, bis zu the number of Lesser oder Greater Daemon Pool Punkte left.",
-        "Summoned units must be setup with their base completely within 5cm of any non-summoned unit in the summoning formation (i.e. You cannot place a chain of summoned units). If the summoning formation has the Transport ability, newly summoned units can be set up inside if there is space left. They cannot be placed in enemy zones of control oder impassable terrain. Summoned units become part of the summoning formation für all rules purposes as long as they remain on the battlefield.",
+        "The player then rolls 2D3 to generate the number of Beschwörung Points available für this formation. The formation may then summon daemons bis zu the number of Beschwörung Points generated, with any Punkte not used lost, bis zu the number of Lesser oder Greater Daemon Pool Punkte left.",
+        "Summoned units must be setup with their base completely within 5cm of any non-summoned unit in the Beschwörung formation (i.e. You cannot place a chain of summoned units). If the Beschwörung formation has the Transport ability, newly summoned units can be set up inside if there is space left. They cannot be placed in enemy zones of control oder impassable terrain. Summoned units become part of the Beschwörung formation für all rules purposes as long as they remain on the battlefield.",
         "Summoned Lesser Daemons are Entbehrlich, but they are otherwise counted as normal units, und are included when working out if a formation outnumbers an opponent in an assault oder is broken by Beschussmarke, etc. Note that Daemons that are killed in an assault do count towards the number of units killed by the enemy when working out modifiers für assault resolution.",
         "Summoned units remain in play until the End Phase of the turn in which they were summoned. After all Verbände have attempted to rally any summoned units are removed from play und the total of their Daemon Pool cost is returned to the relevant Daemon Pool. This may cause the formation to break, if the number of Beschussmarke now equals oder exceeds the number of units in the formation.",
         "When a formation becomes broken all its summoned units are destroyed.",
@@ -645,183 +645,183 @@
       ]
     },
     {
-      "title": "Black Legion Summoning Rules",
+      "title": "Black Legion Beschwörungs Regeln",
       "description": [
-        "All Verbände in the Black Legion worship Chaos Undivided. Chaos Undivided Verbände with Daemonic Pact may summon any of the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).",
-        "Greater Daemons: Slaanesh Keeper of Secrets (8), Nurgle Great Unclean Ein (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8)",
+        "All Verbände in the Black Legion worship Chaos Undivided. Chaos Undivided Verbände with Daemonic Pact may summon any of the following Daemons (brackets indicating the Beschwörung Points cost):",
+        "Niedere Dämonen: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).",
+        "Große Dämonen Slaanesh Keeper of Secrets (8), Nurgle Great Unclean Ein (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
-        "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
+        "Note that while the Beschwörung Points cost of Beschwörung jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
       ]
     },
     {
-      "title": "Word Bearers Summoning Rules",
+      "title": "Word Bearers Beschwörungs Regeln",
       "description": [
-        "All Verbände in Word Bearers worship Chaos Undivided. Chaos Undivided Verbände with Daemonic Pact may summon any of the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).",
-        "Greater Daemons: Slaanesh Keeper of Secrets (8), Nurgle Great Unclean Ein (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8)",
+        "All Verbände in Word Bearers worship Chaos Undivided. Chaos Undivided Verbände with Daemonic Pact may summon any of the following Daemons (brackets indicating the Beschwörung Points cost):",
+        "Niedere Dämonen: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).",
+        "Große Dämonen Slaanesh Keeper of Secrets (8), Nurgle Great Unclean Ein (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
-        "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
+        "Note that while the Beschwörung Points cost of Beschwörung jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
       ]
     },
     {
-      "title": "Emperor's Children Summoning Rules",
+      "title": "Emperor's Children Beschwörungs Regeln",
       "description": [
-        "All Verbände in Emperor's Children worship the Prince of Pleasure, Slaanesh. Verbände with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1), Seekers of Slaanesh (2)",
-        "Greater Daemons: Keeper of Secrets (8)",
+        "All Verbände in Emperor's Children worship the Prince of Pleasure, Slaanesh. Verbände with Daemonic Pact may summon the following Daemons (brackets indicating the Beschwörung Points cost):",
+        "Niedere Dämonen: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1), Seekers of Slaanesh (2)",
+        "Große Dämonen Keeper of Secrets (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
-        "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
+        "Note that while the Beschwörung Points cost of Beschwörung jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
       ]
     },
     {
-      "title": "Death Guard Summoning Rules",
+      "title": "Death Guard Beschwörungs Regeln",
       "description": [
-        "All Verbände in Death Guard worship the Plague Lord, Nurgle. Verbände with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Plaguebearers of Nurgle (1), Beasts of Nurgle (1), Plague Drones of Nurgle (2)",
-        "Greater Daemons: Great Unclean Ein (8)",
+        "All Verbände in Death Guard worship the Plague Lord, Nurgle. Verbände with Daemonic Pact may summon the following Daemons (brackets indicating the Beschwörung Points cost):",
+        "Niedere Dämonen: Plaguebearers of Nurgle (1), Beasts of Nurgle (1), Plague Drones of Nurgle (2)",
+        "Große Dämonen Great Unclean Ein (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
-        "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
+        "Note that while the Beschwörung Points cost of Beschwörung jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
       ]
     },
     {
-      "title": "World Eaters Summoning Rules",
+      "title": "World Eaters Beschwörungs Regeln",
       "description": [
-        "All Verbände in World Eaters worship the Blood God, Khorne. Verbände with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Bloodletters of Khorne (1), Fleshhounds of Khorne (1), Bloodcrushers of Khorne (2)",
-        "Greater Daemons: Bloodthirster (8)",
+        "All Verbände in World Eaters worship the Blood God, Khorne. Verbände with Daemonic Pact may summon the following Daemons (brackets indicating the Beschwörung Points cost):",
+        "Niedere Dämonen: Bloodletters of Khorne (1), Fleshhounds of Khorne (1), Bloodcrushers of Khorne (2)",
+        "Große Dämonen Bloodthirster (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
-        "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
+        "Note that while the Beschwörung Points cost of Beschwörung jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
       ]
     },
     {
-      "title": "Thousand Sons Summoning Rules",
+      "title": "Thousand Sons Beschwörungs Regeln",
       "description": [
-        "All Verbände in Thousand Sons worship the Architect of Fate, Tzeentch. Verbände with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Horrors of Tzeentch (1), Flammenwerfer of Tzeentch (1), Screamers of Tzeentch (1)",
-        "Greater Daemons: Lord of Change (8)",
+        "All Verbände in Thousand Sons worship the Architect of Fate, Tzeentch. Verbände with Daemonic Pact may summon the following Daemons (brackets indicating the Beschwörung Points cost):",
+        "Niedere Dämonen: Horrors of Tzeentch (1), Flammenwerfer of Tzeentch (1), Screamers of Tzeentch (1)",
+        "Große Dämonen Lord of Change (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
-        "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
+        "Note that while the Beschwörung Points cost of Beschwörung jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
       ]
     },
     {
-      "title": "Lost und the Damned Summoning Rules",
+      "title": "Lost und the Damned Beschwörungs Regeln",
       "description": [
-        "All Chaos Cultists Verbände in the Lost und the Damned worship Chaos Undivided. Verbände with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
-        "Greater Daemons: Keeper of Secrets (8), Great Unclean Ein (8), Bloodthirster (8), Lord of Change (8)",
+        "All Chaos Cultists Verbände in the Lost und the Damned worship Chaos Undivided. Verbände with Daemonic Pact may summon the following Daemons (brackets indicating the Beschwörung Points cost):",
+        "Niedere Dämonen: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
+        "Große Dämonen Keeper of Secrets (8), Great Unclean Ein (8), Bloodthirster (8), Lord of Change (8)",
         "Nicht mehr als eine of jeweils type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than eine Greater Daemon at a time.",
-        "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
+        "Note that while the Beschwörung Points cost of Beschwörung jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
       ]
     },
     {
-      "title": "Alpha Legion Summoning Rules",
+      "title": "Alpha Legion Beschwörungs Regeln",
       "description": [
-        "All Alpha Legion Cultist Verbände worship Chaos Undivided. Verbände with Daemonic Icon may summon the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
-        "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
+        "All Alpha Legion Cultist Verbände worship Chaos Undivided. Verbände with Daemonic Icon may summon the following Daemons (brackets indicating the Beschwörung Points cost):",
+        "Niedere Dämonen: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
+        "Note that while the Beschwörung Points cost of Beschwörung jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
       ]
     },
     {
-      "title": "Night Lords Summoning Rules",
+      "title": "Night Lords Beschwörungs Regeln",
       "description": [
-        "All Night Lords Verbände are aligned with Chaos Undivided. Verbände mit einemunit with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Furies of Chaos Undivided (2)",
-        "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
+        "All Night Lords Verbände are aligned with Chaos Undivided. Verbände mit einemunit with Daemonic Pact may summon the following Daemons (brackets indicating the Beschwörung Points cost):",
+        "Niedere Dämonen: Furies of Chaos Undivided (2)",
+        "Note that while the Beschwörung Points cost of Beschwörung jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
       ]
     },
     {
-      "title": "Slaves to Darkness Summoning Rules",
+      "title": "Slaves to Darkness Beschwörungs Regeln",
       "description": [
-        "All Verbände in the Slaves to Darkness worship Chaos Undivided. Verbände with either a Daemonic Icon unit oder a Daemonic Pact formation upgrade may summon the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
-        "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine.",
+        "All Verbände in the Slaves to Darkness worship Chaos Undivided. Verbände with either a Daemonic Icon unit oder a Daemonic Pact formation upgrade may summon the following Daemons (brackets indicating the Beschwörung Points cost):",
+        "Niedere Dämonen: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
+        "Note that while the Beschwörung Points cost of Beschwörung jeweils type of daemonic unit varies, the Daemon Pool cost is always eine.",
         "Füge eine Lesser Daemon Pool point to the Lesser Daemon Pool für jeweils unit with Daemonic Icon, oder formation with Daemonic Pact."
       ]
     },
     {
-      "title": "Daemonic Incursion Summoning Rules",
+      "title": "Daemonic Incursion Beschwörungs Regeln",
       "description": [
-        "Verbände in a Daemonic Incursion army may summon Lesser Daemons from the power they are aligned with. They do not need an upgrade to do so. Cultist Coven Verbände are aligned with all powers present in the army at the start of the battle. (Brackets indicating the Summoning Points cost):",
+        "Verbände in a Daemonic Incursion army may summon Lesser Daemons from the power they are aligned with. They do not need an upgrade to do so. Cultist Coven Verbände are aligned with all powers present in the army at the start of the battle. (Brackets indicating the Beschwörung Points cost):",
         "Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1), Seekers of Slaanesh (2)",
         "Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1), Plague Drones of Nurgle (2)",
         "Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1), Bloodcrushers of Khorne (2)",
         "Tzeentch: Horrors of Tzeentch (1), Screamers of Tzeentch (1), Flammenwerfer of Tzeentch (2)",
-        "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine.",
+        "Note that while the Beschwörung Points cost of Beschwörung jeweils type of daemonic unit varies, the Daemon Pool cost is always eine.",
         "When calculating Victory Points of the purposes of Tie Break, only the part of the Lesser Daemon Pool that was bought by itself is considered when checking if there is less than half remaining. Lesser Daemon Pool Punkte that was bought as part of a formation are counted towards that formation's starting units."
       ]
     },
     {
-      "title": "TTL Summoning Rules",
+      "title": "TTL Beschwörungs Regeln",
       "description": [
-        "TTL Verbände with Daemonic Pact may summon Lesser Daemons from the power they are aligned with (brackets indicating the Summoning Points cost):",
+        "TTL Verbände with Daemonic Pact may summon Lesser Daemons from the power they are aligned with (brackets indicating the Beschwörung Points cost):",
         "Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1)",
         "Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1)",
         "Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1)",
         "Tzeentch: Horrors of Tzeentch (1), Flammenwerfer of Tzeentch (1)",
         "Chaos Undivided: Daemonettes of Slaanesh (2), Plaguebearers of Nurgle (2), Bloodletters of Khorne (2), Horrors of Tzeentch (2), Daemonic Beasts of Chaos Undivided (1)",
-        "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine.",
+        "Note that while the Beschwörung Points cost of Beschwörung jeweils type of daemonic unit varies, the Daemon Pool cost is always eine.",
         ""
       ]
     },
     {
-      "title": "QT Summoning Rules",
+      "title": "QT Beschwörungs Regeln",
       "description": [
-        "Verbände with Daemonic Pact in a Questor Traitoris army may summon Lesser Daemons from the power they are aligned with (brackets indicating the Summoning Points cost):",
+        "Verbände with Daemonic Pact in a Questor Traitoris army may summon Lesser Daemons from the power they are aligned with (brackets indicating the Beschwörung Points cost):",
         "Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1)",
         "Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1)",
         "Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1)",
         "Tzeentch: Horrors of Tzeentch (1), Flammenwerfer of Tzeentch (1)",
         "Chaos Undivided: Daemonettes of Slaanesh (2), Plaguebearers of Nurgle (2), Bloodletters of Khorne (2), Horrors of Tzeentch (2), Daemonic Beasts of Chaos Undivided (1)",
-        "Note that while the Summoning Points cost of summoning jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
+        "Note that while the Beschwörung Points cost of Beschwörung jeweils type of daemonic unit varies, the Daemon Pool cost is always eine."
       ]
     },
     {
-      "title": "Black Legion Characters",
+      "title": "Black Legion Charaktermodelle",
       "description": [
         "Black Legion characters may only be added to units of Chaos Space Marines, Havocs, Raptors, Chaos Assault Bikes, oder Chaos Terminatoren."
       ]
     },
     {
-      "title": "Iron Warriors Characters",
+      "title": "Iron Warriors Charaktermodelle",
       "description": [
         "Iron Warriors characters may only be added to units of Chaos Space Marines, Iron Warriors Assault Marines, Iron Warriors Havocs, Tyrant Terminatoren, oder Chaos Cybots."
       ]
     },
     {
-      "title": "Night Lords Characters",
+      "title": "Night Lords Charaktermodelle",
       "description": [
         "Night Lords characters may only be added to units of Night Raptors, Chaos Space Marines, Chaos Trikes, Night Lords Assault Marines, oder Chaos Terminatoren."
       ]
     },
     {
-      "title": "Emperor's Children Characters",
+      "title": "Emperor's Children Charaktermodelle",
       "description": [
         "Emperor's characters may only be added to units of Chaos Space Marines, Chaos Assault Bikes, Noise Marines, Noise Marine Havocs, Raptors, oder Sirenshriek Terminatoren."
       ]
     },
     {
-      "title": "Death Guard Characters",
+      "title": "Death Guard Charaktermodelle",
       "description": [
         "Death Guard characters may only be added to units of Chaos Space Marines, Havocs, Plague Marines, oder Blightlord Terminatoren."
       ]
     },
     {
-      "title": "World Eaters Characters",
+      "title": "World Eaters Charaktermodelle",
       "description": [
         "World Eaters characters may only be added to units of World Eaters Assault Marines, Khorne Berzerkers, Skullseeker Terminatoren, Juggernaut Riders, oder Khorne Berzerker Assault Bikes."
       ]
     },
     {
-      "title": "Word Bearers Characters",
+      "title": "Word Bearers Charaktermodelle",
       "description": [
         "Word Bearers characters may only be added to units of Chaos Space Marines, Havocs, Chaos Assault Bikes, Chaos Terminatoren, Aspiring Champions, Word Bearers Possessed, oder Word Bearers Iconoclasts."
       ]
     },
     {
-      "title": "Augment Summoning (+x)",
+      "title": "Augment Beschwörung (+x)",
       "description": [
-        "Units with Augment Summoning (+x) add a number of summoning Punkte equal to 'x' when the formation they are in summons daemons (see Summoning). Für example, a unit noted as having Augment Summoning (+2) would allow a formation mit einemDaemonic Pact to roll 2D3+2 für summoning Punkte as opposed to the usual 2D3."
+        "Units with Augment Beschwörung (+x) add a number of Beschwörung Punkte equal to 'x' when the formation they are in summons daemons (see Beschwörung). Für example, a unit noted as having Augment Beschwörung (+2) would allow a formation mit einemDaemonic Pact to roll 2D3+2 für Beschwörung Punkte as opposed to the usual 2D3."
       ]
     },
     {
@@ -833,7 +833,7 @@
     {
       "title": "Fickle Masters",
       "description": [
-        "In the Strategy Phase of jeweils turn if the Chaos player rolls a 6, they are rewarded with 1 summoning point to add to the Lesser Daemon Pool. However, if a 1 is rolled, 1 summoning Punkte is lost from the Lesser Daemon Pool. In the latter case, if no Lesser Daemon Pool has been purchased, oder if it is empty, then there is no effect."
+        "In the Strategy Phase of jeweils turn if the Chaos player rolls a 6, they are rewarded with 1 Beschwörung point to add to the Lesser Daemon Pool. However, if a 1 is rolled, 1 Beschwörung Punkte is lost from the Lesser Daemon Pool. In the latter case, if no Lesser Daemon Pool has been purchased, oder if it is empty, then there is no effect."
       ]
     },
     {
@@ -1005,7 +1005,7 @@
       ]
     },
     {
-      "title": "Alpha Legion Transports",
+      "title": "Alpha Legion Transporter",
       "description": [
         "The Alpha Legion are a highly mobile army. Because of this, the Punkte cost of a detachment usually includes enough Rhino transport vehicles to transport it und any Erweiterungen that have been taken. Determine the number of Rhinos needed after all Erweiterungen have been purchased. The number of Rhinos will always be the minimum needed to carry the formation, you can’t take extras along to cover any losses!",
         "Note that many Verbände don’t receive Rhinos, usually because they can’t fit into them. Detachments that come with Rhinos will be noted as having plus transport in the units section of the army list opposite.",
@@ -1218,7 +1218,7 @@
     {
       "title": "Tiger Shark Gun Drones",
       "description": [
-        "Transported Gun Drone Verbände may be split across multiple Tiger Sharks as an exception to the normal aircraft transport rules. The Tiger Sharks cannot land, Engage, oder embark units, but can disembark transported Gun Drones after an approach move. The Gun Drone formation may shoot when it disembarks as normal (see Transporting Ground Units), und counts as having activated für that turn. After this initial deployment the Gun Drones are a completely independent formation."
+        "Transported Gun Drone Verbände may be split across multiple Tiger Sharks as an exception to the normal aircraft transport rules. The Tiger Sharks cannot land, Engage, oder embark units, but can disembark transported Gun Drones after an approach move. The Gun Drone formation may shoot when it disembarks as normal (see Transporting Ground Units), und counts as having activated für that turn. After this initial deployment the Gun Drones are a completely Unabhängig formation."
       ]
     },
     {
@@ -1241,7 +1241,7 @@
       ]
     },
     {
-      "title": "Genestealer Cult Characters",
+      "title": "Genestealer Cult Charaktermodelle",
       "description": [
         "Genestealer Cult characters may only be added to units of INF that were not added to the formation as part of an upgrade."
       ]
@@ -1261,13 +1261,13 @@
     {
       "title": "Extreme Mobility",
       "description": [
-        "Tyranid AV und WE units do not take dangerous oder terrain tests. Tyranid LV units move through terrain und receive cover as if they were INF, und Tyranid INF does not need to take difficult terrain tests. Fortified positions such as Minefields, Razor Wire, und special terrain features affect Tyranids normally."
+        "Tyranid AV und WE units do not take dangerous oder terrain tests. Tyranid LV units move through terrain und receive cover as if they were INF, und Tyranid INF does not need to take difficult terrain tests. Befestigte Stellungen such as Minefields, Razor Wire, und special terrain features affect Tyranids normally."
       ]
     },
     {
       "title": "Extreme Mobility (Genestealer Cult)",
       "description": [
-        "Acolyte Hybrids, Aberrants, Genestealers, und Metamorph Hybrids does not need to take terrain tests. Fortified positions such as Minefields, Razor Wire, und special terrain features affect these units normally."
+        "Acolyte Hybrids, Aberrants, Genestealers, und Metamorph Hybrids does not need to take terrain tests. Befestigte Stellungen such as Minefields, Razor Wire, und special terrain features affect these units normally."
       ]
     },
     {
@@ -1315,7 +1315,7 @@
       ]
     },
     {
-      "title": "Thousand Sons Characters",
+      "title": "Thousand Sons Charaktermodelle",
       "description": [
         "Thousand Sons characters may only be added to units of Chaos Space Marines, Rubric Marines, Scarab Occult Terminatoren, oder Sorcerer Disc Riders."
       ]

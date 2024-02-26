@@ -148,8 +148,8 @@
       ]
     },
     {
-      "name": "Common Independent Swarms",
-      "description": " Bis zu eine Common Independent Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
+      "name": "Common Unabhängig Swarms",
+      "description": " Bis zu eine Common Unabhängig Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
           "name": "Genestealer Swarm",
@@ -169,8 +169,8 @@
       ]
     },
     {
-      "name": "Rare Independent Swarms",
-      "description": " Bis zu eine Rare Independent Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
+      "name": "Rare Unabhängig Swarms",
+      "description": " Bis zu eine Rare Unabhängig Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
           "name": "Bio-Titan",

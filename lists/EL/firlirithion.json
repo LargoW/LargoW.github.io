@@ -9,10 +9,10 @@
     "Avatar (Fir Lirithion)",
     "Farsight",
     "Hit und Run",
-    "May not Garrison (Fir Lirithion)",
+    "Dürfen nicht als Garnison aufstellen (Fir Lirithion)",
 
     "Webway Portal",
-    "Independent Twins"
+    "Unabhängige Zwilllinge"
   ],
   "usage": [
     "The following army list allows you to field an army based on Eldar Titans und Eldar Ritters."
@@ -100,7 +100,7 @@
           "name": "Revenant Titan",
           "units": "Zwei Revenant Titans",
           "extraUnits": [
-            "Give the formation the 'Independent Twins' Sonderregel: 50 Punkte"
+            "Give the formation the 'Unabhängige Zwilllinge' Sonderregel: 50 Punkte"
           ],
           "points": 650
         }

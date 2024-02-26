@@ -2715,7 +2715,7 @@
           "Feuerkraft": "Handfeuerwaffen",
           "specialRules": [
             "EA(+1)",
-            "Lightning Charge",
+            "Blitzangriff",
             "Lanze"
           ]
         },
@@ -2731,7 +2731,7 @@
           "join": "und",
           "specialRules": [
             "EA(+1)",
-            "Lightning Charge",
+            "Blitzangriff",
             "Lanze"
           ]
         },
@@ -5954,7 +5954,7 @@
         {
           "Feuerkraft": "Nahkampfwaffen",
           "specialRules": [
-            "Lightning Charge"
+            "Blitzangriff"
           ]
         }
       ]
@@ -5965,7 +5965,7 @@
         {
           "Feuerkraft": "Nahkampfwaffen",
           "specialRules": [
-            "Lightning Charge"
+            "Blitzangriff"
           ]
         }
       ]
@@ -5978,7 +5978,7 @@
           "specialRules": [
             "EA(+1)",
             "Lanze",
-            "Lightning Charge"
+            "Blitzangriff"
           ]
         }
       ]
@@ -6375,7 +6375,7 @@
           "specialRules": [
             "EA(+1)",
             "Lanze",
-            "Lightning Charge"
+            "Blitzangriff"
           ]
         },
         {
@@ -6384,7 +6384,7 @@
           "specialRules": [
             "EA(+1)",
             "Lanze",
-            "Lightning Charge"
+            "Blitzangriff"
           ]
         }
       ]
@@ -9692,7 +9692,7 @@
           "Feuerkraft": "Handfeuerwaffen",
           "specialRules": [
             "EA(+1)",
-            "Lightning Charge"
+            "Blitzangriff"
           ]
         }
       ]
@@ -12962,7 +12962,7 @@
     },
     {
       "name": "FS",
-      "description": "First Strike"
+      "description": "Erstschlag"
     },
     {
       "name": "FxF",
@@ -12985,8 +12985,8 @@
       "description": "Indirekt Fire"
     },
     {
-      "name": "Lightning Charge",
-      "description": "Lightning Charge"
+      "name": "Blitzangriff",
+      "description": "Blitzangriff"
     },
     {
       "name": "Links",
@@ -13073,8 +13073,8 @@
       "description": "Titan Killer"
     },
     {
-      "name": "Unstable",
-      "description": "Unstable"
+      "name": "Instabil",
+      "description": "Instabil"
     },
     {
       "name": "Spec[*]",

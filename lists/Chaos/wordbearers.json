@@ -6,8 +6,8 @@
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
   "Initiative": "The Word Bearers Retinue und all Word Bearers Elite Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
-    "Summoning",
-    "Word Bearers Summoning Rules",
+    "Beschwörung",
+    "Word Bearers Beschwörungs Regeln",
     "Fickle Masters",
     "Word Bearers Dreadclaws",
     "Word Bearers Characters"
@@ -36,7 +36,7 @@
         "Chaos Cybot"
       ],
       "unitRules": [
-          "Augment Summoning (+x)",
+          "Augment Beschwörung (+x)",
           "Daemonic Focus"
       ]
     },

@@ -6,8 +6,8 @@
   "strategy": "An unmixed Daemonic Incursion army (only consisting of daemonic Verbände belonging to a single Chaos Power) has a Strategy Rating of 1, while a mixed Daemonic Incursion army has a Strategy Rating of 0.",
   "Initiative": "Exalted Greater Daemon Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
-    "Summoning",
-    "Daemonic Incursion Summoning Rules",
+    "Beschwörung",
+    "Daemonic Incursion Beschwörungs Regeln",
     "Daemonic Instability",
     "Fickle Masters",
     "The Great Ritual",

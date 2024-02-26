@@ -8,7 +8,7 @@
   "Initiative": "All Verbände haben eine Initiativewert von 2+. In addition, all Ritter Household Verbände are subject to the 'Tapferkeit' Sonderregel.",
   "specialRules": [
     "Tapferkeit",
-    "Fortified Positions"
+    "Befestigte Stellungen"
   ],
   "units": [
     {
@@ -26,7 +26,7 @@
       ],
       "unitRules": [
         "Ionenfeld (x)",
-        "Lightning Charge",
+        "Blitzangriff",
         "Schwergepanzertes Fahrzeug (H-AV)",
         "Lanze"
       ]
