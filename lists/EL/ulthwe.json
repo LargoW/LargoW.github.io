@@ -13,7 +13,7 @@
     "Dürfen nicht als Garnison aufstellen (Ulthwé)",
     "Farsight",
     "Hit und Run",
-    "Netz der tausend Tore Portal"
+    "Tor zum Netz der tausend Tore"
   ],
   "units": [
     {
@@ -83,7 +83,7 @@
         },
         {
           "name": "1 Wraithgate",
-          "units": "Ersetze eine objective marker in the Eldar Spieler's half of the table mit einemWraithgate, this counts as an objective marker und a Netz der tausend Tore Portal which may not be attacked oder damaged in any way.",
+          "units": "Ersetze eine objective marker in the Eldar Spieler's half of the table mit einemWraithgate, this counts as an objective marker und a Tor zum Netz der tausend Tore which may not be attacked oder damaged in any way.",
           "extraUnits": [
           ],
           "points": "Kostenlos"

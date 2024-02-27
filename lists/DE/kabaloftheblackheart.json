@@ -11,7 +11,7 @@
     "Hit und Run",
     "Black Heart Coterie",
     "Dürfen nicht als Garnison aufstellen (Black Heart)",
-    "Netz der tausend Tore Portal"
+    "Tor zum Netz der tausend Tore"
   ],
   "usage": [
     "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Kabal of the Black Heart"
@@ -69,7 +69,7 @@
       "formations": [
         {
           "name": "0-1 Wraithgate",
-          "units": "Ersetze eine objective marker in the Dark Eldar Spieler's half of the table mit einemWraithgate, this counts as an objective marker und a Netz der tausend Tore Portal which may not be attacked oder damaged in any way.",
+          "units": "Ersetze eine objective marker in the Dark Eldar Spieler's half of the table mit einemWraithgate, this counts as an objective marker und a Tor zum Netz der tausend Tore which may not be attacked oder damaged in any way.",
           "points": 50
         }
       ]
@@ -251,7 +251,7 @@
       },
       {
         "name": "(0-1 in the army) Portable Netz der tausend Tore",
-        "description": "Füge a Portable Netz der tausend Tore Portal to an Archon, Dracon, Succubus oder Haemonculus Ancient character. This Portable Netz der tausend Tore may be used once in a game. After the character's formation (oder the formation carrying it) completes an action you may place a small barrage template marker completely within 15cm of the character's unit (oder the unit carrying it) und outside any enemy zones of control. This marker counts as a Netz der tausend Tore Portal which may not be attacked oder damaged in any way. Remove this Netz der tausend Tore Portal marker in the End Phase of the turn before any rallying.",
+        "description": "Füge a Portable Tor zum Netz der tausend Tore to an Archon, Dracon, Succubus oder Haemonculus Ancient character. This Portable Netz der tausend Tore may be used once in a game. After the character's formation (oder the formation carrying it) completes an action you may place a small barrage template marker completely within 15cm of the character's unit (oder the unit carrying it) und outside any enemy zones of control. This marker counts as a Tor zum Netz der tausend Tore which may not be attacked oder damaged in any way. Remove this Tor zum Netz der tausend Tore marker in the End Phase of the turn before any rallying.",
         "points": "50 Punkte"
       },
       {
