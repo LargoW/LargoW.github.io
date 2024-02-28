@@ -26,7 +26,7 @@
           "Hornschwert"
         ],
         "specialRules": [
-          "Hive Mind Locus",
+          "Schwarmbewusstsein Locus",
           "Inspirierend",
           "Synapse",
           "Furchtlos",
@@ -45,7 +45,7 @@
           "Hornschwert"
         ],
         "specialRules": [
-          "Hive Mind Locus",
+          "Schwarmbewusstsein Locus",
           "Inspirierend",
           "Synapse",
           "Furchtlos",
@@ -56,7 +56,7 @@
         ]
       },
       {
-        "name": "Swarmlord",
+        "name": "Schwarmherrscher",
         "type": "AV",
         "speed": "20cm",
         "armour": "4",
@@ -67,7 +67,7 @@
           "Große Klauen"
         ],
         "specialRules": [
-          "Hive Mind Locus",
+          "Schwarmbewusstsein Locus",
           "Inspirierend",
           "Synapse",
           "Furchtlos",
@@ -77,7 +77,7 @@
         ]
       },
       {
-        "name": "Swarmlord Shrike",
+        "name": "Schwarmherrscher Shrike",
         "type": "AV",
         "speed": "30cm",
         "armour": "5",
@@ -88,7 +88,7 @@
           "Große Klauen"
         ],
         "specialRules": [
-          "Hive Mind Locus",
+          "Schwarmbewusstsein Locus",
           "Inspirierend",
           "Synapse",
           "Furchtlos",
@@ -682,7 +682,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 6",
-          "Hive Mind Locus",
+          "Schwarmbewusstsein Locus",
           "Synapse",
           "Furchtlos",
           "Anführer",
@@ -708,7 +708,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 6",
-          "Hive Mind Locus",
+          "Schwarmbewusstsein Locus",
           "Synapse",
           "Furchtlos",
           "Anführer",

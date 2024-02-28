@@ -7,7 +7,7 @@
   "Initiative": "The Nexus Spawn Swarm has an Initiative Rating of 1+. All other Tyranid Verbände haben eine Initiativewert von 2+. In addition, all Verbände are subject to the 'Broodmind' Sonderregel.",
   "specialRules": [
     "Synapse",
-    "Hive Mind Locus",
+    "Schwarmbewusstsein Locus",
     "Broodmind",
     "Knallt die Großen ab!",
     "Extreme Mobility",
@@ -33,8 +33,8 @@
         "Zoanthrope",
         "Liktor",
         "Dimachaeron",
-        "Swarmlord",
-        "Swarmlord Shrike",
+        "Schwarmherrscher",
+        "Schwarmherrscher Shrike",
         "Schwarmtyrant",
         "Schwarmtyrant Shrike",
         "Dactylis",
@@ -93,7 +93,7 @@
             "Zwei to vier Instinctive Swarms (except Spawner)",
             "Ersetze a Schwarmtyrant mit einemSchwarmtyrant Shrike: Kostenlos",
             "0-1 Schwarmtyrant in the army may be replaced mit einemSwarmlord: 75 Punkte",
-            "Ersetze a Swarmlord mit einemSwarm Lord Shrike: Kostenlos"
+            "Ersetze a Schwarmherrscher mit einemSwarm Lord Shrike: Kostenlos"
           ],
           "points": 150
         },
