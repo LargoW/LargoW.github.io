@@ -2487,7 +2487,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport 12 Infanterie Einheiten, Trikes, oder Cybots; plus fünf light vehicles oder armoured vehicle units (except Trikes und Cybots); plus zwei Thunderhawks und enough Drop Pods to transport any other units being carried."
+        "notes": "May transport 12 Infanterie Einheiten, Trikes, oder Cybots; plus fünf leichte Fahrzeuge oder armoured vehicle units (except Trikes und Cybots); plus zwei Thunderhawks und enough Drop Pods to transport any other units being carried."
       },
       {
         "name": "Strike Cruiser",
@@ -2505,7 +2505,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport 20 Infanterie Einheiten, Trikes, oder Cybots; plus 10 light vehicles oder armoured vehicle units (except Trikes und Cybots); plus sechs Thunderhawks und enough Drop Pods oder Landing Craft to transport any other units being carried."
+        "notes": "May transport 20 Infanterie Einheiten, Trikes, oder Cybots; plus 10 leichte Fahrzeuge oder armoured vehicle units (except Trikes und Cybots); plus sechs Thunderhawks und enough Drop Pods oder Landing Craft to transport any other units being carried."
       },
       {
         "name": "Grey Knights Strike Cruiser",
@@ -2524,7 +2524,7 @@
           "Navis Bossilite",
           "Transport"
         ],
-        "notes": "May transport 20 Infanterie Einheiten, Trikes, Cybots; plus 10 light vehicles oder armoured vehicle units (except Trikes und Cybots) ; plus 6 Thunderhawks/Storm Eagles und enough Drop Pods oder Landing Craft to transport any other units being carried."
+        "notes": "May transport 20 Infanterie Einheiten, Trikes, Cybots; plus 10 leichte Fahrzeuge oder armoured vehicle units (except Trikes und Cybots) ; plus 6 Thunderhawks/Storm Eagles und enough Drop Pods oder Landing Craft to transport any other units being carried."
       },
       {
         "name": "Battle Barge",

@@ -4,7 +4,7 @@
   "by": "Argol & MrDieAlot",
   "sections": [
     {
-      "name": "Primary Synapse Swarms",
+      "name": "Primäre Synapse Swarms",
       "formations": [
         {
           "id": 501,
@@ -89,7 +89,7 @@
       ]
     },
 	{
-      "name": "Secondary Synapse Swarms (One Secondary Synapse Swarm may be taken for each Primary Synapse Swarm)",
+      "name": "Sekundäre Synapse Swarms (One Sekundäre Synapse Swarm may be taken for each Primäre Synapse Swarm)",
       "formations": [
 	  	    {
           "id": 512,
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "name": "Common Independent Swarms (One Common Independent Swarm may be taken for each Primary Synapse Swarm. // Max 33% of the list may be taken from this section)",
+      "name": "Common Independent Swarms (One Common Independent Swarm may be taken for each Primäre Synapse Swarm. // Max 33% of the list may be taken from this section)",
       "formations": [
         {
           "id": 506,
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "name": "Rare Independent Swarms (One Rare Independent Swarm may be taken for each Primary Synapse Swarm. // Max 33% of the list may be taken from this section)",
+      "name": "Rare Independent Swarms (One Rare Independent Swarm may be taken for each Primäre Synapse Swarm. // Max 33% of the list may be taken from this section)",
       "formations": [
     {
           "id": 510,
@@ -297,7 +297,7 @@
     },
     {
       "id": 141,
-      "name": "Broodlord",
+      "name": "Symbiarch",
       "pts": 25
     },
     {
@@ -459,7 +459,7 @@
     },
     {
       "max": 1,
-      "name": "Secondary Nexus Swarms",
+      "name": "Sekundäre Nexus Swarms",
       "from": [
         504,
         505,
@@ -471,7 +471,7 @@
         502,
         503
       ],
-      "name2": "Primary Nexus Swarm"
+      "name2": "Primäre Nexus Swarm"
 	},
     {
       "max": 1,
@@ -485,7 +485,7 @@
         502,
         503
       ],
-      "name2": "Primary Nexus Swarm"
+      "name2": "Primäre Nexus Swarm"
 	},
 	{
       "maxPercent": 33.5,
@@ -509,7 +509,7 @@
         502,
         503
       ],
-      "name2": "Primary Nexus Swarm"
+      "name2": "Primäre Nexus Swarm"
     }
   ],
   "upgradeConstraints": [

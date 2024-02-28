@@ -4,7 +4,7 @@
   "by": "EA-Ragnarok",
   "sections": [
     {
-      "name": "PRIMARY SYNAPSE SWARMS",
+      "name": "Primäre SYNAPSE SWARMS",
       "formations": [
         {
           "id": 501,
@@ -28,7 +28,7 @@
       ]
     },
 	{
-      "name": "SECONDARY SYNAPSE SWARMS <br/> Max 1 for each Primary Synapse Swarm",
+      "name": "Sekundäre SYNAPSE SWARMS <br/> Max 1 for each Primäre Synapse Swarm",
       "formations": [
 	  	    {
           "id": 512,
@@ -58,11 +58,11 @@
       ]
     },
     {
-      "name": "COMMON INDEPENDENT SWARMS <br/> Max 33% <br/> Max 1 for each Primary Synapse Swarm",
+      "name": "COMMON INDEPENDENT SWARMS <br/> Max 33% <br/> Max 1 for each Primäre Synapse Swarm",
       "formations": [
           {"id": 506,
             "name": "Genestealer Swarm",
-            "units": "Broodlord",
+            "units": "Symbiarch",
             "pts": 25,
             "upgrades": [140]},
     {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "RARE INDEPENDENT SWARMS <br/> Max 33% <br/> Max 1 for each Primary Synapse Swarm",
+      "name": "RARE INDEPENDENT SWARMS <br/> Max 33% <br/> Max 1 for each Primäre Synapse Swarm",
       "formations": [
     {
           "id": 510,
@@ -116,7 +116,7 @@
     {"id": 122,"name": "Carnifex (3 Kreischer-Killer Carnifex)",      "pts": 125    },
     {"id": 130,"name": "Harridan","pts": 150},
     {"id": 140,"name": "Genestealers","pts": 25},
-    {"id": 141,"name": "Broodlord","pts": 25},
+    {"id": 141,"name": "Symbiarch","pts": 25},
     {"id": 142,"name": "Liktor","pts": 25},
     {"id": 160,"name": "Hierophant","pts": 350},
     {"id": 161,"name": "Hydraphant","pts": 500},
@@ -154,10 +154,10 @@
     {"max": 1,"from": [501]},
     {"max": 1,"from": [511]},
     {"maxPercent": 33.5,"name": "Common Independent Swarms","from": [506,507]},
-    {"max": 1,"name": "Secondary Nexus Swarm","from": [504,505,509,512],"forEach": [501,502,503],"name2": "Primary Nexus Swarm"},
-    {"max": 1,"name": "Common Independent Swarm","from": [506,507],"forEach": [501,502,503],"name2": "Primary Nexus Swarm"},
+    {"max": 1,"name": "Sekundäre Nexus Swarm","from": [504,505,509,512],"forEach": [501,502,503],"name2": "Primäre Nexus Swarm"},
+    {"max": 1,"name": "Common Independent Swarm","from": [506,507],"forEach": [501,502,503],"name2": "Primäre Nexus Swarm"},
 	{"maxPercent": 33.5,"name": "Rare Independent Swarms","from": [508,510,511]},
-    {"max": 1,"name": "Rare Independent Swarm","from": [508,510,511],"forEach": [501,502,503],"name2": "Primary Nexus Swarm"}
+    {"max": 1,"name": "Rare Independent Swarm","from": [508,510,511],"forEach": [501,502,503],"name2": "Primäre Nexus Swarm"}
 ],
 
   "upgradeConstraints": [

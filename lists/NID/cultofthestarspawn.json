@@ -7,9 +7,9 @@
   "Initiative": "The Cult Kompanie und all Cult Support Verbände haben eine Initiativewert von 2+, und are subject to the 'Brood Brothers' Sonderregel. All other Verbände have an Initative Rating of 1+.",
   "specialRules": [
     "Broodcoven",
-    "Broodmind",
+    "Brutbewusstsein",
     "Brood Brothers",
-    "Extreme Mobility (Cult of the Star-Spawn)"
+    "Extreme Mobilität (Cult of the Star-Spawn)"
   ],
   "usage": [
   ],
@@ -19,7 +19,7 @@
       "units": [
         "Symbionten Patriarch",
         "Coven Locus",
-        "Broodlord",
+        "Symbiarch",
         "Symbionten Primus",
         "Acolytes",
         "Hybrid Metamorphs",
@@ -87,7 +87,7 @@
       "formations": [
         {
           "name": "Symbionten Brood",
-          "units": "Ein Broodlord, sechs Symbionten",
+          "units": "Ein Symbiarch, sechs Symbionten",
           "extraUnits": [
             "Symbionten"
           ],

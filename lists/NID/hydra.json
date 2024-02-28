@@ -4,13 +4,13 @@
   "version": "Alpha 0.7.0",
   "release": "2022-04-01",
   "strategy": "Tyranid Armeen haben einen Strategiewert von 1.",
-  "Initiative": "The Nexus Spawn Swarm has an Initiative Rating of 1+. All other Tyranid Verbände haben eine Initiativewert von 2+. In addition, all Verbände are subject to the 'Broodmind' Sonderregel.",
+  "Initiative": "The Nexus Spawn Swarm has an Initiative Rating of 1+. All other Tyranid Verbände haben eine Initiativewert von 2+. In addition, all Verbände are subject to the 'Brutbewusstsein' Sonderregel.",
   "specialRules": [
     "Synapse",
     "Schwarmbewusstseinszentrum",
-    "Broodmind",
+    "Brutbewusstsein",
     "Knallt die Großen ab!",
-    "Extreme Mobility",
+    "Extreme Mobilität",
     "Schwärmen (x)",
     "Tunnelgräber",
     "Hydra Vanguard Organisms"
@@ -75,7 +75,7 @@
   ],
   "sections": [
     {
-      "name": "Primary Synapse Swarms",
+      "name": "Primäre Synapse Swarms",
       "formations": [
         {
           "name": "0-1 Nexus Spawn Swarm",
@@ -110,8 +110,8 @@
       ]
     },
     {
-      "name": "Secondary Synapse Swarms",
-      "description": " Bis zu eine Secondary Synapse Swarm für jeweils Primary Synapse Swarm.",
+      "name": "Sekundäre Synapse Swarms",
+      "description": " Bis zu eine Sekundäre Synapse Swarm für jeweils Primäre Synapse Swarm.",
       "formations": [
         {
           "name": "Tervigon Spawn Swarm",
@@ -152,7 +152,7 @@
     },
     {
       "name": "Common Unabhängig Swarms",
-      "description": " Bis zu eine Common Unabhängig Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
+      "description": " Bis zu eine Common Unabhängig Swarm für jeweils Primäre Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
           "name": "Symbionten Swarm",
@@ -174,7 +174,7 @@
     },
     {
       "name": "Rare Unabhängig Swarms",
-      "description": " Bis zu eine Rare Unabhängig Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
+      "description": " Bis zu eine Rare Unabhängig Swarm für jeweils Primäre Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
           "name": "Bio-Titan",

@@ -11,7 +11,7 @@
     "Schwarmbewusstseinszentrum",
     "Schwarmbewusstsein",
     "Knallt die Großen ab!",
-    "Extreme Mobility",
+    "Extreme Mobilität",
     "Tunnelgräber",
     "Dagon Vanguard Organisms"
   ],
@@ -74,7 +74,7 @@
   ],
   "sections": [
     {
-      "name": "Primary Synapse Swarms",
+      "name": "Primäre Synapse Swarms",
       "formations": [
         {
           "name": "0-1 Nexus Swarm",
@@ -108,8 +108,8 @@
       ]
     },
     {
-      "name": "Secondary Synapse Swarms",
-      "description": " Bis zu eine Secondary Synapse Swarm für jeweils Primary Synapse Swarm.",
+      "name": "Sekundäre Synapse Swarms",
+      "description": " Bis zu eine Sekundäre Synapse Swarm für jeweils Primäre Synapse Swarm.",
       "formations": [
         {
           "name": "Nest Swarm",
@@ -149,7 +149,7 @@
     },
     {
       "name": "Common Unabhängig Swarms",
-      "description": " Bis zu eine Common Unabhängig Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
+      "description": " Bis zu eine Common Unabhängig Swarm für jeweils Primäre Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
           "name": "Symbionten Swarm",
@@ -170,7 +170,7 @@
     },
     {
       "name": "Rare Unabhängig Swarms",
-      "description": " Bis zu eine Rare Unabhängig Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
+      "description": " Bis zu eine Rare Unabhängig Swarm für jeweils Primäre Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
           "name": "Bio-Titan",
