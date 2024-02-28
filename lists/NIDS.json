@@ -436,7 +436,7 @@
         ]
       },
       {
-        "name": "Tervigon Prime",
+        "name": "Tervigon Primus",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -473,7 +473,7 @@
           "Transport",
           "Schwärmen (1)"
         ],
-        "notes": "May transport zwei units of Termaganten und Hormaganten. May bring back eine unit of Termaganten und/oder Hormaganten when Swarming."
+        "notes": "Darf bis zu zwei Einheiten Termaganten und Hormaganten transportieren. Darf eine Einheit Termaganten oder Hormaganten durch <i>Schwärmen</i> zurückbringen."
       },
       {
         "name": "Viragon",
@@ -494,10 +494,10 @@
           "Regeneration",
           "Tunnelgräber"
         ],
-        "crit": "The Viragon is killed."
+        "crit": "Der Viragon wird zerstört."
       },
       {
-        "name": "Trygon Prime",
+        "name": "Trygon Primus",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -538,7 +538,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Bio-Geschütz",
+          "Biokanone",
           "Große Klauen"
         ],
         "specialRules": [
@@ -549,11 +549,11 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport bis zu vier units of Gargoyles.",
-        "crit": "The Harridan und any Gargoyles transported are killed."
+        "notes": "Darf bis zu vier Einheiten Gargoyles transportieren.",
+        "crit": "Der Harridan und alle transportierten Gargoyles werden zerstört."
       },
       {
-        "name": "Hive Harridan",
+        "name": "Schwarmharridan",
         "type": "WE",
         "speed": 35,
         "armour": 5,
@@ -574,18 +574,18 @@
           "Transport",
           "Schwärmen (1)"
         ],
-        "notes": "May transport bis zu vier units of Gargoyles. May bring back eine unit of Gargoyles when Swarming.",
-        "crit": "The Harridan is killed."
+        "notes": "Darf bis zu vier Einheiten Gargoyles transportieren. Darf eine Einheit Gargoyles durch <i>Schwärmen</i> zurückbringen.",
+        "crit": "Der Harridan wird zerstört."
       },
       {
-        "name": "Barbed Hierodule Prime",
+        "name": "Stachel-Hierodule Primus",
         "type": "WE",
         "speed": 25,
         "armour": 5,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Bio-Geschütz",
+          "Synchronisierter Biokanone",
           "Große Klauen"
         ],
         "specialRules": [
@@ -594,34 +594,34 @@
           "Furchtlos",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Hierodule Prime is killed."
+        "crit": "Der Stachel-Hierodule Primus wird zerstört."
       },
       {
-        "name": "Barbed Hierodule",
+        "name": "Stachel-Hierodule",
         "type": "WE",
         "speed": 25,
         "armour": 5,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Bio-Geschütz",
+          "Synchronisierter Biokanone",
           "Große Klauen"
         ],
         "specialRules": [
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Hierodule is killed."
+        "crit": "Der Stachel-Hierodule wird zerstört."
       },
       {
-        "name": "Scythed Hierodule Prime",
+        "name": "Geschlitzter Hierodule Primus",
         "type": "WE",
         "speed": 25,
         "armour": 5,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Pyro-Acid",
+          "Pyro-Säure",
           "Massive Sensenklauen"
         ],
         "specialRules": [
@@ -630,34 +630,34 @@
           "Furchtlos",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Scythed Hierodule Prime is killed."
+        "crit": "Der geschlitzte Hierodule Primus wird zerstört."
       },
       {
-        "name": "Scythed Hierodule",
+        "name": "Geschlitzter Hierodule",
         "type": "WE",
         "speed": 25,
         "armour": 5,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Pyro-Acid",
+          "Pyro-Säure",
           "Massive Sensenklauen"
         ],
         "specialRules": [
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Scythed Hierodule is killed."
+        "crit": "Der geschlitzte Hierodule wird zerstört."
       },
       {
-        "name": "Hive Nest",
+        "name": "Schwarmnest",
         "type": "WE",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 5,
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Ripper Swarms"
+          "Absorberschwärme"
         ],
         "specialRules": [
           "Schadenskapazität 3",
@@ -665,19 +665,19 @@
           "Furchtlos",
           "Regeneration"
         ],
-        "crit": "The Hive Nest is destroyed."
+        "crit": "Das Schwarmnest wird zerstört."
       },
       {
-        "name": "Dagon Dominatrix",
+        "name": "Dominatrix (Dagon)",
         "type": "WE",
         "speed": 25,
         "armour": 5,
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Titan Bio-Geschütz",
-          "Bio-Plasmic Ray",
-          "Bio-Plasma Burst",
+          "Bio-Titan Biokanone",
+          "Bioplasmatischer Strahl",
+          "Bioplasmatischer Ausbruch",
           "Massive Sensenklauen"
         ],
         "specialRules": [
@@ -691,18 +691,18 @@
           "Verstärkte Panzerung",
           "Regeneration"
         ],
-        "notes": "May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",
-        "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
+        "notes": "Darf sich über Einheiten und unpasssierbares oder gefährliches Gelände bewegen das niedriger als der Körper ist und bis zu 2cm breit ist.",
+        "crit": "Wirf einen W6 1: Einheiten in Basekontakt werden bei 6+ von einer MW Attacke getroffen. 2-5: Erleide eine zusätzlichen Schadenspunkt. 6: Erleide W3 zusätzliche Schadenspunkte."
       },
       {
-        "name": "Hydra Dominatrix",
+        "name": "Dominatrix (Hydra)",
         "type": "WE",
         "speed": 25,
         "armour": 5,
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Energy Pulse",
+          "Bioenergie Entladung",
           "Massive Sensenklauen",
           "Gantenbeutel"
         ],
@@ -719,8 +719,8 @@
           "Transport",
           "Schwärmen (3)"
         ],
-        "notes": "May transport fünf units of Termaganten, Hormaganten und Gargoyles. May bring back drei units of Termaganten, Hormaganten und/oder Gargoyles when Swarming. May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",
-        "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
+        "notes": "Darf fünf Einheiten Termaganten, Hormaganten und Gargoyles transportieren. Darf drei Einheiten Termaganten, Hormaganten und/oder Gargoyles durch <i>Schwärmen</i> zurückbringen. Darf sich über Einheiten und unpasssierbares oder gefährliches Gelände bewegen das niedriger als der Körper ist und bis zu 2cm breit ist.",
+        "crit": "Wirf einen W6 1: Einheiten in Basekontakt werden bei 6+ von einer MW Attacke getroffen. 2-5: Erleide eine zusätzlichen Schadenspunkt. 6: Erleide W3 zusätzliche Schadenspunkte."
       },
       {
         "name": "Hierophant",
@@ -730,8 +730,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Titan Bio-Geschütz",
-          "Hail of Barbed Spears",
+          "Bio-Titan Biokanone",
+          "Dornenspießhagel",
           "Massive Sensenklauen"
         ],
         "specialRules": [
@@ -740,8 +740,8 @@
           "Verstärkte Panzerung",
           "Regeneration"
         ],
-        "notes": "May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",
-        "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
+        "notes": "Darf sich über Einheiten und unpasssierbares oder gefährliches Gelände bewegen das niedriger als der Körper ist und bis zu 2cm breit ist.",
+        "crit": "Wirf einen W6 1: Einheiten in Basekontakt werden bei 6+ von einer MW Attacke getroffen. 2-5: Erleide eine zusätzlichen Schadenspunkt. 6: Erleide W3 zusätzliche Schadenspunkte."
       },
       {
         "name": "Hydraphant",
@@ -751,10 +751,10 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Titan Bio-Geschütz",
-          "Bio-Plasma Burst",
-          "Hail of Barbed Spears",
-          "Ripper Tentacles",
+          "Bio-Titan Biokanone",
+          "Bioplasmatischer Ausbruch",
+          "Dornenspießhagel",
+          "Absorbertentakel",
           "Monströse Klauen"
         ],
         "specialRules": [
@@ -763,8 +763,8 @@
           "Verstärkte Panzerung",
           "Regeneration"
         ],
-        "notes": "May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",
-        "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
+        "notes": "Darf sich über Einheiten und unpasssierbares oder gefährliches Gelände bewegen das niedriger als der Körper ist und bis zu 2cm breit ist.",
+        "crit": "Wirf einen W6 1: Einheiten in Basekontakt werden bei 6+ von einer MW Attacke getroffen. 2-5: Erleide eine zusätzlichen Schadenspunkt. 6: Erleide W3 zusätzliche Schadenspunkte."
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
    "id": "NetEA Ghazghkull Thraka's War Horde",
    "version": "2019-10-17",
-   "notes": ["The Warlord will join a Great Gargant if available. otherwise he will join a Gargant or a unit of Nobz if available."],
+   "notes": ["The Warlord will join a Great Gargant if available. otherwise he will join a Gargant or a Einheit Nobz if available."],
    "by": "EA-Ragnarok",
    "sections": [
       {

@@ -35,7 +35,7 @@
         "Geflügeltes Schwarmoberhaupt (Dagon)",
         "Schwarmtyrant",
         "Geflügelter Schwarmtyrant",
-        "Barbed Carnifex",
+        "Stachel-Carnifex",
         "Kreischer-Killer Carnifex",
         "Dactylis",
         "Exocrine",
@@ -43,16 +43,16 @@
         "Malefactor",
         "Harpie",
         "Schwarmdrude",
-        "Trygon Prime",
+        "Trygon Primus",
         "Trygon",
         "Harridan",
-        "Barbed Hierodule Prime",
-        "Barbed Hierodule",
-        "Scythed Hierodule Prime",
-        "Scythed Hierodule",
-        "Hive Nest",
+        "Stachel-Hierodule Primus",
+        "Stachel-Hierodule",
+        "Geschlitzter Hierodule Primus",
+        "Geschlitzter Hierodule",
+        "Schwarmnest",
         "Hierophant",
-        "Dagon Dominatrix",
+        "Dominatrix (Dagon)",
         "Hydraphant"
       ],
       "unitRules": [
@@ -78,7 +78,7 @@
       "formations": [
         {
           "name": "0-1 Nexus Swarm",
-          "units": "Ein Dagon Dominatrix",
+          "units": "Ein Dominatrix (Dagon)",
           "extraUnits": [
             "Ein to vier Instinctive Swarms (except Mycetic Spore)"
           ],
@@ -113,7 +113,7 @@
       "formations": [
         {
           "name": "Nest Swarm",
-          "units": "Ein Hive Nest",
+          "units": "Ein Schwarmnest",
           "extraUnits": [
             "Ein to zwei Instinctive Swarms chosen from Gaunts, Gargoyles, Biovores oder Bio-Support",
             "1+ Gaunts, Gargoyles oder Biovores must be chosen"
@@ -122,7 +122,7 @@
         },
         {
           "name": "Breacher Swarm",
-          "units": "Ein Hierodule Prime (Barbed oder Scythed)",
+          "units": "Ein Hierodule Primus (Stachel-oder Scythed)",
           "extraUnits": [
             "Ein to zwei Instinctive Swarms chosen from Gaunts, Gargoyles, Burrower, Carnifex oder Bio-Attack"
           ],
@@ -130,7 +130,7 @@
         },
         {
           "name": "Infestation Swarm",
-          "units": "Drei Alpha Venatoren oder eine Trygon Prime",
+          "units": "Drei Alpha Venatoren oder eine Trygon Primus",
           "extraUnits": [
             "Ein to zwei Burrower Instinctive Swarms"
           ],
@@ -217,7 +217,7 @@
       },
       {
         "name": "Carnifex",
-        "description": "Drei Barbed Carnifex oder drei Kreischer-Killer Carnifex",
+        "description": "Drei Stachel-Carnifex oder drei Kreischer-Killer Carnifex",
         "points": "125 Punkte"
       },
       {
@@ -232,7 +232,7 @@
       },
       {
         "name": "Breacher",
-        "description": "Ein Barbed Hierodule oder eine Scythed Hierodule",
+        "description": "Ein Stachel-Hierodule oder eine Geschlitzter Hierodule",
         "points": "125 Punkte"
       },
       {

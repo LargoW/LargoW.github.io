@@ -990,7 +990,7 @@
       {
         "name": "Todesstoss-Raketensilo",
         "type": "WE",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 5,
         "weapons": [
           "Todesstoss Rakete|2"
@@ -1504,7 +1504,7 @@
         ],
         "specialRules": [
         ],
-        "crit": "The Minotaur is destroyed. All Einheiten innerhalb von 5cm suffers a hit on 6+."
+        "crit": "The Minotaur wird zerstört. All Einheiten innerhalb von 5cm suffers a hit on 6+."
       },
       {
         "name": "Macharius",
@@ -1540,7 +1540,7 @@
           "Verstärkte Panzerung"
         ],
         "notes": "Must be equipped with either Synchronisierter Vanquisher Geschütz oder a Vulcan Mega-Bolter.",
-        "crit": "The Macharius is destroyed."
+        "crit": "The Macharius wird zerstört."
       },
       {
         "name": "Baran Macharius",
@@ -1557,7 +1557,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Macharius is destroyed."
+        "crit": "The Macharius wird zerstört."
       },
       {
         "name": "Macharius Medusa",
@@ -1574,12 +1574,12 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Macharius is destroyed."
+        "crit": "The Macharius wird zerstört."
       },
       {
         "name": "Defense Laser",
         "type": "WE",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 4,
         "cc": 6,
         "ff": 5,

@@ -1839,7 +1839,7 @@
       ]
     },
     {
-      "name": "Barbed Klauen",
+      "name": "Stachel-Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -2090,7 +2090,7 @@
       ]
     },
     {
-      "name": "Bio-Geschütz",
+      "name": "Biokanone",
       "modes": [
         {
           "firepower": "2x AP4+/AT5+",
@@ -2101,7 +2101,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Bio-Geschütz",
+      "name": "Synchronisierter Biokanone",
       "modes": [
         {
           "firepower": "3x AP3+/AT4+",
@@ -2112,7 +2112,7 @@
       ]
     },
     {
-      "name": "Bio-Energy Pulse",
+      "name": "Bioenergie Entladung",
       "modes": [
         {
           "firepower": "3BP",
@@ -2142,7 +2142,7 @@
       ]
     },
     {
-      "name": "Bio-Plasma Burst",
+      "name": "Bioplasmatischer Ausbruch",
       "modes": [
         {
           "firepower": "4BP",
@@ -2172,7 +2172,7 @@
       ]
     },
     {
-      "name": "Bio-Plasmic Ray",
+      "name": "Bioplasmatischer Strahl",
       "modes": [
         {
           "firepower": "AA5",
@@ -2184,7 +2184,7 @@
       ]
     },
     {
-      "name": "Bio-Plasmic Ray",
+      "name": "Bioplasmatischer Strahl",
       "modes": [
         {
           "firepower": "AP4+/AT4+/AA5",
@@ -2196,7 +2196,7 @@
       ]
     },
     {
-      "name": "Bio-Titan Bio-Geschütz",
+      "name": "Bio-Titan Biokanone",
       "modes": [
         {
           "firepower": "4x AP3+/AT4+",
@@ -2207,7 +2207,7 @@
       ]
     },
     {
-      "name": "Bio-Titan Bio-Geschütz",
+      "name": "Bio-Titan Biokanone",
       "modes": [
         {
           "firepower": "4x AP3+/AT4+",
@@ -4922,7 +4922,7 @@
       ]
     },
     {
-      "name": "Hail of Barbed Spears",
+      "name": "Dornenspießhagel",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -8981,7 +8981,7 @@
       ]
     },
     {
-      "name": "Pyro-Acid",
+      "name": "Pyro-Säure",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -9371,7 +9371,7 @@
       ]
     },
     {
-      "name": "Ripper Swarms",
+      "name": "Absorberschwärme",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -9382,7 +9382,7 @@
       ]
     },
     {
-      "name": "Ripper Tentacles",
+      "name": "Absorbertentakel",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",

@@ -975,7 +975,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "May transport eine unit of Aufklärers."
+        "notes": "May transport eine Einheit Aufklärers."
       },
       {
         "name": "Land Speeder",
@@ -1218,7 +1218,7 @@
           "Inspirierend",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "May only be added to a Cybot unit of any configuration."
+        "notes": "May only be added to a Cybot Einheit any configuration."
       },
       {
         "name": "Cybot",
@@ -1996,7 +1996,7 @@
       {
         "name": "Bastion",
         "type": "WE",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 4,
         "cc": 6,
         "ff": 4,
@@ -2032,7 +2032,7 @@
           "Schadenskapazität 4",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Fellblade is destroyed. Alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer."
+        "crit": "The Fellblade wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer."
       },
       {
         "name": "Glaive",
@@ -2050,7 +2050,7 @@
           "Schadenskapazität 4",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Glaive is destroyed. Alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer."
+        "crit": "The Glaive wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer."
       },
       {
         "name": "Deathwatch Landing Craft",
@@ -2130,7 +2130,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Stormfang is destroyed."
+        "crit": "The Stormfang wird zerstört."
       },
       {
         "name": "Storm Talon",
@@ -2247,7 +2247,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Fire Raptor is destroyed."
+        "crit": "The Fire Raptor wird zerstört."
       },
       {
         "name": "Storm Eagle",
@@ -2412,7 +2412,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Thunderhawk is destroyed."
+        "crit": "The Thunderhawk wird zerstört."
       },
       {
         "name": "Landing Craft",
@@ -2885,7 +2885,7 @@
           "Deflektorschilde 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Astraeus is destroyed. Alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer."
+        "crit": "The Astraeus wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer."
       }
     ]
   }

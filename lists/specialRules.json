@@ -841,7 +841,7 @@
     {
       "title": "Changer of Ways",
       "description": [
-        "Verbände containing Thousands Sons Daemon Princes und Scarab Occult Terminatoren may only contain units of INF und AV Einheiten mit Geländegängig, und must be held in the Reserven at the start of the game. Such Verbände may only enter the Battlefield through a Warp Rift."
+        "Verbände containing Thousands Sons Daemon Princes und Scarab Occult Terminatoren may only contain Einheiten INF und AV Einheiten mit Geländegängig, und must be held in the Reserven at the start of the game. Such Verbände may only enter the Battlefield through a Warp Rift."
       ]
     },
     {
@@ -988,7 +988,7 @@
       "description": [
         "Daemonic Incursion Verbände that are located in the Reserven may use Chaos Gates to enter the battlefield. Any number of Verbände can use a Chaos Gate pro turn if it is part of an objective, but only eine formation pro turn can use a Chaos Gate Beritten on a Kriegsmaschine.",
         "First the action für the formation must be decided. After this roll to summon daemons, und then roll to activate. If the formation fails to activate it must take a Hold action. It may then either enter the battlefield through any available Chaos Gate, oder choose to remain in the Reserven.",
-        "Chaos Gates that are part of objectives cannot be destroyed, while Chaos Gates Beritten on Kriegsmaschinen are destroyed if that Kriegsmaschine is destroyed.",
+        "Chaos Gates that are part of objectives cannot be destroyed, while Chaos Gates Beritten on Kriegsmaschinen are destroyed if that Kriegsmaschine wird zerstört.",
         "Any formation that enters the battlefield through a Chaos Gate Beritten on a Kriegsmaschine that is broken recieves a Beschussmarke. Measure all movement from the Chaos Gate from the centre of the token, oder the edge of the Kriegsmaschine.",
         "If a Chaos Gate is in an enemy zone of control, any formation that enters through it must Engage that formation(s). In addition, if it is also directly under an enemy formation, any formation that enters must maximize base contact as much as possible."
       ]
@@ -1075,7 +1075,7 @@
       "description": [
         "Necron Portale can only be used by INF und by any AV oder LV unit that has <i>Geländegängig</i>. Jeweils portal can be used only once pro turn für either entering oder exiting the battlefield, but not both.",
         "A formation that is in the Reserven may enter play via a unit with <i>Portal</i> as part of any action that allows movement. Measure their movement using the centre of the objective (in case of a Tomb Complex) oder edge of the unit. Verbände may also leave the board und re-enter the Reserven by moving into a Portal. Additionally a formation can leave the board by having a portal pick them up, in a similar way an air transport can pick up friendly units. When a unit with <i>Portal</i> ends an action within 5cm of all units in a friendly formation the Necron Spieler can chose to activate the portal to move that formation back to the Reserven. Broken Einheiten mit <i>Portal</i> can not be used to pick up Verbände in this way.",
-        "When a formation enters the Reserven the formation can re-enter play immediately via another <i>Portal</i> oder stay in the Reserven. Entering oder exiting a <i>Portal</i> requires a full move, meaning that a formation using a double action can exit the battlefield in the first move und use it's second move to enter play again using another <i>Portal</i>, but a formation can not use an advance oder engage action to enter eine und exit another <i>Portal</i> as part of the same move. Any units that are out of coherency at the end of any move is destroyed. A formation picked up by a <i>Portal</i> must remain in the Reserven until they can activate to re-enter play. A formation can activate to enter play on the same turn it was picked up, given that the formation had not already activated before it was picked up.",
+        "When a formation enters the Reserven the formation can re-enter play immediately via another <i>Portal</i> oder stay in the Reserven. Entering oder exiting a <i>Portal</i> requires a full move, meaning that a formation using a double action can exit the battlefield in the first move und use it's second move to enter play again using another <i>Portal</i>, but a formation can not use an advance oder engage action to enter eine und exit another <i>Portal</i> as part of the same move. Any units that are out of coherency at the end of any move wird zerstört. A formation picked up by a <i>Portal</i> must remain in the Reserven until they can activate to re-enter play. A formation can activate to enter play on the same turn it was picked up, given that the formation had not already activated before it was picked up.",
         "Jeweils time a formation uses a <i>Portal</i> on a unit that is broken, it receives eine Beschussmarke. This also goes für broken Verbände using a broken portal, meaning that eine unit will be lost unless all units are Furchtlos.",
         "If a <i>Portal</i> is in an enemy zone of control, any formation that enters through it must Engage the blocking formation. In addition, if it is also directly under an enemy unit, the portal can still be used to enter the battlefield but the formation that enters must maximize base contact as much as possible with the blocking units."
       ]
@@ -1133,7 +1133,7 @@
     {
       "title": "Snakebite Clan Warlords",
       "description": [
-        "Every Snakebite Clan army must include a Supreme Command character called a Warlord. The Warlord character is free, you don’t have to pay any Punkte für it. The Warlord must be attached to a unit of Brutes in the scrappiest formation in the army (i.e. the formation with the most units that also contains a unit of Brutes. Kriegsmaschinen counts as eine unit pro DC)."
+        "Every Snakebite Clan army must include a Supreme Command character called a Warlord. The Warlord character is free, you don’t have to pay any Punkte für it. The Warlord must be attached to a Einheit Brutes in the scrappiest formation in the army (i.e. the formation with the most units that also contains a Einheit Brutes. Kriegsmaschinen counts as eine unit pro DC)."
       ]
     },
     {

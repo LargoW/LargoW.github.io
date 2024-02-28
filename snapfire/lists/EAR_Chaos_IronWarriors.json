@@ -33,7 +33,7 @@
 	"upgrades":[
 		{"id":11, "name":"Iron Warriors Warpsmith", 		"pts":0},
 		{"id":12, "name":"Iron Warriors Warsmith", 		"pts":50},
-		{"id":13, "name":"Daemon Prince (replaces a unit of Chaos Space Marines, Havocs, or Tyrant Terminators)", 		"pts":100},
+		{"id":13, "name":"Daemon Prince (replaces a Einheit Chaos Space Marines, Havocs, or Tyrant Terminators)", 		"pts":100},
 
 		{"id":20, "name":"6 Chaos Vindicators", "pts":0},
 		{"id":21, "name":"6 Chaos Predators", "pts":25},

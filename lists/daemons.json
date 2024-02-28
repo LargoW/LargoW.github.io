@@ -27,7 +27,7 @@
           "Geländegängig",
           "Verbesserte Beschwörung (+W3)"
         ],
-        "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
+        "crit": "The Exalted Greater Daemon wird zerstört. All summoned daemons within 5cm are destroyed."
       },
       {
         "name": "Hüter der Geheimnisse",
@@ -49,7 +49,7 @@
           "Geländegängig",
           "Verbesserte Beschwörung (+1)"
         ],
-        "crit": "The Greater Daemon is destroyed. Any summoned Daemon Einheiten innerhalb von 5cm are destroyed on 5+"
+        "crit": "The Greater Daemon wird zerstört. Any summoned Daemon Einheiten innerhalb von 5cm are destroyed on 5+"
       },
       {
         "name": "Herald of Slaanesh",
@@ -59,7 +59,7 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Barbed Klauen",
+          "Stachel-Klauen",
           "Cacophonic Blast"
         ],
         "specialRules": [
@@ -76,7 +76,7 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Barbed Klauen",
+          "Stachel-Klauen",
           "Cacophonic Blast"
         ],
         "specialRules": [
@@ -120,7 +120,7 @@
         "armour": 5,
         "cc": 2,
         "weapons": [
-          "Barbed Klauen"
+          "Stachel-Klauen"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -152,7 +152,7 @@
           "Geländegängig",
           "Verbesserte Beschwörung (+W3)"
         ],
-        "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
+        "crit": "The Exalted Greater Daemon wird zerstört. All summoned daemons within 5cm are destroyed."
       },
       {
         "name": "Großer Verpester",
@@ -174,7 +174,7 @@
           "Geländegängig",
           "Verbesserte Beschwörung (+1)"
         ],
-        "crit": "The Greater Daemon is destroyed. Any summoned Daemon Einheiten innerhalb von 5cm are destroyed on 5+"
+        "crit": "The Greater Daemon wird zerstört. Any summoned Daemon Einheiten innerhalb von 5cm are destroyed on 5+"
       },
       {
         "name": "Herald des Nurgle on Palanquin",
@@ -283,7 +283,7 @@
           "Sprungmodule",
           "Verbesserte Beschwörung (+W3)"
         ],
-        "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
+        "crit": "The Exalted Greater Daemon wird zerstört. All summoned daemons within 5cm are destroyed."
       },
       {
         "name": "Blutdämon",
@@ -306,7 +306,7 @@
           "Sprungmodule",
           "Verbesserte Beschwörung (+1)"
         ],
-        "crit": "The Greater Daemon is destroyed. Any summoned Daemon Einheiten innerhalb von 5cm are destroyed on 5+"
+        "crit": "The Greater Daemon wird zerstört. Any summoned Daemon Einheiten innerhalb von 5cm are destroyed on 5+"
       },
       {
         "name": "Herald des Khorne on Skull Geschütz",
@@ -411,7 +411,7 @@
           "Sprungmodule",
           "Verbesserte Beschwörung (+W3)"
         ],
-        "crit": "The Exalted Greater Daemon is destroyed. All Daemon Einheiten innerhalb von 5cm are destroyed."
+        "crit": "The Exalted Greater Daemon wird zerstört. All Daemon Einheiten innerhalb von 5cm are destroyed."
       },
       {
         "name": "Herrscher des Wandels",
@@ -434,7 +434,7 @@
           "Sprungmodule",
           "Verbesserte Beschwörung (+1)"
         ],
-        "crit": "The Greater Daemon is destroyed. Any summoned Daemon Einheiten innerhalb von 5cm are destroyed on 5+."
+        "crit": "The Greater Daemon wird zerstört. Any summoned Daemon Einheiten innerhalb von 5cm are destroyed on 5+."
       },
       {
         "name": "Herald des Tzeentch",

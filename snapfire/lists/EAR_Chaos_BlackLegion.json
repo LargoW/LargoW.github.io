@@ -39,8 +39,8 @@
 		{"id":10, "name":"Chaos Lord", 		"pts":0},
 		{"id":11, "name":"Hexer Lord", 		"pts":0},
 		{"id":12, "name":"Chaos Warlord", 		"pts":50},
-		{"id":13, "name":"Daemon Prince (replaces one unit of Chaos Space Marines or Havocs)", 		"pts":100},
-		{"id":16, "name":"Daemon Prince (replaces one unit of Chaos Terminators)", 		"pts":100},
+		{"id":13, "name":"Daemon Prince (replaces one Einheit Chaos Space Marines or Havocs)", 		"pts":100},
+		{"id":16, "name":"Daemon Prince (replaces one Einheit Chaos Terminators)", 		"pts":100},
 
 		{"id":14, "name":"Icon Bearer", "pts":25},
 		{"id":15, "name":"Champion of Chaos", "pts":50},

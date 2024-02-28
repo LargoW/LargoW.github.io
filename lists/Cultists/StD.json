@@ -111,7 +111,7 @@
       "formations": [
         {
           "name": "Traitor Guard",
-          "units": "Ein Fallen Befehlshaber, neun units of Infanterie",
+          "units": "Ein Fallen Befehlshaber, neun Einheiten Infanterie",
           "extraUnits": [
             "Alle"
           ],
@@ -280,7 +280,7 @@
             "points": "25 Punkte"
           },
           {
-            "description": "Füge eine Daemonic Icon to a unit of Kavallerieschwadron",
+            "description": "Füge eine Daemonic Icon to a Einheit Kavallerieschwadron",
             "points": "75 Punkte"
           }
         ]
@@ -306,7 +306,7 @@
       },
       {
         "name": "Ogryns",
-        "description": "Füge bis zu zwei units of Ogryns",
+        "description": "Füge bis zu zwei Einheiten Ogryns",
         "points": "25 Punkte jeweils"
       },
       {
