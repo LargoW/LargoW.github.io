@@ -10,7 +10,7 @@
           "id": 501,
           "name": "Nexus Spawn Schwarm (1-4 Instinctive Swarms)",
           "pts": 450,
-		  "units": "Hydra Dominatrix",
+		  "units": "Dominatrix (Hydra)",
           "upgrades": [100,101,102,103,104,105,106,107,108,109,121,122,111,118,113,115,116,117]},
         {
           "id": 502,
@@ -30,7 +30,7 @@
 	  	    {
           "id": 512,
           "name": "Tervigon Spawn Schwarm (1-2 Instinctive Swarms)",
-          "units": "Tervigon Prime",
+          "units": "Tervigon Primus",
           "pts": 175,
           "upgrades": [100,101,102,103,104,105,121,122,111,118,113]},
 	    {
@@ -97,20 +97,20 @@
     {"id": 108,      "name": "Biovores (4 Biovores)",      "pts": 75    },
     {"id": 109,      "name": "Gargoyles (4 Gargoyles)",      "pts": 75    },
     {"id": 111,      "name": "Spawner (Tervigon, 2 Termaganten)",      "pts": 100    },
-    {"id": 112,      "name": "Tervigon Prime",      "pts": 175    },
+    {"id": 112,      "name": "Tervigon Primus",      "pts": 175    },
     {"id": 113,      "name": "Bio-Support (3 Dactylis)","pts": 150},
     {"id": 114,      "name": "Bio-Support (4 Exocrine)","pts": 150},
-    {"id": 115,      "name": "Breacher (Barbed Hierodule)",      "pts": 125    },
-    {"id": 116,      "name": "Breacher (Scythed Hierodule)",      "pts": 125    },
+    {"id": 115,      "name": "Breacher (Stachel-Hierodule)",      "pts": 125    },
+    {"id": 116,      "name": "Breacher (Geschlitzter Hierodule)",      "pts": 125    },
     {"id": 117,      "name": "Burrower (2 Trygons)",      "pts": 100    },
     {"id": 118,      "name": "Spawner (Tervigon, 2 Hormaganten)",      "pts": 100    },
-    {"id": 120,      "name": "Mycetic Spore <br/> May carry units chosen from Termaganten, Hormaganten, Biovores, Carnifex, Venatorens, Hive Tyrant, Dagon Overlord, Tyranidenkrieger, Zoanthropes. No Shrikes of any type may be taken.",      "pts": 50    },
-    {"id": 121,      "name": "Carnifex (3 Barbed Carnifex)",      "pts": 125    },
+    {"id": 120,      "name": "Mycetic Spore <br/> May carry units chosen from Termaganten, Hormaganten, Biovores, Carnifex, Venatorens, Hive Tyrant, Schwarmoberhaupt (Dagon), Tyranidenkrieger, Zoantrophen. No Shrikes of any type may be taken.",      "pts": 50    },
+    {"id": 121,      "name": "Carnifex (3 Stachel-Carnifex)",      "pts": 125    },
     {"id": 122,      "name": "Carnifex (3 Kreischer-Killer Carnifex)",      "pts": 125    },
-    {"id": 130,      "name": "Hive Harridan, 4 Gargoyles",      "pts": 0    },
+    {"id": 130,      "name": "Schwarmharridan, 4 Gargoyles",      "pts": 0    },
     {"id": 131,      "name": "2 Hive Harridans, 8 Gargoyles",      "pts": 200    },
 
-    {"id": 135,      "name": "Trygon Prime",      "pts": 0    },
+    {"id": 135,      "name": "Trygon Primus",      "pts": 0    },
     {"id": 136,      "name": "Viragon",      "pts": 75    },
 
     {"id": 140,      "name": "Genestealers",      "pts": 25    },
@@ -133,13 +133,13 @@
     {"id": 202,      "name": "Zoanthrope",      "pts": 0    },
     {"id": 203,      "name": "Hive Tyrant",      "pts": 0    },
     {"id": 204,      "name": "Schwarmherrscher",      "pts": 75    },
-	{"id": 205,      "name": "Schwarmherrscher Shrike",      "pts": 75    },
-	{"id": 209,      "name": "Barbed Hierodule",      "pts": 0    },
-	{"id": 210,      "name": "Scythed Hierodule",      "pts": 0    },
-    {"id": 211,      "name": "Tyranidenkrieger Shrikes",      "pts": 0    },
+	{"id": 205,      "name": "Geflügelter Schwarmherrscher",      "pts": 75    },
+	{"id": 209,      "name": "Stachel-Hierodule",      "pts": 0    },
+	{"id": 210,      "name": "Geschlitzter Hierodule",      "pts": 0    },
+    {"id": 211,      "name": "Flügelkrieger",      "pts": 0    },
     {"id": 213,      "name": "Hive Tyrant Shrike",      "pts": 0    },
-	{"id": 216,      "name": "Barbed Hierodule Prime",      "pts": 0    },
-	{"id": 217,      "name": "Scythed Hierodule Prime",      "pts": 0    }
+	{"id": 216,      "name": "Stachel-Hierodule Primus",      "pts": 0    },
+	{"id": 217,      "name": "Geschlitzter Hierodule Primus",      "pts": 0    }
 
   ],
   "formationConstraints": [

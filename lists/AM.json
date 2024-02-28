@@ -309,7 +309,7 @@
       {
         "name": "Tarantula",
         "type": "LV",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 5,
         "ff": "5+/4",
         "weapons": [
@@ -342,7 +342,7 @@
       {
         "name": "Hyperios Sentry",
         "type": "LV",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 6,
         "ff": 6,
         "weapons": [
@@ -668,7 +668,7 @@
       {
         "name": "Mole",
         "type": "WE",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 5,
         "ff": 5,
         "weapons": [

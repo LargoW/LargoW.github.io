@@ -28,7 +28,7 @@
         {
           "id": 530,
           "name": "Genestealer Swarm",
-          "units": "Brood Lord",
+          "units": "Symbiarch",
           "pts": 25,
           "upgrades": [ 60 ]
         }

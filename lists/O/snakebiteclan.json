@@ -57,8 +57,8 @@
             "Any number of BoarBoys hinzu:25 Punkte jeweils",
             "Füge bis zu drei Squig Katapults: 25 Punkte jeweils",
             "Any number of Huntas + Grotz hinzu: 35 Punkte",
-            "Füge eine unit of Brutes: 35 Punkte jeweils",
-            "Füge eine Wyrdboy to a unit of Brutes: 25 Punkte jeweils",
+            "Füge eine Einheit Brutes: 35 Punkte jeweils",
+            "Füge eine Wyrdboy to a Einheit Brutes: 25 Punkte jeweils",
             "Füge bis zu zwei Squiggoth Flakkas: 40 Punkte jeweils",
             "Füge drei Squiggoth Supa-Lobbas: 100 Punkte",
             "Füge enough Squiggoths to transport the entire formation: 30 Punkte jeweils, eine Gargantuan Squiggoth: 100 Punkte oder eine Orkeosaurus: 175 Punkte"
@@ -112,7 +112,7 @@
           "extraUnits": [
             "Any number of Junkas + Junkatrukk: 30 Punkte",
             "Füge eine Brutes + Junkatrukk: 50 Punkte",
-            "Füge eine Wyrdboy to a unit of Brutes: 25 Punkte"
+            "Füge eine Wyrdboy to a Einheit Brutes: 25 Punkte"
           ],
           "pointsOptions": [
             {
@@ -129,7 +129,7 @@
           "name": "Lobba Mob",
           "units": "Sechs Lobbas",
           "extraUnits": [
-            "Füge bis zu eine unit of Brutes: 35 Punkte"
+            "Füge bis zu eine Einheit Brutes: 35 Punkte"
           ],
           "points": 150
         },
@@ -156,7 +156,7 @@
           "extraUnits": [
             "Any number of WildBoys hinzu:15 Punkte jeweils",
             "Füge eine Brutes: 35 Punkte jeweils",
-            "Füge eine Wyrdboy to a unit of Brutes: 25 Punkte",
+            "Füge eine Wyrdboy to a Einheit Brutes: 25 Punkte",
             "Füge bis zu zwei Squiggoth Flakkas: 40 Punkte jeweils",
             "Füge drei Squiggoth Supa-Lobbas: 100 Punkte",
             "Füge enough Squiggoths to transport the entire formation: 30 Punkte jeweils, eine Gargantuan Squiggoth: 100 Punkte oder eine Orkeosaurus: 175 Punkte"

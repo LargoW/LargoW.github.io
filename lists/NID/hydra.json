@@ -7,11 +7,11 @@
   "Initiative": "The Nexus Spawn Swarm has an Initiative Rating of 1+. All other Tyranid Verbände haben eine Initiativewert von 2+. In addition, all Verbände are subject to the 'Broodmind' Sonderregel.",
   "specialRules": [
     "Synapse",
-    "Schwarmbewusstsein Locus",
+    "Schwarmbewusstseinszentrum",
     "Broodmind",
     "Knallt die Großen ab!",
     "Extreme Mobility",
-    "Schwarm (x)",
+    "Schwärmen (x)",
     "Tunnelgräber",
     "Hydra Vanguard Organisms"
   ],
@@ -22,38 +22,38 @@
     {
       "from": "NIDS.json",
       "units": [
-        "Brood Lord",
+        "Symbiarch",
         "Termaganten",
         "Hormaganten",
         "Gargoyles",
         "Symbionten",
         "Biovore",
         "Tyranidenkrieger",
-        "Tyranidenkrieger Shrikes",
+        "Flügelkrieger",
         "Zoanthrope",
         "Liktor",
         "Dimachaeron",
         "Schwarmherrscher",
-        "Schwarmherrscher Shrike",
+        "Geflügelter Schwarmherrscher",
         "Schwarmtyrant",
-        "Schwarmtyrant Shrike",
+        "Geflügelter Schwarmtyrant",
         "Dactylis",
-        "Barbed Carnifex",
+        "Stachel-Carnifex",
         "Kreischer-Killer Carnifex",
         "Harpie",
         "Schwarmdrude",
         "Viragon",
-        "Trygon Prime",
+        "Trygon Primus",
         "Trygon",
-        "Tervigon Prime",
+        "Tervigon Primus",
         "Tervigon",
-        "Hive Harridan",
-        "Barbed Hierodule Prime",
-        "Barbed Hierodule",
-        "Scythed Hierodule Prime",
-        "Scythed Hierodule",
+        "Schwarmharridan",
+        "Stachel-Hierodule Primus",
+        "Stachel-Hierodule",
+        "Geschlitzter Hierodule Primus",
+        "Geschlitzter Hierodule",
         "Hierophant",
-        "Hydra Dominatrix",
+        "Dominatrix (Hydra)",
         "Hydraphant"
       ],
       "unitRules": [
@@ -79,7 +79,7 @@
       "formations": [
         {
           "name": "0-1 Nexus Spawn Swarm",
-          "units": "Ein Hydra Dominatrix",
+          "units": "Ein Dominatrix (Hydra)",
           "extraUnits": [
             "Ein to vier Instinctive Swarms (except Mycetic Spore)",
             "1+ Gaunts oder Gargoyles must be chosen"
@@ -99,11 +99,11 @@
         },
         {
           "name": "Assault Swarm",
-          "units": "Zwei Tyranidenkrieger und/oder Zoanthropes",
+          "units": "Zwei Tyranidenkrieger und/oder Zoantrophen",
           "extraUnits": [
             "Zwei to vier Instinctive Swarms (except Spawner)",
             "1+ Gaunts, Gargoyles oder Biovores must be chosen",
-            "Any Tyranidenkrieger may be upgraded to Tyranidenkrieger Shrikes: Kostenlos"
+            "Any Tyranidenkrieger may be upgraded to Flügelkrieger: Kostenlos"
           ],
           "points": 100
         }
@@ -115,7 +115,7 @@
       "formations": [
         {
           "name": "Tervigon Spawn Swarm",
-          "units": "Ein Tervigon Prime",
+          "units": "Ein Tervigon Primus",
           "extraUnits": [
             "Ein to zwei Instinctive Swarms chosen from Gaunts, Carnifex, Bio-Support oder Spawner",
             "1+ Gaunts must be chosen"
@@ -124,7 +124,7 @@
         },
         {
           "name": "Breacher Swarm",
-          "units": "Ein Hierodule Prime (Barbed oder Scythed)",
+          "units": "Ein Hierodule Primus (Stachel-oder Scythed)",
           "extraUnits": [
             "Ein to zwei Instinctive Swarms chosen from Gaunts, Burrower, Carnifex, oder Breacher"
           ],
@@ -132,18 +132,18 @@
         },
         {
           "name": "Infestation Swarm",
-          "units": "Ein Trygon Prime",
+          "units": "Ein Trygon Primus",
           "extraUnits": [
-            "Ersetze the Trygon Prime mit einemViragon: 75 Punkte",
+            "Ersetze the Trygon Primus mit einemViragon: 75 Punkte",
             "Ein to zwei Burrower Instinctive Swarms"
           ],
           "points": 150
         },
         {
           "name": "Harridan Spawn Swarm",
-          "units": "Ein Hive Harridan, vier Gargoyles",
+          "units": "Ein Schwarmharridan, vier Gargoyles",
           "extraUnits": [
-            "Füge eine Hive Harridan, vier Gargoyles: 175 Punkte",
+            "Füge eine Schwarmharridan, vier Gargoyles: 175 Punkte",
             " Bis zu zwei Bio-Flyer Instinctive Swarms"
           ],
           "points": 200
@@ -156,7 +156,7 @@
       "formations": [
         {
           "name": "Symbionten Swarm",
-          "units": "Ein Brood Lord, sechs Symbionten",
+          "units": "Ein Symbiarch, sechs Symbionten",
           "extraUnits": [
             "Füge bis zu drei Symbionten: 25 Punkte jeweils"
           ],
@@ -221,7 +221,7 @@
       },
       {
         "name": "Carnifex",
-        "description": "Drei Barbed Carnifex oder drei Kreischer-Killer Carnifex",
+        "description": "Drei Stachel-Carnifex oder drei Kreischer-Killer Carnifex",
         "points": "125 Punkte"
       },
       {
@@ -236,7 +236,7 @@
       },
       {
         "name": "Breacher",
-        "description": "Ein Barbed Hierodule oder eine Scythed Hierodule",
+        "description": "Ein Stachel-Hierodule oder eine Geschlitzter Hierodule",
         "points": "125 Punkte"
       },
       {

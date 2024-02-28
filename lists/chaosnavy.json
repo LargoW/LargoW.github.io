@@ -94,7 +94,7 @@
           "Schadenskapazität 3",
           "Unmodifizierter Rettungswurf"
         ],
-        "crit": "The Harbringer Bomber is destroyed."
+        "crit": "The Harbringer Bomber wird zerstört."
       },
       {
         "name": "Blightbringer Bomber",
@@ -110,7 +110,7 @@
           "Schadenskapazität 3",
           "Unmodifizierter Rettungswurf"
         ],
-        "crit": "The Blightbringer Bomber is destroyed."
+        "crit": "The Blightbringer Bomber wird zerstört."
       },
       {
         "name": "Chaos Xiphon Interceptor",
@@ -160,7 +160,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Fire Raptor is destroyed."
+        "crit": "The Fire Raptor wird zerstört."
       },
       {
         "name": "Chaos Thunderhawk",

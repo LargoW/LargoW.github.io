@@ -10,7 +10,7 @@
           "id": 501,
           "name": "Nexus Schwarm (2-4 Instinctive Swarms)",
           "pts": 400,
-		  "units": "Dagon Dominatrix",
+		  "units": "Dominatrix (Dagon)",
           "upgrades": [
 			100,
 			101,
@@ -94,7 +94,7 @@
 	  	    {
           "id": 512,
           "name": "Hive Schwarm (1-2 Instinctive Swarms)",
-          "units": "Hive Nest",
+          "units": "Schwarmnest",
           "pts": 125,
           "upgrades": [
 			100,
@@ -267,12 +267,12 @@
     },
     {
       "id": 115,
-      "name": "Hierodule (Barbed Hierodule)",
+      "name": "Hierodule (Stachel-Hierodule)",
       "pts": 125
     },
     {
       "id": 116,
-      "name": "Hierodule (Scythed Hierodule)",
+      "name": "Hierodule (Geschlitzter Hierodule)",
       "pts": 125
     },
     {
@@ -287,7 +287,7 @@
     },
     {
       "id": 120,
-      "name": "Mycetic Spore // May transport Termaganten, Hormaganten, Biovores, Carnifex, Venatorens, Hive Tyrants, Dagon Overlord, Tyranidenkrieger, Zoanthropes // Transported units may not have Wings",
+      "name": "Mycetic Spore // May transport Termaganten, Hormaganten, Biovores, Carnifex, Venatorens, Hive Tyrants, Schwarmoberhaupt (Dagon), Tyranidenkrieger, Zoantrophen // Transported units may not have Wings",
       "pts": 50
     },
     {
@@ -387,27 +387,27 @@
     },
     {
       "id": 204,
-      "name": "Dagon Overlord",
+      "name": "Schwarmoberhaupt (Dagon)",
       "pts": 100
     },
 	{
       "id": 205,
-      "name": "Dagon Overlord Shrike (Wings)",
+      "name": "Geflügeltes Schwarmoberhaupt (Dagon) (Wings)",
       "pts": 100
     },
 	{
       "id": 209,
-      "name": "Barbed Hierodule",
+      "name": "Stachel-Hierodule",
       "pts": 0
     },
 	{
       "id": 210,
-      "name": "Scythed Hierodule",
+      "name": "Geschlitzter Hierodule",
       "pts": 0
     },
     {
       "id": 211,
-      "name": "Tyranidenkrieger Shrikes (Wings)",
+      "name": "Flügelkrieger (Wings)",
       "pts": 0
     },
     {
@@ -417,7 +417,7 @@
     },
 	{
       "id": 214,
-      "name": "Trygon Prime",
+      "name": "Trygon Primus",
       "pts": 150
     },
 	{
@@ -427,12 +427,12 @@
     },
 		{
       "id": 216,
-      "name": "Barbed Hierodule Prime",
+      "name": "Stachel-Hierodule Primus",
       "pts": 150
     },
 		{
       "id": 217,
-      "name": "Scythed Hierodule Prime",
+      "name": "Geschlitzter Hierodule Primus",
       "pts": 150
     }
   ],

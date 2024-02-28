@@ -113,7 +113,7 @@
           "Unmodifizierter Rettungswurf",
           "Geländegängig"
         ],
-        "crit": "The Avatar is destroyed. All Craftworld Eldar Verbände (friend und foe) mit einemline of sight to the Avatar receive eine Beschussmarke."
+        "crit": "The Avatar wird zerstört. All Craftworld Eldar Verbände (friend und foe) mit einemline of sight to the Avatar receive eine Beschussmarke."
       },
       {
         "name": "Eldar Exarch",
@@ -435,7 +435,7 @@
         "specialRules": [
           "Furchtlos"
         ],
-        "notes": "Zählt als a unit of Wraithguards für die Transport Regel."
+        "notes": "Zählt als a Einheit Wraithguards für die Transport Regel."
       },
       {
         "name": "Wraithguards",
@@ -507,7 +507,7 @@
         ],
         "specialRules": [
           "Antigrav",
-          "Transport may carry eine unit of INF ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+          "Transport may carry eine Einheit INF ohne Sprungmodule oder Beritten Eigenschaft transportieren."
         ]
       },
       {
@@ -703,7 +703,7 @@
           "Holofield (5+)",
           "Antigrav"
         ],
-        "crit": "The Lynx is destroyed. Any Einheiten innerhalb von 5cm take a hit on 6+."
+        "crit": "The Lynx wird zerstört. Any Einheiten innerhalb von 5cm take a hit on 6+."
       },
       {
         "name": "Scorpion",
@@ -723,7 +723,7 @@
           "Holofield (4+)",
           "Antigrav"
         ],
-        "crit": "The Scorpion is destroyed. Any Einheiten innerhalb von 5cm take a hit on 6+."
+        "crit": "The Scorpion wird zerstört. Any Einheiten innerhalb von 5cm take a hit on 6+."
       },
       {
         "name": "Cobra",
@@ -743,7 +743,7 @@
           "Holofield (4+)",
           "Antigrav"
         ],
-        "crit": "The Cobra is destroyed. Any Einheiten innerhalb von 5cm take a hit on 6+."
+        "crit": "The Cobra wird zerstört. Any Einheiten innerhalb von 5cm take a hit on 6+."
       },
       {
         "name": "Storm Serpent",
@@ -763,7 +763,7 @@
           "Tor zum Netz der tausend Tore",
           "Antigrav"
         ],
-        "crit": "The Storm Serpent is destroyed. Any Einheiten innerhalb von 5cm take a hit on 6+."
+        "crit": "The Storm Serpent wird zerstört. Any Einheiten innerhalb von 5cm take a hit on 6+."
       },
       {
         "name": "Void Spinner",
@@ -780,7 +780,7 @@
           "Verstärkte Panzerung",
           "Antigrav"
         ],
-        "crit": "The Void Spinner is destroyed. Any Einheiten innerhalb von 5cm take a hit on 6+."
+        "crit": "The Void Spinner wird zerstört. Any Einheiten innerhalb von 5cm take a hit on 6+."
       },
       {
         "name": "Skathach WraithRitter",
@@ -840,7 +840,7 @@
           "Sprungmodule",
           "Geländegängig"
         ],
-        "crit": "The Revenant Titan’s Holofield projector is destroyed. Any further critical hits cause einen zusätzlichen point of damage."
+        "crit": "The Revenant Titan’s Holofield projector wird zerstört. Any further critical hits cause einen zusätzlichen point of damage."
       },
       {
         "name": "Phantom Titan",
@@ -862,7 +862,7 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Phantom Titan's Holofield projector is destroyed. Any further critical hits cause einen zusätzlichen point of damage."
+        "crit": "The Phantom Titan's Holofield projector wird zerstört. Any further critical hits cause einen zusätzlichen point of damage."
       },
       {
         "name": " Phantom Titan",
@@ -891,7 +891,7 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Phantom Titan's Holofield projector is destroyed. Any further critical hits cause einen zusätzlichen point of damage."
+        "crit": "The Phantom Titan's Holofield projector wird zerstört. Any further critical hits cause einen zusätzlichen point of damage."
       },
       {
         "name": "Warlock Titan",
@@ -915,7 +915,7 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Warlock Titan’s Holofield projector is destroyed. Any further critical hits cause einen zusätzlichen point of damage."
+        "crit": "The Warlock Titan’s Holofield projector wird zerstört. Any further critical hits cause einen zusätzlichen point of damage."
       }
     ]
   }

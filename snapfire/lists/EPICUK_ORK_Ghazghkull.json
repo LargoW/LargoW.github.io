@@ -1,7 +1,7 @@
 {
    "id": "EpicUK Ghazghkull Mag Uruk Thraka's War Horde",
    "version": "v01-12-14",
-   "notes": ["The Warlord will join a Great Gargant if available. otherwise he will join a Gargant or a unit of Nobz if available."],
+   "notes": ["The Warlord will join a Great Gargant if available. otherwise he will join a Gargant or a Einheit Nobz if available."],
    "by": "EA-Ragnarok",
    "sections": [
       {

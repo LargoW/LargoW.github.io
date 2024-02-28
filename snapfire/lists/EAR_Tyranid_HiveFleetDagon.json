@@ -10,7 +10,7 @@
           "id": 501,
           "name": "Nexus Schwarm (1-4 Instinctive Swarms)",
           "pts": 425,
-		  "units": "Dagon Dominatrix",
+		  "units": "Dominatrix (Dagon)",
           "upgrades": [100,101,102,103,104,105,106,107,108,109,121,122,111,112,113,114,115,116,117,118]
         },
         {
@@ -33,7 +33,7 @@
 	  	    {
           "id": 512,
           "name": "Nest Schwarm (1-2 Instinctive Swarms)",
-          "units": "Hive Nest",
+          "units": "Schwarmnest",
           "pts": 150,
           "upgrades": [100,101,102,103,104,105,108,109,111]
 		},
@@ -107,12 +107,12 @@
     {"id": 112,"name": "Bio-Attack (2 Exocrines)","pts": 75},
     {"id": 113,"name": "Bio-Attack (2 Haruspex)","pts": 75},
     {"id": 114,"name": "Bio-Attack (2 Malefactors)","pts": 75},
-    {"id": 115,"name": "Breacher (Barbed Hierodule)","pts": 125},
-    {"id": 116,"name": "Breacher (Scythed Hierodule)","pts": 125},
+    {"id": 115,"name": "Breacher (Stachel-Hierodule)","pts": 125},
+    {"id": 116,"name": "Breacher (Geschlitzter Hierodule)","pts": 125},
     {"id": 117,"name": "Burrower (2 Trygons)","pts": 100},
 	{"id": 118,"name": "Burrower (5 Venatorens)","pts": 100},
-    {"id": 120,"name": "Mycetic Spore <br/> May carry units chosen from Termaganten, Hormaganten, Biovores, Carnifex, Venatorens, Hive Tyrant, Dagon Overlord, Tyranidenkrieger, Zoanthropes. No Shrikes of any type may be taken.","pts": 50},
-    {"id": 121,"name": "Carnifex (3 Barbed Carnifex)",      "pts": 125    },
+    {"id": 120,"name": "Mycetic Spore <br/> May carry units chosen from Termaganten, Hormaganten, Biovores, Carnifex, Venatorens, Hive Tyrant, Schwarmoberhaupt (Dagon), Tyranidenkrieger, Zoantrophen. No Shrikes of any type may be taken.","pts": 50},
+    {"id": 121,"name": "Carnifex (3 Stachel-Carnifex)",      "pts": 125    },
     {"id": 122,"name": "Carnifex (3 Kreischer-Killer Carnifex)",      "pts": 125    },
     {"id": 130,"name": "Harridan","pts": 150},
     {"id": 140,"name": "Genestealers","pts": 25},
@@ -132,22 +132,22 @@
     {"id": 186,"name": "Gargoyles (4 Gargoyles)","pts": 75},
 
     {"id": 200,"name": "Tyranidenkrieger","pts": 0},
-    {"id": 201,"name": "Tyranidenkrieger Shrikes","pts": 0},
+    {"id": 201,"name": "Flügelkrieger","pts": 0},
     {"id": 202,"name": "Zoanthrope","pts": 0},
 
-	{"id": 209,"name": "Barbed Hierodule","pts": 0},
-	{"id": 210,"name": "Scythed Hierodule","pts": 0},
+	{"id": 209,"name": "Stachel-Hierodule","pts": 0},
+	{"id": 210,"name": "Geschlitzter Hierodule","pts": 0},
 
-	{"id": 214,"name": "Trygon Prime","pts": 150},
+	{"id": 214,"name": "Trygon Primus","pts": 150},
 	{"id": 215,"name": "3 Alpha Venatoren","pts": 150},
-	{"id": 216,"name": "Barbed Hierodule Prime","pts": 150},
-	{"id": 217,"name": "Scythed Hierodule Prime","pts": 150},
-	{"id": 218,"name": "Hive Nest","pts": 125},
+	{"id": 216,"name": "Stachel-Hierodule Primus","pts": 150},
+	{"id": 217,"name": "Geschlitzter Hierodule Primus","pts": 150},
+	{"id": 218,"name": "Schwarmnest","pts": 125},
 
     {"id": 240,"name": "Hive Tyrant","pts": 0},
     {"id": 241,"name": "Hive Tyrant Shrike","pts": 0},
-    {"id": 242,"name": "Dagon Overlord","pts": 75},
-	{"id": 243,"name": "Dagon Overlord Shrike","pts": 75}
+    {"id": 242,"name": "Schwarmoberhaupt (Dagon)","pts": 75},
+	{"id": 243,"name": "Geflügeltes Schwarmoberhaupt (Dagon)","pts": 75}
   ],
 
   "formationConstraints": [

@@ -18,7 +18,7 @@
     {
       "from": "GS2.json",
       "units": [
-        "Brood Lord",
+        "Symbiarch",
         "Symbionten Magus",
         "Symbionten Patriarch",
         "Symbionten Primus",
@@ -113,7 +113,7 @@
         },
         {
           "name": "Symbionten Swarm",
-          "units": "Ein Brood Lord, sechs Symbionten",
+          "units": "Ein Symbiarch, sechs Symbionten",
           "extraUnits": [
             "Symbionten"
           ],
