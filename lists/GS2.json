@@ -204,7 +204,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr Turm"
+          "Synchronisiertes schweres Maschinengewehr Turm"
         ]
       },
       {
@@ -270,7 +270,7 @@
         "ff": 5,
         "weapons": [
           "Retrofitted Defense Laser||FxF",
-          "Synchronisierter schweres Maschinengewehr|2|FxF"
+          "Synchronisiertes schweres Maschinengewehr|2|FxF"
         ],
         "specialRules": [
           "Schadenskapazität 4",
@@ -287,7 +287,7 @@
         "ff": 6,
         "weapons": [
           "Excavator Power Arms",
-          "Synchronisierter schweres Maschinengewehr|2|FxF"
+          "Synchronisiertes schweres Maschinengewehr|2|FxF"
         ],
         "specialRules": [
           "Schadenskapazität 4",

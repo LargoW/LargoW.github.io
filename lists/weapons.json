@@ -587,7 +587,7 @@
       ]
     },
     {
-      "name": "AC Synchronisierter schweres Maschinengewehr Turm",
+      "name": "AC Synchronisiertes schweres Maschinengewehr Turm",
       "modes": [
         {
           "firepower": "AA5+",
@@ -5437,7 +5437,7 @@
       ]
     },
     {
-      "name": "Synchronisierter schweres Maschinengewehr",
+      "name": "Synchronisiertes schweres Maschinengewehr",
       "modes": [
         {
           "firepower": "AP5+",
@@ -5455,7 +5455,7 @@
       ]
     },
     {
-      "name": "AC Synchronisierter schweres Maschinengewehr",
+      "name": "AC Synchronisiertes schweres Maschinengewehr",
       "modes": [
         {
           "firepower": "AP5+/AA6+",
@@ -5464,7 +5464,7 @@
       ]
     },
     {
-      "name": "Synchronisierter schweres Maschinengewehr Turm",
+      "name": "Synchronisiertes schweres Maschinengewehr Turm",
       "modes": [
         {
           "firepower": "AP5+/AA6+",

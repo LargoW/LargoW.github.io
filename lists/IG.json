@@ -786,7 +786,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr Turm"
+          "Synchronisiertes schweres Maschinengewehr Turm"
         ],
         "specialRules": [
         ]
@@ -1515,7 +1515,7 @@
         "ff": 4,
         "weapons": [
           "Synchronisiertes Kampfgeschütz",
-          "Synchronisierter schweres Maschinengewehr",
+          "Synchronisiertes schweres Maschinengewehr",
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
@@ -1532,7 +1532,7 @@
         "weapons": [
           "Synchronisierter Vanquisher Geschütz|0-1|",
           "Vulcan Mega-Bolter|0-1|",
-          "Synchronisierter schweres Maschinengewehr||",
+          "Synchronisiertes schweres Maschinengewehr||",
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
@@ -1551,7 +1551,7 @@
         "ff": 4,
         "weapons": [
           "Synchronisierter Ragnarok Kampfgeschütz",
-          "Synchronisierter schweres Maschinengewehr|3|FxF"
+          "Synchronisiertes schweres Maschinengewehr|3|FxF"
         ],
         "specialRules": [
           "Schadenskapazität 2",
@@ -1568,7 +1568,7 @@
         "ff": 4,
         "weapons": [
           "Medusa Belagerungsgeschütz||FxF",
-          "Synchronisierter schweres Maschinengewehr|3|"
+          "Synchronisiertes schweres Maschinengewehr|3|"
         ],
         "specialRules": [
           "Schadenskapazität 2",
@@ -1585,7 +1585,7 @@
         "ff": 5,
         "weapons": [
           "Planetary Defense Laser",
-          "Synchronisierter schweres Maschinengewehr|3|"
+          "Synchronisiertes schweres Maschinengewehr|3|"
         ],
         "specialRules": [
           "Schadenskapazität 3",
@@ -1601,7 +1601,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr|4|"
+          "Synchronisiertes schweres Maschinengewehr|4|"
         ],
         "specialRules": [
           "Schadenskapazität 3",

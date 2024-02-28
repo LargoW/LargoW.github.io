@@ -448,7 +448,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr|2|"
+          "Synchronisiertes schweres Maschinengewehr|2|"
         ],
         "specialRules": [
           "Transport"
@@ -465,7 +465,7 @@
         "weapons": [
           "Ferrumite Geschütz",
           "Raketenwerfer",
-          "Synchronisierter schweres Maschinengewehr"
+          "Synchronisiertes schweres Maschinengewehr"
         ],
         "specialRules": [
         ]
@@ -573,7 +573,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr|2|",
+          "Synchronisiertes schweres Maschinengewehr|2|",
           ">Battle Weapons<",
           "Turbo-Laser Destructor|0-1|FxF",
           "Apocalypse Raketenwerfer|0-1|FxF",
@@ -603,7 +603,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr|2|",
+          "Synchronisiertes schweres Maschinengewehr|2|",
           ">Battle Weapons<",
           "Turbo-Laser Destructor|0-1|FxF",
           "Apocalypse Raketenwerfer|0-1|FxF",
@@ -629,7 +629,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr|2|",
+          "Synchronisiertes schweres Maschinengewehr|2|",
           "Laserkanone|2|",
           ">Ordinatus Armageddon<",
           "Nova Geschütz||FxF",
@@ -654,7 +654,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr|4|"
+          "Synchronisiertes schweres Maschinengewehr|4|"
         ],
         "specialRules": [
           "Schadenskapazität 3",
@@ -714,7 +714,7 @@
         "weapons": [
           "AC Phosphor Blaster|FxF",
           "AC Synchronisierte Laserkanone|FxF",
-          "AC Synchronisierter schweres Maschinengewehr Turm"
+          "AC Synchronisiertes schweres Maschinengewehr Turm"
         ],
         "specialRules": [
         ]
