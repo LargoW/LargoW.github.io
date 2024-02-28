@@ -56,9 +56,9 @@
       "units": [
         "Vulture",
         "Vendetta",
-        "PDF Infanterie",
-        "Flakk Team",
-        "Thudd Gun",
+        "PDS Infanterie",
+        "Flak Team",
+        "Salvengeschütz",
         "Gepanzerter Sentinel",
         "Leman Russ",
         "Leman Russ Thunderer",
@@ -155,7 +155,7 @@
         },
         {
           "name": "Planetary Defense Zug",
-          "units": "Acht PDF Infanterie, vier Land Transporters",
+          "units": "Acht PDS Infanterie, vier Land Transporters",
           "extraUnits": [
             "Ersetze vier Land Transporters mit drei Thudd Guns oder drei Flakk Teams: 25 Punkte"
           ],

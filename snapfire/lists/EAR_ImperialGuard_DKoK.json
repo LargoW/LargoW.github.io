@@ -6,7 +6,7 @@
 		{"name":"DEATH KORPS Kern COMPANIES", "formations":[
 			{ "id":501, "name":"Death Korps Regimental HQ", "pts":350, "upgrades":[29,30,31,32] },
 			{ "id":502, "name":"Assault Company", "pts":300, "units":"DKoK Commander mit a Commissar, 9 Assault Infantry, Gorgon",  "upgrades":[29,30,31,32] },
-			{ "id":503, "name":"Death Rider Company", "pts":300, "units":"Commissar, 12 Death Riders", "upgrades":[32] }
+			{ "id":503, "name":"Death Rider Company", "pts":300, "units":"Commissar, 12 Todesreiter", "upgrades":[32] }
 		]},
 		{"name":"SUPPORT FORMATIONS <br/> Max 2 for each Kern Company", "formations":[
 			{ "id":510, "name":"Grenadier Company", "pts":350, "units":"DKoK Commander mit a Commissar, 7 Grenadiers", "upgrades":[32] },
@@ -54,7 +54,7 @@
 		{ "id":30, "name":"3 Leman Russ Thunderers", "pts":150},
 		{ "id":31, "name":"3 Leman Russ", "pts":150},
 
-		{ "id":32, "name":"Bane Wolf", "pts":25},
+		{ "id":32, "name":"Todeswolf", "pts":25},
 
 		{ "id":35, "name":"2 Malcadors", "pts":175},
 		{ "id":36, "name":"2 Malcador Annihilators", "pts":175},

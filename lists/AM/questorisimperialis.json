@@ -34,12 +34,12 @@
     {
       "from": "IG.json",
       "units": [
-        "PDF Infanterie",
-        "Thudd Gun",
+        "PDS Infanterie",
+        "Salvengeschütz",
         "Rapier",
         "Schweres Flugabwehrgeschütz",
         "Haubitzen",
-        "Kavallerieschwadron",
+        "Kavallerie",
         "Land Transporter"
       ],
       "unitRules": [
@@ -119,7 +119,7 @@
       "formations": [
         {
           "name": "Planetary Defense Zug",
-          "units": "Acht PDF Infanterie",
+          "units": "Acht PDS Infanterie",
           "extraUnits": [
             "Land Transporters",
             "Support Weapons",
@@ -129,7 +129,7 @@
         },
         {
           "name": "Kavalleriezug",
-          "units": "Sechs Kavallerieschwadronen",
+          "units": "Sechs Kavallerie Einheiten",
           "extraUnits": [
           ],
           "points": 150

@@ -73,7 +73,7 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Synchronisierter Maschinenkanone|3|FxF",
+          "AC Synchronisierte Maschinenkanone|3|FxF",
           "AC Rakete Array||FxF",
           "AC Synchronisierte Sturmkanone Turm||",
           "AC Synchronisierter schwerer Bolter Turm||"

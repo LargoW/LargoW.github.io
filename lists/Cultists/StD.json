@@ -39,7 +39,7 @@
         "Infanterie",
         "Unterstützungstrupp",
         "Ogryns",
-        "Kavallerieschwadron",
+        "Kavallerie",
         "Sentinel",
         "Basilisk",
         "Chimäre",
@@ -145,7 +145,7 @@
         },
         {
           "name": "Kavalleriezug",
-          "units": "Sechs Kavallerieschwadronen",
+          "units": "Sechs Kavallerie Einheiten",
           "extraUnits": [
             "Daemonic Icon"
           ],
@@ -280,7 +280,7 @@
             "points": "25 Punkte"
           },
           {
-            "description": "Füge eine Daemonic Icon to a Einheit Kavallerieschwadron",
+            "description": "Füge eine Daemonic Icon to a Einheit Kavallerie",
             "points": "75 Punkte"
           }
         ]

@@ -186,7 +186,7 @@
         ]
       },
       {
-        "name": "Valhallan Befehlshaber",
+        "name": "Vallhallanischer Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -215,7 +215,7 @@
         ]
       },
       {
-        "name": "Kommissar-Captain",
+        "name": "Kommissar Hauptmann",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "name": "PDF Befehlshaber",
+        "name": "PDS Befehlshaber",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -310,7 +310,7 @@
         ]
       },
       {
-        "name": "Valhallan Infanterie",
+        "name": "Valhallanische Infanterie",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -324,7 +324,7 @@
         "notes": "Eine von zwei Einheiten (aufgerundet) hat einen Schweren Bolter"
       },
       {
-        "name": "PDF Infanterie",
+        "name": "PDS Infanterie",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -338,7 +338,7 @@
         "notes": "Eine von zwei Einheiten (aufgerundet) hat eine Schweres Maschinengewehr"
       },
       {
-        "name": "Siege Infanterie",
+        "name": "Belagerungsinfanterie",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -378,7 +378,7 @@
         ]
       },
       {
-        "name": "Whiteshields",
+        "name": "Weißbleche",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -390,7 +390,7 @@
         ]
       },
       {
-        "name": "Catachan Infanterie",
+        "name": "Catachanische Infanterie",
         "type": "INF",
         "speed": 15,
         "cc": 4,
@@ -415,13 +415,13 @@
         ]
       },
       {
-        "name": "Flakk Team",
+        "name": "Flak Team",
         "type": "INF",
         "speed": 15,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Flakk Raketenwerfer|2|"
+          "Flak Raketenwerfer|2|"
         ],
         "specialRules": [
         ]
@@ -442,7 +442,7 @@
         "notes": "Zählt als zwei Einheiten für die Transport Regel."
       },
       {
-        "name": "Death Riders",
+        "name": "Todesreiter",
         "type": "INF",
         "speed": 20,
         "armour": 5,
@@ -459,7 +459,7 @@
         ]
       },
       {
-        "name": "Kavallerieschwadron",
+        "name": "Kavallerie",
         "type": "INF",
         "speed": 20,
         "armour": 6,
@@ -560,11 +560,11 @@
           "Melterbomben"
         ],
         "specialRules": [
-          "Geländegängig (auch für gegnerische Befestigungen )"
+          "Geländegängig (gilt auch für gegnerische Befestigungen)"
         ]
       },
       {
-        "name": "Sturmtruppen",
+        "name": "Gardisten",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -578,7 +578,7 @@
         ]
       },
       {
-        "name": "Elysian Sturmtruppen",
+        "name": "Elysianische Gardisten",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -605,7 +605,7 @@
         ]
       },
       {
-        "name": "Baran Unterstützungstrupp",
+        "name": "Baranischer Unterstützungstrupp",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -632,13 +632,13 @@
         ]
       },
       {
-        "name": "Thudd Gun",
+        "name": "Salvengeschütz",
         "type": "INF",
         "speed": 10,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Thudd Gun"
+          "Salvengeschütz"
         ],
         "specialRules": [
         ]
@@ -650,31 +650,31 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Rapier Laser Destroyer"
+          "Rapier-Lasergeschütz"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Mole Launcher Squad",
+        "name": "Tunnelmörser Trupp",
         "type": "INF",
         "speed": 10,
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Mole Launchers"
+          "Tunnelmörser"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Mole Mörser",
+        "name": "Tunnelmörser",
         "type": "INF",
         "speed": 10,
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Mole Mörser"
+          "Tunnelmörser"
         ],
         "specialRules": [
         ]
@@ -775,7 +775,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Maschinenkanone"
+          "Synchronisierte Maschinenkanone"
         ]
       },
       {
@@ -786,7 +786,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisiertes schweres Maschinengewehr Turm"
+          "Synchronisiertes schweres Maschinengewehr (Turm)"
         ],
         "specialRules": [
         ]
@@ -885,14 +885,14 @@
         ]
       },
       {
-        "name": "Bane Wolf",
+        "name": "Todeswolf",
         "type": "AV",
         "speed": 25,
         "armour": 5,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Chem Gun",
+          "Chemokanone",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -900,14 +900,14 @@
         ]
       },
       {
-        "name": "Devil Dog",
+        "name": "Teufelshund",
         "type": "AV",
         "speed": 25,
         "armour": 5,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Melter Geschütz",
+          "Melterkanone",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -956,7 +956,7 @@
           "Schweres Maschinengewehr"
         ],
         "specialRules": [
-          "Transport: Ein Infanterie unit, und eine Rapier oder Thudd Gun"
+          "Transport: Ein Infanterie Einheit, und ein Rapier oder Salvengeschütz"
         ]
       },
       {
@@ -970,7 +970,7 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Transport: Ein Tremorkanonenlafette oder Schweres Flugabwehrgeschütz"
+          "Transport: Eine Tremorkanonenlafette oder ein schweres Flugabwehrgeschütz"
         ]
       },
       {
@@ -1099,14 +1099,14 @@
         ]
       },
       {
-        "name": "Elysian Mörser Squad",
+        "name": "Elysianischer Mörser Trupp",
         "type": "INF",
         "speed": 15,
         "armour": 5,
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Accatran Mörser"
+          "Mörser (Accatran Schema)"
         ]
       },
       {
@@ -1164,14 +1164,14 @@
         ]
       },
       {
-        "name": "Hades Breaching Drill",
+        "name": "Hades Durchbruchsbohrfahrzeug",
         "type": "Spec",
         "weapons": [
           "n/a"
         ],
         "specialRules": [
         ],
-        "notes": "Formation must start the game in the Reserven, und may only enter the board by Tunneling. When resolving Tunnelgräber, first place the Hades Breaching Drill at the designated co-ordinates. Then place the remainder of the formation within 5cm of it, oder within 5cm of another unit from the same formation that has already been placed, so long as all units are placed within 15cm of the Hades Breaching Drill. Finally, remove the Hades Breaching Drill from the board."
+        "notes": "Der Verband muss das Spiel in Reserve beginnen und darf nur über Tunnelgräber das Spielfeld betreten. Wenn der Verband das Spiel via Tunnelgräber betritt, platziere als erstes das Hades Durchbruchsbohrfahrzeug an den designierten Koordinaten. Platziere anschließend den Rest des Verbands innerhalb von 5cm oder innerhalb von 5cm einer anderen bereits platzierten Einheit des Verbands und innerhalb von 15cm vom Hades Durchbruchsbohrfahrzeug. Wenn alle Entferne im Anschluss das Hades Durchbruchsbohrfahrzeug vom Spieltisch."
       },
       {
         "name": "Schwerer Ragnarok Panzer",
@@ -1229,7 +1229,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Synchronisierter Maschinenkanone",
+          "Synchronisierte Maschinenkanone",
           "Schwerer Flammenwerfer",
           "Schwerer Bolter|2|"
         ],
@@ -1389,7 +1389,7 @@
         "ff": 5,
         "weapons": [
           "Höllenfeuerraketen|2|",
-          "Synchronisierter Maschinenkanone",
+          "Synchronisierte Maschinenkanone",
           "Schwerer Bolter"
         ],
         "specialRules": [

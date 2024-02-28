@@ -14,7 +14,7 @@
       "from": "IG.json",
       "units": [
         "Lord Kommissar",
-        "Kommissar-Captain",
+        "Kommissar Hauptmann",
         "Chimäre",
         "Infanterie",
         "Todesstoss-Raketensystem",
@@ -72,7 +72,7 @@
       "formations": [
         {
           "name": "Minervan Panzer Kompanie",
-          "units": "Ein Leman Russ Vanquisher mit einem Kommissar-Captain, sieben Leman Russ",
+          "units": "Ein Leman Russ Vanquisher mit einem Kommissar Hauptmann, sieben Leman Russ",
           "extraUnits": [
             "Ersetze sieben Leman Russ mit sieben Leman Russ Thunderers: Kostenlos",
             "Ersetze the Leman Russ Vanquisher mit einemLeman Russ Thunderer: Kostenlos",
@@ -84,7 +84,7 @@
         },
         {
           "name": "Minervan Superschwere Kompanie",
-          "units": "Drei Baneblades, Stormblades, Stormswords, und/oder Shadowswords, eine mit Kommissar-Captain",
+          "units": "Drei Baneblades, Stormblades, Stormswords, und/oder Shadowswords, eine mit Kommissar Hauptmann",
           "extraUnits": [
             "Upgrade eine Baneblade to a Stormhammer: 25 Punkte",
             "Oberbefehlshaber",
@@ -95,7 +95,7 @@
         },
         {
           "name": "Artillerie Kompanie",
-          "units": "Sechs Basilisken, eine mit Kommissar-Captain",
+          "units": "Sechs Basilisken, eine mit Kommissar Hauptmann",
           "extraUnits": [
             "Ersetze sechs Basilisken mit sechs Mantikor: 50 Punkte",
             "Flak"
@@ -219,7 +219,7 @@
     "items": [
       {
         "name": "0-1 Oberbefehlshaber",
-        "description": "Ersetze eine Kommissar-Captain in the army mit einemLord Kommissar",
+        "description": "Ersetze eine Kommissar Hauptmann in the army mit einemLord Kommissar",
         "points": "75 Punkte"
       },
       {

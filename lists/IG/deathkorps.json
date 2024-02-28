@@ -18,10 +18,10 @@
         "Todeskorps von Krieg Befehlshaber",
         "Kommissar",
         "Angriffsinfanterie ",
-        "Siege Infanterie",
-        "Death Riders",
+        "Belagerungsinfanterie",
+        "Todesreiter",
         "Grenadiere",
-        "Thudd Gun",
+        "Salvengeschütz",
         "Rapier",
         "Scharfschützen",
         "Gepanzerter Sentinel",
@@ -32,7 +32,7 @@
         "Bombard",
         "Greif",
         "Todesstoss-Raketensystem",
-        "Bane Wolf",
+        "Todeswolf",
         "Sturmchimäre",
         "Leman Russ",
         "Leman Russ Annihilator",
@@ -95,7 +95,7 @@
         },
         {
           "name": "Death Rider Kompanie",
-          "units": "Ein Kommissar, zwölf Death Riders",
+          "units": "Ein Kommissar, zwölf Todesreiter",
           "extraUnits": [
             "Bane Wolves"
           ],
@@ -116,8 +116,8 @@
           "points": 275
         },
         {
-          "name": "Siege Infanterie Kompanie",
-          "units": "Todeskorps von Krieg Befehlshaber mit Kommissar, 9 Siege Infanterie, 40cm Gräben, 40cm Stacheldraht",
+          "name": "Belagerungsinfanterie Kompanie",
+          "units": "Todeskorps von Krieg Befehlshaber mit Kommissar, 9 Belagerungsinfanterie, 40cm Gräben, 40cm Stacheldraht",
           "extraUnits": [
             "Füge vier Rapiers und 16cm Gräben, oder drei Thudd Guns und 12cm Gräben: 75 Punkte",
             "Füge bis zu zwei Scharfschützen: 25 Punkte jeweils"
@@ -182,7 +182,7 @@
           "units": "Ein Todeskorps von Krieg Befehlshaber mit einem Kommissar, sieben Grenadiere, vier Sturmchimären",
           "extraUnits": [
             "Ersetze vier Sturmchimären mit einemGorgon: Kostenlos",
-            "Bane Wolf"
+            "Todeswolf"
           ],
           "points": 325
         },
@@ -233,7 +233,7 @@
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [
       {
-        "name": "Bane Wolf",
+        "name": "Todeswolf",
         "description": "Füge bis zu drei Bane Wolves",
         "points": "25 Punkte jeweils"
       },

@@ -18,7 +18,7 @@
         "Cadianischer Oberbefehlshaber",
         "Cadianischer Befehlshaber",
         "Kommissar",
-        "Whiteshields",
+        "Weißbleche",
         "Infanterie",
         "Kasrkin",
         "Gepanzerter Sentinel",
@@ -88,7 +88,7 @@
         },
         {
           "name": "Whiteshield Kompanie",
-          "units": "Ein Cadianischer Befehlshaber mit einem Kommissar, fifteen Whiteshields, zwei Stormlords.",
+          "units": "Ein Cadianischer Befehlshaber mit einem Kommissar, fifteen Weißbleche, zwei Stormlords.",
           "extraUnits": [
             "Leman Russ Schwadron",
             "Superschwere Panzer"
@@ -117,7 +117,7 @@
         },
         {
           "name": "Whiteshield Zug",
-          "units": "Acht Whiteshields, eine Stormlord",
+          "units": "Acht Weißbleche, eine Stormlord",
           "upgrades": [
           ],
           "points": 275

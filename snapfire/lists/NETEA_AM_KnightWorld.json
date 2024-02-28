@@ -35,7 +35,7 @@
     {"id":11, "name":"Rapier", "pts":25},
     {"id":13, "name":"Seneschal", "pts":25},
     {"id":14, "name":"Snipers", "pts":25},
-    {"id":15, "name":"Thudd Gun", "pts":25},
+    {"id":15, "name":"Salvengeschütz", "pts":25},
     {"id":17, "name":"52cm of Graben and 52cm of Stacheldraht", "pts":50},
 
     {"id":20, "name":"Warden w/ Demolisher, 2x Hvy Bolters", "pts":85},

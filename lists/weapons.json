@@ -587,7 +587,7 @@
       ]
     },
     {
-      "name": "AC Synchronisiertes schweres Maschinengewehr Turm",
+      "name": "AC Synchronisiertes schweres Maschinengewehr (Turm)",
       "modes": [
         {
           "firepower": "AA5+",
@@ -4247,7 +4247,7 @@
       ]
     },
     {
-      "name": "Flakk Raketenwerfer",
+      "name": "Flak Raketenwerfer",
       "modes": [
         {
           "firepower": "AP5+/AA6+",
@@ -5379,7 +5379,7 @@
       ]
     },
     {
-      "name": "Accatran Mörser",
+      "name": "Mörser (Accatran Schema)",
       "modes": [
         {
           "firepower": "1BP",
@@ -5464,7 +5464,7 @@
       ]
     },
     {
-      "name": "Synchronisiertes schweres Maschinengewehr Turm",
+      "name": "Synchronisiertes schweres Maschinengewehr (Turm)",
       "modes": [
         {
           "firepower": "AP5+/AA6+",
@@ -6139,7 +6139,7 @@
       ]
     },
     {
-      "name": "Chem Gun",
+      "name": "Chemokanone",
       "modes": [
         {
           "firepower": "AP2+",
@@ -7102,7 +7102,7 @@
       ]
     },
     {
-      "name": "Titan Melter Geschütz",
+      "name": "Titan Melterkanone",
       "modes": [
         {
           "firepower": "MW2+",
@@ -7123,7 +7123,7 @@
       ]
     },
     {
-      "name": "Titan Melter Geschütz ",
+      "name": "Titan Melterkanone ",
       "modes": [
         {
           "firepower": "MW2+",
@@ -7329,7 +7329,7 @@
       ]
     },
     {
-      "name": "Mole Launchers",
+      "name": "Tunnelmörser",
       "modes": [
         {
           "firepower": "AP4+/AT6+",
@@ -9203,7 +9203,7 @@
       ]
     },
     {
-      "name": "Rapier Laser Destroyer",
+      "name": "Rapier-Lasergeschütz",
       "modes": [
         {
           "firepower": "AP6+/AT4+",
@@ -10980,7 +10980,7 @@
       ]
     },
     {
-      "name": "Thudd Gun",
+      "name": "Salvengeschütz",
       "modes": [
         {
           "firepower": "AP4+/AT6+",
@@ -11384,7 +11384,7 @@
       ]
     },
     {
-      "name": "AC Synchronisierter Maschinenkanone",
+      "name": "AC Synchronisierte Maschinenkanone",
       "modes": [
         {
           "firepower": "AP4+/AT5+/AA5+",
@@ -11411,7 +11411,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Maschinenkanone",
+      "name": "Synchronisierte Maschinenkanone",
       "modes": [
         {
           "firepower": "AP4+/AT5+",
@@ -11839,7 +11839,7 @@
       ]
     },
     {
-      "name": "Melter Geschütz",
+      "name": "Melterkanone",
       "modes": [
         {
           "firepower": "MW4+",

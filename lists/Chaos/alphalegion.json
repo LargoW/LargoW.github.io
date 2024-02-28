@@ -63,7 +63,7 @@
         "Salamander Aufklärer Panzer",
         "Greif",
         "Hydra",
-        "Kavallerieschwadron"
+        "Kavallerie"
       ],
       "unitRules": [
       ]
@@ -174,7 +174,7 @@
       "formations": [
         {
           "name": "Kavalleriezug",
-          "units": "Sechs Kavallerieschwadronen",
+          "units": "Sechs Kavallerie Einheiten",
           "extraUnits": [
             "Füge a Daemonic Icon: 75 Punkte"
           ],

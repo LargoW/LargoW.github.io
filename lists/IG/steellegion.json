@@ -18,7 +18,7 @@
         "Kommissar",
         "Infanterie",
         "Ogryns",
-        "Kavallerieschwadron",
+        "Kavallerie",
         "Scharfschützen",
         "Sturmtruppen",
         "Unterstützungstrupp",
@@ -170,7 +170,7 @@
         },
         {
           "name": "Kavalleriezug",
-          "units": "Sechs Kavallerieschwadronen",
+          "units": "Sechs Kavallerie Einheiten",
           "points": 150
         },
         {
@@ -200,8 +200,8 @@
           "extraUnits": []
         },
         {
-          "name": "Sturmtruppen Kompanie",
-          "units": "Acht Sturmtruppen, eine mit Kommissar",
+          "name": "Gardisten Kompanie",
+          "units": "Acht Gardisten, eine mit Kommissar",
           "points": 200,
           "extraUnits": [
             "Füge vier Taurox oder vier Valkyries hinzu: 150 Punkte"

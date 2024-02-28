@@ -497,20 +497,20 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Rapier Laser Destroyer"
+          "Rapier-Lasergeschütz"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Space Marine Thudd Gun",
+        "name": "Space Marine Salvengeschütz",
         "type": "INF",
         "speed": 10,
         "armour": 5,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Thudd Gun"
+          "Salvengeschütz"
         ],
         "specialRules": [
         ]
@@ -2003,7 +2003,7 @@
         "weapons": [
           "Hyperios Launcher",
           "Synchronisierter schwerer Bolter|2|",
-          "Rapier Laser Destroyer|0-2|",
+          "Rapier-Lasergeschütz|0-2|",
           "Thunderfire Geschütz|0-2|"
         ],
         "specialRules": [
@@ -2746,7 +2746,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Synchronisierter Maschinenkanone",
+          "Synchronisierte Maschinenkanone",
           "Servo Arm"
         ],
         "specialRules": [

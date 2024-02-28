@@ -78,7 +78,7 @@
                 { "id":44, "name":"Snipers","pts":50 },
 
                 { "id":45, "name":"SM Rapier", "pts":25 },
-                { "id":46, "name":"SM Thudd Gun", "pts":25 },
+                { "id":46, "name":"SM Salvengeschütz", "pts":25 },
 
                 { "id":50, "name":"Razorback (Twin HB)",  "pts":25},
                 { "id":51, "name":"Razorback (Twin Las)",  "pts":25},

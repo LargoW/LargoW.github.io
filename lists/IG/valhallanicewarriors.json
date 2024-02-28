@@ -1,9 +1,9 @@
 {
   "fraction": "Astra Militarum",
-  "army": "Valhallan Ice Warriors",
+  "army": "Valhallanisch Ice Warriors",
   "version": "0.6.0",
   "release": "2022-04-01",
-  "strategy": "Valhallan Ice Warrior Armeen haben einen Strategiewert von 2.",
+  "strategy": "Valhallanisch Ice Warrior Armeen haben einen Strategiewert von 2.",
   "Initiative": "Ministorum Mission Verbände haben eine Initiativewert von 1+. All other Verbände have a Initiative Rating of 2+.",
   "specialRules": [
     "Mut, Disziplin und Loyalität",
@@ -18,8 +18,8 @@
       "from": "IG.json",
       "units": [
         "Valhallanischer Oberbefehlshaber",
-        "Valhallan Befehlshaber",
-        "Valhallan Infanterie",
+        "Vallhallanischer Befehlshaber",
+        "Valhallanisch Infanterie",
         "Unterstützungstrupp",
         "Scharfschützen",
         "Hydra",
@@ -64,10 +64,10 @@
   ],
   "sections": [
     {
-      "name": "Valhallan Kern Kompanieverbände",
+      "name": "Valhallanisch Kern Kompanieverbände",
       "formations": [
         {
-          "name": "Valhallan Regiments Hauptquartier",
+          "name": "Valhallanisch Regiments Hauptquartier",
           "units": "Ein Valhallanischer Oberbefehlshaber mit einemMinistorum Priest, neun Valhallan Infanterie",
           "extraUnits": [
             "Vallhalanischer Greifen",
@@ -80,8 +80,8 @@
           "points": 275
         },
         {
-          "name": "Valhallan Infanterie Kompanie",
-          "units": "Ein Valhallan Befehlshaber mit einemMinistorum Priest, neun Valhallan Infanterie",
+          "name": "Valhallanisch Infanterie Kompanie",
+          "units": "Ein Vallhallanischer Befehlshaber mit einemMinistorum Priest, neun Valhallan Infanterie",
           "extraUnits": [
             "Vallhalanischer Greifen",
             "Ogryns",
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "name": "Valhallan Unterstützungsverbände",
+      "name": "Valhallanisch Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände pro Kern Kompanie.",
       "formations": [
         {
@@ -188,7 +188,7 @@
     }
   ],
   "upgrades": {
-    "title": "Valhallan Erweiterungen",
+    "title": "Valhallanisch Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden. Max drei Erweiterungen pro Kompanieverband.",
     "items": [
       {

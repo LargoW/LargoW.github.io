@@ -15,7 +15,7 @@
 			{"id":509, "name":"Deathstrike Battery", "pts":225, "units":"2 Deathstrike", "upgrades":[]},
 			{"id":515, "name":"Super-Heavy Platoon", "pts":200, "upgrades":[16] },
 			{"id":518, "name":"Griffon Battery", "pts":175, "upgrades":[], "units":"3 Griffons"},
-			{"id":514, "name":"Devil Dog Squadron", "pts":175, "upgrades":[], "units":"4 Devil Dogs"},
+			{"id":514, "name":"Teufelshund Squadron", "pts":175, "upgrades":[], "units":"4 Devil Dogs"},
 			{"id":519, "name":"Sniper Platoon", "pts":150, "upgrades":[], "units":"4 Snipers, 2 Death World Chimeras"},
 			{"id":511, "name":"Catachan Sentinel Squadron", "pts":125, "upgrades":[], "units":"4 Catachan Sentinels"}
 		]},
@@ -33,12 +33,12 @@
 
 		{"id":13, "name":"Catachan Infantry", "pts":0},
 		{"id":14, "name":"Snipers", "pts":15},
-		{"id":15, "name":"Flakk Team", "pts":25},
+		{"id":15, "name":"Flak Team", "pts":25},
 
 		{"id":16, "name":"2 Ogryns", "pts":50},
 		{"id":17, "name":"Ogryns, 5 Death World Chimera", "pts":150},
 		{"id":18, "name":"2 Ogryns, 6 Death World Chimeras", "pts":200},
-		{"id":19, "name":"Devil Dog", "pts":25},
+		{"id":19, "name":"Teufelshund", "pts":25},
 		{"id":20, "name":"Hydra", "pts":50},
 		{"id":21, "name":"2 Death World Chimeras", "pts":50},
 		{"id":22, "name":"4 Death World Chimeras", "pts":100},

@@ -132,13 +132,13 @@
         ]
       },
       {
-        "name": "Thudd Gun",
+        "name": "Salvengeschütz",
         "type": "INF",
         "speed": 10,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Thudd Gun"
+          "Salvengeschütz"
         ],
         "specialRules": [
         ]
@@ -150,7 +150,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Rapier Laser Destroyer"
+          "Rapier-Lasergeschütz"
         ],
         "specialRules": [
         ]
@@ -251,7 +251,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Maschinenkanone",
+          "Synchronisierte Maschinenkanone",
           "Ragnarok Kampfgeschütz"
         ],
         "specialRules": [
@@ -279,7 +279,7 @@
         "ff": 4,
         "weapons": [
           "Ragnarok Kampfgeschütz|6|FxF",
-          "Synchronisierter Maschinenkanone|2|FxF",
+          "Synchronisierte Maschinenkanone|2|FxF",
           "Overlord Barrage||FxF",
           "Flak Cannons"
         ],

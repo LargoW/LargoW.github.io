@@ -361,18 +361,18 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Rapier Laser Destroyer"
+          "Rapier-Lasergeschütz"
         ],
         "specialRules": []
       },
       {
-        "name": "Mole Mörser",
+        "name": "Tunnelmörser",
         "type": "INF",
         "speed": 10,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Mole Mörser"
+          "Tunnelmörser"
         ],
         "specialRules": [
         ]
@@ -385,7 +385,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Maschinenkanone"
+          "Synchronisierte Maschinenkanone"
         ],
         "specialRules": [
           "Geländegängig"
@@ -579,7 +579,7 @@
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Heavy Icarus Array|0-1|",
           "Titan Plasmakanone|0-1|FxF",
-          "Titan Melter Geschütz |0-1|",
+          "Titan Melterkanone |0-1|",
           "Gatling Blaster|0-1|FxF",
           ">Support Weapons<",
           "Plasma Destructor|0-1|FxF",
@@ -609,7 +609,7 @@
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Heavy Icarus Array|0-1|",
           "Titan Plasmakanone|0-1|FxF",
-          "Titan Melter Geschütz |0-1|",
+          "Titan Melterkanone |0-1|",
           "Gatling Blaster|0-1|FxF"
         ],
         "specialRules": [
@@ -701,7 +701,7 @@
         "armour": 5,
         "weapons": [
           "AC Avenger Bolt Geschütz||FxF",
-          "AC Synchronisierter Maschinenkanone||FxF",
+          "AC Synchronisierte Maschinenkanone||FxF",
           "AC Schweres Maschinengewehr Turm"
         ],
         "specialRules": [
@@ -714,7 +714,7 @@
         "weapons": [
           "AC Phosphor Blaster|FxF",
           "AC Synchronisierte Laserkanone|FxF",
-          "AC Synchronisiertes schweres Maschinengewehr Turm"
+          "AC Synchronisiertes schweres Maschinengewehr (Turm)"
         ],
         "specialRules": [
         ]

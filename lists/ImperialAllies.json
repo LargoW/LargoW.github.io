@@ -232,7 +232,7 @@
           "Apocalypse Raketenwerfer||FxF",
           ">Close Assault Configuration<",
           "Apocalypse Raketenwerfer||FxF",
-          "Titan Melter Geschütz||FxF",
+          "Titan Melterkanone||FxF",
           "Titan Chainfist||",
           ">Support Configuration<",
           "Apocalypse Raketenwerfer|2|FwA",
@@ -267,7 +267,7 @@
           "Titan Energiefaust|0-2|",
           "Titan Chainfist|0-2|",
           "Laser Burner|0-2|",
-          "Titan Melter Geschütz|0-2|"
+          "Titan Melterkanone|0-2|"
         ],
         "specialRules": [
           "Schadenskapazität 6",

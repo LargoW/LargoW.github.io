@@ -17,8 +17,8 @@
       "units": [
         "Catachanischer Oberbefehlshaber",
         "Catachanischer Befehlshaber",
-        "Catachan Infanterie",
-        "Flakk Team",
+        "Catachanische Infanterie",
+        "Flak Team",
         "Scharfschützen",
         "Ogryns",
         "Todeswelt Veteranen",
@@ -31,7 +31,7 @@
         "Valkyrie",
         "Vendetta",
         "Hydra",
-        "Devil Dog",
+        "Teufelshund",
         "Leman Russ",
         "Leman Russ Exterminator",
         "Leman Russ Demolisher",
@@ -61,7 +61,7 @@
       "formations": [
         {
           "name": "Catachan Regiments Hauptquartier",
-          "units": "Ein Catachanischer Oberbefehlshaber, sieben Catachan Infanterie",
+          "units": "Ein Catachanischer Oberbefehlshaber, sieben Catachanische Infanterie",
           "extraUnits": [
             "Todeswelt Transport (Compulsory)",
             "Flakk Teams",
@@ -72,7 +72,7 @@
         },
         {
           "name": "Catachan Kompanie",
-          "units": "Ein Catachanischer Befehlshaber, sieben Catachan Infanterie",
+          "units": "Ein Catachanischer Befehlshaber, sieben Catachanische Infanterie",
           "extraUnits": [
             "Todeswelt Transport (Compulsory)",
             "Flakk Teams",
@@ -141,7 +141,7 @@
           "points": 175
         },
         {
-          "name": "Devil Dog Schwadron",
+          "name": "Teufelshund Schwadron",
           "units": "Vier Devil Dogs",
           "extraUnits": [
           ],
@@ -196,7 +196,7 @@
         "name": "Flakk Teams",
         "options": [
           {
-            "description": "Ersetze bis zu zwei Catachan Infanterie mit Flakk Teams",
+            "description": "Ersetze bis zu zwei Catachanische Infanterie mit Flakk Teams",
             "points": "25 Punkte jeweils"
           }
         ]

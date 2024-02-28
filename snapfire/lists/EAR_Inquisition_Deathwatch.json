@@ -18,7 +18,7 @@
         {"name": "ORDO XENOS & PLANETARY DEFENSE FORCE FORMATIONS <br/> Max 1 for each Deathwatch Detachment Formation", "formations": [
             {"id": 520, "name": "Ordo Xenos Inquisitor Task Force", "pts": 300, "units": "9 Arbitrators, 5 Arbites Repressors", "upgrades": [35]},
             {"id": 519, "name": "Ordo Xenos Acolytes", "pts": 250, "units": "3 Ordo Xenos Acolytes, 3 Vendettas", "upgrades": [34]},
-            {"id": 521, "name": "Planetary Defense Platoon", "pts": 200, "units": "8 PDF Infantry", "upgrades": []},
+            {"id": 521, "name": "Planetary Defense Platoon", "pts": 200, "units": "8 PDS Infantry", "upgrades": []},
             {"id": 522, "name": "Leman Russ Squadron", "pts": 275, "upgrades": []},
             {"id": 523, "name": "Armoured Sentinel Squadron", "pts": 125, "units": "4 Armoured Sentinels", "upgrades": []}
          ]},
