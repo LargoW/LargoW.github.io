@@ -7,11 +7,11 @@
   "Initiative": "The Nexus Spawn Swarm has an Initiative Rating of 1+. All other Tyranid Verbände haben eine Initiativewert von 2+. In addition, all Verbände are subject to the 'Broodmind' Sonderregel.",
   "specialRules": [
     "Synapse",
-    "Schwarmbewusstsein Locus",
+    "Schwarmbewusstseinszentrum",
     "Broodmind",
     "Knallt die Großen ab!",
     "Extreme Mobility",
-    "Schwarm (x)",
+    "Schwärmen (x)",
     "Tunnelgräber",
     "Hydra Vanguard Organisms"
   ],
@@ -22,21 +22,21 @@
     {
       "from": "NIDS.json",
       "units": [
-        "Brood Lord",
+        "Symbiarch",
         "Termaganten",
         "Hormaganten",
         "Gargoyles",
         "Symbionten",
         "Biovore",
         "Tyranidenkrieger",
-        "Tyranidenkrieger Shrikes",
+        "Flügelkrieger",
         "Zoanthrope",
         "Liktor",
         "Dimachaeron",
         "Schwarmherrscher",
-        "Schwarmherrscher Shrike",
+        "Geflügelter Schwarmherrscher",
         "Schwarmtyrant",
-        "Schwarmtyrant Shrike",
+        "Geflügelter Schwarmtyrant",
         "Dactylis",
         "Barbed Carnifex",
         "Kreischer-Killer Carnifex",
@@ -99,11 +99,11 @@
         },
         {
           "name": "Assault Swarm",
-          "units": "Zwei Tyranidenkrieger und/oder Zoanthropes",
+          "units": "Zwei Tyranidenkrieger und/oder Zoantrophen",
           "extraUnits": [
             "Zwei to vier Instinctive Swarms (except Spawner)",
             "1+ Gaunts, Gargoyles oder Biovores must be chosen",
-            "Any Tyranidenkrieger may be upgraded to Tyranidenkrieger Shrikes: Kostenlos"
+            "Any Tyranidenkrieger may be upgraded to Flügelkrieger: Kostenlos"
           ],
           "points": 100
         }
@@ -156,7 +156,7 @@
       "formations": [
         {
           "name": "Symbionten Swarm",
-          "units": "Ein Brood Lord, sechs Symbionten",
+          "units": "Ein Symbiarch, sechs Symbionten",
           "extraUnits": [
             "Füge bis zu drei Symbionten: 25 Punkte jeweils"
           ],

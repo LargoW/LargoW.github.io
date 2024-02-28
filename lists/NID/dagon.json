@@ -8,7 +8,7 @@
   "Initiative": "The Nexus Swarm has an Initiative Rating of 1+. All other Tyranid Verbände haben eine Initiativewert von 2+. In addition, all Verbände are subject to the 'Schwarmbewusstsein' Sonderregel.",
   "specialRules": [
     "Synapse",
-    "Schwarmbewusstsein Locus",
+    "Schwarmbewusstseinszentrum",
     "Schwarmbewusstsein",
     "Knallt die Großen ab!",
     "Extreme Mobility",
@@ -19,7 +19,7 @@
     {
       "from": "NIDS.json",
       "units": [
-        "Brood Lord",
+        "Symbiarch",
         "Termaganten",
         "Hormaganten",
         "Gargoyles",
@@ -28,13 +28,13 @@
         "Biovore",
         "Alpha Venatoren",
         "Tyranidenkrieger",
-        "Tyranidenkrieger Shrikes",
+        "Flügelkrieger",
         "Zoanthrope",
         "Liktor",
-        "Dagon Overlord",
-        "Dagon Overlord Shrike",
+        "Schwarmoberhaupt (Dagon)",
+        "Geflügeltes Schwarmoberhaupt (Dagon)",
         "Schwarmtyrant",
-        "Schwarmtyrant Shrike",
+        "Geflügelter Schwarmtyrant",
         "Barbed Carnifex",
         "Kreischer-Killer Carnifex",
         "Dactylis",
@@ -90,18 +90,18 @@
           "extraUnits": [
             "Zwei to vier Instinctive Swarms",
             "Ersetze the Schwarmtyrant mit einemSchwarmtyrant Shrike: Kostenlos",
-            "0-1 Schwarmtyrant in the army may be replaced with the Dagon Overlord: 75 Punkte",
-            "Ersetze the Dagon Overlord mit einemDagon Overlord Shrike: Kostenlos"
+            "0-1 Schwarmtyrant in the army may be replaced with the Schwarmoberhaupt (Dagon): 75 Punkte",
+            "Ersetze the Schwarmoberhaupt (Dagon) mit einemDagon Schwarmoberhaupt Shrike: Kostenlos"
           ],
           "points": 150
         },
         {
           "name": "Assault Swarm",
-          "units": "Zwei Tyranidenkrieger und/oder Zoanthropes",
+          "units": "Zwei Tyranidenkrieger und/oder Zoantrophen",
           "extraUnits": [
             "Zwei to vier Instinctive Swarms",
             "1+ Gaunts, Gargoyles oder Biovores must be chosen",
-            "Ersetze bis zu zwei Tyranidenkrieger with Tyranidenkrieger Shrikes: Kostenlos"
+            "Ersetze bis zu zwei Tyranidenkrieger with Flügelkrieger: Kostenlos"
           ],
           "points": 100
         }
@@ -153,7 +153,7 @@
       "formations": [
         {
           "name": "Symbionten Swarm",
-          "units": "Ein Brood Lord, sechs Symbionten",
+          "units": "Ein Symbiarch, sechs Symbionten",
           "extraUnits": [
             "Füge bis zu drei Symbionten: 25 Punkte jeweils"
           ],

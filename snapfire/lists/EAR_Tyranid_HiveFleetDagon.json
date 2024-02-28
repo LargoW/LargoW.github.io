@@ -111,7 +111,7 @@
     {"id": 116,"name": "Breacher (Scythed Hierodule)","pts": 125},
     {"id": 117,"name": "Burrower (2 Trygons)","pts": 100},
 	{"id": 118,"name": "Burrower (5 Venatorens)","pts": 100},
-    {"id": 120,"name": "Mycetic Spore <br/> May carry units chosen from Termaganten, Hormaganten, Biovores, Carnifex, Venatorens, Hive Tyrant, Dagon Overlord, Tyranidenkrieger, Zoanthropes. No Shrikes of any type may be taken.","pts": 50},
+    {"id": 120,"name": "Mycetic Spore <br/> May carry units chosen from Termaganten, Hormaganten, Biovores, Carnifex, Venatorens, Hive Tyrant, Schwarmoberhaupt (Dagon), Tyranidenkrieger, Zoantrophen. No Shrikes of any type may be taken.","pts": 50},
     {"id": 121,"name": "Carnifex (3 Barbed Carnifex)",      "pts": 125    },
     {"id": 122,"name": "Carnifex (3 Kreischer-Killer Carnifex)",      "pts": 125    },
     {"id": 130,"name": "Harridan","pts": 150},
@@ -132,7 +132,7 @@
     {"id": 186,"name": "Gargoyles (4 Gargoyles)","pts": 75},
 
     {"id": 200,"name": "Tyranidenkrieger","pts": 0},
-    {"id": 201,"name": "Tyranidenkrieger Shrikes","pts": 0},
+    {"id": 201,"name": "Flügelkrieger","pts": 0},
     {"id": 202,"name": "Zoanthrope","pts": 0},
 
 	{"id": 209,"name": "Barbed Hierodule","pts": 0},
@@ -146,8 +146,8 @@
 
     {"id": 240,"name": "Hive Tyrant","pts": 0},
     {"id": 241,"name": "Hive Tyrant Shrike","pts": 0},
-    {"id": 242,"name": "Dagon Overlord","pts": 75},
-	{"id": 243,"name": "Dagon Overlord Shrike","pts": 75}
+    {"id": 242,"name": "Schwarmoberhaupt (Dagon)","pts": 75},
+	{"id": 243,"name": "Geflügeltes Schwarmoberhaupt (Dagon)","pts": 75}
   ],
 
   "formationConstraints": [

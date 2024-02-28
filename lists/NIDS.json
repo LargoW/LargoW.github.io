@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Brood Lord",
+        "name": "Symbiarch",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -17,7 +17,7 @@
         ]
       },
       {
-        "name": "Dagon Overlord",
+        "name": "Schwarmoberhaupt (Dagon)",
         "type": "AV",
         "speed": "20cm",
         "armour": "4",
@@ -26,7 +26,7 @@
           "Hornschwert"
         ],
         "specialRules": [
-          "Schwarmbewusstsein Locus",
+          "Schwarmbewusstseinszentrum",
           "Inspirierend",
           "Synapse",
           "Furchtlos",
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "name": "Dagon Overlord Shrike",
+        "name": "Geflügeltes Schwarmoberhaupt (Dagon)",
         "type": "AV",
         "speed": "30cm",
         "armour": "5",
@@ -45,7 +45,7 @@
           "Hornschwert"
         ],
         "specialRules": [
-          "Schwarmbewusstsein Locus",
+          "Schwarmbewusstseinszentrum",
           "Inspirierend",
           "Synapse",
           "Furchtlos",
@@ -67,7 +67,7 @@
           "Große Klauen"
         ],
         "specialRules": [
-          "Schwarmbewusstsein Locus",
+          "Schwarmbewusstseinszentrum",
           "Inspirierend",
           "Synapse",
           "Furchtlos",
@@ -77,7 +77,7 @@
         ]
       },
       {
-        "name": "Schwarmherrscher Shrike",
+        "name": "Geflügelter Schwarmherrscher",
         "type": "AV",
         "speed": "30cm",
         "armour": "5",
@@ -88,7 +88,7 @@
           "Große Klauen"
         ],
         "specialRules": [
-          "Schwarmbewusstsein Locus",
+          "Schwarmbewusstseinszentrum",
           "Inspirierend",
           "Synapse",
           "Furchtlos",
@@ -118,7 +118,7 @@
         ]
       },
       {
-        "name": "Schwarmtyrant Shrike",
+        "name": "Geflügelter Schwarmtyrant",
         "type": "AV",
         "speed": "30cm",
         "armour": "5",
@@ -153,7 +153,7 @@
         ]
       },
       {
-        "name": "Tyranidenkrieger Shrikes",
+        "name": "Flügelkrieger",
         "type": "LV",
         "speed": "30cm",
         "armour": "5",
@@ -339,7 +339,7 @@
         "ff": 5,
         "weapons": [
           "Geiferkanone",
-          "Tentaklids",
+          "Tentakliden",
           "Greifklauen"
         ],
         "specialRules": [
@@ -403,7 +403,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport bis zu vier units of Termaganten, Hormaganten, Gargoyles und Venatoren. Biovores, Tyranidenkrieger und Zoanthropes counts as anderthalb Einheiten, rounded up."
+        "notes": "Darf bis zu vier Einheiten Termaganten, Hormaganten, Gargoyles und Venatoren transportieren. Biovores, Tyranidenkrieger und Zoantrophen zählen hierbei als anderthalb Einheiten, aufgerundet."
       },
       {
         "name": "Stachel-Carnifex",
@@ -452,9 +452,9 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Transport",
-          "Schwarm (2)"
+          "Schwärmen (2)"
         ],
-        "notes": "May transport zwei units of Termaganten und Hormaganten. May bring back zwei units of Termaganten und/oder Hormaganten when Swarming."
+        "notes": "Darf bis zu zwei Einheiten Termaganten und Hormaganten transportieren. Darf zwei Einheiten Termaganten und/oder Hormaganten durch <i>Schwärmen</i> zurückbringen."
       },
       {
         "name": "Tervigon",
@@ -471,7 +471,7 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Transport",
-          "Schwarm (1)"
+          "Schwärmen (1)"
         ],
         "notes": "May transport zwei units of Termaganten und Hormaganten. May bring back eine unit of Termaganten und/oder Hormaganten when Swarming."
       },
@@ -561,7 +561,7 @@
         "ff": 5,
         "weapons": [
           "Geiferkanone|2|",
-          "Tentaklids",
+          "Tentakliden",
           "Große Klauen",
           "Gantenbeutel"
         ],
@@ -572,7 +572,7 @@
           "Antigrav",
           "Verstärkte Panzerung",
           "Transport",
-          "Schwarm (1)"
+          "Schwärmen (1)"
         ],
         "notes": "May transport bis zu vier units of Gargoyles. May bring back eine unit of Gargoyles when Swarming.",
         "crit": "The Harridan is killed."
@@ -682,7 +682,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 6",
-          "Schwarmbewusstsein Locus",
+          "Schwarmbewusstseinszentrum",
           "Synapse",
           "Furchtlos",
           "Anführer",
@@ -708,7 +708,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 6",
-          "Schwarmbewusstsein Locus",
+          "Schwarmbewusstseinszentrum",
           "Synapse",
           "Furchtlos",
           "Anführer",
@@ -717,7 +717,7 @@
           "Verstärkte Panzerung",
           "Regeneration",
           "Transport",
-          "Schwarm (3)"
+          "Schwärmen (3)"
         ],
         "notes": "May transport fünf units of Termaganten, Hormaganten und Gargoyles. May bring back drei units of Termaganten, Hormaganten und/oder Gargoyles when Swarming. May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",
         "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."

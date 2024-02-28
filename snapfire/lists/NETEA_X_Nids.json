@@ -80,7 +80,7 @@
       {"id": 64, "name": "Razorclaw", "pts": 0},
 
       {"id": 80, "name": "Genestealers", "pts": 25},
-      {"id": 81, "name": "Brood Lord", "pts": 25}
+      {"id": 81, "name": "Symbiarch", "pts": 25}
 
    ],
    "formationConstraints": [

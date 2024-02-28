@@ -287,7 +287,7 @@
     },
     {
       "id": 120,
-      "name": "Mycetic Spore // May transport Termaganten, Hormaganten, Biovores, Carnifex, Venatorens, Hive Tyrants, Dagon Overlord, Tyranidenkrieger, Zoanthropes // Transported units may not have Wings",
+      "name": "Mycetic Spore // May transport Termaganten, Hormaganten, Biovores, Carnifex, Venatorens, Hive Tyrants, Schwarmoberhaupt (Dagon), Tyranidenkrieger, Zoantrophen // Transported units may not have Wings",
       "pts": 50
     },
     {
@@ -387,12 +387,12 @@
     },
     {
       "id": 204,
-      "name": "Dagon Overlord",
+      "name": "Schwarmoberhaupt (Dagon)",
       "pts": 100
     },
 	{
       "id": 205,
-      "name": "Dagon Overlord Shrike (Wings)",
+      "name": "Geflügeltes Schwarmoberhaupt (Dagon) (Wings)",
       "pts": 100
     },
 	{
@@ -407,7 +407,7 @@
     },
     {
       "id": 211,
-      "name": "Tyranidenkrieger Shrikes (Wings)",
+      "name": "Flügelkrieger (Wings)",
       "pts": 0
     },
     {

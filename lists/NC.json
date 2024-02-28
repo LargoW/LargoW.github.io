@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Necron Overlord",
+        "name": "Necron Schwarmoberhaupt",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -23,7 +23,7 @@
         ]
       },
       {
-        "name": "Necron Destroyer Overlord",
+        "name": "Necron Destroyer Schwarmoberhaupt",
         "type": "INF",
         "speed": 25,
         "armour": 3,
