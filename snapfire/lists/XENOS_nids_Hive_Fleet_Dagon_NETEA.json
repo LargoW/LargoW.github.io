@@ -8,7 +8,7 @@
       "formations": [
         {
           "id": 501,
-          "name": "Nexus Swarm (2-4 Instinctive Swarms)",
+          "name": "Nexus Schwarm (2-4 Instinctive Swarms)",
           "pts": 400,
 		  "units": "Dagon Dominatrix",
           "upgrades": [
@@ -35,7 +35,7 @@
         },
         {
           "id": 502,
-          "name": "Major Swarm (2-4 Instinctive Swarms)",
+          "name": "Major Schwarm (2-4 Instinctive Swarms)",
           "pts": 175,
           "upgrades": [
 			100,
@@ -62,7 +62,7 @@
         },
         {
           "id": 503,
-          "name": "Minor Swarm (2-4 Instinctive Swarms)",
+          "name": "Minor Schwarm (2-4 Instinctive Swarms)",
           "pts": 100,
           "upgrades": [
 			100,
@@ -93,7 +93,7 @@
       "formations": [
 	  	    {
           "id": 512,
-          "name": "Hive Swarm (1-2 Instinctive Swarms)",
+          "name": "Hive Schwarm (1-2 Instinctive Swarms)",
           "units": "Hive Nest",
           "pts": 125,
           "upgrades": [
@@ -112,7 +112,7 @@
 		},
 	    {
           "id": 509,
-          "name": "Attack Swarm (1-2 Instinctive Swarms)",
+          "name": "Attack Schwarm (1-2 Instinctive Swarms)",
           "pts": 0,
           "upgrades": [
 			100,
@@ -133,7 +133,7 @@
 		},
           {
           "id": 504,
-          "name": "Infestation Swarm (1-2 Instinctive Swarms)",
+          "name": "Infestation Schwarm (1-2 Instinctive Swarms)",
           "pts": 0,
            "upgrades": [
 			118,
@@ -142,7 +142,7 @@
         },
         {
           "id": 505,
-          "name": "Harasser Swarm (1-2 Instinctive Swarms)",
+          "name": "Harasser Schwarm (1-2 Instinctive Swarms)",
           "units": "Harridan",
           "pts": 150,
           "upgrades": [
@@ -197,27 +197,27 @@
   "upgrades": [
     {
       "id": 100,
-      "name": "Gaunts (5 Termaganten#)",
+      "name": "Gaunts (5 Termaganten)",
       "pts": 50
     },
     {
       "id": 101,
-      "name": "Gaunts (4 Termaganten#, Hormagaunt)",
+      "name": "Gaunts (4 Termaganten, Hormagaunt)",
       "pts": 50
     },
 	    {
       "id": 102,
-      "name": "Gaunts (3 Termaganten#, 2 Hormagaunt)",
+      "name": "Gaunts (3 Termaganten, 2 Hormagaunt)",
       "pts": 50
     },
 	    {
       "id": 103,
-      "name": "Gaunts (2 Termaganten#, 3 Hormaganten)",
+      "name": "Gaunts (2 Termaganten, 3 Hormaganten)",
       "pts": 50
     },
 	    {
       "id": 104,
-      "name": "Gaunts (Termaganten#, 4 Hormaganten)",
+      "name": "Gaunts (Termaganten, 4 Hormaganten)",
       "pts": 50
     },
 	    {
@@ -282,12 +282,12 @@
     },
 		{
       "id": 118,
-      "name": "Burrower (5 Raveners)",
+      "name": "Burrower (5 Venatorens)",
       "pts": 100
     },
     {
       "id": 120,
-      "name": "Mycetic Spore // May transport Termaganten#, Hormaganten, Biovores, Carnifex, Raveners, Hive Tyrants, Dagon Overlord, Tyranid Warriors, Zoanthropes // Transported units may not have Wings",
+      "name": "Mycetic Spore // May transport Termaganten, Hormaganten, Biovores, Carnifex, Venatorens, Hive Tyrants, Dagon Overlord, Tyranidenkrieger, Zoanthropes // Transported units may not have Wings",
       "pts": 50
     },
     {
@@ -332,27 +332,27 @@
     },
     {
 	  "id": 179,
-      "name": "Gaunts (5 Termaganten#)",
+      "name": "Gaunts (5 Termaganten)",
       "pts": 50
     },
     {
 	  "id": 180,
-      "name": "Gaunts (4 Termaganten#, Hormagaunt)",
+      "name": "Gaunts (4 Termaganten, Hormagaunt)",
       "pts": 50
     },
 	{
       "id": 181,
-      "name": "Gaunts (3 Termaganten#, 2 Hormagaunt)",
+      "name": "Gaunts (3 Termaganten, 2 Hormagaunt)",
       "pts": 50
     },
 	    {
       "id": 182,
-      "name": "Gaunts (2 Termaganten#, 3 Hormaganten)",
+      "name": "Gaunts (2 Termaganten, 3 Hormaganten)",
       "pts": 50
     },
 	    {
       "id": 183,
-      "name": "Gaunts (Termaganten#, 4 Hormaganten)",
+      "name": "Gaunts (Termaganten, 4 Hormaganten)",
       "pts": 50
     },
 	    {
@@ -372,7 +372,7 @@
     },
     {
       "id": 201,
-      "name": "Tyranid Warriors",
+      "name": "Tyranidenkrieger",
       "pts": 0
     },
     {
@@ -407,7 +407,7 @@
     },
     {
       "id": 211,
-      "name": "Tyranid Warrior Shrikes (Wings)",
+      "name": "Tyranidenkrieger Shrikes (Wings)",
       "pts": 0
     },
     {
@@ -422,7 +422,7 @@
     },
 	{
       "id": 215,
-      "name": "3 Ravener Alphas",
+      "name": "3 Alpha Venatoren",
       "pts": 100
     },
 		{

@@ -1275,7 +1275,7 @@
     {
       "title": "Ganten",
       "description": [
-        "Half (rounding up) of Termaganten#, Hormaganten, Gargoyles, und Venatoren that are killed in an assault do not count für combat resolution und are Entbehrlich as long as there is at least eine model with Synapse still present in the formation."
+        "Half (rounding up) of Termaganten, Hormaganten, Gargoyles, und Venatoren that are killed in an assault do not count für combat resolution und are Entbehrlich as long as there is at least eine model with Synapse still present in the formation."
       ]
     },
     {
@@ -1291,10 +1291,10 @@
       ]
     },
     {
-      "title": "Swarm (x)",
+      "title": "Schwarm (x)",
       "description": [
-        "In the End Phase, before Verbände have rallied, all unbroken Tyranid Verbände mit both Swarm (x) und Synapse creatures may 'Swarm'.",
-        "Für jeweils Swarm point, eine unit with the 'Gaunts' rule that has been lost during the battle may be added to the formation, but jeweils unit with 'Swarm (x)' may only bring back the types of units that are within brackets next to its 'Gaunt Pouch'.",
+        "In the End Phase, before Verbände have rallied, all unbroken Tyranid Verbände mit both Schwarm (x) und Synapse creatures may 'Swarm'.",
+        "Für jeweils Swarm point, eine unit with the 'Gaunts' rule that has been lost during the battle may be added to the formation, but jeweils unit with 'Schwarm (x)' may only bring back the types of units that are within brackets next to its 'Gantenbeutel'.",
         "All units returned to play in this manner must be placed within 5cm of a unit from the formation that was there prior to Swarming, und may not be placed in enemy zones of control oder impassable terrain. Not all generated Swarm Punkte need to be used, but may not be saved für future turns."
       ]
     },

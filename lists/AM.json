@@ -512,7 +512,7 @@
         ],
         "specialRules": [
           "Verstärkte Heckpanzerung",
-          "Tunneler",
+          "Tunnelgräber",
           "Transport"
         ],
         "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Must start the game in the Reserven, und may only enter the battlefield through Tunneling."
@@ -662,7 +662,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry 10 Infanterie Einheiten without Jump Pack oder Beritten Eigenschaft transportieren Praetorian Combat Servitor counts as zwei Einheiten.",
+        "notes": "May carry 10 Infanterie Einheiten without Sprungmodule oder Beritten Eigenschaft transportieren Praetorian Combat Servitor counts as zwei Einheiten.",
         "crit": "The Gorgon is Immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
       },
       {
@@ -677,7 +677,7 @@
         "specialRules": [
           "Damage capacity: 2",
           "Verstärkte Panzerung",
-          "Tunneler",
+          "Tunnelgräber",
           "Transport"
         ],
         "notes": "May transport sechs Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."

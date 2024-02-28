@@ -4,10 +4,10 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"Kern SWARMS", "formations":[
-			{"id":511, "name":"Assault Swarm (Normal)", "pts":105, "units":"2 Tyranid Warriors", "upgrades":[12,13,15,16,30,18,19,20,21,22,24]},
-			{"id":512, "name":"Assault Swarm (Big)", "pts":160, "units":"4 Tyranid Warriors", "upgrades":[12,13,30,15,16,30,18,19,20,21,22,24]},
-			{"id":513, "name":"Brute Swarm (Normal)", "pts":95, "units":"Hive Tyrant", "upgrades":[13,15,16,18,19,20,21,22,23,24]},
-			{"id":514, "name":"Brute Swarm (Big)", "pts":140,	"units":"2 Hive Tyrants", "upgrades":[13,15,16,18,19,20,21,22,23,24]}
+			{"id":511, "name":"Assault Schwarm (Normal)", "pts":105, "units":"2 Tyranidenkrieger", "upgrades":[12,13,15,16,30,18,19,20,21,22,24]},
+			{"id":512, "name":"Assault Schwarm (Big)", "pts":160, "units":"4 Tyranidenkrieger", "upgrades":[12,13,30,15,16,30,18,19,20,21,22,24]},
+			{"id":513, "name":"Brute Schwarm (Normal)", "pts":95, "units":"Hive Tyrant", "upgrades":[13,15,16,18,19,20,21,22,23,24]},
+			{"id":514, "name":"Brute Schwarm (Big)", "pts":140,	"units":"2 Hive Tyrants", "upgrades":[13,15,16,18,19,20,21,22,23,24]}
 		]},
 		{"name":"SUPPORT SWARMS <br/> Max 1 for each Kern Swarm", "formations":[
 			{"id":521, "name":"Dominatrix Swarm", "units":"Dominatrix", "pts":500,"upgrades":[13,16,18,19,20,21,22,23,24]},
@@ -25,10 +25,10 @@
 	],
 	"upgrades":[
 		{"id":12, "name":"Hive Tyrant", "pts":50},
-		{"id":13, "name":"Termaganten#", "pts":15},
+		{"id":13, "name":"Termaganten", "pts":15},
 		{"id":14, "name":"Hormaganten", "pts":15},
 		{"id":15, "name":"Biovore", "pts":25},
-		{"id":16, "name":"Raveners", "pts":35},
+		{"id":16, "name":"Venatorens", "pts":35},
 		{"id":18, "name":"Carnifex", "pts":50},
 		{"id":19, "name":"Zoanthrope", "pts":35},
 		{"id":20, "name":"Haruspex", "pts":35},

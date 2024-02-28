@@ -35,13 +35,13 @@
        {"id": 5, "name": "Hive Tyrant w/ Symbiote", "pts": 150},
        {"id": 6, "name": "Dominatrix w/ Symbiote", "pts": 375},
 
-       {"id": 8, "name": "3 Tyranid Warriors", "pts": 150},
+       {"id": 8, "name": "3 Tyranidenkrieger", "pts": 150},
        {"id": 10, "name": "Dominatrix", "pts": 325},
-      {"id": 11, "name": "Termaganten#", "pts": 15},
+      {"id": 11, "name": "Termaganten", "pts": 15},
       {"id": 12, "name": "Hormaganten", "pts": 15},
-      {"id": 13, "name": "2 Tyranid Warriors", "pts": 100},
+      {"id": 13, "name": "2 Tyranidenkrieger", "pts": 100},
       {"id": 14, "name": "Hive Tyrant", "pts": 100},
-      {"id": 15, "name": "Tyranid Warriors", "pts": 50},
+      {"id": 15, "name": "Tyranidenkrieger", "pts": 50},
 
       {"id": 16, "name": "Biovore", "pts": 25},
       {"id": 160, "name": "5 Biovores", "pts": 150},
@@ -53,7 +53,7 @@
       {"id": 23, "name": "Malefactor", "pts": 50},
       {"id": 24, "name": "Carnifex", "pts": 50},
       {"id": 25, "name": "Haruspex", "pts": 50},
-      {"id": 26, "name": "Raveners", "pts": 30},
+      {"id": 26, "name": "Venatorens", "pts": 30},
 
       {"id": 28, "name": "Exocrine", "pts": 50},
       {"id": 280, "name": "3 Exocrines", "pts": 175},

@@ -280,7 +280,7 @@
           "Dämonischer Fokus",
           "Warp Rift",
           "Geländegängig",
-          "Jump Pack",
+          "Sprungmodule",
           "Verbesserte Beschwörung (+W3)"
         ],
         "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
@@ -303,7 +303,7 @@
           "Inspirierend",
           "Dämonischer Fokus",
           "Geländegängig",
-          "Jump Pack",
+          "Sprungmodule",
           "Verbesserte Beschwörung (+1)"
         ],
         "crit": "The Greater Daemon is destroyed. Any summoned Daemon Einheiten mitin 5cm are destroyed on 5+"
@@ -408,7 +408,7 @@
           "Dämonischer Fokus",
           "Warp Rift",
           "Geländegängig",
-          "Jump Pack",
+          "Sprungmodule",
           "Verbesserte Beschwörung (+W3)"
         ],
         "crit": "The Exalted Greater Daemon is destroyed. All Daemon Einheiten mitin 5cm are destroyed."
@@ -431,7 +431,7 @@
           "Inspirierend",
           "Dämonischer Fokus",
           "Geländegängig",
-          "Jump Pack",
+          "Sprungmodule",
           "Verbesserte Beschwörung (+1)"
         ],
         "crit": "The Greater Daemon is destroyed. Any summoned Daemon Einheiten mitin 5cm are destroyed on 5+."

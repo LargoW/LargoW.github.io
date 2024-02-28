@@ -11,7 +11,7 @@
         "armour": 3,
         "cc": 4,
         "weapons": [
-          "Large Rending Klauen"
+          "Large Zangenkrallen"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -144,7 +144,7 @@
         "armour": 6,
         "cc": 2,
         "weapons": [
-          "Rending Klauen"
+          "Zangenkrallen"
         ],
         "specialRules": [
           "Aufklärer",
@@ -175,7 +175,7 @@
         "ff": 6,
         "weapons": [
           "Fanghaken",
-          "Scythed Klauen"
+          "Geschlitzte Klauen"
         ],
         "specialRules": [
           "Erstschlag",

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Tyranid Streitmächte",
+    "name": "Tyraniden Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -52,7 +52,7 @@
           "Verstärkte Panzerung",
           "Befehlshaber",
           "Anführer",
-          "Jump Pack"
+          "Sprungmodule"
         ]
       },
       {
@@ -63,8 +63,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Venom Geschütz",
-          "Large Klauen"
+          "Biozidkanone",
+          "Große Klauen"
         ],
         "specialRules": [
           "Hive Mind Locus",
@@ -84,8 +84,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Venom Geschütz",
-          "Large Klauen"
+          "Biozidkanone",
+          "Große Klauen"
         ],
         "specialRules": [
           "Hive Mind Locus",
@@ -95,19 +95,19 @@
           "Verstärkte Panzerung",
           "Befehlshaber",
           "Anführer",
-          "Jump Pack"
+          "Sprungmodule"
         ]
       },
       {
-        "name": "Hive Tyrant",
+        "name": "Schwarmtyrant",
         "type": "AV",
         "speed": "20cm",
         "armour": "4",
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Venom Geschütz",
-          "Large Klauen"
+          "Biozidkanone",
+          "Große Klauen"
         ],
         "specialRules": [
           "Synapse",
@@ -118,15 +118,15 @@
         ]
       },
       {
-        "name": "Hive Tyrant Shrike",
+        "name": "Schwarmtyrant Shrike",
         "type": "AV",
         "speed": "30cm",
         "armour": "5",
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Venom Geschütz",
-          "Large Klauen"
+          "Biozidkanone",
+          "Große Klauen"
         ],
         "specialRules": [
           "Synapse",
@@ -134,18 +134,18 @@
           "Verstärkte Panzerung",
           "Befehlshaber",
           "Anführer",
-          "Jump Pack"
+          "Sprungmodule"
         ]
       },
       {
-        "name": "Tyranid Warriors",
+        "name": "Tyranidenkrieger",
         "type": "LV",
         "speed": "20cm",
         "armour": "4",
         "cc": 2,
         "ff": 5,
         "weapons": [
-          "Deathspitters"
+          "Stachelwürger"
         ],
         "specialRules": [
           "Synapse",
@@ -153,14 +153,14 @@
         ]
       },
       {
-        "name": "Tyranid Warrior Shrikes",
+        "name": "Tyranidenkrieger Shrikes",
         "type": "LV",
         "speed": "30cm",
         "armour": "5",
         "cc": 2,
         "ff": 5,
         "weapons": [
-          "Deathspitters"
+          "Stachelwürger"
         ],
         "specialRules": [
           "Synapse",
@@ -176,7 +176,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Warp Blast"
+          "Warp Blitz"
         ],
         "specialRules": [
           "Synapse",
@@ -185,18 +185,18 @@
         ]
       },
       {
-        "name": "Ravener Alphas",
+        "name": "Alpha Venatoren",
         "type": "LV",
         "speed": 25,
         "armour": 5,
         "cc": 3,
         "weapons": [
-          "Burrowclaws"
+          "Grabklauen"
         ],
         "specialRules": [
           "Synapse",
           "Furchtlos",
-          "Tunneler"
+          "Tunnelgräber"
         ]
       },
       {
@@ -206,15 +206,15 @@
         "armour": 5,
         "cc": 3,
         "weapons": [
-          "Burrowclaws"
+          "Grabklauen"
         ],
         "specialRules": [
           "Ganten",
-          "Tunneler"
+          "Tunnelgräber"
         ]
       },
       {
-        "name": "Termaganten#",
+        "name": "Termaganten",
         "type": "INF",
         "speed": 20,
         "cc": 6,
@@ -232,7 +232,7 @@
         "speed": 20,
         "cc": 5,
         "weapons": [
-          "Ripping Klauen"
+          "Sensenklauen"
         ],
         "specialRules": [
           "Ganten",
@@ -246,7 +246,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Swarm Strike"
+          "Schwarmangriff"
         ],
         "specialRules": [
           "Ganten",
@@ -260,7 +260,7 @@
         "armour": 6,
         "cc": 2,
         "weapons": [
-          "Rending Klauen"
+          "Zangenkrallen"
         ],
         "specialRules": [
           "Aufklärer",
@@ -275,7 +275,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Spore Mines"
+          "Sporenminen"
         ],
         "specialRules": [
         ]
@@ -289,7 +289,7 @@
         "ff": 6,
         "weapons": [
           "Fanghaken",
-          "Scythed Klauen"
+          "Geschlitzte Klauen"
         ],
         "specialRules": [
           "Erstschlag",
@@ -306,8 +306,8 @@
         "armour": 3,
         "cc": 3,
         "weapons": [
-          "Spine-Ringed Maw",
-          "Large Klauen"
+          "Dornenberingtes Maul",
+          "Große Klauen"
         ],
         "specialRules": [
           "Infiltratoren",
@@ -315,32 +315,32 @@
         ]
       },
       {
-        "name": "Harpy",
+        "name": "Harpie",
         "type": "AV",
         "speed": 35,
         "armour": 5,
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Stranglethorn Geschütz",
-          "Spore Cyst",
-          "Grasping Talons"
+          "Dornenwürgerkanone",
+          "Sporenzyste",
+          "Greifklauen"
         ],
         "specialRules": [
           "Antigrav"
         ]
       },
       {
-        "name": "Hive Crone",
+        "name": "Schwarmdrude",
         "type": "AV",
         "speed": 35,
         "armour": 5,
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Drool Geschütz",
-          "Tentaclids",
-          "Grasping Talons"
+          "Geiferkanone",
+          "Tentaklids",
+          "Greifklauen"
         ],
         "specialRules": [
           "Antigrav"
@@ -367,7 +367,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Bio-Plasmic Geschütz"
+          "Bioplasmatische Kanone"
         ],
         "specialRules": [
             "Verstärkte Panzerung"
@@ -381,7 +381,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Acid Jets",
+          "Säurestrahl",
           "Massive Klauen"
         ],
         "specialRules": [
@@ -396,24 +396,24 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Frag Spines",
-          "Large Klauen"
+          "Fragmentstacheln",
+          "Große Klauen"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport bis zu vier units of Termaganten#, Hormaganten, Gargoyles und Venatoren. Biovores, Tyranid Warriors und Zoanthropes counts as anderthalb Einheiten, rounded up."
+        "notes": "May transport bis zu vier units of Termaganten, Hormaganten, Gargoyles und Venatoren. Biovores, Tyranidenkrieger und Zoanthropes counts as anderthalb Einheiten, rounded up."
       },
       {
-        "name": "Barbed Carnifex",
+        "name": "Stachel-Carnifex",
         "type": "AV",
         "speed": 20,
         "armour": 4,
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Venom Geschütz",
+          "Biozidkanone",
           "Klauen"
         ],
         "specialRules": [
@@ -421,7 +421,7 @@
         ]
       },
       {
-        "name": "Screamer-Killer Carnifex",
+        "name": "Kreischer-Killer Carnifex",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -429,7 +429,7 @@
         "ff": 5,
         "weapons": [
           "Bio-Plasma",
-          "Large Klauen"
+          "Große Klauen"
         ],
         "specialRules": [
           "Verstärkte Panzerung"
@@ -443,18 +443,18 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Frag Spines",
-          "Large Klauen",
-          "Gaunt Pouch"
+          "Fragmentstacheln",
+          "Große Klauen",
+          "Gantenbeutel"
         ],
         "specialRules": [
           "Synapse",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Transport",
-          "Swarm (2)"
+          "Schwarm (2)"
         ],
-        "notes": "May transport zwei units of Termaganten# und Hormaganten. May bring back zwei units of Termaganten# und/oder Hormaganten when Swarming."
+        "notes": "May transport zwei units of Termaganten und Hormaganten. May bring back zwei units of Termaganten und/oder Hormaganten when Swarming."
       },
       {
         "name": "Tervigon",
@@ -464,16 +464,16 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Frag Spines",
-          "Large Klauen",
-          "Gaunt Pouch"
+          "Fragmentstacheln",
+          "Große Klauen",
+          "Gantenbeutel"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
           "Transport",
-          "Swarm (1)"
+          "Schwarm (1)"
         ],
-        "notes": "May transport zwei units of Termaganten# und Hormaganten. May bring back eine unit of Termaganten# und/oder Hormaganten when Swarming."
+        "notes": "May transport zwei units of Termaganten und Hormaganten. May bring back eine unit of Termaganten und/oder Hormaganten when Swarming."
       },
       {
         "name": "Viragon",
@@ -483,8 +483,8 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Bio-Electric Field",
-          "Massive Scything Talons"
+          "Bio-elektrisches Feld",
+          "Massive Sensenklauen"
         ],
         "specialRules": [
           "Schadenskapazität 4",
@@ -492,7 +492,7 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Regeneration",
-          "Tunneler"
+          "Tunnelgräber"
         ],
         "crit": "The Viragon is killed."
       },
@@ -504,14 +504,14 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Bio-Electric Field",
-          "Large Klauen"
+          "Bio-elektrisches Feld",
+          "Große Klauen"
         ],
         "specialRules": [
           "Synapse",
           "Furchtlos",
           "Verstärkte Panzerung",
-          "Tunneler"
+          "Tunnelgräber"
         ]
       },
       {
@@ -522,12 +522,12 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Bio-Electric Field",
-          "Large Klauen"
+          "Bio-elektrisches Feld",
+          "Große Klauen"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
-          "Tunneler"
+          "Tunnelgräber"
         ]
       },
       {
@@ -539,7 +539,7 @@
         "ff": 5,
         "weapons": [
           "Bio-Geschütz",
-          "Large Klauen"
+          "Große Klauen"
         ],
         "specialRules": [
           "Schadenskapazität 3",
@@ -560,10 +560,10 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Drool Geschütz|2|",
-          "Tentaclids",
-          "Large Klauen",
-          "Gaunt Pouch"
+          "Geiferkanone|2|",
+          "Tentaklids",
+          "Große Klauen",
+          "Gantenbeutel"
         ],
         "specialRules": [
           "Schadenskapazität 3",
@@ -572,7 +572,7 @@
           "Antigrav",
           "Verstärkte Panzerung",
           "Transport",
-          "Swarm (1)"
+          "Schwarm (1)"
         ],
         "notes": "May transport bis zu vier units of Gargoyles. May bring back eine unit of Gargoyles when Swarming.",
         "crit": "The Harridan is killed."
@@ -586,7 +586,7 @@
         "ff": 5,
         "weapons": [
           "Synchronisierter Bio-Geschütz",
-          "Large Klauen"
+          "Große Klauen"
         ],
         "specialRules": [
           "Schadenskapazität 3",
@@ -605,7 +605,7 @@
         "ff": 5,
         "weapons": [
           "Synchronisierter Bio-Geschütz",
-          "Large Klauen"
+          "Große Klauen"
         ],
         "specialRules": [
           "Schadenskapazität 3",
@@ -622,7 +622,7 @@
         "ff": 5,
         "weapons": [
           "Pyro-Acid",
-          "Massive Scything Talons"
+          "Massive Sensenklauen"
         ],
         "specialRules": [
           "Schadenskapazität 3",
@@ -641,7 +641,7 @@
         "ff": 5,
         "weapons": [
           "Pyro-Acid",
-          "Massive Scything Talons"
+          "Massive Sensenklauen"
         ],
         "specialRules": [
           "Schadenskapazität 3",
@@ -678,7 +678,7 @@
           "Bio-Titan Bio-Geschütz",
           "Bio-Plasmic Ray",
           "Bio-Plasma Burst",
-          "Massive Scything Talons"
+          "Massive Sensenklauen"
         ],
         "specialRules": [
           "Schadenskapazität 6",
@@ -703,8 +703,8 @@
         "ff": 5,
         "weapons": [
           "Bio-Energy Pulse",
-          "Massive Scything Talons",
-          "Gaunt Pouch"
+          "Massive Sensenklauen",
+          "Gantenbeutel"
         ],
         "specialRules": [
           "Schadenskapazität 6",
@@ -717,9 +717,9 @@
           "Verstärkte Panzerung",
           "Regeneration",
           "Transport",
-          "Swarm (3)"
+          "Schwarm (3)"
         ],
-        "notes": "May transport fünf units of Termaganten#, Hormaganten und Gargoyles. May bring back drei units of Termaganten#, Hormaganten und/oder Gargoyles when Swarming. May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",
+        "notes": "May transport fünf units of Termaganten, Hormaganten und Gargoyles. May bring back drei units of Termaganten, Hormaganten und/oder Gargoyles when Swarming. May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",
         "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
       },
       {
@@ -732,7 +732,7 @@
         "weapons": [
           "Bio-Titan Bio-Geschütz",
           "Hail of Barbed Spears",
-          "Massive Scything Talons"
+          "Massive Sensenklauen"
         ],
         "specialRules": [
           "Schadenskapazität 5",

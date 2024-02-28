@@ -11,7 +11,7 @@
     "Broodmind",
     "Knallt die Großen ab!",
     "Extreme Mobility",
-    "Swarm (x)",
+    "Schwarm (x)",
     "Tunnelgräber",
     "Hydra Vanguard Organisms"
   ],
@@ -23,25 +23,25 @@
       "from": "NIDS.json",
       "units": [
         "Brood Lord",
-        "Termaganten#",
+        "Termaganten",
         "Hormaganten",
         "Gargoyles",
         "Symbionten",
         "Biovore",
-        "Tyranid Warriors",
-        "Tyranid Warrior Shrikes",
+        "Tyranidenkrieger",
+        "Tyranidenkrieger Shrikes",
         "Zoanthrope",
         "Liktor",
         "Dimachaeron",
         "Swarmlord",
         "Swarmlord Shrike",
-        "Hive Tyrant",
-        "Hive Tyrant Shrike",
+        "Schwarmtyrant",
+        "Schwarmtyrant Shrike",
         "Dactylis",
         "Barbed Carnifex",
-        "Screamer-Killer Carnifex",
-        "Harpy",
-        "Hive Crone",
+        "Kreischer-Killer Carnifex",
+        "Harpie",
+        "Schwarmdrude",
         "Viragon",
         "Trygon Prime",
         "Trygon",
@@ -88,22 +88,22 @@
         },
         {
           "name": "Tyrant Swarm",
-          "units": "Ein Hive Tyrant",
+          "units": "Ein Schwarmtyrant",
           "extraUnits": [
             "Zwei to vier Instinctive Swarms (except Spawner)",
-            "Ersetze a Hive Tyrant mit einemHive Tyrant Shrike: Kostenlos",
-            "0-1 Hive Tyrant in the army may be replaced mit einemSwarmlord: 75 Punkte",
+            "Ersetze a Schwarmtyrant mit einemSchwarmtyrant Shrike: Kostenlos",
+            "0-1 Schwarmtyrant in the army may be replaced mit einemSwarmlord: 75 Punkte",
             "Ersetze a Swarmlord mit einemSwarm Lord Shrike: Kostenlos"
           ],
           "points": 150
         },
         {
           "name": "Assault Swarm",
-          "units": "Zwei Tyranid Warriors und/oder Zoanthropes",
+          "units": "Zwei Tyranidenkrieger und/oder Zoanthropes",
           "extraUnits": [
             "Zwei to vier Instinctive Swarms (except Spawner)",
             "1+ Gaunts, Gargoyles oder Biovores must be chosen",
-            "Any Tyranid Warriors may be upgraded to Tyranid Warrior Shrikes: Kostenlos"
+            "Any Tyranidenkrieger may be upgraded to Tyranidenkrieger Shrikes: Kostenlos"
           ],
           "points": 100
         }
@@ -201,7 +201,7 @@
     "items": [
       {
         "name": "Ganten",
-        "description": "Fünf Termaganten# und/oder Hormaganten",
+        "description": "Fünf Termaganten und/oder Hormaganten",
         "points": "75 Punkte"
       },
       {
@@ -216,17 +216,17 @@
       },
       {
         "name": "Bio-Flyers",
-        "description": "Drei Harpies oder drei Hive Crones",
+        "description": "Drei Harpies oder drei Schwarmdrudes",
         "points": "100 Punkte"
       },
       {
         "name": "Carnifex",
-        "description": "Drei Barbed Carnifex oder drei Screamer-Killer Carnifex",
+        "description": "Drei Barbed Carnifex oder drei Kreischer-Killer Carnifex",
         "points": "125 Punkte"
       },
       {
         "name": "Spawner",
-        "description": "Ein Tervigon, zwei Termaganten# oder zwei Hormaganten",
+        "description": "Ein Tervigon, zwei Termaganten oder zwei Hormaganten",
         "points": "100 Punkte"
       },
       {

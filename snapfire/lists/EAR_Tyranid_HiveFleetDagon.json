@@ -8,20 +8,20 @@
       "formations": [
         {
           "id": 501,
-          "name": "Nexus Swarm (1-4 Instinctive Swarms)",
+          "name": "Nexus Schwarm (1-4 Instinctive Swarms)",
           "pts": 425,
 		  "units": "Dagon Dominatrix",
           "upgrades": [100,101,102,103,104,105,106,107,108,109,121,122,111,112,113,114,115,116,117,118]
         },
         {
           "id": 502,
-          "name": "Tyrant Swarm (2-4 Instinctive Swarms)",
+          "name": "Tyrant Schwarm (2-4 Instinctive Swarms)",
           "pts": 150,
           "upgrades": [100,101,102,103,104,105,106,107,108,109,121,122,111,112,113,114,115,116,117,118,120]
         },
         {
           "id": 503,
-          "name": "Assault Swarm (2-4 Instinctive Swarms)",
+          "name": "Assault Schwarm (2-4 Instinctive Swarms)",
           "pts": 100,
           "upgrades": [100,101,102,103,104,105,106,107,108,109,121,122,111,112,113,114,115,116,117,118,120]
         }
@@ -32,26 +32,26 @@
       "formations": [
 	  	    {
           "id": 512,
-          "name": "Nest Swarm (1-2 Instinctive Swarms)",
+          "name": "Nest Schwarm (1-2 Instinctive Swarms)",
           "units": "Hive Nest",
           "pts": 150,
           "upgrades": [100,101,102,103,104,105,108,109,111]
 		},
 	    {
           "id": 509,
-          "name": "Breacher Swarm (1-2 Instinctive Swarms)",
+          "name": "Breacher Schwarm (1-2 Instinctive Swarms)",
           "pts": 0,
           "upgrades": [100,101,102,103,104,105,109,117,118,121,122,113,114]
 		},
           {
           "id": 504,
-          "name": "Infestation Swarm (1-2 Instinctive Swarms)",
+          "name": "Infestation Schwarm (1-2 Instinctive Swarms)",
           "pts": 0,
            "upgrades": [118,117]
         },
         {
           "id": 505,
-          "name": "Harasser Swarm (1-2 Instinctive Swarms)",
+          "name": "Harasser Schwarm (1-2 Instinctive Swarms)",
           "pts": 25,
           "upgrades": [130,109,106,107]
         }
@@ -93,14 +93,14 @@
     }
   ],
   "upgrades": [
-    {"id": 100,"name": "Gaunts (5 Termaganten#)","pts": 75},
-    {"id": 101,"name": "Gaunts (4 Termaganten#, Hormaganten)","pts": 75},
-    {"id": 102,"name": "Gaunts (3 Termaganten#, 2 Hormaganten)","pts": 75},
-    {"id": 103,"name": "Gaunts (2 Termaganten#, 3 Hormaganten)","pts": 75},
-    {"id": 104,"name": "Gaunts (Termaganten#, 4 Hormaganten)","pts": 75},
+    {"id": 100,"name": "Gaunts (5 Termaganten)","pts": 75},
+    {"id": 101,"name": "Gaunts (4 Termaganten, Hormaganten)","pts": 75},
+    {"id": 102,"name": "Gaunts (3 Termaganten, 2 Hormaganten)","pts": 75},
+    {"id": 103,"name": "Gaunts (2 Termaganten, 3 Hormaganten)","pts": 75},
+    {"id": 104,"name": "Gaunts (Termaganten, 4 Hormaganten)","pts": 75},
     {"id": 105,"name": "Gaunts (5 Hormaganten)","pts": 75},
     {"id": 106,"name": "Bio-Flyer (3 Harpies)","pts": 100},
-    {"id": 107,"name": "Bio-Flyer (3 Hive Crones)","pts": 100},
+    {"id": 107,"name": "Bio-Flyer (3 Schwarmdrudes)","pts": 100},
     {"id": 108,"name": "Biovores (4 Biovores)","pts": 75},
     {"id": 109,"name": "Gargoyles (4 Gargoyles)","pts": 75},
     {"id": 111,"name": "Bio-Support (3 Dactylis)","pts": 150},
@@ -110,10 +110,10 @@
     {"id": 115,"name": "Breacher (Barbed Hierodule)","pts": 125},
     {"id": 116,"name": "Breacher (Scythed Hierodule)","pts": 125},
     {"id": 117,"name": "Burrower (2 Trygons)","pts": 100},
-	{"id": 118,"name": "Burrower (5 Raveners)","pts": 100},
-    {"id": 120,"name": "Mycetic Spore <br/> May carry units chosen from Termaganten#, Hormaganten, Biovores, Carnifex, Raveners, Hive Tyrant, Dagon Overlord, Tyranid Warriors, Zoanthropes. No Shrikes of any type may be taken.","pts": 50},
+	{"id": 118,"name": "Burrower (5 Venatorens)","pts": 100},
+    {"id": 120,"name": "Mycetic Spore <br/> May carry units chosen from Termaganten, Hormaganten, Biovores, Carnifex, Venatorens, Hive Tyrant, Dagon Overlord, Tyranidenkrieger, Zoanthropes. No Shrikes of any type may be taken.","pts": 50},
     {"id": 121,"name": "Carnifex (3 Barbed Carnifex)",      "pts": 125    },
-    {"id": 122,"name": "Carnifex (3 Screamer-Killer Carnifex)",      "pts": 125    },
+    {"id": 122,"name": "Carnifex (3 Kreischer-Killer Carnifex)",      "pts": 125    },
     {"id": 130,"name": "Harridan","pts": 150},
     {"id": 140,"name": "Genestealers","pts": 25},
     {"id": 141,"name": "Broodlord","pts": 25},
@@ -122,24 +122,24 @@
     {"id": 161,"name": "Hydraphant","pts": 500},
     {"id": 170,"name": "Razorfiend (May carry 2 Mycetic Spores including cargo)","pts": 150},
     {"id": 171,"name": "Hive Ship (May carry 3 Mycetic Spores including cargo)","pts": 200},
-    {"id": 179,"name": "Gaunts (5 Termaganten#)","pts": 75},
-    {"id": 180,"name": "Gaunts (4 Termaganten#, Hormaganten)","pts": 75},
-	{"id": 181,"name": "Gaunts (3 Termaganten#, 2 Hormaganten)","pts": 75},
-    {"id": 182,"name": "Gaunts (2 Termaganten#, 3 Hormaganten)","pts": 75},
-    {"id": 183,"name": "Gaunts (Termaganten#, 4 Hormaganten)","pts": 75},
+    {"id": 179,"name": "Gaunts (5 Termaganten)","pts": 75},
+    {"id": 180,"name": "Gaunts (4 Termaganten, Hormaganten)","pts": 75},
+	{"id": 181,"name": "Gaunts (3 Termaganten, 2 Hormaganten)","pts": 75},
+    {"id": 182,"name": "Gaunts (2 Termaganten, 3 Hormaganten)","pts": 75},
+    {"id": 183,"name": "Gaunts (Termaganten, 4 Hormaganten)","pts": 75},
     {"id": 184,"name": "Gaunts (5 Hormaganten)","pts": 75},
 	{"id": 185,"name": "Biovores (4 Biovores)","pts": 75},
     {"id": 186,"name": "Gargoyles (4 Gargoyles)","pts": 75},
 
-    {"id": 200,"name": "Tyranid Warriors","pts": 0},
-    {"id": 201,"name": "Tyranid Warrior Shrikes","pts": 0},
+    {"id": 200,"name": "Tyranidenkrieger","pts": 0},
+    {"id": 201,"name": "Tyranidenkrieger Shrikes","pts": 0},
     {"id": 202,"name": "Zoanthrope","pts": 0},
 
 	{"id": 209,"name": "Barbed Hierodule","pts": 0},
 	{"id": 210,"name": "Scythed Hierodule","pts": 0},
 
 	{"id": 214,"name": "Trygon Prime","pts": 150},
-	{"id": 215,"name": "3 Ravener Alphas","pts": 150},
+	{"id": 215,"name": "3 Alpha Venatoren","pts": 150},
 	{"id": 216,"name": "Barbed Hierodule Prime","pts": 150},
 	{"id": 217,"name": "Scythed Hierodule Prime","pts": 150},
 	{"id": 218,"name": "Hive Nest","pts": 125},
