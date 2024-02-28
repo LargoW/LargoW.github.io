@@ -40,7 +40,7 @@
         "Cult Chimäre",
         "Cult Hydra",
         "Cult Leman Russ",
-        "Cult Leman Russ Demolisher",
+        "Cult Leman Russ Belagerer",
         "Cult Baneblade",
         "Cult Stormblade",
         "Cult Shadowsword"
@@ -71,7 +71,7 @@
           "extraUnits": [
             "Füge vier Cult Infanterie: 50 Punkte",
             "Füge zwei Cult Unterstützungstrupps: 50 Punkte",
-            "Füge drei Cult Leman Russ oder Cult Leman Russ Demolisher: 150 Punkte",
+            "Füge drei Cult Leman Russ oder Cult Leman Russ Belagerer: 150 Punkte",
             "Füge enough Cult Chimären to transport the entire formation mit no space left over: 25 Punkte jeweils",
             "Füge eine Cult Hydra: 50 Punkte",
             "Füge bis zu zwei Cult Höllenhunde: 25 Punkte jeweils",
@@ -160,7 +160,7 @@
         },
         {
           "name": "Cult Leman Russ Zug",
-          "units": "Ein Coven Locus character, sechs Cult Leman Russ oder Cult Leman Russ Demolisher",
+          "units": "Ein Coven Locus character, sechs Cult Leman Russ oder Cult Leman Russ Belagerer",
           "extraUnits": [
           ],
           "points": 425

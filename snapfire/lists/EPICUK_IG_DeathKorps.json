@@ -38,7 +38,7 @@
 		{"id":1, "name":"Commissar",			"pts":0},
 
 		{ "id":12, "name":"6 Leman Russ", "pts":0 },
-		{ "id":13, "name":"6 Leman Russ Demolisher", "pts":0 },
+		{ "id":13, "name":"6 Leman Russ Belagerer", "pts":0 },
 		{ "id":21, "name":"Baneblade", "pts":0 },
 		{ "id":22, "name":"Shadowsword", "pts":0 },
 		{ "id":24, "name":"Stormsword", "pts":0 },

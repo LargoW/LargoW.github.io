@@ -8155,7 +8155,7 @@
       ]
     },
     {
-      "name": "Plasma Destroyer",
+      "name": "Plasmazerstörer",
       "modes": [
         {
           "firepower": "AP3+/AT3+",
@@ -8993,7 +8993,7 @@
       ]
     },
     {
-      "name": "Punisher Gatling Geschütz",
+      "name": "Vollstrecker-Sturmkanone",
       "modes": [
         {
           "firepower": "3x AP6+/AT6+",
@@ -12034,7 +12034,7 @@
       ]
     },
     {
-      "name": "Vanquisher Geschütz",
+      "name": "Vernichter-Panzerabwehrkanone",
       "modes": [
         {
           "firepower": "AP4+/AT2+",
@@ -12045,7 +12045,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Vanquisher Geschütz",
+      "name": "Synchronisierter Vernichter-Panzerabwehrkanone",
       "modes": [
         {
           "firepower": "AP2+/AT2+",

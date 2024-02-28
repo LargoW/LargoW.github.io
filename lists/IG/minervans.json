@@ -28,12 +28,12 @@
         "Hydra",
         "Leman Russ",
         "Leman Russ Thunderer",
-        "Leman Russ Vanquisher",
+        "Leman Russ Vernichter",
         "Leman Russ Conqueror",
-        "Leman Russ Punisher",
+        "Leman Russ Vollstrecker",
         "Leman Russ Destroyer",
-        "Leman Russ Demolisher",
-        "Leman Russ Executioner",
+        "Leman Russ Belagerer",
+        "Leman Russ Exekutor",
         "Leman Russ Exterminator",
         "Shadowsword",
         "Baneblade",
@@ -72,10 +72,10 @@
       "formations": [
         {
           "name": "Minervan Panzer Kompanie",
-          "units": "Ein Leman Russ Vanquisher mit einem Kommissar Hauptmann, sieben Leman Russ",
+          "units": "Ein Leman Russ Vernichter mit einem Kommissar Hauptmann, sieben Leman Russ",
           "extraUnits": [
             "Ersetze sieben Leman Russ mit sieben Leman Russ Thunderers: Kostenlos",
-            "Ersetze the Leman Russ Vanquisher mit einemLeman Russ Thunderer: Kostenlos",
+            "Ersetze the Leman Russ Vernichter mit einemLeman Russ Thunderer: Kostenlos",
             "Oberbefehlshaber",
             "Flak",
             "Höllenhunde"
@@ -112,7 +112,7 @@
           "name": "Leman Russ Schwadron",
           "units": "Vier Leman Russ",
           "extraUnits": [
-            "Ersetze vier Leman Russ mit vier Leman Russ Executioners, vier Leman Russ Exterminators, vier Leman Russ Demolisher, vier Leman Russ Punishers, vier Leman Russ Thunderers, oder vier Leman Russ Conquerors",
+            "Ersetze vier Leman Russ mit vier Leman Russ Executioners, vier Leman Russ Exterminators, vier Leman Russ Belagerer, vier Leman Russ Punishers, vier Leman Russ Thunderers, oder vier Leman Russ Conquerors",
             "Höllenhunde",
             "Flak"
           ],
@@ -229,7 +229,7 @@
       },
       {
         "name": "Leman Russ",
-        "description": "Füge drei Leman Russ, Leman Russ Executioners, Leman Russ Exterminators, Leman Russ Demolisher, Leman Russ Punishers, Leman Russ Thunderers, oder Leman Russ Conquerors",
+        "description": "Füge drei Leman Russ, Leman Russ Executioners, Leman Russ Exterminators, Leman Russ Belagerer, Leman Russ Punishers, Leman Russ Thunderers, oder Leman Russ Conquerors",
         "points": "150 Punkte"
       },
       {

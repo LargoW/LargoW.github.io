@@ -44,8 +44,8 @@
 		{"id":23, "name":"Stormblade", "pts":0},
 
 		{"id":24, "name":"6 Leman Russ", "pts":0},
-		{"id":25, "name":"6 Leman Russ Demolisher", "pts":0},
-		{"id":26, "name":"6 Leman Russ Punisher", "pts":0},
+		{"id":25, "name":"6 Leman Russ Belagerer", "pts":0},
+		{"id":26, "name":"6 Leman Russ Vollstrecker", "pts":0},
 
 		{"id":30, "name":"Shadowsword", "pts":125},
 		{"id":31, "name":"Baneblade", "pts":125},
@@ -53,8 +53,8 @@
 		{"id":33, "name":"Stormblade", "pts":125},
 
 		{"id":34, "name":"3 Leman Russ", "pts":100},
-		{"id":35, "name":"3 Leman Russ Demolisher", "pts":100},
-		{"id":36, "name":"3 Leman Russ Punisher", "pts":100},
+		{"id":35, "name":"3 Leman Russ Belagerer", "pts":100},
+		{"id":36, "name":"3 Leman Russ Vollstrecker", "pts":100},
 
 		{"id":40, "name":"Lunar Class",	"pts":0},
 		{"id":41, "name":"Emperor Class", "pts":50},

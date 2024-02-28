@@ -534,7 +534,7 @@
         ]
       },
       {
-        "name": "Leman Russ Demolisher",
+        "name": "Leman Russ Belagerer",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -550,14 +550,14 @@
         ]
       },
       {
-        "name": "Leman Russ Executioner",
+        "name": "Leman Russ Exekutor",
         "type": "AV",
         "speed": 20,
         "armour": 4,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Plasma Destroyer",
+          "Plasmazerstörer",
           "Laserkanone",
           "Plasmakanone|2|"
         ],

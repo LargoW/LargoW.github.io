@@ -53,10 +53,10 @@
 		{"id":30, "name":"Cult Baneblade",						"pts":0},
 		{"id":31, "name":"Cult Shadowsword",					"pts":25},
 
-		{"id":32, "name":"3 Cult Leman Russ Demolisher",		"pts":125},
+		{"id":32, "name":"3 Cult Leman Russ Belagerer",		"pts":125},
 
 		{"id":33, "name":"6 Cult Leman Russ",						"pts":0},
-		{"id":34, "name":"6 Cult Leman Russ Demolishers",			"pts":0},
+		{"id":34, "name":"6 Cult Leman Russ Belagerer",			"pts":0},
 
 		{"id":37, "name":"6 Hybrid Acolytes",					"pts":0},
 		{"id":38, "name":"3 Genestealers",						"pts":75},

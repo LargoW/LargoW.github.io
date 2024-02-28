@@ -32,9 +32,9 @@
         "Höllenhund",
         "Hydra",
         "Leman Russ",
-        "Leman Russ Demolisher",
-        "Leman Russ Vanquisher",
-        "Leman Russ Punisher",
+        "Leman Russ Belagerer",
+        "Leman Russ Vernichter",
+        "Leman Russ Vollstrecker",
         "Mantikor",
         "Valkyrie",
         "Vulture",
@@ -99,7 +99,7 @@
         },
         {
           "name": "Leman Russ Kompanie",
-          "units": "Ein Leman Russ Vanquisher mit einem Kommissar, sieben Leman Russ",
+          "units": "Ein Leman Russ Vernichter mit einem Kommissar, sieben Leman Russ",
           "extraUnits": [
             "Flak",
             "Höllenhunde"
@@ -190,7 +190,7 @@
         },
         {
           "name": "Leman Russ Zug",
-          "units": "Sechs Leman Russ, Leman Russ Punishers oder Leman Russ Demolisher",
+          "units": "Sechs Leman Russ, Leman Russ Punishers oder Leman Russ Belagerer",
           "points": 375
         },
         {
@@ -295,7 +295,7 @@
       },
       {
         "name": "Leman Russ",
-        "description": "Füge drei Leman Russ, Leman Russ Punishers, oder Leman Russ Demolisher hinzu",
+        "description": "Füge drei Leman Russ, Leman Russ Punishers, oder Leman Russ Belagerer hinzu",
         "points": "150 Punkte"
       },
       {

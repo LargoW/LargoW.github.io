@@ -49,7 +49,7 @@
 		{"id":35, "name":"Chaos Altar",				"pts":150},
 		{"id":36, "name":"Fire Support",		"pts":25},
 		{"id":38, "name":"Leman Russ", 				"pts":70},
-		{"id":39, "name":"Leman Russ Demolisher", 		"pts":70},
+		{"id":39, "name":"Leman Russ Belagerer", 		"pts":70},
 		{"id":40, "name":"Griffon",			"pts":35},
 		{"id":42, "name":"Hydra",				"pts":50},
 		{"id":43, "name":"Daemonic Pact",				"pts":0},

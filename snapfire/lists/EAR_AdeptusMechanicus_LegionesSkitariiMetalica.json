@@ -56,7 +56,7 @@
 		{"id":116, "name":"4 Hypaspists, 2 Sagitarii, 3 Rapiers",	"pts":25},
 
 		{"id":117, "name":"6 Leman Russ",						"pts":0},
-		{"id":118, "name":"6 Leman Russ Demolishers",			"pts":0},
+		{"id":118, "name":"6 Leman Russ Belagerer",			"pts":0},
 		{"id":119, "name":"6 Leman Russ Executioners",			"pts":0},
 
 		{"id":120, "name":"Ordinatus Armageddon (Nova Cannon)",		"pts":0},

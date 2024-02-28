@@ -47,7 +47,7 @@
         "Höllenhund",
         "Hydra",
         "Leman Russ",
-        "Leman Russ Demolisher",
+        "Leman Russ Belagerer",
         "Leman Russ Thunderer",
         "Shadowsword",
         "Baneblade"
@@ -161,7 +161,7 @@
         },
         {
           "name": "Leman Russ Schwadron",
-          "units": "Vier ausgewählt aus: Leman Russ, Leman Russ Demolisher, Leman Russ Thunderer",
+          "units": "Vier ausgewählt aus: Leman Russ, Leman Russ Belagerer, Leman Russ Thunderer",
           "extraUnits": [
           ],
           "points": 275
@@ -326,7 +326,7 @@
       },
       {
         "name": "Leman Russ",
-        "description": "Füge eine oder drei Leman Russ, Leman Russ Demolisher oder Leman Russ Thunderers",
+        "description": "Füge eine oder drei Leman Russ, Leman Russ Belagerer oder Leman Russ Thunderers",
         "options": [
           {
             "description": "Ein Leman Russ variant",

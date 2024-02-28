@@ -28,8 +28,8 @@
         "Chimäre",
         "Höllenhund",
         "Leman Russ",
-        "Leman Russ Demolisher",
-        "Leman Russ Punisher",
+        "Leman Russ Belagerer",
+        "Leman Russ Vollstrecker",
         "Crassus Assault Transport",
         "Praetor Assault Launcher",
         "Stormlord",
@@ -154,7 +154,7 @@
         },
         {
           "name": "Leman Russ Zug",
-          "units": "Sechs Leman Russ, Leman Russ Demolisher oder Leman Russ Punishers",
+          "units": "Sechs Leman Russ, Leman Russ Belagerer oder Leman Russ Punishers",
           "points": 375,
           "upgrades": [
             "Füge eine Hydra: 50 Punkte"
@@ -222,7 +222,7 @@
         "name": "Leman Russ",
         "options": [
           {
-            "description": "Drei Leman Russ, drei Leman Russ Demolisher, oder drei Leman Russ Punishers",
+            "description": "Drei Leman Russ, drei Leman Russ Belagerer, oder drei Leman Russ Punishers",
             "points": "125 Punkte"
           }
         ]

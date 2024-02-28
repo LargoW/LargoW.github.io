@@ -1171,7 +1171,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Der Verband muss das Spiel in Reserve beginnen und darf nur über Tunnelgräber das Spielfeld betreten. Wenn der Verband das Spiel via Tunnelgräber betritt, platziere als erstes das Hades Durchbruchsbohrfahrzeug an den designierten Koordinaten. Platziere anschließend den Rest des Verbands innerhalb von 5cm oder innerhalb von 5cm einer anderen bereits platzierten Einheit des Verbands und innerhalb von 15cm vom Hades Durchbruchsbohrfahrzeug. Wenn alle Entferne im Anschluss das Hades Durchbruchsbohrfahrzeug vom Spieltisch."
+        "notes": "Der Verband muss das Spiel in Reserve beginnen und darf nur über Tunnelgräber das Spielfeld betreten. Wenn der Verband das Spiel via Tunnelgräber betritt, platziere als erstes das Hades Durchbruchsbohrfahrzeug an den designierten Koordinaten. Platziere anschließend den Rest des Verbands innerhalb von 5cm oder innerhalb von 5cm einer anderen bereits platzierten Einheit des Verbands und innerhalb von 15cm vom Hades Durchbruchsbohrfahrzeug. Entferne im Anschluss das Hades Durchbruchsbohrfahrzeug vom Spieltisch."
       },
       {
         "name": "Schwerer Ragnarok Panzer",
@@ -1238,14 +1238,14 @@
         ]
       },
       {
-        "name": "Leman Russ Executioner",
+        "name": "Leman Russ Exekutor",
         "type": "AV",
         "speed": 20,
         "armour": 4,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Plasma Destroyer",
+          "Plasmazerstörer",
           "Laserkanone",
           "Plasmakanone|2|"
         ],
@@ -1284,7 +1284,7 @@
         ]
       },
       {
-        "name": "Leman Russ Demolisher",
+        "name": "Leman Russ Belagerer",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -1315,14 +1315,14 @@
         ]
       },
       {
-        "name": "Leman Russ Vanquisher",
+        "name": "Leman Russ Vernichter",
         "type": "AV",
         "speed": 20,
         "armour": 4,
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Vanquisher Geschütz",
+          "Vernichter-Panzerabwehrkanone",
           "Laserkanone",
           "Schwerer Bolter|2|"
         ],
@@ -1331,14 +1331,14 @@
         ]
       },
       {
-        "name": "Leman Russ Punisher",
+        "name": "Leman Russ Vollstrecker",
         "type": "AV",
         "speed": 20,
         "armour": 4,
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Punisher Gatling Geschütz",
+          "Vollstrecker-Sturmkanone",
           "Laserkanone",
           "Schwerer Bolter|2|"
         ],
@@ -1530,7 +1530,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Synchronisierter Vanquisher Geschütz|0-1|",
+          "Synchronisierter Vernichter-Panzerabwehrkanone|0-1|",
           "Vulcan Mega-Bolter|0-1|",
           "Synchronisiertes schweres Maschinengewehr||",
           "Schwerer Bolter|2|"
@@ -1539,7 +1539,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "notes": "Must be equipped mit either Synchronisierter Vanquisher Geschütz oder a Vulcan Mega-Bolter.",
+        "notes": "Must be equipped mit either Synchronisierter Vernichter-Panzerabwehrkanone oder a Vulcan Mega-Bolter.",
         "crit": "The Macharius wird zerstört."
       },
       {

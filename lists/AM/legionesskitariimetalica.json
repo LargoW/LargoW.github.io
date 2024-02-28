@@ -28,8 +28,8 @@
         "Chimäre",
         "Chimedon",
         "Leman Russ",
-        "Leman Russ Demolisher",
-        "Leman Russ Executioner",
+        "Leman Russ Belagerer",
+        "Leman Russ Exekutor",
         "Ordinatus Minoris",
         "Ordinatus Majoris",
         "Gorgon",
@@ -125,7 +125,7 @@
         },
         {
           "name": "Cataphractii Manipel",
-          "units": "Sechs Leman Russ, Leman Russ Demolisher oder Leman Russ Executioners",
+          "units": "Sechs Leman Russ, Leman Russ Belagerer oder Leman Russ Executioners",
           "extraUnits": [
             "Hydra"
           ],

@@ -66,7 +66,7 @@
 		{"id":51, "name":"Greater Daemon", 			"pts":75},
 		{"id":52, "name":"Lesser Daemon", 				"pts":20},
 		{"id":38, "name":"Leman Russ", 				"pts":70},
-		{"id":39, "name":"Leman Russ Demolisher", 		"pts":70}
+		{"id":39, "name":"Leman Russ Belagerer", 		"pts":70}
 	],
 	"formationConstraints":[
 		{"maxPercent":100, "from":[501,502,503,504,541,542,551,552,553,554,555,556,557,558,559,560,561]},
