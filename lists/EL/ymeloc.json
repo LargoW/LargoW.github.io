@@ -85,7 +85,7 @@
       "formations": [
         {
           "name": "Engines of Vaul",
-          "units": "Ein Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
+          "units": "Ein Engine of Vaul ausgewählt aus the following: Cobra, Scorpion, Storm Serpent",
           "extraUnits": [
             "Füge bis zu zwei additional Engines of Vaul für 200 Punkte jeweils",
             "Bonesinger"
@@ -109,7 +109,7 @@
       "formations": [
         {
           "name": "Beritten Aspect Warrior Troupe",
-          "units": "Drei Wave Serpents und sechs Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions, Swooping Hawks",
+          "units": "Drei Wave Serpents und sechs Aspect Warrior units ausgewählt aus the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions, Swooping Hawks",
           "extraUnits": [
             "Exarch"
           ],

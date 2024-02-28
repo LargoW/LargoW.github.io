@@ -7,7 +7,7 @@
     ],
     "unit": [
       {
-        "name": "Mycetic Spore",
+        "name": "Tyrannocyte",
         "type": "Special",
         "speed": "n/a",
         "weapons": [
@@ -17,10 +17,10 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "May transport a formation that consist exclusively of the following types of units: Termaganten, Hormaganten, Venatoren, Biovores, any type of Carnifex, Schwarmtyrant, Schwarmherrscher, Schwarmoberhaupt (Dagon), Tyranidenkrieger, Zoanthrope. No Shrikes of any type may be taken. After the Mycetic Spore lands, it attacks all enemy Einheiten innerhalb von 15cm. Jeweils enemy formation attacked receives a BM für coming under fire, und an extra BM für jeweils casualty. Then transported Verbände set up within 5cm of the point the Mycetic Spore landed, oder within 5cm of another already disembarqued unit from the same formation (but a maximum of 15cm from the point where the Mycetic Spore landed)."
+        "notes": "May transport a formation that consist exclusively of the following types of units: Termaganten, Hormaganten, Venatoren, Biovoren, any type of Carnifex, Schwarmtyrant, Schwarmherrscher, Schwarmoberhaupt (Dagon), Tyranidenkrieger, Zoanthrope. No Shrikes of any type may be taken. After the Tyrannocyte lands, it attacks all enemy Einheiten innerhalb von 15cm. Jeweils enemy formation attacked receives a BM für coming under fire, und an extra BM für jeweils casualty. Then transported Verbände set up within 5cm of the point the Tyrannocyte landed, oder within 5cm of another already disembarqued unit from the same formation (but a maximum of 15cm from the point where the Tyrannocyte landed)."
       },
       {
-        "name": "Razorfiend",
+        "name": "Klingenbestien Biokreuzer ",
         "type": "SC",
         "weapons": [
           {
@@ -38,7 +38,7 @@
         "notes": "May transport zwei Mycetic Spores including cargo."
       },
       {
-        "name": "Hive Ship",
+        "name": "Schwarmschiff",
         "type": "SC",
         "weapons": [
           {

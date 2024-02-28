@@ -1279,22 +1279,22 @@
       ]
     },
     {
-      "title": "Dagon Vanguard Organisms",
+      "title": "Vorhutkreaturen (Dagon)",
       "description": [
-        "Only Symbionten, Liktoren, und Nest Swarms may deploy as Garnison."
+        "Nur Symbionten, Liktoren, und Schwarmnester dürfen als Garnison aufstellen."
       ]
     },
     {
-      "title": "Hydra Vanguard Organisms",
+      "title": "Vorhutkreaturen (Hydra)",
       "description": [
-        "Only Symbionten, Liktoren, und Dimachaeron may deploy as Garnison."
+        "Nur Symbionten, Liktoren, und Dimachaeron dürfen als Garnison aufstellen."
       ]
     },
     {
       "title": "Schwärmen (x)",
       "description": [
         "In the End Phase, before Verbände have rallied, all unbroken Tyranid Verbände mit both Schwärmen (x) und Synapse creatures may 'Swarm'.",
-        "Für jeweils Swarm point, eine unit with the 'Gaunts' rule that has been lost during the battle may be added to the formation, but jeweils unit with 'Schwärmen (x)' may only bring back the types of units that are within brackets next to its 'Gantenbeutel'.",
+        "Für jeweils Swarm point, eine unit with the 'Ganten' rule that has been lost during the battle may be added to the formation, but jeweils unit with 'Schwärmen (x)' may only bring back the types of units that are within brackets next to its 'Gantenbeutel'.",
         "All units returned to play in this manner must be placed within 5cm of a unit from the formation that was there prior to Swarming, und may not be placed in enemy zones of control oder impassable terrain. Not all generated Swarm Punkte need to be used, but may not be saved für future turns."
       ]
     },

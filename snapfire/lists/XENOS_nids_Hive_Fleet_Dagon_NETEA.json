@@ -4,11 +4,11 @@
   "by": "Argol & MrDieAlot",
   "sections": [
     {
-      "name": "Primäre Synapse Swarms",
+      "name": "Primäre Synapsenschwärme",
       "formations": [
         {
           "id": 501,
-          "name": "Nexus Schwarm (2-4 Instinctive Swarms)",
+          "name": "Nexus Schwarm (2-4 Instinktive Schwärme)",
           "pts": 400,
 		  "units": "Dominatrix (Dagon)",
           "upgrades": [
@@ -35,7 +35,7 @@
         },
         {
           "id": 502,
-          "name": "Major Schwarm (2-4 Instinctive Swarms)",
+          "name": "Major Schwarm (2-4 Instinktive Schwärme)",
           "pts": 175,
           "upgrades": [
 			100,
@@ -62,7 +62,7 @@
         },
         {
           "id": 503,
-          "name": "Minor Schwarm (2-4 Instinctive Swarms)",
+          "name": "Minor Schwarm (2-4 Instinktive Schwärme)",
           "pts": 100,
           "upgrades": [
 			100,
@@ -93,7 +93,7 @@
       "formations": [
 	  	    {
           "id": 512,
-          "name": "Hive Schwarm (1-2 Instinctive Swarms)",
+          "name": "Hive Schwarm (1-2 Instinktive Schwärme)",
           "units": "Schwarmnest",
           "pts": 125,
           "upgrades": [
@@ -112,7 +112,7 @@
 		},
 	    {
           "id": 509,
-          "name": "Attack Schwarm (1-2 Instinctive Swarms)",
+          "name": "Attack Schwarm (1-2 Instinktive Schwärme)",
           "pts": 0,
           "upgrades": [
 			100,
@@ -133,7 +133,7 @@
 		},
           {
           "id": 504,
-          "name": "Infestation Schwarm (1-2 Instinctive Swarms)",
+          "name": "Infestation Schwarm (1-2 Instinktive Schwärme)",
           "pts": 0,
            "upgrades": [
 			118,
@@ -142,7 +142,7 @@
         },
         {
           "id": 505,
-          "name": "Harasser Schwarm (1-2 Instinctive Swarms)",
+          "name": "Harasser Schwarm (1-2 Instinktive Schwärme)",
           "units": "Harridan",
           "pts": 150,
           "upgrades": [
@@ -197,42 +197,42 @@
   "upgrades": [
     {
       "id": 100,
-      "name": "Gaunts (5 Termaganten)",
+      "name": "Ganten (5 Termaganten)",
       "pts": 50
     },
     {
       "id": 101,
-      "name": "Gaunts (4 Termaganten, Hormagaunt)",
+      "name": "Ganten (4 Termaganten, Hormagaunt)",
       "pts": 50
     },
 	    {
       "id": 102,
-      "name": "Gaunts (3 Termaganten, 2 Hormagaunt)",
+      "name": "Ganten (3 Termaganten, 2 Hormagaunt)",
       "pts": 50
     },
 	    {
       "id": 103,
-      "name": "Gaunts (2 Termaganten, 3 Hormaganten)",
+      "name": "Ganten (2 Termaganten, 3 Hormaganten)",
       "pts": 50
     },
 	    {
       "id": 104,
-      "name": "Gaunts (Termaganten, 4 Hormaganten)",
+      "name": "Ganten (Termaganten, 4 Hormaganten)",
       "pts": 50
     },
 	    {
       "id": 105,
-      "name": "Gaunts (5 Hormaganten)",
+      "name": "Ganten (5 Hormaganten)",
       "pts": 50
     },
     {
       "id": 107,
-      "name": "Bio-Flyer (2 Harpies)",
+      "name": "Bioflieger (2 Harpies)",
       "pts": 100
     },
     {
       "id": 108,
-      "name": "Biovores (4 Biovores)",
+      "name": "Biovoren (4 Biovoren)",
       "pts": 75
     },
     {
@@ -247,22 +247,22 @@
     },
     {
       "id": 111,
-      "name": "Bio-Support (3 Dagon Dactylis)",
+      "name": "Biounterstützung (3 Dagon Dactylis)",
       "pts": 125
     },
     {
       "id": 112,
-      "name": "Bio-Support (4 Dagon Exocrine)",
+      "name": "Biounterstützung (4 Dagon Exocrine)",
       "pts": 125
     },
     {
       "id": 113,
-      "name": "Bio-Attack (2 Dagon Haruspex)",
+      "name": "Bioangriff (2 Dagon Haruspex)",
       "pts": 75
     },
     {
       "id": 114,
-      "name": "Bio-Attack (2 Dagon Malefactors)",
+      "name": "Bioangriff (2 Dagon Malefactors)",
       "pts": 75
     },
     {
@@ -277,17 +277,17 @@
     },
     {
       "id": 117,
-      "name": "Burrower (2 Trygons)",
+      "name": "Wühler (2 Trygons)",
       "pts": 100
     },
 		{
       "id": 118,
-      "name": "Burrower (5 Venatorens)",
+      "name": "Wühler (5 Venatorens)",
       "pts": 100
     },
     {
       "id": 120,
-      "name": "Mycetic Spore // May transport Termaganten, Hormaganten, Biovores, Carnifex, Venatorens, Hive Tyrants, Schwarmoberhaupt (Dagon), Tyranidenkrieger, Zoantrophen // Transported units may not have Wings",
+      "name": "Tyrannocyte // May transport Termaganten, Hormaganten, Biovoren, Carnifex, Venatorens, Hive Tyrants, Schwarmoberhaupt (Dagon), Tyranidenkrieger, Zoantrophen // Transported units may not have Wings",
       "pts": 50
     },
     {
@@ -322,47 +322,47 @@
     },
     {
       "id": 170,
-      "name": "Razorfiend (May carry 2 Mycetic Spores including cargo)",
+      "name": "Klingenbestien Biokreuzer  (May carry 2 Mycetic Spores including cargo)",
       "pts": 150
     },
     {
       "id": 171,
-      "name": "Hive Ship (May carry 5 Mycetic Spores including cargo)",
+      "name": "Schwarmschiff (May carry 5 Mycetic Spores including cargo)",
       "pts": 250
     },
     {
 	  "id": 179,
-      "name": "Gaunts (5 Termaganten)",
+      "name": "Ganten (5 Termaganten)",
       "pts": 50
     },
     {
 	  "id": 180,
-      "name": "Gaunts (4 Termaganten, Hormagaunt)",
+      "name": "Ganten (4 Termaganten, Hormagaunt)",
       "pts": 50
     },
 	{
       "id": 181,
-      "name": "Gaunts (3 Termaganten, 2 Hormagaunt)",
+      "name": "Ganten (3 Termaganten, 2 Hormagaunt)",
       "pts": 50
     },
 	    {
       "id": 182,
-      "name": "Gaunts (2 Termaganten, 3 Hormaganten)",
+      "name": "Ganten (2 Termaganten, 3 Hormaganten)",
       "pts": 50
     },
 	    {
       "id": 183,
-      "name": "Gaunts (Termaganten, 4 Hormaganten)",
+      "name": "Ganten (Termaganten, 4 Hormaganten)",
       "pts": 50
     },
 	    {
       "id": 184,
-      "name": "Gaunts (5 Hormaganten)",
+      "name": "Ganten (5 Hormaganten)",
       "pts": 50
     },
 	{
       "id": 185,
-      "name": "Biovores (4 Biovores)",
+      "name": "Biovoren (4 Biovoren)",
       "pts": 75
     },
     {
@@ -516,7 +516,7 @@
 
     {
       "max": 1,
-      "name": "Mycetic Spore",
+      "name": "Tyrannocyte",
       "from": [
 		120
       ],
@@ -528,7 +528,7 @@
     {
       "max": 5,
 	  "perArmy": true,
-      "name": "Mycetic Spore",
+      "name": "Tyrannocyte",
       "from": [
 		120
       ]

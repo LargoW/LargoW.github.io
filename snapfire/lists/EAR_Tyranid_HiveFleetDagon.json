@@ -4,24 +4,24 @@
   "by": "EA-Ragnarok",
   "sections": [
     {
-      "name": "Primäre SYNAPSE SWARMS",
+      "name": "Primäre Synapsenschwärme",
       "formations": [
         {
           "id": 501,
-          "name": "Nexus Schwarm (1-4 Instinctive Swarms)",
+          "name": "Nexus Schwarm (1-4 Instinktive Schwärme)",
           "pts": 425,
 		  "units": "Dominatrix (Dagon)",
           "upgrades": [100,101,102,103,104,105,106,107,108,109,121,122,111,112,113,114,115,116,117,118]
         },
         {
           "id": 502,
-          "name": "Tyrant Schwarm (2-4 Instinctive Swarms)",
+          "name": "Tyrant Schwarm (2-4 Instinktive Schwärme)",
           "pts": 150,
           "upgrades": [100,101,102,103,104,105,106,107,108,109,121,122,111,112,113,114,115,116,117,118,120]
         },
         {
           "id": 503,
-          "name": "Assault Schwarm (2-4 Instinctive Swarms)",
+          "name": "Assault Schwarm (2-4 Instinktive Schwärme)",
           "pts": 100,
           "upgrades": [100,101,102,103,104,105,106,107,108,109,121,122,111,112,113,114,115,116,117,118,120]
         }
@@ -32,26 +32,26 @@
       "formations": [
 	  	    {
           "id": 512,
-          "name": "Nest Schwarm (1-2 Instinctive Swarms)",
+          "name": "Nest Schwarm (1-2 Instinktive Schwärme)",
           "units": "Schwarmnest",
           "pts": 150,
           "upgrades": [100,101,102,103,104,105,108,109,111]
 		},
 	    {
           "id": 509,
-          "name": "Breacher Schwarm (1-2 Instinctive Swarms)",
+          "name": "Brecher Schwarm (1-2 Instinktive Schwärme)",
           "pts": 0,
           "upgrades": [100,101,102,103,104,105,109,117,118,121,122,113,114]
 		},
           {
           "id": 504,
-          "name": "Infestation Schwarm (1-2 Instinctive Swarms)",
+          "name": "Infestation Schwarm (1-2 Instinktive Schwärme)",
           "pts": 0,
            "upgrades": [118,117]
         },
         {
           "id": 505,
-          "name": "Harasser Schwarm (1-2 Instinctive Swarms)",
+          "name": "Harasser Schwarm (1-2 Instinktive Schwärme)",
           "pts": 25,
           "upgrades": [130,109,106,107]
         }
@@ -93,25 +93,25 @@
     }
   ],
   "upgrades": [
-    {"id": 100,"name": "Gaunts (5 Termaganten)","pts": 75},
-    {"id": 101,"name": "Gaunts (4 Termaganten, Hormaganten)","pts": 75},
-    {"id": 102,"name": "Gaunts (3 Termaganten, 2 Hormaganten)","pts": 75},
-    {"id": 103,"name": "Gaunts (2 Termaganten, 3 Hormaganten)","pts": 75},
-    {"id": 104,"name": "Gaunts (Termaganten, 4 Hormaganten)","pts": 75},
-    {"id": 105,"name": "Gaunts (5 Hormaganten)","pts": 75},
-    {"id": 106,"name": "Bio-Flyer (3 Harpies)","pts": 100},
-    {"id": 107,"name": "Bio-Flyer (3 Schwarmdrudes)","pts": 100},
-    {"id": 108,"name": "Biovores (4 Biovores)","pts": 75},
+    {"id": 100,"name": "Ganten (5 Termaganten)","pts": 75},
+    {"id": 101,"name": "Ganten (4 Termaganten, Hormaganten)","pts": 75},
+    {"id": 102,"name": "Ganten (3 Termaganten, 2 Hormaganten)","pts": 75},
+    {"id": 103,"name": "Ganten (2 Termaganten, 3 Hormaganten)","pts": 75},
+    {"id": 104,"name": "Ganten (Termaganten, 4 Hormaganten)","pts": 75},
+    {"id": 105,"name": "Ganten (5 Hormaganten)","pts": 75},
+    {"id": 106,"name": "Bioflieger (3 Harpies)","pts": 100},
+    {"id": 107,"name": "Bioflieger (3 Schwarmdrudes)","pts": 100},
+    {"id": 108,"name": "Biovoren (4 Biovoren)","pts": 75},
     {"id": 109,"name": "Gargoyles (4 Gargoyles)","pts": 75},
-    {"id": 111,"name": "Bio-Support (3 Dactylis)","pts": 150},
-    {"id": 112,"name": "Bio-Attack (2 Exocrines)","pts": 75},
-    {"id": 113,"name": "Bio-Attack (2 Haruspex)","pts": 75},
-    {"id": 114,"name": "Bio-Attack (2 Malefactors)","pts": 75},
-    {"id": 115,"name": "Breacher (Stachel-Hierodule)","pts": 125},
-    {"id": 116,"name": "Breacher (Geschlitzter Hierodule)","pts": 125},
-    {"id": 117,"name": "Burrower (2 Trygons)","pts": 100},
-	{"id": 118,"name": "Burrower (5 Venatorens)","pts": 100},
-    {"id": 120,"name": "Mycetic Spore <br/> May carry units chosen from Termaganten, Hormaganten, Biovores, Carnifex, Venatorens, Hive Tyrant, Schwarmoberhaupt (Dagon), Tyranidenkrieger, Zoantrophen. No Shrikes of any type may be taken.","pts": 50},
+    {"id": 111,"name": "Biounterstützung (3 Dactylis)","pts": 150},
+    {"id": 112,"name": "Bioangriff (2 Exocrines)","pts": 75},
+    {"id": 113,"name": "Bioangriff (2 Haruspex)","pts": 75},
+    {"id": 114,"name": "Bioangriff (2 Malefactors)","pts": 75},
+    {"id": 115,"name": "Brecher (Stachel-Hierodule)","pts": 125},
+    {"id": 116,"name": "Brecher (Geschlitzter Hierodule)","pts": 125},
+    {"id": 117,"name": "Wühler (2 Trygons)","pts": 100},
+	{"id": 118,"name": "Wühler (5 Venatorens)","pts": 100},
+    {"id": 120,"name": "Tyrannocyte <br/> May carry units ausgewählt aus Termaganten, Hormaganten, Biovoren, Carnifex, Venatorens, Hive Tyrant, Schwarmoberhaupt (Dagon), Tyranidenkrieger, Zoantrophen. No Shrikes of any type may be taken.","pts": 50},
     {"id": 121,"name": "Carnifex (3 Stachel-Carnifex)",      "pts": 125    },
     {"id": 122,"name": "Carnifex (3 Kreischer-Killer Carnifex)",      "pts": 125    },
     {"id": 130,"name": "Harridan","pts": 150},
@@ -120,15 +120,15 @@
     {"id": 142,"name": "Liktor","pts": 25},
     {"id": 160,"name": "Hierophant","pts": 350},
     {"id": 161,"name": "Hydraphant","pts": 500},
-    {"id": 170,"name": "Razorfiend (May carry 2 Mycetic Spores including cargo)","pts": 150},
-    {"id": 171,"name": "Hive Ship (May carry 3 Mycetic Spores including cargo)","pts": 200},
-    {"id": 179,"name": "Gaunts (5 Termaganten)","pts": 75},
-    {"id": 180,"name": "Gaunts (4 Termaganten, Hormaganten)","pts": 75},
-	{"id": 181,"name": "Gaunts (3 Termaganten, 2 Hormaganten)","pts": 75},
-    {"id": 182,"name": "Gaunts (2 Termaganten, 3 Hormaganten)","pts": 75},
-    {"id": 183,"name": "Gaunts (Termaganten, 4 Hormaganten)","pts": 75},
-    {"id": 184,"name": "Gaunts (5 Hormaganten)","pts": 75},
-	{"id": 185,"name": "Biovores (4 Biovores)","pts": 75},
+    {"id": 170,"name": "Klingenbestien Biokreuzer  (May carry 2 Mycetic Spores including cargo)","pts": 150},
+    {"id": 171,"name": "Schwarmschiff (May carry 3 Mycetic Spores including cargo)","pts": 200},
+    {"id": 179,"name": "Ganten (5 Termaganten)","pts": 75},
+    {"id": 180,"name": "Ganten (4 Termaganten, Hormaganten)","pts": 75},
+	{"id": 181,"name": "Ganten (3 Termaganten, 2 Hormaganten)","pts": 75},
+    {"id": 182,"name": "Ganten (2 Termaganten, 3 Hormaganten)","pts": 75},
+    {"id": 183,"name": "Ganten (Termaganten, 4 Hormaganten)","pts": 75},
+    {"id": 184,"name": "Ganten (5 Hormaganten)","pts": 75},
+	{"id": 185,"name": "Biovoren (4 Biovoren)","pts": 75},
     {"id": 186,"name": "Gargoyles (4 Gargoyles)","pts": 75},
 
     {"id": 200,"name": "Tyranidenkrieger","pts": 0},
@@ -162,8 +162,8 @@
 
   "upgradeConstraints": [
 
-    {"max": 1,"name": "Mycetic Spore","from": [120],"appliesTo": [502,503]},
-    {"max": 5,"perArmy": true,"name": "Mycetic Spore","from": [120]},
+    {"max": 1,"name": "Tyrannocyte","from": [120],"appliesTo": [502,503]},
+    {"max": 5,"perArmy": true,"name": "Tyrannocyte","from": [120]},
 	{"max": 1,"perArmy": true,"from": [242,243]},
 	{"max": 1,"perArmy": true,"from": [300,301]},
 	{"min": 1,"max": 4,"from": [100,101,102,103,104,105,106,107,108,109,121,122,111,112,113,114,115,116,117,118],"appliesTo": [501]},

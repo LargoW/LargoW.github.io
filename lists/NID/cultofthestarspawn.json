@@ -3,7 +3,7 @@
   "army": "Cult of the Star-Spawn",
   "version": "0.6.5",
   "release": "2022-04-01",
-  "strategy": "Tyranid Armeen haben einen Strategiewert von 1.",
+  "strategy": "Tyraniden Armeen haben einen Strategiewert von 1.",
   "Initiative": "The Cult Kompanie und all Cult Support Verbände haben eine Initiativewert von 2+, und are subject to the 'Brood Brothers' Sonderregel. All other Verbände have an Initative Rating of 1+.",
   "specialRules": [
     "Broodcoven",
