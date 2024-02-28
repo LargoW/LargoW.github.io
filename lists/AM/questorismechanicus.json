@@ -193,7 +193,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Questoris Mechanicus Erweiterungen",
     "description": "Jede Erweiterung darf pro Verband einmal ausgewählt werden",
     "items": [

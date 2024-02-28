@@ -187,7 +187,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Valhallan Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden. Max drei Erweiterungen pro Kompanieverband.",
     "items": [

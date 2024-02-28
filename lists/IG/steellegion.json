@@ -256,7 +256,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Stahlegion Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden. Nicht mehr als drei Erweiterungen pro Kompanieverband",
     "items": [

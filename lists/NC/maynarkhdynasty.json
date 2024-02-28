@@ -131,7 +131,7 @@
         {
           "name": "Tomb Guardian",
           "units": "Ein Pylon",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 200
         },
@@ -167,28 +167,28 @@
         {
           "name": "0–1 Tomb Ship",
           "units": "Ein Cairn Class Tomb Ship",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 200
         },
         {
           "name": "Doom Scythes",
           "units": "Zwei Doom Scythe Fighters",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 200
         },
         {
           "name": "Night Shrouds",
           "units": "Ein Night Shroud Bomber",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 225
         }
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Maynarkh Dynasty Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [

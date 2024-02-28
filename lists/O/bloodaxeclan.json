@@ -233,7 +233,7 @@
         {
           "name": "Jagdbomma Skwadron",
           "units": "Drei Jagdbommas",
-          "Erweiterungen": [
+          "upgrades": [
             "Füge bis zu sechs Jagdbommas: 50 Punkte jeweils"
           ],
           "points": 150
@@ -241,21 +241,21 @@
         {
           "name": "Landa",
           "units": "Ein Landa",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 225
         },
         {
           "name": "Gargant",
           "units": "Ein Gargant",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 550
         },
         {
           "name": "Great Gargant",
           "units": "Ein Great Gargant",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 700
         }

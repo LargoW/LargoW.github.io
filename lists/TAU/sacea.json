@@ -213,7 +213,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Erweiterungen",
     "description": "Max drei Erweiterungen pro formation. Jeweils upgrade may be taken once by a formation.",
     "items": [

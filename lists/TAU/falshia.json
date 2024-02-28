@@ -159,7 +159,7 @@
         {
           "name": "Manta Dropship",
           "units": "Ein Manta",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 550
         },
@@ -187,14 +187,14 @@
         {
           "name": "Orca Dropship",
           "units": "Ein Orca",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 150
         },
         {
           "name": "0–1 Spacecraft",
           "units": "Protector Class Cruiser",
-          "Erweiterungen": [
+          "upgrades": [
             "Ersetze mit einemCustodian Class Battleship: 25 Points"
           ],
           "points": 200
@@ -202,7 +202,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Erweiterungen",
     "description": "Maximum 3 Erweiterungen pro Formation und jeweils different allowed upgrade may be taken once by a formation",
     "items": [

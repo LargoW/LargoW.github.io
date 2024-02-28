@@ -94,7 +94,7 @@
         {
           "name": "0-1 Shadow Spectre Warhost",
           "units": "Acht Shadow Spectres",
-          "Erweiterungen": [
+          "upgrades": [
             "Exarch, Phoenix Lord"
           ],
           "points": 300
@@ -102,7 +102,7 @@
         {
           "name": "Aspect Warrior Warhost",
           "units": "Zwei Wave Serpents und vier Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions, Warp Spiders",
-          "Erweiterungen": [
+          "upgrades": [
             "Exarch"
           ],
           "points": 225
@@ -110,7 +110,7 @@
         {
           "name": "Guardian Warhost",
           "units": "Fünf Guardians, eine Warlock, drei Wave Serpents",
-          "Erweiterungen": [
+          "upgrades": [
             "Farseer"
           ],
           "points": 250
@@ -124,14 +124,14 @@
         {
           "name": "Wasp Walkers",
           "units": "Vier Wasp Walkers",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 150
         },
         {
           "name": "Heavy Wraithguard",
           "units": "Drei Heavy Wraithguard",
-          "Erweiterungen": [
+          "upgrades": [
             "Füge drei Wave Serpents: 75 Points",
             "Firestorm",
             "Füge zwei Wraithlords und eine Spiritseer: 125 Punkte"
@@ -141,7 +141,7 @@
         {
           "name": "Hornets",
           "units": "Vier Hornets",
-          "Erweiterungen": [
+          "upgrades": [
             "Füge bis zu zwei Hornets: 35 Punkte jeweils"
           ],
           "points": 175
@@ -149,14 +149,14 @@
         {
           "name": "Night Spinner Troupe",
           "units": "Drei Night Spinners",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 175
         },
         {
           "name": "Hunters of Vaul",
           "units": "Fünf Warp Hunters",
-          "Erweiterungen": [
+          "upgrades": [
             "Firestorm"
           ],
           "points": 300
@@ -164,21 +164,21 @@
         {
           "name": "Fire Prism Troupe ",
           "units": "Drei Fire Prisms",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 250
         },
         {
           "name": "Armour of Vaul",
           "units": "Zwei Lynx",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 325
         },
         {
           "name": "Engine of Vaul",
           "units": "Any eine Einheiten, in beliebiger Kombination: Cobra, Scorpion",
-          "Erweiterungen": [
+          "upgrades": [
             "Füge bis zu Zwei Einheiten, in beliebiger Kombination für 200 Punkte jeweils: Cobra, Scorpion"
           ],
           "points": 250
@@ -192,28 +192,28 @@
         {
           "name": "Nightshade Aerie",
           "units": "Zwei Nightshade Interceptors",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 225
         },
         {
           "name": "Hemlock Wraithfighter Aerie",
           "units": "Zwei Hemlock Wraithfighters",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 225
         },
         {
           "name": "WraithRitters",
           "units": "Drei WraithRitters",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 325
         },
         {
           "name": "Revenants",
           "units": "Zwei Revenant Titans",
-          "Erweiterungen": [
+          "upgrades": [
             "Unabhängige Zwilllinge: 50 Punkte"
           ],
           "points": 625
@@ -229,7 +229,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [

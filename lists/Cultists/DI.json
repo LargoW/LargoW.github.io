@@ -92,7 +92,7 @@
         {
           "name": "1 Chaos Gate",
           "units": "Ersetze the Blitz objective marker in the Daemonic Incursion Spieler's half of the table mit einemChaos Gate. It counts both as an objective und a Chaos Gate.",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": "0"
         }
@@ -219,7 +219,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Daemonic Incursion Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [

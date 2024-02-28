@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_RitterWorld",
   "strategy": "Ritter Welten Armeen haben einen Strategiewert von 2.",
-  "Initiative": "All Verbände haben eine Initiativewert von 2+. In addition, all Ritter Household Verbände are subject to the 'Tapferkeit' Sonderregel.",
+  "Initiative": "All Verbände haben eine Initiativewert von 2+. In addition, all Ritter Häuser Verbände are subject to the 'Tapferkeit' Sonderregel.",
   "specialRules": [
     "Tapferkeit",
     "Befestigte Stellungen"
@@ -57,10 +57,10 @@
   ],
   "sections": [
     {
-      "name": "Ritter Welten Kern Households",
+      "name": "Ritter Welten Kern Häusers",
       "formations": [
         {
-          "name": "Paladin Household",
+          "name": "Paladin Häuser",
           "units": "Fünf Ritter-Paladins",
           "extraUnits": [
             "Seneschal",
@@ -72,11 +72,11 @@
       ]
     },
     {
-      "name": "Ritter Welten Support Households",
-      "description": " Bis zu zwei Support Households für jeweils Kern Household.",
+      "name": "Ritter Welten Support Häusers",
+      "description": " Bis zu zwei Support Häusers für jeweils Kern Häuser.",
       "formations": [
         {
-          "name": "Castellan Household",
+          "name": "Castellan Häuser",
           "units": "Zwei Ritter-Castellans (any combination configurations)",
           "extraUnits": [
             "Seneschal",
@@ -85,7 +85,7 @@
           "points": 300
         },
         {
-          "name": "Fahrender Ritter Household",
+          "name": "Fahrender Ritter Häuser",
           "units": "Drei Ritter-Errants",
           "extraUnits": [
             "Seneschal",
@@ -94,7 +94,7 @@
           "points": 325
         },
         {
-          "name": "Lancer Household",
+          "name": "Lancer Häuser",
           "units": "Drei Ritter-Lancer",
           "extraUnits": [
             "Seneschal",
@@ -103,7 +103,7 @@
           "points": 350
         },
         {
-          "name": "Wächterritter Household",
+          "name": "Wächterritter Häuser",
           "units": "Vier Ritter-Wardens (any combination of configurations)",
           "extraUnits": [
             "Seneschal",
@@ -115,7 +115,7 @@
     },
     {
       "name": "Ritter Welten Retainer Verbände",
-      "description": " Bis zu eine Retainer Formation für jeweils Kern oder Support Household.",
+      "description": " Bis zu eine Retainer Formation für jeweils Kern oder Support Häuser.",
       "formations": [
         {
           "name": "Planetary Defense Zug",
@@ -167,7 +167,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Ritter Welten Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [

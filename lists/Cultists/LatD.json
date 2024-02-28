@@ -134,7 +134,7 @@
         {
           "name": "Defilers of Chaos Undivided",
           "units": "Vier Defilers",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 250
         },
@@ -146,14 +146,14 @@
         {
           "name": "Hell-Striders of Slaanesh",
           "units": "Vier Hell-Striders",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 225
         },
         {
           "name": "Questors of Slaanesh",
           "units": "Ein Questor",
-          "Erweiterungen": [
+          "upgrades": [
             "Füge eine Questor: 200 Punkte"
           ],
           "points": 275
@@ -161,7 +161,7 @@
         {
           "name": "Subjugators of Slaanesh",
           "units": "Ein Subjugator",
-          "Erweiterungen": [
+          "upgrades": [
             "Füge eine Subjugator: 200 Punkte"
           ],
           "points": 275
@@ -169,14 +169,14 @@
         {
           "name": "Plague Tower des Nurgle",
           "units": "Ein Plague Tower",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 200
         },
         {
           "name": "Contagion Engines des Nurgle",
           "units": "Vier Contagion Engines",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 325
         },
@@ -188,42 +188,42 @@
         {
           "name": "Cannons des Khorne",
           "units": "Vier Cannons des Khorne",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 225
         },
         {
           "name": "Khorne Daemonic Assault Engines",
           "units": "Vier Daemonic Assault Engines",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 225
         },
         {
           "name": "Khorne Lord of Battles",
           "units": "Ein Lord of Battles",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 425
         },
         {
           "name": "Silver Towers des Tzeentch",
           "units": "Vier Silver Towers",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 275
         },
         {
           "name": "Warp Palace des Tzeentch",
           "units": "Ein Warp Palace",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 450
         },
         {
           "name": "Firelords des Tzeentch",
           "units": "Zwei Firelords",
-          "Erweiterungen": [
+          "upgrades": [
             "Füge eine Firelord: 100 Punkte"
           ],
           "points": 250
@@ -247,7 +247,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Lost und the Damned Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden. Max 4 different Erweiterungen pro formation.",
     "items": [
