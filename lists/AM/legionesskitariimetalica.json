@@ -76,8 +76,8 @@
           "name": "Hypaspist Manipel",
           "units": "Ein Magos, neun Hypaspists",
           "extraUnits": [
-            "Ersetze drei Hypaspists with drei Rapiers: Kostenlos",
-            "Ersetze zwei Hypaspists with zwei Sagitarii: 25 Punkte",
+            "Ersetze drei Hypaspists mit drei Rapiers: Kostenlos",
+            "Ersetze zwei Hypaspists mit zwei Sagitarii: 25 Punkte",
             "Minoris",
             "Oberbefehlshaber",
             "Hypaspist Transport",
@@ -89,14 +89,14 @@
     },
     {
       "name": "Legiones Metalica Line Verbände",
-      "description": " Bis zu drei Metalica Line Verbände für jeweils Kern Formation.",
+      "description": " Bis zu drei Metalica Line Verbände pro Kern Formation.",
       "formations": [
         {
           "name": "Ballistae Cohort",
           "units": "Vier Sagitarii",
           "extraUnits": [
-            "Ersetze eine Einheit Sagitarii with drei Rapiers: 25 Punkte",
-            "Füge enought Chimären oder Chimedons to transport the formation with no space left over: 25 Punkte jeweils",
+            "Ersetze eine Einheit Sagitarii mit drei Rapiers: 25 Punkte",
+            "Füge enought Chimären oder Chimedons to transport the formation mit no space left over: 25 Punkte jeweils",
             "Hydra"
           ],
           "points": 150

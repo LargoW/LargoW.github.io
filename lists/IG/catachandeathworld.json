@@ -85,7 +85,7 @@
     },
     {
       "name": "Catachan Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände für jeweils Kern Kompanie.",
+      "description": " Bis zu zwei Unterstützungsverbände pro Kern Kompanie.",
       "formations": [
         {
           "name": "Leman Russ Zug",
@@ -99,7 +99,7 @@
           "name": "Vulture Schwadron",
           "units": "Vier Vultures",
           "extraUnits": [
-            "Ersetze eine Vulture with zwei Vendettas: 25 Punkte"
+            "Ersetze eine Vulture mit zwei Vendettas: 25 Punkte"
           ],
           "points": 300
         },
@@ -196,7 +196,7 @@
         "name": "Flakk Teams",
         "options": [
           {
-            "description": "Ersetze bis zu zwei Catachan Infanterie with Flakk Teams",
+            "description": "Ersetze bis zu zwei Catachan Infanterie mit Flakk Teams",
             "points": "25 Punkte jeweils"
           }
         ]
@@ -236,7 +236,7 @@
             "points": ""
           },
           {
-            "description": "Füge enough Todeswelt Chimären to transport the entire formation with no space left over",
+            "description": "Füge enough Todeswelt Chimären to transport the entire formation mit no space left over",
             "points": "25 Punkte jeweils"
           },
           {

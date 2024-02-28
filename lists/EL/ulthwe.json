@@ -99,7 +99,7 @@
           "extraUnits": [
             "Seer Council",
             "Ersetze bis zu drei Eldar Guardians mit einem equal number of Eldar Heavy Weapon Platform units: Kostenlos",
-            "Ersetze bis zu drei Eldar Guardians with Support Weapons Platforms (all armed with the same weapon): 25 Punkte jeweils",
+            "Ersetze bis zu drei Eldar Guardians mit Support Weapons Platforms (all armed mit the same weapon): 25 Punkte jeweils",
             "Füge zwei Eldar Wraithguards: 75 Punkte",
             "Füge bis zu drei Eldar Wraithlords: 50 Punkte jeweils"
           ],
@@ -111,8 +111,8 @@
           "extraUnits": [
             "Seer Council",
             "Ersetze bis zu drei Eldar Guardians mit einem equal number of Eldar Heavy Weapon Platform units: Kostenlos",
-            "Ersetze any number of Wave Serpents with zwei Falcons jeweils: 50 Punkte jeweils",
-            "Ersetze eine Wave Serpent with zwei Firestorms: 75 Punkte"
+            "Ersetze any number of Wave Serpents mit zwei Falcons jeweils: 50 Punkte jeweils",
+            "Ersetze eine Wave Serpent mit zwei Firestorms: 75 Punkte"
           ],
           "points": 325
         }
@@ -120,7 +120,7 @@
     },
     {
       "name": "Ulthwé Line Troupes",
-      "description": " Bis zu zwei Ulthwé Line Troupes für jeweils Ulthwé Warhost",
+      "description": " Bis zu zwei Ulthwé Line Troupes pro Ulthwé Warhost",
       "formations": [
           {
             "name": "War Walkers",
@@ -134,7 +134,7 @@
             "name": "Windriders",
             "units": "Sechs Eldar Jetbikes",
             "extraUnits": [
-              "Ersetze bis zu sechs Eldar Jetbikes with Vypers: Kostenlos"
+              "Ersetze bis zu sechs Eldar Jetbikes mit Vypers: Kostenlos"
             ],
             "points": 200
         },
@@ -180,7 +180,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos"
+            "Ersetze bis zu zwei Falcons mit Firestorms: Kostenlos"
           ],
           "points": 250
         }

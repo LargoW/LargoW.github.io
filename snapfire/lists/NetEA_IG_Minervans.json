@@ -15,7 +15,7 @@
 			{"id":506, "name":"Flak Battery",					"pts":150, "units":"3 Hydra"},
 			{"id":505, "name":"Mechanized Platoon",				"pts":300, "upgrades":[56], "units":"10 Infantry, 5 Chimera"},
 			{"id":504, "name":"Salamander Scout Platoon",		"pts":100, "upgrades":[56], "units":"3 Salamanders"},
-			{"id":508, "name":"Storm Trooper Platoon",			"pts":200, "upgrades":[70,71], "units":"8 Storm Troopers"},
+			{"id":508, "name":"Sturmtruppen Platoon",			"pts":200, "upgrades":[70,71], "units":"8 Storm Troopers"},
 			{"id":503, "name":"Super-Heavy Tank Platoon", 		"pts":200},
 			{"id":501, "name":"Tank Platoon",					"pts":280},
 			{"id":507, "name":"Vulture Squadron",				"pts":300, "units":"4 Vultures"}

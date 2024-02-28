@@ -13,7 +13,7 @@
     "StD Eternal Animösität"
   ],
   "usage": [
-    "The following army list allows you to field an army based on a Renegade Imperial Guard regiment with Chaos allies."
+    "The following army list allows you to field an army based on a Renegade Imperial Guard regiment mit Chaos allies."
   ],
   "units": [
     {
@@ -107,7 +107,7 @@
   "sections": [
     {
       "name": "Slaves to Darkness Kern Verbände",
-      "description": " Bis zu eine Chaos Space Marine formation für jeweils Traitor Guard formation.",
+      "description": " Bis zu eine Chaos Space Marine formation pro Traitor Guard formation.",
       "formations": [
         {
           "name": "Traitor Guard",
@@ -121,7 +121,7 @@
     },
     {
       "name": "Slaves to Darkness Unterstützungsverbände",
-      "description": " Bis zu eine Support formation für jeweils Kern formation.",
+      "description": " Bis zu eine Support formation pro Kern formation.",
       "formations": [
         {
           "name": "Flak Batterie",
@@ -258,7 +258,7 @@
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool Punkte. Füge eine point to the Lesser Daemon pool für jeweils Daemonic Icon oder Dämonischer Pakt in the army.",
+      "description": "Any amount may be spent on Daemon Pool Punkte. Füge eine point to the Lesser Daemon pool pro Daemonic Icon oder Dämonischer Pakt in the army.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",

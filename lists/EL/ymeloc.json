@@ -96,7 +96,7 @@
           "name": "Swords of Vaul",
           "units": "Sechs Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos",
+            "Ersetze bis zu zwei Falcons mit Firestorms: Kostenlos",
             "Füge sechs Guardians to the formation: 100 Punkte"
           ],
           "points": 275
@@ -105,7 +105,7 @@
     },
     {
       "name": "Yme-Loc Troupes",
-      "description": " Bis zu zwei Yme-Loc Troupes may be taken für jeweils Yme-Loc Vaulhost",
+      "description": " Bis zu zwei Yme-Loc Troupes may be taken pro Yme-Loc Vaulhost",
       "formations": [
         {
           "name": "Beritten Aspect Warrior Troupe",
@@ -231,7 +231,7 @@
       },
       {
         "name": "Heavy Weapons",
-        "description": "Ersetze bis zu drei Eldar Guardians with Eldar Heavy Weapon Platforms",
+        "description": "Ersetze bis zu drei Eldar Guardians mit Eldar Heavy Weapon Platforms",
         "points": "Kostenlos"
       },
       {

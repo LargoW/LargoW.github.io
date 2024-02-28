@@ -78,8 +78,8 @@
 		{"id":165, "name":"Questoris Relic Knight-Styrix w. Seneschal (Volkite Chieroville, Rad Cleanser, Siege Claw)",										"pts":100},
 		{"id":166, "name":"Questoris Relic Knight-Magaera w. Seneschal (Lightning C, Rad Cleanser, Siege Claw, Ionic Shield)",								"pts":100},
 		
-		{"id":170, "name":"Onager Dune Crawler with Eradication Beamer",			 																		"pts":0},	
-		{"id":171, "name":"Onager Dune Crawler with Icarus Array",																							"pts":0},
+		{"id":170, "name":"Onager Dune Crawler mit Eradication Beamer",			 																		"pts":0},	
+		{"id":171, "name":"Onager Dune Crawler mit Icarus Array",																							"pts":0},
 		
 		{"id":180, "name":"Lunar Class Cruiser",																											"pts":0},
 		{"id":181, "name":"Emperor Class Battleship",																										"pts":25}

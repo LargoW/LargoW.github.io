@@ -97,7 +97,7 @@
           "name": "Auserwählte",
           "units": "Vier Night Lords Auserwählte, zwei Chaos Rhinos",
           "extraUnits": [
-            "Ersetze zwei Chaos Rhinos with vier Chaos Tarantulas: 25 Punkte"
+            "Ersetze zwei Chaos Rhinos mit vier Chaos Tarantulas: 25 Punkte"
           ],
           "points": 175
         },
@@ -148,7 +148,7 @@
           "name": "Support Kompanie",
           "units": "Ein Night Lords Captain, sechs Chaos Space Marines, drei Chaos Rhinos",
           "extraUnits": [
-            "Ersetze drei Chaos Rhinos with drei Chaos Land Raiders: 125 Punkte",
+            "Ersetze drei Chaos Rhinos mit drei Chaos Land Raiders: 125 Punkte",
             "Oberbefehlshaber",
             "Ikonenträger",
             "Stalker"
@@ -169,7 +169,7 @@
     },
     {
       "name": "Night Lords Static Defenses und Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände. Nicht mehr als eine Tarantula formation für jeweils Auserwählte formation.",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände. Nicht mehr als eine Tarantula formation pro Auserwählte formation.",
       "formations": [
         {
           "name": "Tarantula",
@@ -206,7 +206,7 @@
       "formations": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine für jeweils Dämonischer Pakt in the army.",
+          "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine pro Dämonischer Pakt in the army.",
           "points": 20
         }
       ]

@@ -106,7 +106,7 @@
     },
     {
       "name": "Cadian Unterstützungsverbände",
-      "description": " Bis zu drei Cadian Unterstützungsverbände für jeweils Cadian Kern Kompanie Formation.",
+      "description": " Bis zu drei Cadian Unterstützungsverbände pro Cadian Kern Kompanie Formation.",
       "formations": [
         {
           "name": "Kasrkin Zug",

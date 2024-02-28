@@ -119,7 +119,7 @@
     },
     {
       "name": "Craftworld Mymeara Troupes",
-      "description": " Bis zu zwei für jeweils 'Mymeara Hosts' taken",
+      "description": " Bis zu zwei pro 'Mymeara Hosts' taken",
       "formations": [
         {
           "name": "Wasp Walkers",

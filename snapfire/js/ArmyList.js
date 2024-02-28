@@ -15,7 +15,7 @@ var ArmyList = {
 			// fill in empty upgrade lists
 			if (!formation.upgrades) formation.upgrades = [];
 
-			// replace upgrade ids with upgrade objects
+			// replace upgrade ids mit upgrade objects
 			formation.upgrades = formation.upgrades.map(function(id) {
 				return ArmyList.upgradeForId(id);
 			 });
@@ -23,9 +23,9 @@ var ArmyList = {
 
 		// UPGRADE CONSTRAINTS...
 		input.upgradeConstraints.each( function(constraint) {
-			// replace upgrade ids with upgrade objects
+			// replace upgrade ids mit upgrade objects
 			constraint.from = constraint.from.map( ArmyList.upgradeForId );
-			// replace formation ids with formation objects
+			// replace formation ids mit formation objects
 			if (constraint.appliesTo) {
 				constraint.appliesTo = constraint.appliesTo.map( ArmyList.formationForId );
 			}
@@ -42,9 +42,9 @@ var ArmyList = {
 
 		// FORMATION CONSTRAINTS...
 		input.formationConstraints.each( function(constraint) {
-			// replace formation ids with formation objects
+			// replace formation ids mit formation objects
 			constraint.from = constraint.from.map( ArmyList.formationForId );
-			// replace formation ids with formation objects
+			// replace formation ids mit formation objects
 			if (constraint.forEach) {
 				constraint.forEach = constraint.forEach.map( ArmyList.formationForId );
 			}

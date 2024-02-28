@@ -99,7 +99,7 @@
       ]
     },
     {
-      "name": "1+ Exalted Greater Daemons. Max eine für jeweils part of 1500 Punkte in the army.",
+      "name": "1+ Exalted Greater Daemons. Max eine pro part of 1500 Punkte in the army.",
       "formations": [
         {
           "name": "Exalted Greater Daemon of Slaanesh",
@@ -144,7 +144,7 @@
           "units": "Zwei Herald of Slaanesh, fünf Lesser Daemon Pool Punkte",
           "extraUnits": [
             "Ersetze zwei Herald of Slaanesh mit einemHüter der Geheimnisse: 125 Punkte",
-            "Ersetze zwei Herald of Slaanesh with zwei Herald of Slaanesh on Seeker Chariot: 25 Punkte",
+            "Ersetze zwei Herald of Slaanesh mit zwei Herald of Slaanesh on Seeker Chariot: 25 Punkte",
             "Soul Grinder"
           ],
           "points": 200
@@ -154,7 +154,7 @@
           "units": "Zwei Herald des Nurgle on Palanquin, fünf Lesser Daemon Pool Punkte",
           "extraUnits": [
             "Ersetze zwei Herald des Nurgle on Palanquin mit einemGroßer Verpester: 125 Punkte",
-            "Ersetze zwei Herald des Nurgle on Palanquin with zwei Herald des Nurgle on Blight Fly: 25 Punkte",
+            "Ersetze zwei Herald des Nurgle on Palanquin mit zwei Herald des Nurgle on Blight Fly: 25 Punkte",
             "Soul Grinder"
           ],
           "points": 200
@@ -164,7 +164,7 @@
           "units": "Zwei Herald des Khorne on Juggernauts, fünf Lesser Daemon Pool Punkte",
           "extraUnits": [
             "Ersetze zwei Herald des Khorne on Juggernaut mit einemBlutdämon: 150 Punkte",
-            "Ersetze zwei Herald des Khorne on Juggernaut with zwei Herald des Khorne on Skull Geschütz: 25 Punkte",
+            "Ersetze zwei Herald des Khorne on Juggernaut mit zwei Herald des Khorne on Skull Geschütz: 25 Punkte",
             "Soul Grinder"
           ],
           "points": 200
@@ -174,7 +174,7 @@
           "units": "Zwei Herald des Tzeentch, fünf Lesser Daemon Pool Punkte",
           "extraUnits": [
             "Ersetze zwei Herald des Tzeentch mit einemHerrscher des Wandels: 150 Punkte",
-            "Ersetze zwei Herald des Tzeentch with zwei Herald des Tzeentch on Burning Chariot: 25 Punkte",
+            "Ersetze zwei Herald des Tzeentch mit zwei Herald des Tzeentch on Burning Chariot: 25 Punkte",
             "Soul Grinder"
           ],
           "points": 200
@@ -240,7 +240,7 @@
       },
       {
         "name": "Big Mutants",
-        "description": "Ersetze bis zu vier Cultists/Mutants with Big Mutants",
+        "description": "Ersetze bis zu vier Cultists/Mutants mit Big Mutants",
         "points": "15 Punkte jeweils"
       },
       {

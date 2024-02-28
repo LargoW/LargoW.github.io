@@ -114,7 +114,7 @@
     },
     {
       "name": "Chaos, Dark Mechanicus und Infestation Support Covens",
-      "description": "Zwei Support Coven Verbände may be taken pro Cultist Coven. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände. Support Covens are 0-1 für jeweils part of 1500 Punkte in the army",
+      "description": "Zwei Support Coven Verbände may be taken pro Cultist Coven. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände. Support Covens are 0-1 pro part of 1500 Punkte in the army",
       "formations": [
         {
           "name": "Chaos Space Marines of Chaos Undivided",
@@ -282,7 +282,7 @@
       },
       {
         "name": "Big Mutants",
-        "description": "Ersetze bis zu vier Cultists/Mutants with Big Mutants",
+        "description": "Ersetze bis zu vier Cultists/Mutants mit Big Mutants",
         "points": "15 Punkte jeweils"
       },
       {

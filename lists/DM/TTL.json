@@ -9,7 +9,7 @@
     "TTL Eternal Animösität"
   ],
   "usage": [
-    "The following army list allows you to field an army from the Traitor Titan Legions with Dark Mechanicus support."
+    "The following army list allows you to field an army from the Traitor Titan Legions mit Dark Mechanicus support."
   ],
   "units": [
     {
@@ -109,7 +109,7 @@
     },
     {
       "name": "Unterstützungsverbände",
-      "description": " Bis zu vier für jeweils Battle Titan. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
+      "description": " Bis zu vier pro Battle Titan. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
       "formations": [
         {
           "name": "Chaos Warhound",
@@ -237,7 +237,7 @@
       },
       {
         "name": "Heralds of Chaos",
-        "description": "The formation gains the 'Anführer' Sonderregel. May not be combined with Auge der Götter.",
+        "description": "The formation gains the 'Anführer' Sonderregel. May not be combined mit Auge der Götter.",
         "points": "25 Punkte"
       }
     ]

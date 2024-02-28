@@ -59,7 +59,7 @@
           "units": "Ein Symbionten Patriarch, drei Symbionten, drei Hybrid Acolytes",
           "extraUnits": [
             "Füge vier Coven Limousines (75 Punkte) oder vier Coven Goliaths (125 Punkte)",
-            "Ersetze drei Symbionten with drei Hybrid Acolytes, oder drei Hybrid Acolytes with drei Symbionten: Kostenlos",
+            "Ersetze drei Symbionten mit drei Hybrid Acolytes, oder drei Hybrid Acolytes mit drei Symbionten: Kostenlos",
             "Hybrid Aberrants",
             "Coven Flak"
           ],
@@ -72,7 +72,7 @@
             "Füge vier Cult Infanterie: 50 Punkte",
             "Füge zwei Cult Unterstützungstrupps: 50 Punkte",
             "Füge drei Cult Leman Russ oder Cult Leman Russ Demolisher: 150 Punkte",
-            "Füge enough Cult Chimären to transport the entire formation with no space left over: 25 Punkte jeweils",
+            "Füge enough Cult Chimären to transport the entire formation mit no space left over: 25 Punkte jeweils",
             "Füge eine Cult Hydra: 50 Punkte",
             "Füge bis zu zwei Cult Höllenhunde: 25 Punkte jeweils",
             "Füge drei Cult Greifen: 50 Punkte"
@@ -83,7 +83,7 @@
     },
     {
       "name": "Coven Vanguard Verbände",
-      "description": "Ein Coven Vanguard formation may be taken für jeweils Cult Kern formation.",
+      "description": "Ein Coven Vanguard formation may be taken pro Cult Kern formation.",
       "formations": [
         {
           "name": "Symbionten Brood",
@@ -128,7 +128,7 @@
     },
     {
       "name": "Coven Ambush Verbände",
-      "description": "Ein Coven Ambush formation may be taken für jeweils Coven Vanguard formation. ",
+      "description": "Ein Coven Ambush formation may be taken pro Coven Vanguard formation. ",
       "formations": [
         {
           "name": "Liktor Swarm",

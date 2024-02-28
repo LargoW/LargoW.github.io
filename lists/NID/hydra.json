@@ -111,7 +111,7 @@
     },
     {
       "name": "Sekundäre Synapse Swarms",
-      "description": " Bis zu eine Sekundäre Synapse Swarm für jeweils Primäre Synapse Swarm.",
+      "description": " Bis zu eine Sekundäre Synapse Swarm pro Primäre Synapse Swarm.",
       "formations": [
         {
           "name": "Tervigon Spawn Swarm",
@@ -152,7 +152,7 @@
     },
     {
       "name": "Common Unabhängig Swarms",
-      "description": " Bis zu eine Common Unabhängig Swarm für jeweils Primäre Synapse Swarm. Nicht mehr als a third of the army.",
+      "description": " Bis zu eine Common Unabhängig Swarm pro Primäre Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
           "name": "Symbionten Schwarm",
@@ -166,7 +166,7 @@
           "name": "Infiltrator Swarm",
           "units": "Vier Liktoren",
           "extraUnits": [
-            "Ersetze vier Liktoren with vier Dimachaerons: Kostenlos"
+            "Ersetze vier Liktoren mit vier Dimachaerons: Kostenlos"
           ],
           "points": 225
         }
@@ -174,7 +174,7 @@
     },
     {
       "name": "Rare Unabhängig Swarms",
-      "description": " Bis zu eine Rare Unabhängig Swarm für jeweils Primäre Synapse Swarm. Nicht mehr als a third of the army.",
+      "description": " Bis zu eine Rare Unabhängig Swarm pro Primäre Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
           "name": "Bio-Titan",

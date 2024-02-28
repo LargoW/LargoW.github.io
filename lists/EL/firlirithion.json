@@ -93,7 +93,7 @@
     },
     {
       "name": "Fir Lirithion Aufklärer Titans",
-      "description": " Bis zu zwei Aufklärer Titan Verbände für jeweils Battle Titan",
+      "description": " Bis zu zwei Aufklärer Titan Verbände pro Battle Titan",
       "formations": [
         {
           "name": "Revenant Titan",
@@ -107,7 +107,7 @@
     },
     {
       "name": "Fir Lirithion Troupes",
-      "description": " Bis zu drei Troupes für jeweils Battle oder Aufklärer Titan formation.",
+      "description": " Bis zu drei Troupes pro Battle oder Aufklärer Titan formation.",
       "formations": [
         {
           "name": "WraithRitter Troupe",

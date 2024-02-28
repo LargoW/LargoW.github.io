@@ -14,7 +14,7 @@
     "Fickle Masters"
   ],
   "intro": [
-    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Alpha Legion with Traitor Imperial Guard allies."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Alpha Legion mit Traitor Imperial Guard allies."
   ],
   "units": [
     {
@@ -96,13 +96,13 @@
   "sections": [
     {
       "name": "Alpha Legion Kern Verbände",
-      "description": " Bis zu eine Cultist Coven formation für jeweils Alpha Legion Marines formation",
+      "description": " Bis zu eine Cultist Coven formation pro Alpha Legion Marines formation",
       "formations": [
         {
           "name": "Alpha Legion Marines",
           "units": "Ein Alpha Legion Lord oder Alpha Legion Hexer, vier Alpha Legion Marines plus transport",
           "extraUnits": [
-            "Ersetze vier Alpha Legion Marines with vier Alpha Legion Havocs: 50 Punkte",
+            "Ersetze vier Alpha Legion Marines mit vier Alpha Legion Havocs: 50 Punkte",
             "Füge bis zu zwei Alpha Legion Land Raiders: 50 Punkte jeweils",
             "Oberbefehlshaber",
             "Cybots",
@@ -117,7 +117,7 @@
           "extraUnits": [
             "Füge a Daemonic Icon to the Aspiring Champion: 25 Punkte",
             "Füge enough Land Transporters to transport the formation: 10 Punkte jeweils",
-            "Ersetze any number of Land Transporters with Chimären: 15 Punkte jeweils",
+            "Ersetze any number of Land Transporters mit Chimären: 15 Punkte jeweils",
             "Füge bis zu drei Chaos Hounds: 10 Punkte jeweils",
             "Füge eine Chaos Spawn: 35 Punkte",
             "Füge eine Hydra: 50 Punkte",
@@ -129,7 +129,7 @@
     },
     {
       "name": "Alpha Legion Elite Detachments",
-      "description": " Bis zu eine Alpha Legion Elite Detachment für jeweils Alpha Legion Marines Formation.",
+      "description": " Bis zu eine Alpha Legion Elite Detachment pro Alpha Legion Marines Formation.",
       "formations": [
         {
           "name": "Destroyers",

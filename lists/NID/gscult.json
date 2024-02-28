@@ -83,7 +83,7 @@
         },
         {
           "name": "Acolyte Coven",
-          "units": "Ein Metamorph Hybrids with Hybrid Ikonenwächter, und sieben Acolyte Hybrids",
+          "units": "Ein Metamorph Hybrids mit Hybrid Ikonenwächter, und sieben Acolyte Hybrids",
           "extraUnits": [
             "Mineshaft Infiltratoren",
             "Aberrants",
@@ -205,7 +205,7 @@
       },
       {
         "name": "Aberrants",
-        "description": "Ersetze bis zu zwei Acolyte Hybrids with Aberrants",
+        "description": "Ersetze bis zu zwei Acolyte Hybrids mit Aberrants",
         "points": "15 Punkte jeweils"
       },
       {
@@ -293,7 +293,7 @@
       },
       {
         "name": "Quadbikes",
-        "description": "Ersetze bis zu fünf Neophyte Outriders with Outrider Quadbikes",
+        "description": "Ersetze bis zu fünf Neophyte Outriders mit Outrider Quadbikes",
         "points": "Kostenlos"
       },
       {

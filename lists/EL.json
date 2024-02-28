@@ -799,7 +799,7 @@
           "Geländegängig",
           "Teleportieren"
         ],
-        "notes": "Skathach WraithRitters are armed with either a Synchronisierter Deathshroud Geschütz oder Synchronisierter Inferno Lanze."
+        "notes": "Skathach WraithRitters are armed mit either a Synchronisierter Deathshroud Geschütz oder Synchronisierter Inferno Lanze."
       },
       {
         "name": "WraithRitter",
@@ -820,7 +820,7 @@
           "Furchtlos",
           "Geländegängig"
         ],
-        "notes": "Must be armed with either Synchronisierter Heavy Wraithcannons, Ghostglaive und Scattershield, oder a Suncannon. Spec[*]: Scattershield grants the model Verstärkte Panzerung."
+        "notes": "Must be armed mit either Synchronisierter Heavy Wraithcannons, Ghostglaive und Scattershield, oder a Suncannon. Spec[*]: Scattershield grants the model Verstärkte Panzerung."
       },
       {
         "name": "Revenant Titan",

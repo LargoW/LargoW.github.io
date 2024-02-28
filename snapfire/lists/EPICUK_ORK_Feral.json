@@ -1,7 +1,7 @@
 {
 	"id":"EpicUK Snagga Snagga's Feral Orks",
     "version": "v01-12-14",
-	"notes":["A Warlord must be selected and assigned to the formation with the most units (WE DC counts as one unit each)."],
+	"notes":["A Warlord must be selected and assigned to the formation mit the most units (WE DC counts as one unit each)."],
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"WAR HORDES", "formations":[

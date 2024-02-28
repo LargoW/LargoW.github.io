@@ -13,7 +13,7 @@
 		]},
 		{"name":"SUPPORT FORMATIONS <br/> Max 2 for each Steel Legion Company", "formations":[
 			{"id":500, "name":"Rough Rider Platoon", 			"pts":150, "upgrades":[], "units":"6 Rough Riders"},
-			{"id":501, "name":"Storm Trooper Platoon",			"pts":200, "upgrades":[36], "units":"8 Storm Troopers"},
+			{"id":501, "name":"Sturmtruppen Platoon",			"pts":200, "upgrades":[36], "units":"8 Storm Troopers"},
 			{"id":502, "name":"Artillery Battery",				"pts":225, "upgrades":[]},
 			{"id":505, "name":"Sentinel Squadron",				"pts":100, "upgrades":[], "units":"4 Sentinels"},
 			{"id":506, "name":"Deathstrike Missile Battery",		"pts":200, "upgrades":[], "units":"2 Deathstrike Missile Launchers"},

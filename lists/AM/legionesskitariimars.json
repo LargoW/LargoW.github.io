@@ -77,7 +77,7 @@
           "name": "Vanguard Manipel",
           "units": "Ein Magos, neun Skitarii Vanguards",
           "extraUnits": [
-            "Ersetze vier Skitarii Vanguards with vier Rapiers: Kostenlos",
+            "Ersetze vier Skitarii Vanguards mit vier Rapiers: Kostenlos",
             "Füge bis zu zwei Onager Dunecrawlers: 50 Punkte jeweils",
             "Füge bis zu zwei Skorpius Disintegrators: 50 Punkte jeweils",
             "Oberbefehlshaber",
@@ -87,14 +87,14 @@
         },
         {
           "name": "Onager Cataphractii",
-          "units": "Zwei Onager Dunecrawlers with Icarus Array, sechs Onager Dunecrawlers with another single configuration",
+          "units": "Zwei Onager Dunecrawlers mit Icarus Array, sechs Onager Dunecrawlers mit another single configuration",
           "points": 450
         }
       ]
     },
     {
       "name": "Legiones Mars Line Verbände",
-      "description": " Bis zu drei Mars Line Verbände für jeweils Kern Formation.",
+      "description": " Bis zu drei Mars Line Verbände pro Kern Formation.",
       "formations": [
         {
           "name": "Sicarian Killclade",
@@ -127,7 +127,7 @@
         },
         {
           "name": "Onager Manipel",
-          "units": "Ein Onager Dunecrawlers with Icarus Array, drei Onager Dunecrawlers with another single configuration",
+          "units": "Ein Onager Dunecrawlers mit Icarus Array, drei Onager Dunecrawlers mit another single configuration",
           "points": 225
         },
         {

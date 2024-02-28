@@ -4,9 +4,9 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"CADIAN Kern COMPANIES", "formations":[
-			{"id":500, "name":"Regimental HQ", "pts":400, "upgrades":[30,31,32,33, 34,35,36], "units":"Cadian Supreme Commander with a Commissar, 8 Kasrkin"},
-			{"id":501, "name":"Whiteshield Company", "pts":400, "upgrades":[30,31,32,33, 34,35,36], "units":"Cadian Commander with a Commissar, 15 Whiteshields, 2 Stormlord"},
-			{"id":502, "name":"Shock Trooper Company", "pts":400, "upgrades":[], "units":"Cadian Commander with Commissar, 11 Infantry, 2 Crassus Assault Transport"}
+			{"id":500, "name":"Regimental HQ", "pts":400, "upgrades":[30,31,32,33, 34,35,36], "units":"Cadian Supreme Commander mit a Commissar, 8 Kasrkin"},
+			{"id":501, "name":"Whiteshield Company", "pts":400, "upgrades":[30,31,32,33, 34,35,36], "units":"Cadian Commander mit a Commissar, 15 Whiteshields, 2 Stormlord"},
+			{"id":502, "name":"Shock Trooper Company", "pts":400, "upgrades":[], "units":"Cadian Commander mit Commissar, 11 Infantry, 2 Crassus Assault Transport"}
 		]},
 		{"name":"CADIAN SUPPORT FORMATIONS <br/> Up to 3 for each Kern Company", "formations":[
 			{"id":509, "name":"Kasrkin Platoon", "pts":275, "upgrades":[], "units":"6 Kasrkin, Crassus Assault Transport"},

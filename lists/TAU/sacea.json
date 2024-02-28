@@ -96,13 +96,13 @@
     },
     {
       "name": "Sa'cea Unterstützungsverbände",
-      "description": " Bis zu drei für jeweils Sa'cea Cadre taken",
+      "description": " Bis zu drei pro Sa'cea Cadre taken",
       "formations": [
         {
           "name": "Hammerhead Group",
           "units": "Vier Ion oder vier Fusion Hammerheads",
           "extraUnits": [
-            "Ersetze vier Ion oder Fusion Hammerheads with vier Rail Hammerheads: 25 Punkte",
+            "Ersetze vier Ion oder Fusion Hammerheads mit vier Rail Hammerheads: 25 Punkte",
             "Gun Drones",
             "Hammerheads",
             "Piranhas",

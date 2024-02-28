@@ -14,7 +14,7 @@
     "Sie kennen keine Furcht"
   ],
   "usage": [
-    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Blood Ravens with Ordo Malleus allies"
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Blood Ravens mit Ordo Malleus allies"
   ],
   "units": [
     {
@@ -111,7 +111,7 @@
           "units": "Ein Blood Ravens Scriptor, drei Land Raiders",
           "extraUnits": [
             "Füge eine Land Raider: 75 Punkte",
-            "Ersetze bis zu vier Land Raiders with Land Raider Helios: 25 Punkte jeweils"
+            "Ersetze bis zu vier Land Raiders mit Land Raider Helios: 25 Punkte jeweils"
           ],
           "points": 275
         }

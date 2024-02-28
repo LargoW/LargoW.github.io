@@ -102,7 +102,7 @@
     },
     {
       "name": "Recon Verbände",
-      "description": " Bis zu zwei Recon Verbände für jeweils Battle Titan formation",
+      "description": " Bis zu zwei Recon Verbände pro Battle Titan formation",
       "formations": [
         {
           "name": "Warhounds",
@@ -125,14 +125,14 @@
     },
     {
       "name": "Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände für jeweils Battle Titan formation",
+      "description": " Bis zu zwei Unterstützungsverbände pro Battle Titan formation",
       "formations": [
         {
           "name": "Secutarii Titan Guard",
           "units": "Ein Secutarii Axiarch, acht Secutarii Hoplites oder acht Secutarii Pelasts",
           "extraUnits": [
             "Füge zwei Electro-Priests: 25 Punkte",
-            "Ersetze zwei Secutarii Hoplites oder Pelasts with drei Chimären oder drei Chimedons: 25 Punkte"
+            "Ersetze zwei Secutarii Hoplites oder Pelasts mit drei Chimären oder drei Chimedons: 25 Punkte"
           ],
           "points": 175
         },
@@ -163,7 +163,7 @@
     },
     {
       "name": "Adeptus Mechanicus Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Adeptus Mechanicus Navy Verbände.  Bis zu eine Lysander Fighter für jeweils Warmonger Titan oder Anvilus Carapace Landing Pad.",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Adeptus Mechanicus Navy Verbände.  Bis zu eine Lysander Fighter pro Warmonger Titan oder Anvilus Carapace Landing Pad.",
       "formations": [
         {
           "name": "Lysander Fighter",
@@ -194,7 +194,7 @@
       },
       {
         "name": "Veteran Princeps",
-        "description": "Füge eine Veteran Princeps to the formation. May not be combined with Legate",
+        "description": "Füge eine Veteran Princeps to the formation. May not be combined mit Legate",
         "points": "25 Punkte"
       },
       {

@@ -78,7 +78,7 @@
           "name": "Iron Warriors Retinue",
           "units": "Ein Iron Warriors Warpsmith, sechs Chaos Space Marines",
           "extraUnits": [
-            "Ersetze zwei Chaos Space Marines with zwei Havocs: 25 Punkte",
+            "Ersetze zwei Chaos Space Marines mit zwei Havocs: 25 Punkte",
             "Oberbefehlshaber",
             "Transport",
             "Kyborgs",
@@ -92,7 +92,7 @@
           "name": "Iron Warriors Armoured Kompanie",
           "units": "Sechs Chaos Vindicators",
           "extraUnits": [
-            "Ersetze sechs Chaos Vindicators with sechs Chaos Predators (25 Punkte), drei Chaos Spartan Assault Panzers (75 Punkte), oder sechs Chaos Land Raiders (125 Punkte)"
+            "Ersetze sechs Chaos Vindicators mit sechs Chaos Predators (25 Punkte), drei Chaos Spartan Assault Panzers (75 Punkte), oder sechs Chaos Land Raiders (125 Punkte)"
           ],
           "points": 275
         },
@@ -100,7 +100,7 @@
           "name": "Havocs",
           "units": "Ein Iron Warriors Warpsmith, vier Havocs, Chaos Spartan Assault Panzer",
           "extraUnits": [
-            "Ersetze the Chaos Spartan Assault Panzer with zwei Chaos Land Raiders: 25 Punkte",
+            "Ersetze the Chaos Spartan Assault Panzer mit zwei Chaos Land Raiders: 25 Punkte",
             "Oberbefehlshaber",
             "Vindicators"
           ],
@@ -116,7 +116,7 @@
           "name": "Auserwählte",
           "units": "Vier Auserwählte, zwei Chaos Rhinos",
           "extraUnits": [
-            "Ersetze zwei Chaos Rhinos with zwei Chaos Siege Rhinos (10 Punkte), oder zwei Chaos Cybots oder zwei Chaos Siege Cybots (75 Punkte)",
+            "Ersetze zwei Chaos Rhinos mit zwei Chaos Siege Rhinos (10 Punkte), oder zwei Chaos Cybots oder zwei Chaos Siege Cybots (75 Punkte)",
             "Vindicators"
           ],
           "points": 150

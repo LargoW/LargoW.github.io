@@ -74,7 +74,7 @@
   "sections": [
     {
       "name": "Codex Astartes Detachments",
-      "description": " Bis zu eine Aufklärer Detachment für jeweils non-Aufklärer Detachment.",
+      "description": " Bis zu eine Aufklärer Detachment pro non-Aufklärer Detachment.",
       "formations": [
         {
           "name": "Sturmtrupp",

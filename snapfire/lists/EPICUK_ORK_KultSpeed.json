@@ -1,7 +1,7 @@
 {
    "id": "EpicUK Burning Death Speed Freaks",
    "version": "v01-12-14",
-   "notes": ["The Mekboy Bad Ork Biker will join any formation. Every unit in a Speed Freaks army must either have a speed of at least 30cm, or be transported in a unit with a speed of at least 30cm. Formations may not include units with a speed of less than 30cm unless they also have a transport vehicle to carry the unit."],
+   "notes": ["The Mekboy Bad Ork Biker will join any formation. Every unit in a Speed Freaks army must either have a speed of at least 30cm, or be transported in a unit mit a speed of at least 30cm. Formations may not include units mit a speed of less than 30cm unless they also have a transport vehicle to carry the unit."],
    "by": "EA-Ragnarok",
    "sections": [
       {

@@ -12,7 +12,7 @@
     "QT Eternal Animösität"
   ],
   "usage": [
-    "The following army list allows you to field an army from the Traitor Titan Legions with Dark Mechanicus support."
+    "The following army list allows you to field an army from the Traitor Titan Legions mit Dark Mechanicus support."
   ],
   "units": [
     {
@@ -92,7 +92,7 @@
           "name": "Hell-Forge Manipel",
           "units": "Ein Hellwright, eleven Chaos Squats",
           "extraUnits": [
-            "Ersetze vier Chaos Squats with vier Phospexors: 25 Punkte",
+            "Ersetze vier Chaos Squats mit vier Phospexors: 25 Punkte",
             "Füge zwei Krios Lightning, zwei Krios Venators, oder eine Ordinatus Hereticus: 125 Punkte",
             "Arch-Heretek",
             "The Kaban Machine",
@@ -104,7 +104,7 @@
     },
     {
       "name": "Daemonic Banner Verbände",
-      "description": " Bis zu drei für jeweils Hell-Forge Kern formation. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
+      "description": " Bis zu drei pro Hell-Forge Kern formation. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
       "formations": [
         {
           "name": "Höllenritter of Slaanesh",
@@ -239,7 +239,7 @@
       "formations": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine Lesser Daemon pool point für jeweils Dämonischer Pakt.",
+          "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine Lesser Daemon pool point pro Dämonischer Pakt.",
           "points": 15
         }
       ]

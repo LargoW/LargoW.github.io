@@ -4,7 +4,7 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Tau_ViorLa",
-  "intro": "The Vior'la Tau army list lets you field a Tau army from the Vior'la Sept. The Vior'la is focused on the larger Tau Battlesuits, with support options largely restricted to other suits, und drones.",
+  "intro": "The Vior'la Tau army list lets you field a Tau army from the Vior'la Sept. The Vior'la is focused on the larger Tau Battlesuits, mit support options largely restricted to other suits, und drones.",
   "strategy": "Tau Armeen haben einen Strategiewert von 3.",
   "Initiative": "XV8 Crisis Battlesuit, XV10 Heavy Battlesuit Cadres und KV128 Stormsurge und KX139 Supremacy Armour have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
@@ -91,7 +91,7 @@
     },
     {
       "name": "Vior'la Unterstützungsverbände",
-      "description": " Bis zu zwei für jeweils Vior'la Kern Formation taken",
+      "description": " Bis zu zwei pro Vior'la Kern Formation taken",
       "formations": [
         {
           "name": "Fire Warrior Strike Group",
@@ -107,7 +107,7 @@
           "name": "Drone Group",
           "units": "Acht Gun Drones",
           "extraUnits": [
-            "Ersetze zwei Gun Drones with zwei Rakete Drones oder zwei Shield Drones (Kostenlos), oder zwei Marker Drones (25 Punkte)"
+            "Ersetze zwei Gun Drones mit zwei Rakete Drones oder zwei Shield Drones (Kostenlos), oder zwei Marker Drones (25 Punkte)"
           ],
           "points": 150
         },
@@ -115,7 +115,7 @@
           "name": "Stealth Group",
           "units": "Sechs XV15 Stealth Battlesuits",
           "extraUnits": [
-            "Ersetze drei XV15 Stealth Battlesuits with drei XV95 Ghostkeel Battlesuits: 75 Punkte",
+            "Ersetze drei XV15 Stealth Battlesuits mit drei XV95 Ghostkeel Battlesuits: 75 Punkte",
             "Drones"
           ],
           "points": 225

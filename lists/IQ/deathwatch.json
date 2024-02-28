@@ -12,7 +12,7 @@
     "Wings of the Sky Angel"
   ],
   "usage": [
-    "The following army list allows you to field an army based on Ordo Xenos with Deathwatch allies"
+    "The following army list allows you to field an army based on Ordo Xenos mit Deathwatch allies"
   ],
   "units": [
     {
@@ -74,7 +74,7 @@
       "formations": [
         {
           "name": "0-1 Officio Assassinorum",
-          "units": "Once pro battle, during an Assault that the Deathwatch Spieler initiated (after all units have finished moving), a single unit anywhere in the enemy formation(s) is hit with D3 hits. These hits counts as being from CC, und have the 'Scharfschütze' und 'Erstschlag' Sonderregels. Any damage caused by these hits counts towards combat resolution (unless the target is Vollkommen Entbehrlich).",
+          "units": "Once pro battle, during an Assault that the Deathwatch Spieler initiated (after all units have finished moving), a single unit anywhere in the enemy formation(s) is hit mit D3 hits. These hits counts as being from CC, und have the 'Scharfschütze' und 'Erstschlag' Sonderregels. Any damage caused by these hits counts towards combat resolution (unless the target is Vollkommen Entbehrlich).",
           "points": 50
         }
       ]
@@ -87,8 +87,8 @@
           "name": "Deathwatch Kill-Team",
           "units": "Ein Watch Sergeant, drei Deathwatch Taktischer Trupp",
           "extraUnits": [
-            "Ersetze drei Deathwatch Taktischer Trupp with drei Deathwatch Black Shields: 25 Punkte",
-            "Ersetze drei Deathwatch Taktischer Trupp with drei Deathwatch Devastoren: 50 Punkte",
+            "Ersetze drei Deathwatch Taktischer Trupp mit drei Deathwatch Black Shields: 25 Punkte",
+            "Ersetze drei Deathwatch Taktischer Trupp mit drei Deathwatch Devastoren: 50 Punkte",
             "Oberbefehlshaber",
             "Deathwatch Specialists",
             "Deathwatch Support"
@@ -157,7 +157,7 @@
           "name": "Planetary Defense Zug",
           "units": "Acht PDF Infanterie, vier Land Transporters",
           "extraUnits": [
-            "Ersetze vier Land Transporters with drei Thudd Guns oder drei Flakk Teams: 25 Punkte"
+            "Ersetze vier Land Transporters mit drei Thudd Guns oder drei Flakk Teams: 25 Punkte"
           ],
           "points": 200
         },

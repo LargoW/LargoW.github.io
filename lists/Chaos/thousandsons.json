@@ -99,14 +99,14 @@
   "sections": [
     {
       "name": "Thousand Sons Kern Verbände",
-      "description": " Bis zu eine Thousand Sons Terminatoren formation für jeweils Thousand Sons Retinue.",
+      "description": " Bis zu eine Thousand Sons Terminatoren formation pro Thousand Sons Retinue.",
       "formations": [
         {
           "name": "Thousand Sons Retinue",
           "units": "Ein Aufstrebender Hexer, fünf Rubric Marines, vier Thousand Sons Marines, Dämonischer Pakt",
           "extraUnits": [
-            "Ersetze vier Thousand Sons Marines with vier Thousand Sons Havocs: 50 Punkte",
-            "Ersetze bis zu drei Rubric Marines with Thousand Sons Cybots: 25 Punkte jeweils",
+            "Ersetze vier Thousand Sons Marines mit vier Thousand Sons Havocs: 50 Punkte",
+            "Ersetze bis zu drei Rubric Marines mit Thousand Sons Cybots: 25 Punkte jeweils",
             "Oberbefehlshaber",
             "Ikonenträger",
             "Champion des Chaos",
@@ -152,7 +152,7 @@
           "name": "Armoured Kompanie",
           "units": "Vier Thousand Sons Predators",
           "extraUnits": [
-            "Ersetze vier Thousand Sons Predators with vier Thousand Sons Land Raiders: 75 Punkte"
+            "Ersetze vier Thousand Sons Predators mit vier Thousand Sons Land Raiders: 75 Punkte"
           ],
           "points": 225
         },
@@ -160,7 +160,7 @@
           "name": "Havocs",
           "units": "Ein Aufstrebender Hexer, vier Thousand Sons Havocs, zwei Thousand Sons Rhinos, Dämonischer Pakt",
           "extraUnits": [
-            "Ersetze zwei Thousand Sons Rhinos with zwei Thousand Sons Cybots: 75 Punkte",
+            "Ersetze zwei Thousand Sons Rhinos mit zwei Thousand Sons Cybots: 75 Punkte",
             "Ikonenträger",
             "Predators"
           ],

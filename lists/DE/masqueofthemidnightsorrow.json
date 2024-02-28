@@ -15,7 +15,7 @@
     "Cegorach, the Laughing God"
   ],
   "usage": [
-    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Kabal of the Wraithkind, with Harlequin Allies."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Kabal of the Wraithkind, mit Harlequin Allies."
   ],
   "units": [
     {
@@ -125,7 +125,7 @@
     },
     {
       "name": "Wraithkind Partisans",
-      "description": " Bis zu eine Wraithkind Partisans für jeweils Wraithkind Kabal",
+      "description": " Bis zu eine Wraithkind Partisans pro Wraithkind Kabal",
       "formations": [
           {
             "name": "Mandrake Throng",
@@ -165,13 +165,13 @@
     },
     {
       "name": "Harlequins",
-      "description": " Bis zu eine Harlequin formation für jeweils Wraithkind Kabal, und bis zu eine Harlequin Support für jeweils Harlequin Masque",
+      "description": " Bis zu eine Harlequin formation pro Wraithkind Kabal, und bis zu eine Harlequin Support pro Harlequin Masque",
       "formations": [
         {
           "name": "Harlequin Masque",
           "units": "Ein Shadowseer, drei Harlequin Troupes, eine Death Jesters, vier Starweavers",
           "extraUnits": [
-              "Ersetze vier Starweavers with zwei Harlequin Troupe und eine Death Jesters: Kostenlos",
+              "Ersetze vier Starweavers mit zwei Harlequin Troupe und eine Death Jesters: Kostenlos",
              "Füge bis zu drei Skyweaver Jetbikes: 25 Punkte jeweils",
              "(0-1 in the army) Füge eine Solitaire to a Harlequin Troupe: 50 Punkte"
           ],

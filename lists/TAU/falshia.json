@@ -94,13 +94,13 @@
     },
     {
       "name": "Fal'shia Support Groups",
-      "description": " Bis zu drei für jeweils Fal'shia Cadre",
+      "description": " Bis zu drei pro Fal'shia Cadre",
       "formations": [
         {
           "name": "Hammerhead Group",
           "units": "Vier Ion oder vier Fusion Hammerheads",
           "extraUnits": [
-            "Ersetze vier Ion oder Fusion Hammerheads with vier Rail Hammerheads: 25 Punkte",
+            "Ersetze vier Ion oder Fusion Hammerheads mit vier Rail Hammerheads: 25 Punkte",
             "Gun Drones",
             "Swordfish",
             "Stingwings",

@@ -326,7 +326,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Ein Einheit Boys oder Bosse. Units may Shoot und Firefight while being transported, unless an enemy model is in base contact with the transport."
+        "notes": "Ein Einheit Boys oder Bosse. Units may Shoot und Firefight while being transported, unless an enemy model is in base contact mit the transport."
       },
       {
         "name": "Mekboy Speedsta",
@@ -541,7 +541,7 @@
           "Geländegängig",
           "Jetz' geht's los"
         ],
-        "notes": "Armed with either drei Kanonänbatterie, oder zwei Big Guns und a Kombat 'Ammer"
+        "notes": "Armed mit either drei Kanonänbatterie, oder zwei Big Guns und a Kombat 'Ammer"
       },
       {
         "name": "Mega Transportpanza",
@@ -678,9 +678,9 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Armed with either drei Soopaguns oder zwei Soopaguns und either Supa-Zzap-Waffe oder a Mega-Spalta"
+          "Armed mit either drei Soopaguns oder zwei Soopaguns und either Supa-Zzap-Waffe oder a Mega-Spalta"
         ],
-        "crit": "The Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
+        "crit": "The Gargant catches fire. Roll 1D6 pro fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
         "name": "Gargant ",
@@ -711,7 +711,7 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
+        "crit": "The Gargant catches fire. Roll 1D6 pro fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
         "name": "Great Gargant",
@@ -735,9 +735,9 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Armed with either zwei Synchronisierter Soopaguns oder eine Synchronisierter Mega Kanonä und a Smäsha-Kanonä"
+          "Armed mit either zwei Synchronisierter Soopaguns oder eine Synchronisierter Mega Kanonä und a Smäsha-Kanonä"
         ],
-        "crit": "The Great Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
+        "crit": "The Great Gargant catches fire. Roll 1D6 pro fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
         "name": "Great Gargant ",
@@ -771,7 +771,7 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Great Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
+        "crit": "The Great Gargant catches fire. Roll 1D6 pro fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
         "name": "Mega Gargant",
@@ -797,7 +797,7 @@
           "Furchtlos",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Mega Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
+        "crit": "The Mega Gargant catches fire. Roll 1D6 pro fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
         "name": "Jagdbomma",
@@ -1113,7 +1113,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry eine Einheit Junkas oder Bosss. Units may Shoot und Firefight while being transported, unless an enemy model is in base contact with the transport."
+        "notes": "May carry eine Einheit Junkas oder Bosss. Units may Shoot und Firefight while being transported, unless an enemy model is in base contact mit the transport."
       },
       {
         "name": "Squiggoth",
@@ -1224,7 +1224,7 @@
           "Furchtlos",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Steam Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
+        "crit": "The Steam Gargant catches fire. Roll 1D6 pro fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       }
     ]
   }

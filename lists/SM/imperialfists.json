@@ -121,7 +121,7 @@
     },
     {
       "name": "Imperial Fists Support Detachments",
-      "description": " Bis zu zwei Support Detachments für jeweils Kern Detachment.",
+      "description": " Bis zu zwei Support Detachments pro Kern Detachment.",
       "formations": [
           {
             "name": "Land Raiders",
@@ -205,7 +205,7 @@
     },
     {
       "name": "Imperial Fists Static Defenses, Navy & Titan Legion Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.  Bis zu eine Tarantula oder Hyperios formation für jeweils Aufklärer detachment.",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.  Bis zu eine Tarantula oder Hyperios formation pro Aufklärer detachment.",
       "formations": [
         {
           "name": "Bastion",
@@ -306,7 +306,7 @@
       },
       {
         "name": "Siege Equipment",
-        "description": "The formation may take Siege Rhinos instead of normal Rhinos, oder replace 'plus transport' with Space Marine Rapiers oder Space Marine Thunderfires",
+        "description": "The formation may take Siege Rhinos instead of normal Rhinos, oder replace 'plus transport' mit Space Marine Rapiers oder Space Marine Thunderfires",
         "points": [
           "25 Punkte für Siege Rhinos",
           "25 Punkte für zwei Rapiers oder zwei Thunderfires",

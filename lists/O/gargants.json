@@ -73,7 +73,7 @@
           "name": "Great Gargant",
           "units": "Ein Great Gargant",
           "upgrades": [
-            "Füge a 'Uge Banner of Gork (Inspirierend, 50 Punkte) oder a Big Banner of Mork (Anführer, 25 Punkte. May not be combined with Big Mek)"
+            "Füge a 'Uge Banner of Gork (Inspirierend, 50 Punkte) oder a Big Banner of Mork (Anführer, 25 Punkte. May not be combined mit Big Mek)"
           ],
           "points": 750
         },
@@ -89,7 +89,7 @@
     },
     {
       "name": "Bad Moons Big Mob Mobs",
-      "description": " Bis zu drei für jeweils Bad Moons Gargants formation",
+      "description": " Bis zu drei pro Bad Moons Gargants formation",
       "formations": [
         {
           "name": "Bad Moons Warband",

@@ -150,7 +150,7 @@
           "name": "Armoured Kompanie",
           "units": "Fünf Death Guard Vindicators",
           "extraUnits": [
-            "Ersetze fünf Death Guard Vindicators with vier Death Guard Land Raiders: 25 Punkte",
+            "Ersetze fünf Death Guard Vindicators mit vier Death Guard Land Raiders: 25 Punkte",
             "Füge zwei Death Guard Vindicators: 80 Punkte",
             "Stalker"
           ],
@@ -290,7 +290,7 @@
         "description": "Choose eine of the following:",
         "options": [
           {
-            "description": "Ersetze eine Blightlord Terminator with drei Death Guard Land Raiders",
+            "description": "Ersetze eine Blightlord Terminator mit drei Death Guard Land Raiders",
             "points": "100 Punkte"
         },
         {
@@ -340,7 +340,7 @@
       },
       {
         "name": "Havocs",
-        "description": "Ersetze drei Chaos Space Marines with drei Havocs",
+        "description": "Ersetze drei Chaos Space Marines mit drei Havocs",
         "points": "35 Punkte"
       }
     ]

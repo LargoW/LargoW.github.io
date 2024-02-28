@@ -117,7 +117,7 @@
         },
         {
           "name": "Siege Infanterie Kompanie",
-          "units": "Todeskorps von Krieg Befehlshaber with Kommissar, 9 Siege Infanterie, 40cm Gräben, 40cm Stacheldraht",
+          "units": "Todeskorps von Krieg Befehlshaber mit Kommissar, 9 Siege Infanterie, 40cm Gräben, 40cm Stacheldraht",
           "extraUnits": [
             "Füge vier Rapiers und 16cm Gräben, oder drei Thudd Guns und 12cm Gräben: 75 Punkte",
             "Füge bis zu zwei Scharfschützen: 25 Punkte jeweils"
@@ -128,8 +128,8 @@
           "name": "Artillerie Emplacement",
           "units": "Vier Medusa Kanonenlafettes, vier Geschützstellungen",
           "extraUnits": [
-            "Ersetze vier Geschützstellungen with vier Trojans: Kostenlos",
-            "Ersetze vier Medusa Kanonenlafettes with vier Tremorkanonenlafettes: 50 Punkte"
+            "Ersetze vier Geschützstellungen mit vier Trojans: Kostenlos",
+            "Ersetze vier Medusa Kanonenlafettes mit vier Tremorkanonenlafettes: 50 Punkte"
           ],
           "points": 225
         },
@@ -137,7 +137,7 @@
           "name": "Flak Emplacement",
           "units": "Vier Schweres Flugabwehrgeschützs, vier Geschützstellungen",
           "upgrades": [
-            "Ersetze vier Geschützstellungen with vier Trojans: Kostenlos"
+            "Ersetze vier Geschützstellungen mit vier Trojans: Kostenlos"
           ],
           "points": 175
         },

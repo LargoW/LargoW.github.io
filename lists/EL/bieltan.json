@@ -91,7 +91,7 @@
     },
     {
       "name": "Biel-Tan Warhosts",
-      "description": " Bis zu eine Guardian Warhost may be taken für jeweils Aspect oder Beritten Aspect Warhost",
+      "description": " Bis zu eine Guardian Warhost may be taken pro Aspect oder Beritten Aspect Warhost",
       "formations": [
         {
           "name": "Beritten Aspect Warrior Warhost",
@@ -99,8 +99,8 @@
           "extraUnits": [
             "Autarch",
             "Exarchs",
-            "Ersetze any number of Wave Serpents with zwei Falcons jeweils: 50 Punkte jeweils",
-            "Ersetze eine Wave Serpent with zwei Firestorms: 50 Punkte"
+            "Ersetze any number of Wave Serpents mit zwei Falcons jeweils: 50 Punkte jeweils",
+            "Ersetze eine Wave Serpent mit zwei Firestorms: 50 Punkte"
           ],
           "points": 450
         },
@@ -117,8 +117,8 @@
           "name": "Guardian Warhost",
           "units": "Ein Farseer unit und sieben Guardians",
           "extraUnits": [
-            "Ersetze bis zu drei Eldar Guardians with Eldar Heavy Weapon Platforms: Kostenlos",
-            "Ersetze bis zu drei Eldar Guardians with Support Weapons Platforms (all armed with the same weapon): 25 Punkte jeweils",
+            "Ersetze bis zu drei Eldar Guardians mit Eldar Heavy Weapon Platforms: Kostenlos",
+            "Ersetze bis zu drei Eldar Guardians mit Support Weapons Platforms (all armed mit the same weapon): 25 Punkte jeweils",
             "Füge zwei Eldar Wraithguards: 75 Punkte",
             "Füge bis zu drei Eldar Wraithlords: 50 Punkte jeweils",
             "Füge vier Wave Serpents: 150 Punkte (may only be taken if the entire formation can fit inside)"
@@ -129,7 +129,7 @@
     },
     {
       "name": "Biel-Tan Troupes",
-      "description": " Bis zu drei Biel-Tan Troupes may be taken für jeweils Biel-Tan Warhost",
+      "description": " Bis zu drei Biel-Tan Troupes may be taken pro Biel-Tan Warhost",
       "formations": [
           {
             "name": "Rangers",
@@ -150,7 +150,7 @@
           "name": "Wind Rider Troupe ",
           "units": "Sechs Jetbike units",
           "extraUnits": [
-            "Ersetze any number of Eldar Jetbikes with Eldar Vypers: Kostenlos"
+            "Ersetze any number of Eldar Jetbikes mit Eldar Vypers: Kostenlos"
           ],
           "points": 200
         },
@@ -158,7 +158,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos"
+            "Ersetze bis zu zwei Falcons mit Firestorms: Kostenlos"
           ],
           "points": 250
         },

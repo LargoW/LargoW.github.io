@@ -54,7 +54,7 @@
 		{"id":31, "name":"Razorback (Twin Lascannon)",			"pts":25},
 		{"id":32, "name":"Razorback (Twin Heavy Bolter)",			"pts":25},
 
-		{"id":33, "name":"May replace Rhinos with Siege Rhinos",			"pts":25},
+		{"id":33, "name":"May replace Rhinos mit Siege Rhinos",			"pts":25},
 
 		{"id":39, "name":"Land Raider Helios (Hyperios)",		"pts":75},
 		{"id":40, "name":"Land Raider",				"pts":50},

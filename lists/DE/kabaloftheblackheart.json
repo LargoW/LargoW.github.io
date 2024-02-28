@@ -113,7 +113,7 @@
     },
     {
       "name": "Black Heart Partisan Verbände",
-      "description": " Bis zu zwei Partisan Verbände may be taken für jeweils Kabal Formation",
+      "description": " Bis zu zwei Partisan Verbände may be taken pro Kabal Formation",
       "formations": [
           {
             "name": "Mandrake Throng",

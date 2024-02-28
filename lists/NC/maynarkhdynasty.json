@@ -81,7 +81,7 @@
             "Overlord",
             "Canoptek Wraiths",
             "Canoptek Spyder",
-            "Ersetze drei Necron Warriors with drei Pariahs oder drei Immortals: 50 Punkte"
+            "Ersetze drei Necron Warriors mit drei Pariahs oder drei Immortals: 50 Punkte"
           ],
           "points": 300
         }
@@ -89,13 +89,13 @@
     },
     {
       "name": "Maynarkh Dynasty Portal Verbände",
-      "description": " Bis zu eine für jeweils Necron Phalanx",
+      "description": " Bis zu eine pro Necron Phalanx",
       "formations": [
         {
           "name": "Portal Phalanx",
           "units": "Ein Monolith, zwei Obelisks",
           "extraUnits": [
-            "Ersetze bis zu zwei Obelisks with Monoliths: 25 Punkte jeweils"
+            "Ersetze bis zu zwei Obelisks mit Monoliths: 25 Punkte jeweils"
           ],
           "points": 175
         }
@@ -103,7 +103,7 @@
     },
     {
       "name": "Maynarkh Dynasty Unterstützungsverbände",
-      "description": " Bis zu zwei für jeweils Necron Phalanx. A Necron army must contain at least eine 'The Unbidden' formation.",
+      "description": " Bis zu zwei pro Necron Phalanx. A Necron army must contain at least eine 'The Unbidden' formation.",
       "formations": [
         {
           "name": "1+ The Unbidden",

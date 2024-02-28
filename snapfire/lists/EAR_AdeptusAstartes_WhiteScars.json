@@ -55,7 +55,7 @@
 		{"id":32, "name":"Land Raider", 			"pts":50},
 		{"id":33, "name":"Land Raider Crusader", 			"pts":50},
 		{"id":34, "name":"4 Scouts plus transport",				"pts":0},
-		{"id":35, "name":"4 Scouts with Sniper, plus transport",			"pts":25},
+		{"id":35, "name":"4 Scouts mit Sniper, plus transport",			"pts":25},
 		{"id":36, "name":"White Scars Vindicator",		"pts":50},
 		{"id":37, "name":"2 White Scars Vindicators",		"pts":75},
 		{"id":38, "name":"Razorback w/ Twin Lascannon",				"pts":25},

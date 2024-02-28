@@ -1539,7 +1539,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "notes": "Must be equipped with either Synchronisierter Vanquisher Geschütz oder a Vulcan Mega-Bolter.",
+        "notes": "Must be equipped mit either Synchronisierter Vanquisher Geschütz oder a Vulcan Mega-Bolter.",
         "crit": "The Macharius wird zerstört."
       },
       {
@@ -1669,7 +1669,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport zwölf Infanteristen Einheiten mitout Sprungmodule oder Beritten, zwei may fire from the firing deck und participate with FF during assaults.",
+        "notes": "May transport zwölf Infanteristen Einheiten mitout Sprungmodule oder Beritten, zwei may fire from the firing deck und participate mit FF during assaults.",
         "crit": "The Stormlord is immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Subsequent hits destroys the unit."
       },
       {

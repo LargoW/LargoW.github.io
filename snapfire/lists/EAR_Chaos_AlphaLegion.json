@@ -58,8 +58,8 @@
 		{ "id":32, "name":"Alpha Legion Land Raider", "pts":50 },
 		{ "id":33, "name":"Alpha Legion Predator", "pts":50 },
 
-		{ "id":38, "name":"Aspiring Champion with Daemonic Icon", "pts":25 },
-		{ "id":39, "name":"Daemon Prince with Daemonic Icon", "pts":125 },
+		{ "id":38, "name":"Aspiring Champion mit Daemonic Icon", "pts":25 },
+		{ "id":39, "name":"Daemon Prince mit Daemonic Icon", "pts":125 },
 
 		{ "id":45, "name":"Chaos Hounds", "pts":10 },
 		{ "id":46, "name":"Chaos Spawn", "pts":35 },

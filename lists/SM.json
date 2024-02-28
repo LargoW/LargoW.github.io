@@ -1511,7 +1511,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Darf eine Infanterie Einheit (außer Terminatoren) ohne Sprungmodule oder Beritten Eigenschaft transportieren. Armed with either Synchronisierte Laserkanone oder Synchronisierter schwerer Bolter. Razorbacks die mit einem synchronisierten schweren Bolter bewaffnet sind, haben einen FF von 4+."
+        "notes": "Darf eine Infanterie Einheit (außer Terminatoren) ohne Sprungmodule oder Beritten Eigenschaft transportieren. Armed mit either Synchronisierte Laserkanone oder Synchronisierter schwerer Bolter. Razorbacks die mit einem synchronisierten schweren Bolter bewaffnet sind, haben einen FF von 4+."
       },
       {
         "name": "Blood Angels Razorback",
@@ -1544,7 +1544,7 @@
           "Transport",
           "Lucifer Pattern Engine"
         ],
-        "notes": "Darf eine Infanterie Einheit (außer Terminatoren) ohne Sprungmodule oder Beritten Eigenschaft transportieren. Armed with either Synchronisierte Laserkanone oder Synchronisierter schwerer Bolter. Razorbacks die mit einem synchronisierten schweren Bolter bewaffnet sind, haben einen FF von 4+."
+        "notes": "Darf eine Infanterie Einheit (außer Terminatoren) ohne Sprungmodule oder Beritten Eigenschaft transportieren. Armed mit either Synchronisierte Laserkanone oder Synchronisierter schwerer Bolter. Razorbacks die mit einem synchronisierten schweren Bolter bewaffnet sind, haben einen FF von 4+."
       },
       {
         "name": "Deathwatch Razorback",
@@ -2469,7 +2469,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport vier Infanterie Einheiten. These may only deploy on to the battlefield using Teleportieren. May in addition transport fünf Corvus Blackstars und drei Thunderhawk Transporters along with any units these transport."
+        "notes": "May transport vier Infanterie Einheiten. These may only deploy on to the battlefield using Teleportieren. May in addition transport fünf Corvus Blackstars und drei Thunderhawk Transporters along mit any units these transport."
       },
       {
         "name": "Vanguard Class Light Cruiser",
@@ -2562,7 +2562,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "May transport eine formation of only the following units: Taktischer Trupp, Devastoren, Cybot, Sternguard Veterans, Wolf Guard Terminatoren, Grey Knights Strike Squad, Grey Knights Purgation Squad. After the Drop Pod lands, its Deathwind attacks all enemy Einheiten innerhalb von 15cm. Jeweils enemy formation attacked receives a Beschussmarke für coming under fire, und an extra Beschussmarke für jeweils casualty. Then any troops carried in the Drop Pod must disembark within 5cm of the Drop Pod oder within 5cm of another unit from the same formation that has already landed, so long as all units are placed within 15cm of the Drop Pod. Drop pod models should be removed from the board once the formation they transport has disembarked."
+        "notes": "May transport eine formation of only the following units: Taktischer Trupp, Devastoren, Cybot, Sternguard Veterans, Wolf Guard Terminatoren, Grey Knights Strike Squad, Grey Knights Purgation Squad. After the Drop Pod lands, its Deathwind attacks all enemy Einheiten innerhalb von 15cm. Jeweils enemy formation attacked receives a Beschussmarke für coming under fire, und an extra Beschussmarke pro casualty. Then any troops carried in the Drop Pod must disembark within 5cm of the Drop Pod oder within 5cm of another unit from the same formation that has already landed, so long as all units are placed within 15cm of the Drop Pod. Drop pod models should be removed from the board once the formation they transport has disembarked."
       },
       {
         "name": "Intercessor",

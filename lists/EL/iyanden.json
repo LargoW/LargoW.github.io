@@ -117,7 +117,7 @@
     },
     {
       "name": "Iyanden Troupes",
-      "description": " Bis zu zwei für jeweils Iyanden Wraithhost taken",
+      "description": " Bis zu zwei pro Iyanden Wraithhost taken",
       "formations": [
           {
             "name": "Guardians",
@@ -148,7 +148,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos"
+            "Ersetze bis zu zwei Falcons mit Firestorms: Kostenlos"
           ],
           "points": 250
         },
@@ -265,17 +265,17 @@
       },
       {
         "name": "Vypers",
-        "description": "Ersetze any number of Eldar Jetbikes with Eldar Vypers",
+        "description": "Ersetze any number of Eldar Jetbikes mit Eldar Vypers",
         "points": "Kostenlos"
       },
       {
         "name": "Heavy Weapons",
-        "description": "Ersetze bis zu drei Eldar Guardians with Eldar Heavy Weapon Platforms",
+        "description": "Ersetze bis zu drei Eldar Guardians mit Eldar Heavy Weapon Platforms",
         "points": "Kostenlos"
       },
       {
         "name": "Support Weapons",
-        "description": "Ersetze bis zu drei Eldar Guardians with with Eldar Support Weapon Platforms (all armed with the same weapon).",
+        "description": "Ersetze bis zu drei Eldar Guardians mit with Eldar Support Weapon Platforms (all armed mit the same weapon).",
         "points": "25 Punkte jeweils"
       },
       {
@@ -296,7 +296,7 @@
     ]
   },
   "about": [
-    "v1.0.Beta: The EA-R Iyanden Craftworld list owes its basic structure to the NetEA version on the list, mit einemnumber important changes und additions, most of which have been inherited from the process of making the 'main' EA-R Craftworld Eldar list: Biel-Tan. With the Wraithguard being reduced to 3+ save, Wraithblades got the same save. These units no longer being 4++ und Furchtlos allowed für making their Verbände somewhat cheaper.",
+    "v1.0.Beta: The EA-R Iyanden Craftworld list owes its basic structure to the NetEA version on the list, mit einemnumber important changes und additions, most of which have been inherited from the process of making the 'main' EA-R Craftworld Eldar list: Biel-Tan. mit the Wraithguard being reduced to 3+ save, Wraithblades got the same save. These units no longer being 4++ und Furchtlos allowed für making their Verbände somewhat cheaper.",
     "The Spirit Walker Wraithhost has been made a bit more similar to the other Wraithhosts, und the list has also gained access to a WraithRitter formation, using the 'Ritter' H-AV unit type."
   ]
 }

@@ -2,7 +2,7 @@
    "id": "EA-R Adepta Sororitas",
    "version": "1.0.Beta",
    "by": "EA-Ragnarok",
-   "notes":["No more transports than needed to carry the formation with no space left over."],
+   "notes":["No more transports than needed to carry the formation mit no space left over."],
 
    "sections": [
         {"name": "SORORITAS Kern FORMATIONS", "formations": [
@@ -22,7 +22,7 @@
             {"id": 523, "name": "Infernus", "pts": 175, "units": "4 Hellhounds", "upgrades": []}
          ]},
         {"name": "IMPERIAL NAVY <br/> Max 33%", "formations": [
-            {"id": 532, "name": "Lightning Squadron", "pts": 175, "units": "2 Lightning Interceptors", "upgrades": [] },
+            {"id": 532, "name": "Lightning Squadron", "pts": 175, "units": "2 Lightning Abfangjäger", "upgrades": [] },
             {"id": 533, "name": "Marauder Destroyer", "pts": 175, "upgrades": [] },
 	        {"id": 534, "name": "Orbital Support", "pts": 150, "upgrades": [] }
          ]}

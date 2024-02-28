@@ -9,7 +9,7 @@
 			{"id":511, "name":"Air Cavalry Company", 			"pts":250, "upgrades":[13,14,15,1], "units":"Vanaheim Commander, 9 Vanaheim Infantry"}
 		]},
 		{"name":"SUPPORT FORMATIONS <br/> Max 2 for each Vanaheim Company", "formations":[
-			{"id":501, "name":"Storm Trooper Platoon",			"pts":350, "upgrades":[1], "units":"8 Storm Troopers, 4 Valkyries"},
+			{"id":501, "name":"Sturmtruppen Platoon",			"pts":350, "upgrades":[1], "units":"8 Storm Troopers, 4 Valkyries"},
 			{"id":502, "name":"Sentinel Squadron",				"pts":100, "upgrades":[33, 1]},
 			{"id":503, "name":"Vulture Squadron",				"pts":300, "upgrades":[1], "units":"4 Vultures"}
 		]},

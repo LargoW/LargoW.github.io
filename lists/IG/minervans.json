@@ -74,7 +74,7 @@
           "name": "Minervan Panzer Kompanie",
           "units": "Ein Leman Russ Vanquisher mit einem Kommissar-Captain, sieben Leman Russ",
           "extraUnits": [
-            "Ersetze sieben Leman Russ with sieben Leman Russ Thunderers: Kostenlos",
+            "Ersetze sieben Leman Russ mit sieben Leman Russ Thunderers: Kostenlos",
             "Ersetze the Leman Russ Vanquisher mit einemLeman Russ Thunderer: Kostenlos",
             "Oberbefehlshaber",
             "Flak",
@@ -97,7 +97,7 @@
           "name": "Artillerie Kompanie",
           "units": "Sechs Basilisken, eine mit Kommissar-Captain",
           "extraUnits": [
-            "Ersetze sechs Basilisken with sechs Mantikor: 50 Punkte",
+            "Ersetze sechs Basilisken mit sechs Mantikor: 50 Punkte",
             "Flak"
           ],
           "points": 400
@@ -106,13 +106,13 @@
     },
     {
       "name": "Minervan Unterstützungsverbände",
-      "description": " Bis zu drei Unterstützungsverbände für jeweils Minervan Kompanie.",
+      "description": " Bis zu drei Unterstützungsverbände pro Minervan Kompanie.",
       "formations": [
         {
           "name": "Leman Russ Schwadron",
           "units": "Vier Leman Russ",
           "extraUnits": [
-            "Ersetze vier Leman Russ with vier Leman Russ Executioners, vier Leman Russ Exterminators, vier Leman Russ Demolisher, vier Leman Russ Punishers, vier Leman Russ Thunderers, oder vier Leman Russ Conquerors",
+            "Ersetze vier Leman Russ mit vier Leman Russ Executioners, vier Leman Russ Exterminators, vier Leman Russ Demolisher, vier Leman Russ Punishers, vier Leman Russ Thunderers, oder vier Leman Russ Conquerors",
             "Höllenhunde",
             "Flak"
           ],

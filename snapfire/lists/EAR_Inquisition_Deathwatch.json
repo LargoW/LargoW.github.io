@@ -6,7 +6,7 @@
 
    "sections": [
            {"name": "ORDO XENOS SPECIALS", "formations": [
-               {"id": 600, "name": "Officio Assassinorum", "pts": 50, "units": "Once per battle, during an Assault that the Deathwatch player initiated, a single unit anywhere in the enemy formation(s) is hit with D3 hits. These hits counts as being from CC, and have the 'Sniper' and 'First Strike' special rules. Any damage caused by these hits counts towards combat resolution.", "upgrades": []}
+               {"id": 600, "name": "Officio Assassinorum", "pts": 50, "units": "Once per battle, during an Assault that the Deathwatch player initiated, a single unit anywhere in the enemy formation(s) is hit mit D3 hits. These hits counts as being from CC, and have the 'Sniper' and 'First Strike' special rules. Any damage caused by these hits counts towards combat resolution.", "upgrades": []}
       ]},
         {"name": "DEATHWATCH DETACHMENTS", "formations": [
             {"id": 501, "name": "Deathwatch Kill-Team", "pts": 150, "upgrades": [3,4, 13,15]},

@@ -27,10 +27,10 @@
 		]}
 	],
 	"upgrades":[
-		{"id":9,  "name":"Leman Russ Vanquisher with a Commissar-Captain",					"pts":0},
-		{"id":10, "name":"Leman Russ Vanquisher with a Lord Commissar",			"pts":75},
-		{"id":11,  "name":"Leman Russ Thunderer with a Commissar-Captain",					"pts":0},
-		{"id":12, "name":"Leman Russ Thunderer with a Lord Commissar",			"pts":75},
+		{"id":9,  "name":"Leman Russ Vanquisher mit a Commissar-Captain",					"pts":0},
+		{"id":10, "name":"Leman Russ Vanquisher mit a Lord Commissar",			"pts":75},
+		{"id":11,  "name":"Leman Russ Thunderer mit a Commissar-Captain",					"pts":0},
+		{"id":12, "name":"Leman Russ Thunderer mit a Lord Commissar",			"pts":75},
 
         {"id":13, "name":"Commissar-Captain",						"pts":0},
 		{"id":14, "name":"Lord Commissar",				"pts":75},

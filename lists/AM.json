@@ -337,7 +337,7 @@
           "Furchtlos",
           "Entbehrlich"
         ],
-        "notes": "Armed with either Synchronisierte Laserkanone oder Synchronisierter schwerer Bolter. Tarantulas armed with Synchronisierter schwerer Bolter have their firefight value increased to 4+."
+        "notes": "Armed mit either Synchronisierte Laserkanone oder Synchronisierter schwerer Bolter. Tarantulas armed mit Synchronisierter schwerer Bolter have their firefight value increased to 4+."
       },
       {
         "name": "Hyperios Sentry",
@@ -422,7 +422,7 @@
         "specialRules": [
           "Geländegängig"
         ],
-        "notes": "Must choose either an Eradication Beamer, Synchronisierter Heavy Phosphor Blaster, Icarus Array oder Neutron Laser. Onager Dunecrawlers armed with Eradication Beamer have their firefight value increased to 4+."
+        "notes": "Must choose either an Eradication Beamer, Synchronisierter Heavy Phosphor Blaster, Icarus Array oder Neutron Laser. Onager Dunecrawlers armed mit Eradication Beamer have their firefight value increased to 4+."
       },
       {
         "name": "Chimäre",
@@ -751,7 +751,7 @@
         "specialRules": [
           "Slow to Arrive (may only arrive on the battlefield from turn 2 onwards)"
         ],
-        "notes": "Is equipped with either Orbital Bombardment oder zwei Pin Point attacks (may be chosen at the start of battle)"
+        "notes": "Is equipped mit either Orbital Bombardment oder zwei Pin Point attacks (may be chosen at the start of battle)"
       }
     ]
   }

@@ -27,7 +27,7 @@
 
 	],
 	"upgrades":[
-		{"id":10, "name":"Paladinritter with Seneschal",		"pts":100},
+		{"id":10, "name":"Paladinritter mit Seneschal",		"pts":100},
 		{"id":11, "name":"Knight-Baron",						"pts":150},
 		{"id":12, "name":"Seneschal",							"pts":25},
 		{"id":13, "name":"Paladinritter",					"pts":75},

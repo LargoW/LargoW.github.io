@@ -97,7 +97,7 @@
           "name": "Artillerie Kompanie",
           "units": "Ein Ministorum Priest, sechs Basilisken",
           "extraUnits": [
-            "Ersetze sechs Basilisken with sechs Mantikor: 50 Punkte",
+            "Ersetze sechs Basilisken mit sechs Mantikor: 50 Punkte",
             "Flak"
           ],
           "points": 400
@@ -106,7 +106,7 @@
     },
     {
       "name": "Valhallan Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände für jeweils Kern Kompanie.",
+      "description": " Bis zu zwei Unterstützungsverbände pro Kern Kompanie.",
       "formations": [
         {
           "name": "Heavy Panzer Zug",
@@ -247,7 +247,7 @@
       },
       {
         "name": "Stormlord",
-        "description": "Ersetze zwei Valhallan Infanterie Einheiten with eine Stormlord (may not be combined with other Erweiterungen)",
+        "description": "Ersetze zwei Valhallan Infanterie Einheiten mit eine Stormlord (may not be combined mit other Erweiterungen)",
         "points": "125 Punkte"
       }
     ]

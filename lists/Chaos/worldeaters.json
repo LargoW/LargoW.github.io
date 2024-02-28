@@ -132,7 +132,7 @@
           "name": "Chaos Space Marines",
           "units": "Sechs Chaos Space Marines, drei World Eaters Rhinos, Dämonischer Pakt",
           "extraUnits": [
-            "Ersetze drei World Eaters Rhinos with drei Chaos Land Raiders: 125 Punkte",
+            "Ersetze drei World Eaters Rhinos mit drei Chaos Land Raiders: 125 Punkte",
             "Stalker",
             "Vindicators"
           ],
@@ -285,11 +285,11 @@
         "name": "Berzerker Transport",
         "options": [
           {
-            "description": "Ersetze vier Chaos Rhinos with Dreadclaws",
+            "description": "Ersetze vier Chaos Rhinos mit Dreadclaws",
             "points": "Kostenlos"
           },
           {
-            "description": "Ersetze vier Chaos Rhinos with zwei Chaos Spartan Assault Panzers",
+            "description": "Ersetze vier Chaos Rhinos mit zwei Chaos Spartan Assault Panzers",
             "points": "100 Punkte"
           }
         ]

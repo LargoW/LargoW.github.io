@@ -85,13 +85,13 @@
     },
     {
       "name": "Saim-Hann Warhosts",
-      "description": " Bis zu eine Aspect Warrior Host für jeweils Wild Rider Warhost",
+      "description": " Bis zu eine Aspect Warrior Host pro Wild Rider Warhost",
       "formations": [
         {
           "name": "Wild Rider Warhost",
           "units": "Nine Saim-Hann Wild Riders",
           "extraUnits": [
-            "Ersetze any number of Wild Riders with Saim-Hann Vypers: Kostenlos",
+            "Ersetze any number of Wild Riders mit Saim-Hann Vypers: Kostenlos",
             "Ersetze eine Einheit Wild Riders mit einemBeritten Farseer: 25 Punkte",
             "(0-1 pro army) Ersetze eine Einheit Wild Riders mit einemWild Rider Chieftain: 50 Punkte"
           ],
@@ -109,7 +109,7 @@
     },
     {
       "name": "Saim-Hann Troupes",
-      "description": " Bis zu drei für jeweils Saim-Hann Warhost taken",
+      "description": " Bis zu drei pro Saim-Hann Warhost taken",
       "formations": [
         {
           "name": "Beritten Aspect Warrior Troupe",
@@ -138,7 +138,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos",
+            "Ersetze bis zu zwei Falcons mit Firestorms: Kostenlos",
             "Füge fünf Guardians to the formation: 75 Punkte"
           ],
           "points": 250

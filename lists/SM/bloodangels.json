@@ -117,7 +117,7 @@
           "extraUnits": [
             "Befehlshaber",
             "Cybots",
-            "Ersetze eine Assault Terminator with drei Stormravens oder drei Land Raiders: 100 Punkte, oder add zwei Land Raider Redeemers: 100 Punkte"
+            "Ersetze eine Assault Terminator mit drei Stormravens oder drei Land Raiders: 100 Punkte, oder add zwei Land Raider Redeemers: 100 Punkte"
           ],
           "points": 325
         }
@@ -263,7 +263,7 @@
       },
       {
         "name": "Honor Guards",
-        "description": "In a formation containing a Oberbefehlshaber character: replace bis zu zwei Sturmtrupp oder Taktischer Trupp with Sanguinary Guards",
+        "description": "In a formation containing a Oberbefehlshaber character: replace bis zu zwei Sturmtrupp oder Taktischer Trupp mit Sanguinary Guards",
         "points": "25 Punkte jeweils"
       },
       {
