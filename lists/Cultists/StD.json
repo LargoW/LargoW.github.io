@@ -210,7 +210,7 @@
         {
           "name": "Death Wheel of Chaos Undivided",
           "units": "Ein Death Wheel",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 300
         },
@@ -268,7 +268,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Slaves to Darkness Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden. Max 5 different Erweiterungen pro formation.",
     "items": [

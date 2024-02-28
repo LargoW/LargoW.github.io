@@ -136,7 +136,7 @@
         {
           "name": "Flak Emplacement",
           "units": "Vier Schweres Flugabwehrgeschützs, vier Geschützstellungen",
-          "Erweiterungen": [
+          "upgrades": [
             "Ersetze vier Geschützstellungen with vier Trojans: Kostenlos"
           ],
           "points": 175
@@ -173,7 +173,7 @@
         {
           "name": "Macharius Kompanie",
           "units": "Ein Macharius Command mit einem Kommissar, zwei Macharius",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 350
         },
@@ -221,14 +221,14 @@
           "name": "0–1 Orbital Support",
           "units": "Ein Lunar-Klasse Kreuzer",
           "points": 125,
-          "Erweiterungen": [
+          "upgrades": [
             "Ersetze the Cruiser mit einem Imperator-Klasse Schlachtschiff: 50 Punkte"
           ]
         }
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Todeskorps von Krieg Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [

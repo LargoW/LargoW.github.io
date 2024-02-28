@@ -268,7 +268,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [

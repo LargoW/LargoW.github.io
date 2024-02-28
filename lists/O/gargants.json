@@ -64,7 +64,7 @@
         {
           "name": "0-1 Mega Gargant",
           "units": "Ein Mega Gargant",
-          "Erweiterungen": [
+          "upgrades": [
             "Füge a 'Uge Banner of Gork (Inspirierend): 50 Punkte"
           ],
           "points": 950
@@ -72,7 +72,7 @@
         {
           "name": "Great Gargant",
           "units": "Ein Great Gargant",
-          "Erweiterungen": [
+          "upgrades": [
             "Füge a 'Uge Banner of Gork (Inspirierend, 50 Punkte) oder a Big Banner of Mork (Anführer, 25 Punkte. May not be combined with Big Mek)"
           ],
           "points": 750
@@ -80,7 +80,7 @@
         {
           "name": "Gargant",
           "units": "Ein Gargant",
-          "Erweiterungen": [
+          "upgrades": [
             "Füge a Big Banner of Mork (Anführer): 25 Punkte"
           ],
           "points": 550
@@ -198,7 +198,7 @@
         {
           "name": "Jagdbomma Skwadron",
           "units": "Drei Jagdbommas",
-          "Erweiterungen": [
+          "upgrades": [
             "Füge bis zu sechs Jagdbommas: 50 Punkte jeweils"
           ],
           "points": 175
@@ -206,7 +206,7 @@
         {
           "name": "Bommer",
           "units": "Ein Bommer",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 175
         },

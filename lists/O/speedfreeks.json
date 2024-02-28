@@ -157,7 +157,7 @@
         {
           "name": "Fighta Skwadron",
           "units": "Vier Dakkajets",
-          "Erweiterungen": [
+          "upgrades": [
             "Füge bis zu vier Dakkajets: 35 Punkte jeweils"
           ],
           "points": 200
@@ -165,14 +165,14 @@
         {
           "name": "Blitza Skwadron",
           "units": "Drei Blitza-Bommers",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 200
         },
         {
           "name": "Landa",
           "units": "Ein Landa",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 225
         },

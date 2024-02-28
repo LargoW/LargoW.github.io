@@ -180,7 +180,7 @@
         {
           "name": "Forgefiends of Chaos Undivided",
           "units": "Drei Forgefiends",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 225
         },
@@ -226,7 +226,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Traitor Titan Legion Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [

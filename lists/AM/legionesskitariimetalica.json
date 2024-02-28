@@ -156,7 +156,7 @@
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
-          "name": "Paladin Household",
+          "name": "Paladin Häuser",
           "units": "Fünf Ritter-Paladins",
           "extraUnits": [
           ],
@@ -197,7 +197,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Legiones Metalica Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [

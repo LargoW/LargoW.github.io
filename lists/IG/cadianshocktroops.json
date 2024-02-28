@@ -98,7 +98,7 @@
         {
           "name": "Shock Trooper Kompanie",
           "units": "Ein Cadianischer Befehlshaber mit einem Kommissar, eleven Infanterie Einheiten, zwei Crassus Assault Transports",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 400
         }
@@ -112,13 +112,13 @@
           "name": "Kasrkin Zug",
           "units": "Sechs Kasrkin, eine Crassus Assault Transport",
           "points": 275,
-          "Erweiterungen": [
+          "upgrades": [
           ]
         },
         {
           "name": "Whiteshield Zug",
           "units": "Acht Whiteshields, eine Stormlord",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 275
         },
@@ -126,7 +126,7 @@
           "name": "Praetor Batterie",
           "units": "Ein Praetor Assault Launcher",
           "points": 275,
-          "Erweiterungen": [
+          "upgrades": [
           ]
         },
         {
@@ -140,7 +140,7 @@
         {
           "name": "Flak Batterie",
           "units": "Drei Hydra",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 150
         },
@@ -148,7 +148,7 @@
           "name": "Höllenhund Zug",
           "units": "Sechs Höllenhunde",
           "points": 250,
-          "Erweiterungen": [
+          "upgrades": [
             "Füge eine Hydra: 50 Punkte"
           ]
         },
@@ -156,21 +156,21 @@
           "name": "Leman Russ Zug",
           "units": "Sechs Leman Russ, Leman Russ Demolisher oder Leman Russ Punishers",
           "points": 375,
-          "Erweiterungen": [
+          "upgrades": [
             "Füge eine Hydra: 50 Punkte"
           ]
         },
         {
           "name": "Gepanzerter Sentinel Schwadron",
           "units": "Vier Gepanzerter Sentinels",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 125
         },
         {
           "name": "Superschwerer Zug",
           "units": "Ein Baneblade, Stormblade oder Stormsword",
-          "Erweiterungen": [
+          "upgrades": [
             "Upgrade eine Baneblade, Stormblade oder Stormsword to a Shadowsword: 25 Punkte"
           ],
           "points": 175
@@ -184,7 +184,7 @@
         {
           "name": "Warhound Pack",
           "units": "Zwei Warhounds",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 475
         },
@@ -207,14 +207,14 @@
           "name": "0–1 Orbital Support",
           "units": "Ein Lunar-Klasse Kreuzer",
           "points": 150,
-          "Erweiterungen": [
+          "upgrades": [
             "Ersetze mit einem Imperator-Klasse Schlachtschiff: 50 Punkte"
           ]
         }
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Cadian Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
