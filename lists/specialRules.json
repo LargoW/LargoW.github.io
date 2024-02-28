@@ -335,7 +335,7 @@
     {
       "title": "Lucifer Pattern Engine",
       "description": [
-        "Einheiten mit the Lucifer Pattern Engine Sonderregel gain einen zusätzlichen 5cm speed when carrying out an Engage action."
+        "Einheiten mit the Lucifer Pattern Engine Sonderregel gain einen zusätzlichen 5cm speed wenn ein 'Offensive' Befehl ausgeführt werden soll."
       ]
     },
     {
@@ -575,9 +575,9 @@
     {
       "title": "Farsight",
       "description": [
-        "Eldar Verbände that include a unit with the Farsight ability may ignore the -1 penalty to Action test rolls when attempting to retain the Initiative.",
+        "Eldar Verbände that include a unit with the Farsight ability may ignore the -1 penalty to Aktionstest rolls when attempting to retain the Initiative.",
         "In addition once pro turn the Eldar Spieler may attempt to retain the Initiative twice in a row (i.e. allowing the Eldar Spieler to take 3 activations in a row). Any Eldar formation may be selected, including those without a unit with Farsight, but at least eine unit with the Farsight ability must be in play on the battlefield.",
-        "The formation selected must still carry out an Action Test mit einem-1 modifier, unless the selected formation has a unit with the Farsight ability."
+        "The formation selected must still carry out an Aktionstest mit einem-1 modifier, unless the selected formation has a unit with the Farsight ability."
       ]
     },
     {
@@ -1139,13 +1139,13 @@
     {
       "title": "Push 'Em Harder Ladz",
       "description": [
-        "Whenever any type of Gargant passes an Action Test that allows movement, the Spieler may opt to change the unit's speed rating to 20cm für the entire duration of the chosen Action, however if this ability is used the model will receive a Critical Hit für with jeweils move that is carried out."
+        "Whenever any type of Gargant passes an Aktionstest that allows movement, the Spieler may opt to change the unit's speed rating to 20cm für the entire duration of the chosen Action, however if this ability is used the model will receive a Critical Hit für with jeweils move that is carried out."
       ]
     },
     {
       "title": "Köppe zählen",
       "description": [
-        "Orks believe that as long as there’s a bunch of them still fighting together (slightly more than they can count bis zu is ideal!) then there’s always a chance that they’ll prevail, no matter the odds. To represent this, Ork Verbände mit more than fünf units (i.e., too many to count on the fingers of eine hand), not including Grotz oder Big Gunz units, receive a +1 modifier to any rally rolls they make, und Verbände mit more than 10 such units receive a +2 modifier. Für the purposes of this rule Kriegsmaschinen count jeweils point of starting damage capacity as a unit. Kriegsmaschinen with the 'Gottgleiche Maschine' Sonderregel always counts as being more than 10 units."
+        "Orks believe that as long as there’s a bunch of them still fighting together (slightly more than they can count bis zu is ideal!) then there’s always a chance that they’ll prevail, no matter the odds. To represent this, Ork Verbände mit more than fünf units (i.e., too many to count on the fingers of eine hand), not including Grotz oder Big Gunz units, erhalten einen +1 Bonus auf to any rally rolls they make, und Verbände mit more than 10 such units receive a +2 modifier. Für the purposes of this rule Kriegsmaschinen count jeweils point of starting damage capacity as a unit. Kriegsmaschinen with the 'Gottgleiche Maschine' Sonderregel always counts as being more than 10 units."
       ]
     },
     {
@@ -1156,13 +1156,13 @@
     {
       "title": "Rush ‘em Ladz",
       "description": [
-        "Verbände that contain eine oder more Einheiten mit the <i>Rush ‘em Ladz</i> Sonderregel receive a +1 modifier to their Action Test roll when attempting to carry out a March action."
+        "Verbände that contain eine oder more Einheiten mit the <i>Rush ‘em Ladz</i> Sonderregel erhalten einen +1 Bonus auf ihren Aktionstest roll when attempting to carry out a March action."
       ]
     },
     {
       "title": "Macht des Waagh",
       "description": [
-        "Orks are not noted für their organisational abilities, und thus usually have a pretty low Initiative. However, if there is eine thing that will galvanise an Ork warband, it’s the thought of a good punch-up! Because of this, Ork Verbände that are attempting to take engage oder double actions receive a +2 modifier to their Action Test roll. Ork Flyboyz similarly relish the chance to shoot things up, und receive a +2 modifier to their Action Test roll when attempting to carry out Interception oder Ground Attack actions (see Aircraft)."
+        "Orks are not noted für their organisational abilities, und thus usually have a pretty low Initiative. However, if there is eine thing that will galvanise an Ork warband, it’s the thought of a good punch-up! Because of this, Ork Verbände that are attempting to take engage oder double actions receive a +2 modifier ihren Aktionstest roll. Ork Flyboyz similarly relish the chance to shoot things up, und receive a +2 modifier ihren Aktionstest roll when attempting to carry out Interception oder Ground Attack actions (see Aircraft)."
       ]
     },
     {
@@ -1226,50 +1226,50 @@
     {
       "title": "Synapse",
       "description": [
-        "The following rules applies to Primary und Secondary Synapse Swarm Verbände only. Synapse creatures are any unit with the 'Synapse' Sonderregel. A Synapse Swarm with no remaining Synapse creatures has an Initiative Rating of 3+ und may neither capture nor contest objectives, including They Shall Not Pass.",
-        "A Synapse Swarm with remaining Synapse creatures can absorb other Synapse Swarm Verbände mit no remaining Synapse creatures at the end of its action. The formation must have eine unit within 5cm of a unit from the formation(s) being absorbed. The units und Beschussmarke of an absorbed formation become part of the formation (broken Verbände are considered to have an equal number of Beschussmarke as the number of remaining units/starting DC). An absorbed formation is considered completely destroyed für the purposes of tie-break und the Brecht ihren Willen objective."
+        "Die folgenden Regeln betreffen ausschließlich Primäre und Sekundäre Synapsenschwarmverbände. Synapsenkreaturen sind Einheiten mit der Sonderregel 'Synapse'. Ein Synapsenschwarm ohne verbleibende Synapsenkreaturen hat einen Initiative-Wert von 3+ und kann Zielmarker weder erobern noch umkämpfen, inklusive der Siegbedingung 'Sie Können Nicht Vorbei'.",
+        "Ein Synapsenschwarm mit verbleibenden Synapsenkreaturen kann am Ende seiner Aktion andere Synapsenschwarmverbände absorbieren, die keine verbleibenden Synapsenkreaturen mehr haben. Der Verband muss eine Einheit innerhalb von 5 cm zu einer Einheit aus dem/den absorbierten Verband/Verbänden haben. Die Einheiten und Beschussmarken eines absorbierten Verbands werden Teil des absorbierenden Verbands (aufgeriebene Verbände zählen hierbei als hätten sie so viele Beschussmarken wie verbleibende Einheiten/ursprüngliche DC). Ein absorbierter Verband wird zu bei Anwendung der Unentschieden Regelung und hinsichtlich der Siegbedingung 'Brecht ihren Willen' als vollständig zerstört betrachtet."
       ]
     },
     {
       "title": "Schwarmbewusstseinszentrum",
       "description": [
-        "As long as the Tyranid army contains a unit with Schwarmbewusstseinszentrum it may re-roll a single failed Initiative test (of any type) once pro turn (unless all Einheiten mit Schwarmbewusstseinszentrum are located offboard)."
+        "Solange die Tyranidenarmee über mindestens eine Einheit mit der Schwarmbewusstseinszentrum Sonderregel verfügt, darf pro Zug ein misslungener Aktionstest beliebigen Typs wiederholt werden (es sei denn, alle Einheiten mit der Sonderregel Schwarmbewusstseinszentrum sind in Reserve und nicht auf dem Spielfeld)."
       ]
     },
     {
-      "title": "Broodmind",
+      "title": "Brutbewusstsein",
       "description": [
-        "All Symbiontenkult Verbände containing an Iconward, Magus, Primus, Patriarch, oder Broodlord receive a +1 modifier to their Action Test when carrying out an Engage action, und gain a +1 modifier when attempting to Rally."
+        "Alle Symbiontenkult Verbände die einen Ikonenwächter, Magus, Primus, Patriarch, oder Symbiarch enthalten, bekommen einen +1 Bonus auf ihren Aktionstest wenn ein 'Offensive' Befehl ausgeführt werden soll und erhalten weiterhin einen +1 Bonus auf ihren Sammeltest."
       ]
     },
     {
       "title": "Symbiontenkult Charaktermodelle",
       "description": [
-        "Symbiontenkult Charaktermodelle dürfen nur den folgenden Einheiten hinzugefügt werden: INF that were not added to the formation as part of an upgrade."
+        "Symbiontenkult Charaktermodelle dürfen nur den folgenden Einheiten hinzugefügt werden: INF Einheiten die dem Verband nicht durch Erweiterungen hinzugefügt wurden."
       ]
     },
     {
       "title": "Schwarmbewusstsein",
       "description": [
-        "All Tyranid Verbände receive a +1 modifier to their Action Test when carrying out an Engage action, und a +1 modifier to their Rally Tests."
+        "Alle Tyranidenverbände erhalten einen +1 Bonus auf ihren Aktionstest wenn ein 'Offensive' Befehl ausgeführt werden soll, und einen +1 Bonus auf ihren Sammeltest."
       ]
     },
     {
       "title": "Knallt die Großen ab!",
       "description": [
-        "The enemies of the Tyranids have learned that destroying the Schwarmbewusstsein's Synapse Creatures will cause Tyranid swarms to become disorganized. Für this reason certain units which normally would be Infanterie are instead Light Vehicles."
+        "Die Feinde der Tyraniden haben erkannt, das die Vernichtung der Synapsenkreaturen einen Tyranidenschwarm in seine Einzelteile zerfallen lässt weil die Verbindung zum Schwarmbewusstsein unterbrochen wird. Aus diesem Grund zählen bestimmte Einheiten, die normalerweise als Infanterie zählen würden, stattdesssen als leichte Fahrzeuge."
       ]
     },
     {
-      "title": "Extreme Mobility",
+      "title": "Extreme Mobilität",
       "description": [
-        "Tyranid AV und WE units do not take dangerous oder terrain tests. Tyranid LV units move through terrain und receive cover as if they were INF, und Tyranid INF does not need to take difficult terrain tests. Befestigte Stellungen such as Minenfelder, Stacheldraht, und special terrain features affect Tyranids normally."
+        "Tyraniden AV und WE Einheiten legen keine Tests für gefährliches Gelände ab. Tyraniden LV Einheiten bewegen sich durch Gelände wie Infanterie und profitieren auch von Deckung wie Infanterie. Tyraniden INF muss keine Tests für gefährliches Gelände ablegen. Befestigte Stellungen wie Minenfelder, Stacheldraht, und besondere Geländemerkmale beeinflussen Tyraniden wie üblich."
       ]
     },
     {
-      "title": "Extreme Mobility (Symbiontenkult)",
+      "title": "Extreme Mobilität (Symbiontenkult)",
       "description": [
-        "Acolyte Hybrids, Aberrants, Symbionten, und Metamorph Hybrids does not need to take terrain tests. Befestigte Stellungen such as Minenfelder, Stacheldraht, und special terrain features affect these units normally."
+        "Acolyte Hybrids, Aberrants, Symbionten, und Metamorph Hybrids does not need to take terrain tests. Befestigte Stellungen wie Minenfelder, Stacheldraht, und besondere Geländemerkmale beeinflussen diese Einheiten wie üblich."
       ]
     },
     {
@@ -1279,22 +1279,22 @@
       ]
     },
     {
-      "title": "Dagon Vanguard Organisms",
+      "title": "Vorhutkreaturen (Dagon)",
       "description": [
-        "Only Symbionten, Liktoren, und Nest Swarms may deploy as Garnison."
+        "Nur Symbionten, Liktoren, und Schwarmnester dürfen als Garnison aufstellen."
       ]
     },
     {
-      "title": "Hydra Vanguard Organisms",
+      "title": "Vorhutkreaturen (Hydra)",
       "description": [
-        "Only Symbionten, Liktoren, und Dimachaeron may deploy as Garnison."
+        "Nur Symbionten, Liktoren, und Dimachaeron dürfen als Garnison aufstellen."
       ]
     },
     {
       "title": "Schwärmen (x)",
       "description": [
         "In the End Phase, before Verbände have rallied, all unbroken Tyranid Verbände mit both Schwärmen (x) und Synapse creatures may 'Swarm'.",
-        "Für jeweils Swarm point, eine unit with the 'Gaunts' rule that has been lost during the battle may be added to the formation, but jeweils unit with 'Schwärmen (x)' may only bring back the types of units that are within brackets next to its 'Gantenbeutel'.",
+        "Für jeweils Swarm point, eine unit with the 'Ganten' rule that has been lost during the battle may be added to the formation, but jeweils unit with 'Schwärmen (x)' may only bring back the types of units that are within brackets next to its 'Gantenbeutel'.",
         "All units returned to play in this manner must be placed within 5cm of a unit from the formation that was there prior to Swarming, und may not be placed in enemy zones of control oder impassable terrain. Not all generated Swarm Punkte need to be used, but may not be saved für future turns."
       ]
     },
@@ -1307,7 +1307,7 @@
     {
       "title": "Brood Brothers",
       "description": [
-        "As long as a formation contains eine Symbionten Patriarch, Symbionten Primus, Symbionten Magus, oder Hybrid Iconward, units in in the same formation with the 'Brood Brothers' Sonderregel do not cause Beschussmarke when they are destroyed, oder when hit by a weapon with the 'Disrupt' Sonderregel. This includes the extra Beschussmarke from the first casualty of a crossfire und für units destroyed für being out of formation after a move. Einheiten mit 'Brood Brothers' that are killed in an assault count für the purposes of working out its result."
+        "As long as a formation contains eine Symbionten Patriarch, Symbionten Primus, Symbionten Magus, oder Hybrid Ikonenwächter, units in in the same formation with the 'Brood Brothers' Sonderregel do not cause Beschussmarke when they are destroyed, oder when hit by a weapon with the 'Disrupt' Sonderregel. This includes the extra Beschussmarke from the first casualty of a crossfire und für units destroyed für being out of formation after a move. Einheiten mit 'Brood Brothers' that are killed in an assault count für the purposes of working out its result."
       ]
     },
     {

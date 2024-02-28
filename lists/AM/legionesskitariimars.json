@@ -24,7 +24,7 @@
         "Skitarii Rangers",
         "Rapier",
         "Kastelan Robot",
-        "Kataphron Breacher Battle Servitors",
+        "Kataphron Brecher Battle Servitors",
         "Kataphron Destroyer Battle Servitors",
         "Skorpius Dunerider",
         "Skorpius Disintegrator",
@@ -121,7 +121,7 @@
         },
         {
           "name": "Kataphron Manipel",
-          "units": "Ein Tech-Priest, fünf Kataphron Breacher Battle Servitors oder fünf Kataphron Destroyer Battle Servitors",
+          "units": "Ein Tech-Priest, fünf Kataphron Brecher Battle Servitors oder fünf Kataphron Destroyer Battle Servitors",
           "extraUnits": [],
           "points": 250
         },

@@ -47,14 +47,14 @@
           {
             "id": 511,
             "name": "Outrider Squadron",
-            "units": "Hybrid Iconward, 6 Neophyte Outriders",
+            "units": "Hybrid Ikonenwächter, 6 Neophyte Outriders",
             "pts": 150,
             "upgrades": [ 33 ]
           },
         {
           "id": 510,
           "name": "Neophyte Platoon",
-          "units": "Hybrid Iconward, 8 Neophytes",
+          "units": "Hybrid Ikonenwächter, 8 Neophytes",
           "pts": 200,
           "upgrades": [ 42, 50 ]
         },
@@ -81,7 +81,7 @@
         {
           "id": 512,
           "name": "Mechanized Neophyte Platoon",
-          "units": "Hybrid Iconward, 6 Neophytes, 3 Chimera",
+          "units": "Hybrid Ikonenwächter, 6 Neophytes, 3 Chimera",
           "pts": 250,
           "upgrades": [ 53, 50 ]
       },
@@ -103,7 +103,7 @@
     }
   ],
   "upgrades": [
-    { "id": 10, "name": "Acolyte Praetorians with Hybrid Iconward", "pts": 0 },
+    { "id": 10, "name": "Acolyte Praetorians with Hybrid Ikonenwächter", "pts": 0 },
     { "id": 11, "name": "Acolyte Praetorians with Genestealer Primus", "pts": 25 },
 		{ "id": 12, "name": "Acolyte Praetorians with Genestealer Magus", "pts": 50 },
 		{ "id": 13, "name": "Metamorph Hybrids", "pts": 25 },

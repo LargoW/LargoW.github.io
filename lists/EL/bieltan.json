@@ -95,7 +95,7 @@
       "formations": [
         {
           "name": "Beritten Aspect Warrior Warhost",
-          "units": "Vier Wave Serpents und acht Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions oder Swooping Hawks. The formation may not mix aspects.",
+          "units": "Vier Wave Serpents und acht Aspect Warrior units ausgewählt aus the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions oder Swooping Hawks. The formation may not mix aspects.",
           "extraUnits": [
             "Autarch",
             "Exarchs",
@@ -106,7 +106,7 @@
         },
         {
           "name": "Aspect Warrior Warhost",
-          "units": "Acht Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Shining Spears, Striking Scorpions, Swooping Hawks oder Warp Spiders. The formation may not mix aspects.",
+          "units": "Acht Aspect Warrior units ausgewählt aus the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Shining Spears, Striking Scorpions, Swooping Hawks oder Warp Spiders. The formation may not mix aspects.",
           "extraUnits": [
             "Autarch",
             "Exarchs"
@@ -185,9 +185,9 @@
         },
         {
           "name": "Engines of Vaul",
-          "units": "Ein Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
+          "units": "Ein Engine of Vaul ausgewählt aus the following: Cobra, Scorpion, Storm Serpent",
           "extraUnits": [
-            "Füge bis zu zwei additional Engine of Vaul für 200 Punkte jeweils chosen from the following: Cobra, Scorpion, Storm Serpent"
+            "Füge bis zu zwei additional Engine of Vaul für 200 Punkte jeweils ausgewählt aus the following: Cobra, Scorpion, Storm Serpent"
           ],
           "points": 250
         }
