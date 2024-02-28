@@ -593,7 +593,7 @@
           "Furchtlos"
         ],
         "notes": "Armed mit einemsingle Battle Weapon. May be upgraded to a Support Weapon.",
-        "crit": "The Ordinatus is destroyed, und any Einheiten mitin 5cm suffers a hit on 5+"
+        "crit": "The Ordinatus is destroyed, und any Einheiten innerhalb von 5cm suffers a hit on 5+"
       },
       {
         "name": "Ordinatus Minoris ",
@@ -619,7 +619,7 @@
           "Furchtlos"
         ],
         "notes": "Armed mit einemsingle Battle Weapon.",
-        "crit": "The Ordinatus is destroyed, und any Einheiten mitin 5cm suffers a hit on 5+"
+        "crit": "The Ordinatus is destroyed, und any Einheiten innerhalb von 5cm suffers a hit on 5+"
       },
       {
         "name": "Ordinatus Majoris",
@@ -644,7 +644,7 @@
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "crit": "The Ordinatus is destroyed, und any Einheiten mitin 5cm suffers a hit on 4+"
+        "crit": "The Ordinatus is destroyed, und any Einheiten innerhalb von 5cm suffers a hit on 4+"
       },
       {
         "name": "Gorgon",

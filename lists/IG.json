@@ -1504,7 +1504,7 @@
         ],
         "specialRules": [
         ],
-        "crit": "The Minotaur is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "The Minotaur is destroyed. All Einheiten innerhalb von 5cm suffers a hit on 6+."
       },
       {
         "name": "Macharius",
@@ -1591,7 +1591,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All Einheiten mitin 5cm of the model suffer a hit on a roll of 4+."
+        "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All Einheiten innerhalb von 5cm of the model suffer a hit on a roll of 4+."
       },
       {
         "name": "Gorgon",
@@ -1630,7 +1630,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
       },
       {
         "name": "Hellhammer",
@@ -1650,7 +1650,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
       },
       {
         "name": "Stormlord",
@@ -1688,7 +1688,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
       },
       {
         "name": "Shadowsword",
@@ -1705,7 +1705,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
       },
       {
         "name": "Stormblade",
@@ -1723,7 +1723,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
       },
       {
         "name": "Stormsword",
@@ -1741,7 +1741,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
       },
       {
         "name": "Stormhammer",
@@ -1760,7 +1760,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
       }
     ]
   }

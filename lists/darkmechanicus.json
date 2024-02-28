@@ -259,7 +259,7 @@
           "Furchtlos"
         ],
         "notes": "Armed mit einemsingle Battle Weapon. May be upgraded to a Support Weapon.",
-        "crit": "The Ordinatus is destroyed, und any Einheiten mitin 5cm suffers a hit on 5+."
+        "crit": "The Ordinatus is destroyed, und any Einheiten innerhalb von 5cm suffers a hit on 5+."
       },
       {
         "name": "Ordinatus Hereticus ",
@@ -282,7 +282,7 @@
           "Furchtlos"
         ],
         "notes": "Entweder mit Turbo Blaster, Doom Burner, Plasma Cremator oder Synchronisierter Hades Maschinenkanone.",
-        "crit": "The Ordinatus is destroyed, und any Einheiten mitin 5cm suffers a hit on 5+."
+        "crit": "The Ordinatus is destroyed, und any Einheiten innerhalb von 5cm suffers a hit on 5+."
       },
       {
         "name": "Ordinatus Hereticus Majoris",
@@ -307,7 +307,7 @@
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "crit": "The Ordinatus is destroyed, und any Einheiten mitin 5cm suffers a hit on 4+"
+        "crit": "The Ordinatus is destroyed, und any Einheiten innerhalb von 5cm suffers a hit on 4+"
       },
       {
         "name": "Ordinatus Cyclothrathe",
@@ -327,7 +327,7 @@
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "crit": "The Ordinatus is destroyed, und any Einheiten mitin 5cm suffers a hit on 4+"
+        "crit": "The Ordinatus is destroyed, und any Einheiten innerhalb von 5cm suffers a hit on 4+"
       },
       {
         "name": "The Kaban Machine",
@@ -348,7 +348,7 @@
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "crit": "The Kaban Machine is destroyed. All Einheiten mitin 5cm takes a hit."
+        "crit": "The Kaban Machine is destroyed. All Einheiten innerhalb von 5cm takes a hit."
       },
       {
         "name": "Defiler",
@@ -596,7 +596,7 @@
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ],
-        "crit": "The Vernichter is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "The Vernichter is destroyed. All Einheiten innerhalb von 5cm suffers a hit on 6+."
       },
       {
         "name": "Death Wheel",
@@ -838,7 +838,7 @@
           "Regeneration",
           "Daemon Engine (Nurgle)"
         ],
-        "crit": "The Plague Reaper is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "The Plague Reaper is destroyed. All Einheiten innerhalb von 5cm suffers a hit on 6+."
       },
       {
         "name": "Ritter-Desecrator",
@@ -1146,7 +1146,7 @@
           "Daemon Engine (Tzeentch)",
           "Regeneration"
         ],
-        "crit": "The Warp Palace takes eine additional damage. Any Einheiten mitin 5cm takes einen zusätzlichen hit with MW on 6+."
+        "crit": "The Warp Palace takes eine additional damage. Any Einheiten innerhalb von 5cm takes einen zusätzlichen hit with MW on 6+."
       }
     ]
   }

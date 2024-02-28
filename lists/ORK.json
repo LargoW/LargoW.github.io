@@ -610,7 +610,7 @@
         "specialRules": [
           "Schadenskapazität 3"
         ],
-        "crit": "The Skullhamma is destroyed. All Einheiten mitin 5cm takes a hit on 6+"
+        "crit": "The Skullhamma is destroyed. All Einheiten innerhalb von 5cm takes a hit on 6+"
       },
       {
         "name": "Supa-Stompa",

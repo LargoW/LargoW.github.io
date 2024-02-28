@@ -848,7 +848,7 @@
       "title": "Daemon Engine (x)",
       "description": [
         "Verbände where at least eine unit has the Daemon Engine (x) Sonderregel gain the bonus associated with that faction:",
-        "<ul><li>Chaos Undivided: Formation ignores the -1 modifier für enemy Verbände mitin 30cm when rallying.</li><li>Khorne: Formation gains +1 to activate when attempting to Engage.</li><li>Nurgle: Formation gains +1 to activate when attempting to Marshal.</li><li>Slaanesh: Formation gains +1 to activate when attempting to Double.</li><li>Tzeentch: Formation gains +1 to activate when attempting to Advance.</li></ul>"
+        "<ul><li>Chaos Undivided: Formation ignores the -1 modifier für enemy Verbände innerhalb 30cm when rallying.</li><li>Khorne: Formation gains +1 to activate when attempting to Engage.</li><li>Nurgle: Formation gains +1 to activate when attempting to Marshal.</li><li>Slaanesh: Formation gains +1 to activate when attempting to Double.</li><li>Tzeentch: Formation gains +1 to activate when attempting to Advance.</li></ul>"
       ]
     },
     {
@@ -1186,7 +1186,7 @@
     {
       "title": "Koordinierter Beschuss",
       "description": [
-        "A formation that contains at least eine unit with Koordinierter Beschuss can order bis zu zwei other un-broken Verbände mitin 15cm that have not taken an action this turn to follow their own formation when they take an Advance, Double oder Sustained Fire action.",
+        "A formation that contains at least eine unit with Koordinierter Beschuss can order bis zu zwei other un-broken Verbände innerhalb von 15cm that have not taken an action this turn to follow their own formation when they take an Advance, Double oder Sustained Fire action.",
         "Make a single Initiative roll für all foarmations, counting a single -1 modifier if any have Beschussmarke. If the test is failed then the original formation (containing the unit calling für Koordinierter Beschuss) receives a Beschussmarke und must take a hold action. The other Verbände are unaffected (und may take an action later in the turn). If the test is passed then all Verbände concerned are allowed to take either an Advance, Double oder Sustained Fire action.",
         "There is no obligation für all Verbände to take the same action, und these actions may be resolved in any order, but they must all fire at the same target formation. If the formation being activated is unable oder unwilling to fire at the selected formation, it cannot fire at all that turn. The Verbände don’t have to stay within a given distance of jeweils other und will complete their actions eine after the other. Jeweils Verbände action is declared und resolved (including testing to see if the target formation breaks) before moving on to the next Tau formation."
       ]
@@ -1325,7 +1325,7 @@
     {
       "title": "Overlord Insertion",
       "description": [
-        "Some Primaris Space Marines are equipped with heavy Sprungmodule oder Gravschirme designed to be dropped from low orbit onto the battlefield from the assault bays of low-orbiting attack crafts. This ability is represented by the formation gaining the <i>Planetare Selbstlandung</i> Sonderregel, with eine exception: Roll to scatter only für the first unit in the formation, then place the rest of the Einheiten mitin 5cm of the first unit."
+        "Some Primaris Space Marines are equipped with heavy Sprungmodule oder Gravschirme designed to be dropped from low orbit onto the battlefield from the assault bays of low-orbiting attack crafts. This ability is represented by the formation gaining the <i>Planetare Selbstlandung</i> Sonderregel, with eine exception: Roll to scatter only für the first unit in the formation, then place the rest of the Einheiten innerhalb von 5cm of the first unit."
       ]
     }
   ]

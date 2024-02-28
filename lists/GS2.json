@@ -276,7 +276,7 @@
           "Schadenskapazität 4",
           "Furchtlos"
         ],
-        "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All Einheiten mitin 5cm of the model suffer a hit on a roll of 4+."
+        "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All Einheiten innerhalb von 5cm of the model suffer a hit on a roll of 4+."
       },
       {
         "name": "Assault Excavator",
