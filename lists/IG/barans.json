@@ -44,10 +44,10 @@
         "Leichter Siegfried Panzer",
         "Hades Durchbruchsbohrfahrzeug",
         "Macharius",
-        "Macharius Command",
+        "Macharius Kommandopanzer",
         "Malcador",
         "Malcador Defender",
-        "Defense Laser"
+        "Verteidigungslaser"
       ],
       "unitRules": [
         "Schwergepanzertes Fahrzeug (H-AV)"
@@ -77,7 +77,7 @@
               "40cm of Stacheldraht und 4cm of Gräben pro Einheit INF in the formation: 50 Punkte. Ersetze 24cm of Gräben mit zwei Bunker: 25 Punkte",
               "Fünf Belagerungsinfanterie, oder zwei Scharfschützen, oder zwei Pioniere, oder zwei Ogryns: 50 Punkte",
               "Vier Rapiers, oder drei Tunnelmörser Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafettes mit zwei Geschützstellungen, oder eine Todesstoss-Raketensystem: 75 Punkte",
-              "Ein Defense Laser, oder zwei Malcadors, oder zwei Malcador Defenders: 150 Punkte"
+              "Ein Verteidigungslaser, oder zwei Malcadors, oder zwei Malcador Defenders: 150 Punkte"
           ],
           "points": 225
         },
@@ -88,7 +88,7 @@
               "40cm of Stacheldraht und 4cm of Gräben pro Einheit INF in the formation: 50 Punkte. Ersetze 24cm of Gräben mit zwei Bunker: 25 Punkte",
               "Fünf Belagerungsinfanterie, oder zwei Scharfschützen, oder zwei Pioniere, oder zwei Ogryns: 50 Punkte",
               "Vier Rapiers, oder drei Tunnelmörser Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafettes mit zwei Geschützstellungen, oder eine Todesstoss-Raketensystem: 75 Punkte",
-              "Ein Defense Laser, oder zwei Malcadors, oder zwei Malcador Defenders: 150 Punkte"
+              "Ein Verteidigungslaser, oder zwei Malcadors, oder zwei Malcador Defenders: 150 Punkte"
           ],
           "points": 175
       }
@@ -108,7 +108,7 @@
         },
         {
           "name": "Macharius Kompanie",
-          "units": "Ein Macharius Command mit einem Kommissar, zwei Macharius",
+          "units": "Ein Macharius Kommandopanzer mit einem Kommissar, zwei Macharius",
           "extraUnits": [
               "Füge bis zu drei Höllenhunde, Bane Wolves, oder Devil Dogs: 25 Punkte jeweils"
           ],
@@ -177,8 +177,8 @@
           "points": 125
       },
       {
-        "name": "Defense Laser",
-        "units": "Ein Defense Laser",
+        "name": "Verteidigungslaser",
+        "units": "Ein Verteidigungslaser",
         "extraUnits": [
         ],
         "points": 200

@@ -31,7 +31,7 @@
         "Vallhalanischer Greif",
         "Schwerer Ragnarok Panzer",
         "Macharius",
-        "Macharius Command",
+        "Macharius Kommandopanzer",
         "Baneblade",
         "Shadowsword",
         "Stormlord"
@@ -119,7 +119,7 @@
         },
         {
           "name": "Macharius Kompanie",
-          "units": "Ein Macharius Command mit einemMinistorum Priest, zwei Macharius",
+          "units": "Ein Macharius Kommandopanzer mit einemMinistorum Priest, zwei Macharius",
           "extraUnits": [
             "Flak"
           ],

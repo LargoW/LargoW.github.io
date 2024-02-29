@@ -30,8 +30,8 @@
         "Leman Russ",
         "Leman Russ Belagerer",
         "Leman Russ Vollstrecker",
-        "Crassus Assault Transport",
-        "Praetor Assault Launcher",
+        "Crassus Sturmtransporter",
+        "Praetor Angriffswerfer",
         "Stormlord",
         "Shadowsword",
         "Baneblade",
@@ -110,7 +110,7 @@
       "formations": [
         {
           "name": "Kasrkin Zug",
-          "units": "Sechs Kasrkin, eine Crassus Assault Transport",
+          "units": "Sechs Kasrkin, eine Crassus Sturmtransporter",
           "points": 275,
           "upgrades": [
           ]
@@ -124,7 +124,7 @@
         },
         {
           "name": "Praetor Batterie",
-          "units": "Ein Praetor Assault Launcher",
+          "units": "Ein Praetor Angriffswerfer",
           "points": 275,
           "upgrades": [
           ]

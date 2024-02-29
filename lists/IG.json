@@ -1354,7 +1354,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Rocket Pods",
+          "Salvenraketenwerfer",
           "Multilaser",
           "Schwerer Bolter|2|"
         ],
@@ -1456,7 +1456,7 @@
         "ff": 4,
         "weapons": [
           "Demolisher Geschütz",
-          "Schwerer Bolter Array"
+          "Schwerer Bolterverbund"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1464,7 +1464,7 @@
         ]
       },
       {
-        "name": "Praetor Assault Launcher",
+        "name": "Praetor Angriffswerfer",
         "type": "H-AV",
         "speed": 25,
         "armour": 3,
@@ -1472,13 +1472,13 @@
         "ff": 5,
         "weapons": [
           "Schwerer Bolter|2",
-          "Praetor Heavy Assault Launcher"
+          "Praetor schwerer Angriffswerfer"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Crassus Assault Transport",
+        "name": "Crassus Sturmtransporter",
         "type": "H-AV",
         "speed": 25,
         "armour": 3,
@@ -1490,7 +1490,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry sechs Infanterie Einheiten ohne Sprungmodule oder Beritten"
+        "notes": "Darf sechs Infanterie Einheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Minotaur",
@@ -1500,11 +1500,11 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Synchronisierter Tremorkanone"
+          "Synchronisierte Tremorkanone"
         ],
         "specialRules": [
         ],
-        "crit": "The Minotaur wird zerstört. All Einheiten innerhalb von 5cm suffers a hit on 6+."
+        "crit": "Der Minotaur wird zerstört. Alle Einheiten innerhalb von 5cm erleiden einen Treffer auf 6+."
       },
       {
         "name": "Macharius",
@@ -1523,27 +1523,25 @@
         ]
       },
       {
-        "name": "Macharius Command",
+        "name": "Macharius Kommandopanzer",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Synchronisierter Vernichter-Panzerabwehrkanone|0-1|",
+          "Synchronisierte Vernichter-Panzerabwehrkanone|0-1|",
           "Vulcan Mega-Bolter|0-1|",
           "Synchronisiertes schweres Maschinengewehr||",
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
-          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "notes": "Must be equipped mit either Synchronisierter Vernichter-Panzerabwehrkanone oder a Vulcan Mega-Bolter.",
-        "crit": "The Macharius wird zerstört."
+        "notes": "Ist entweder mit einer Synchronisierten Vernichter-Panzerabwehrkanone oder einem Vulcan Mega-Bolter bewaffnet."
       },
       {
-        "name": "Baran Macharius",
+        "name": "Baranischer Macharius",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -1554,10 +1552,8 @@
           "Synchronisiertes schweres Maschinengewehr|3|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität 2",
           "Verstärkte Panzerung"
-        ],
-        "crit": "The Macharius wird zerstört."
+        ]
       },
       {
         "name": "Macharius Medusa",
@@ -1571,20 +1567,18 @@
           "Synchronisiertes schweres Maschinengewehr|3|"
         ],
         "specialRules": [
-          "Schadenskapazität 2",
           "Verstärkte Panzerung"
-        ],
-        "crit": "The Macharius wird zerstört."
+        ]
       },
       {
-        "name": "Defense Laser",
+        "name": "Verteidigungslaser",
         "type": "WE",
         "speed": "Immobil",
         "armour": 4,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Planetary Defense Laser",
+          "Planetarer Verteidigungslaser",
           "Synchronisiertes schweres Maschinengewehr|3|"
         ],
         "specialRules": [

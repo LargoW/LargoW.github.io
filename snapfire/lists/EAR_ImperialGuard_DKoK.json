@@ -43,8 +43,8 @@
 		{ "id":22, "name":"4 Storm Chimeras", "pts":0},
 		{ "id":23, "name":"Gorgon", "pts":0},
 
-		{ "id":24, "name":"Macharius Command Tank mit a Commissar (Twin Vanquishers)", "pts":0 },
-		{ "id":25, "name":"Macharius Command Tank mit a Commissar (Vulcan Mega-Bolter)", "pts":0 },
+		{ "id":24, "name":"Macharius Kommandopanzer Tank mit a Commissar (Twin Vanquishers)", "pts":0 },
+		{ "id":25, "name":"Macharius Kommandopanzer Tank mit a Commissar (Vulcan Mega-Bolter)", "pts":0 },
 
 		{ "id":26, "name":"6 Leman Russ Thunderers", "pts":0},
 		{ "id":27, "name":"6 Leman Russ Annihilators", "pts":0},

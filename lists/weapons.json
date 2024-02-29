@@ -3452,7 +3452,7 @@
       ]
     },
     {
-      "name": "Defense Laser",
+      "name": "Verteidigungslaser",
       "modes": [
         {
           "firepower": "MW2+/AA5+",
@@ -3464,7 +3464,7 @@
       ]
     },
     {
-      "name": "Retrofitted Defense Laser",
+      "name": "Retrofitted Verteidigungslaser",
       "modes": [
         {
           "firepower": "MW4+",
@@ -3476,7 +3476,7 @@
       ]
     },
     {
-      "name": "Planetary Defense Laser",
+      "name": "Planetarer Verteidigungslaser",
       "modes": [
         {
           "firepower": "MW4+",
@@ -3894,7 +3894,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Tremorkanone",
+      "name": "Synchronisierte Tremorkanone",
       "modes": [
         {
           "firepower": "AP3+/AT3+",
@@ -8551,7 +8551,7 @@
       ]
     },
     {
-      "name": "Praetor Heavy Assault Launcher",
+      "name": "Praetor schwerer Angriffswerfer",
       "modes": [
         {
           "firepower": "3BP",
@@ -9426,7 +9426,7 @@
       ]
     },
     {
-      "name": "Rocket Pods",
+      "name": "Salvenraketenwerfer",
       "modes": [
         {
           "firepower": "1BP",
@@ -12871,7 +12871,7 @@
       ]
     },
     {
-      "name": "Icarus Rocket Pods",
+      "name": "Icarus Salvenraketenwerfer",
       "modes": [
         {
           "firepower": "AA5+",

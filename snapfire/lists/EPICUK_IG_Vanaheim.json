@@ -25,11 +25,11 @@
 	"upgrades":[
         {"id":1, "name":"Commissar",				"pts":0},
 
-		{"id":11, "name":"Valkyrie",	"pts":0},
+		{"id":11, "name":"Walküre",	"pts":0},
         {"id":12, "name":"Vendetta",			"pts":0},
-		{"id":13, "name":"2 Vanaheim Infantry, Valkyrie",	"pts":75},
-        {"id":14, "name":"2 Vanaheim Fire Support, Valkyrie",			"pts":100},
-		{"id":15, "name":"2 Mortar Support, Valkyrie",	"pts":75},
+		{"id":13, "name":"2 Vanaheim Infantry, Walküre",	"pts":75},
+        {"id":14, "name":"2 Vanaheim Fire Support, Walküre",			"pts":100},
+		{"id":15, "name":"2 Mortar Support, Walküre",	"pts":75},
 
 		{"id":23, "name":"Lunar Class Cruiser",			"pts":0},
 		{"id":24, "name":"Emperor Class Battleship",	"pts":50},

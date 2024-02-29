@@ -28,7 +28,7 @@
         "Tauros",
         "Tauros Venator",
         "Sky Talon",
-        "Valkyrie",
+        "Walküre",
         "Vendetta",
         "Vulture"
       ],
@@ -188,17 +188,17 @@
     "items": [
       {
         "name": "Luftlandungs-Sentinels",
-        "description": "Ersetze zwei elysianische Sturmtruppen und eine Valkyrie mit zwei Luftlandungs-Sentinels und einem Sky Talon.",
+        "description": "Ersetze zwei elysianische Sturmtruppen und eine Walküre mit zwei Luftlandungs-Sentinels und einem Sky Talon.",
         "points": "Kostenlos"
       },
       {
         "name": "Unterstützungstrupps",
-        "description": "Ersetze zwei elysianische Sturmtruppen und eine Valkyrie mit zwei elysianischen Unterstützungstrupps und einer Vendetta.",
+        "description": "Ersetze zwei elysianische Sturmtruppen und eine Walküre mit zwei elysianischen Unterstützungstrupps und einer Vendetta.",
         "points": "25 Punkte"
       },
       {
         "name": "Infanterie Zug",
-        "description": "Füge zwei elysianische Sturmtruppen und eine Valkyrie hinzu.",
+        "description": "Füge zwei elysianische Sturmtruppen und eine Walküre hinzu.",
         "points": "75 Punkte"
       }
     ]

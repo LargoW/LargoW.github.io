@@ -4,7 +4,7 @@
   "version": "0.6.0",
   "release": "2022-04-01",
   "strategy": "Deathwatch Armeen haben einen Strategiewert von 5.",
-  "Initiative": "Ordo Xenos und Planetary Defense Force Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
+  "Initiative": "Ordo Xenos und Planetarer Defense Force Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
   "armyRules": "The <i>Sie kennen keine Furcht</i> Sonderregel applies to all Deathwatch detachments und Aircraft Verbände.",
   "specialRules": [
     "Ad Hoc Verbände",
@@ -154,7 +154,7 @@
           "points": 250
         },
         {
-          "name": "Planetary Defense Zug",
+          "name": "Planetarer Defense Zug",
           "units": "Acht PDS Infanterie, vier Land Transporters",
           "extraUnits": [
             "Ersetze vier Land Transporters mit drei Thudd Guns oder drei Flakk Teams: 25 Punkte"

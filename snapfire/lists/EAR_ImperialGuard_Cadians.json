@@ -6,11 +6,11 @@
 		{"name":"CADIAN Kern COMPANIES", "formations":[
 			{"id":500, "name":"Regimental HQ", "pts":400, "upgrades":[30,31,32,33, 34,35,36], "units":"Cadian Supreme Commander mit a Commissar, 8 Kasrkin"},
 			{"id":501, "name":"Whiteshield Company", "pts":400, "upgrades":[30,31,32,33, 34,35,36], "units":"Cadian Commander mit a Commissar, 15 Weißbleche, 2 Stormlord"},
-			{"id":502, "name":"Shock Trooper Company", "pts":400, "upgrades":[], "units":"Cadian Commander mit Commissar, 11 Infantry, 2 Crassus Assault Transport"}
+			{"id":502, "name":"Shock Trooper Company", "pts":400, "upgrades":[], "units":"Cadian Commander mit Commissar, 11 Infantry, 2 Crassus Sturmtransporter"}
 		]},
 		{"name":"CADIAN SUPPORT FORMATIONS <br/> Up to 3 for each Kern Company", "formations":[
-			{"id":509, "name":"Kasrkin Platoon", "pts":275, "upgrades":[], "units":"6 Kasrkin, Crassus Assault Transport"},
-			{"id":510, "name":"Praetor Battery", "pts":275, "upgrades":[], "units":"Praetor Assault Launcher"},
+			{"id":509, "name":"Kasrkin Platoon", "pts":275, "upgrades":[], "units":"6 Kasrkin, Crassus Sturmtransporter"},
+			{"id":510, "name":"Praetor Battery", "pts":275, "upgrades":[], "units":"Praetor Angriffswerfer"},
 			{"id":511, "name":"Siege Artillery Battery", "pts":225, "upgrades":[18]},
 			{"id":512, "name":"Leman Russ Platoon", "pts":375, "upgrades":[18]},
 			{"id":513, "name":"Flak Battery", "pts":150, "upgrades":[], "units":"3 Hydras"},

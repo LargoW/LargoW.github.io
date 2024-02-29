@@ -118,7 +118,7 @@
       "description": " Bis zu eine Retainer Formation pro Kern oder Support Häuser.",
       "formations": [
         {
-          "name": "Planetary Defense Zug",
+          "name": "Planetarer Defense Zug",
           "units": "Acht PDS Infanterie",
           "extraUnits": [
             "Land Transporters",

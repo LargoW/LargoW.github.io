@@ -69,8 +69,8 @@
 		{ "id":114, "name":"6 Fire Supports", "pts":75 },
 		{ "id":111, "name":"10 Death Korps Infantry", "pts":175 },
 		{ "id":101, "name":"Hydra", "pts":50 },
-		{ "id":103, "name":"Macharius Command w/ Twin Vanquisher", "pts":0 },
-		{ "id":104, "name":"Macharius Command w/ Vulcan Mega-Bolter", "pts":0 },
+		{ "id":103, "name":"Macharius Kommandopanzer w/ Twin Vanquisher", "pts":0 },
+		{ "id":104, "name":"Macharius Kommandopanzer w/ Vulcan Mega-Bolter", "pts":0 },
 
 		{ "id":109, "name":"Macharius", "pts":100 },
 
