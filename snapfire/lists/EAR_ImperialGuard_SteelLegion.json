@@ -30,7 +30,7 @@
 			{"id":535, "name":"Warlord Titan",		"pts":750, "upgrades":[]},
 			{"id":532, "name":"Thunderbolt Squadron",	"pts":175, "upgrades":[], "units":"2 Thunderbolt Fighters"},
 			{"id":533, "name":"Marauder Squadron",		"pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
-			{"id":534, "name":"Orbital Support",		"pts":150, "upgrades":[]}
+			{"id":534, "name":"Orbitalunterstüzung",		"pts":150, "upgrades":[]}
 		]}
 	],
 	"upgrades":[

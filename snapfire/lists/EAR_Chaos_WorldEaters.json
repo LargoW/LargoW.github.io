@@ -32,7 +32,7 @@
             {"id": 553, "name": "Tower of Skulls", "pts": 600, "upgrades": []},
             {"id":554, "name":"Hell Blade Squadron",	"pts":175, "units":"3 Hell Blade Fighters", "upgrades":[]},
 			{"id":555, "name":"Hell Talon Squadron",	"pts":225, "units":"2 Hell Talon Fighter-Bombers", "upgrades":[]},
-            {"id": 557, "name": "Orbital Support", "pts": 150, "upgrades": []}
+            {"id": 557, "name": "Orbitalunterstüzung", "pts": 150, "upgrades": []}
          ]}
    ],
    "upgrades": [

@@ -18,7 +18,7 @@
 			{"id":515, "name":"Whirlwinds",		"pts":275, "units":"4 Whirlwinds", "upgrades":[36,37,30,31]},
 			{"id":506, "name":"Predators",		"pts":250, "upgrades":[30,31,36,37]},
 			{"id":505, "name":"Landing Craft",			"pts":350, "upgrades":[]},
-			{"id":509, "name":"Orbital Support",	"pts":200, "upgrades":[]}
+			{"id":509, "name":"Orbitalunterstüzung",	"pts":200, "upgrades":[]}
 			]},
 		{"name":"WHITE SCARS NAVY & COLLEGIA TITANICA ALLIES <br/> Max 33%", "formations":[
 			{"id":517, "name":"Storm Talons",			"pts":200, "units":"2 Storm Talons", "upgrades":[]},

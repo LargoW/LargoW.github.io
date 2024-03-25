@@ -20,7 +20,7 @@
 			{"id":521, "name":"Ministorum Mission",		"pts":200, "units":"6 Battle Sisters, 3 Sororitas Rhinos", "upgrades":[]},
 			{"id":522, "name":"Lightning Squadron",		"pts":175, "units":"2 Lightning Abfangjäger", "upgrades":[]},
 			{"id":523, "name":"Marauder Destroyer",		"pts":175, "upgrades":[]},
-			{"id":524, "name":"Orbital Support",		"pts":150, "upgrades":[]}
+			{"id":524, "name":"Orbitalunterstüzung",		"pts":150, "upgrades":[]}
 		]}
 	],
 	"upgrades":[

@@ -50,7 +50,7 @@
         "Hydra",
         "Höllenhund",
         "Vulture",
-        "Walküre"
+        "Valkyrie"
       ],
       "unitRules": [
       ]
@@ -198,7 +198,7 @@
           "points": 175
         },
         {
-          "name": "0–1 Orbital Support",
+          "name": "0–1 Orbitalunterstüzung",
           "units": "Ein Lunar-Klasse Kreuzer",
           "extraUnits": [
             "Ersetze the Lunar-Klasse Kreuzer mit einem Imperator-Klasse Schlachtschiff: 50 Punkte"

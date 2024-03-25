@@ -36,7 +36,7 @@
         "Leman Russ Vernichter",
         "Leman Russ Vollstrecker",
         "Mantikor",
-        "Walküre",
+        "Valkyrie",
         "Vulture",
         "Shadowsword",
         "Baneblade"
@@ -246,7 +246,7 @@
           "points": 250
         },
         {
-          "name": "0–1 Orbital Support",
+          "name": "0–1 Orbitalunterstüzung",
           "units": "Ein Lunar-Klasse Kreuzer",
           "points": 125,
           "extraUnits": [

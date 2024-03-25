@@ -22,7 +22,7 @@
 		{"name":"IMPERIAL NAVY SUPPORT <br/> Max 25%", "formations":[
 			{"id":520, "name":"Thunderbolt Squadron", "pts":175, "upgrades":[], "units":"2 Thunderbolt Fighters"},
 			{"id":523, "name":"Marauder Squadron", "pts":250, "upgrades":[]},
-			{"id":522, "name":"Orbital Support",	"pts":150, "upgrades":[]}
+			{"id":522, "name":"Orbitalunterstüzung",	"pts":150, "upgrades":[]}
 		]}
 	],
 	"upgrades":[

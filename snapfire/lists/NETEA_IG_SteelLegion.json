@@ -24,7 +24,7 @@
 		{"name":"IMPERIAL NAVY & TITAN LEGION ALLIES <br/> Max 33%", "formations":[
 			{"id":519, "name":"Thunderbolt Squadron",	"pts":150, "upgrades":[], "units":"2 Thunderbolt Fighters"},
 			{"id":520, "name":"Marauder Squadron",		"pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
-			{"id":508, "name":"Orbital Support",				"pts":150, "upgrades":[]},
+			{"id":508, "name":"Orbitalunterstüzung",				"pts":150, "upgrades":[]},
 			{"id":522, "name":"Warlord Titan",	"pts":825, "upgrades":[]},
 			{"id":523, "name":"Reaver Titan",	"pts":650, "upgrades":[]},
 			{"id":524, "name":"Warhound Titan",		"pts":275, "upgrades":[]},

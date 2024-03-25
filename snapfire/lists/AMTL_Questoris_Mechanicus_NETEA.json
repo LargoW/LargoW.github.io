@@ -28,7 +28,7 @@
 			{"id":520, "name":"Warhound Scout Titan Pack",	"pts":500, "upgrades":[], "units":"2 Warhound Titans"},
 			{"id":521, "name":"Reaver Titan",			"pts":650, "upgrades":[], "units":"1 Reaver Titan"},
 			
-			{"id":522, "name":"Orbital Support", 		"pts":150, "upgrades":[]}
+			{"id":522, "name":"Orbitalunterstüzung", 		"pts":150, "upgrades":[]}
 			
 		]}
 	],	

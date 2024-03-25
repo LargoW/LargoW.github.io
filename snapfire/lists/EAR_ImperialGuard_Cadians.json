@@ -26,7 +26,7 @@
 			{"id":521, "name":"Reaver Titan",		"pts":600, "upgrades":[], "units":"Reaver Titan"},
 			{"id":530, "name":"Thunderbolt Fighters", "pts":175, "upgrades":[], "units":"2 Thunderbolt Fighters"},
 			{"id":531, "name":"Marauder Bombers", "pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
-			{"id":532, "name":"Orbital Support", "pts":125, "upgrades":[]}
+			{"id":532, "name":"Orbitalunterstüzung", "pts":125, "upgrades":[]}
 		]}
 	],
 	"upgrades":[

@@ -203,7 +203,7 @@
           "points": 250
         },
         {
-          "name": "0–1 Orbital Support",
+          "name": "0–1 Orbitalunterstüzung",
           "units": "Ein Lunar-Klasse Kreuzer",
           "points": 125,
           "extraUnits": [
@@ -214,7 +214,7 @@
     }
   ],
   "upgrades": {
-    "title": "Erweiterungen",
+    "title": "Minervanische Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [
       {

@@ -22,7 +22,7 @@
 			{"id":521, "name":"Thunderbolt Squadron", "pts":175, "upgrades":[], "units":"2 Thunderbolt Fighters"},
 			{"id":523, "name":"Marauder Destroyer", "pts":175, "upgrades":[]},
 			{"id":522, "name":"Marauder Squadron", "pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
-			{"id":524, "name":"Orbital Support", "pts":150, "upgrades":[]}
+			{"id":524, "name":"Orbitalunterstüzung", "pts":150, "upgrades":[]}
 		]}
 	],
 	"upgrades":[

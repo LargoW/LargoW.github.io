@@ -24,7 +24,7 @@
         {"name": "IMPERIAL NAVY <br/> Max 33%", "formations": [
             {"id": 532, "name": "Lightning Squadron", "pts": 175, "units": "2 Lightning Abfangjäger", "upgrades": [] },
             {"id": 533, "name": "Marauder Destroyer", "pts": 175, "upgrades": [] },
-	        {"id": 534, "name": "Orbital Support", "pts": 150, "upgrades": [] }
+	        {"id": 534, "name": "Orbitalunterstüzung", "pts": 150, "upgrades": [] }
          ]}
    ],
    "upgrades": [

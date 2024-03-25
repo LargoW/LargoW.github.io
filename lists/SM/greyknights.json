@@ -67,10 +67,10 @@
   "sections": [
     {
       "name": "Blood Ravens Kern Verbände",
-      "description": "Ein Orbital Support formation must be taken.",
+      "description": "Ein Orbitalunterstüzung formation must be taken.",
       "formations": [
         {
-          "name": "1 Orbital Support",
+          "name": "1 Orbitalunterstüzung",
           "units": "Vanguard Class Light Cruiser",
           "extraUnits": [
             "Ersetze the Strike Cruiser mit einemGrey Knights Strike Cruiser: 75 Punkte"

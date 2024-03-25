@@ -28,7 +28,7 @@
         "Greif",
         "Todesstoss-Raketensystem",
         "Vulture",
-        "Walküre",
+        "Valkyrie",
         "Vendetta",
         "Hydra",
         "Teufelshund",
@@ -178,7 +178,7 @@
           "points": 250
         },
         {
-          "name": "0–1 Orbital Support",
+          "name": "0–1 Orbitalunterstüzung",
           "units": "Ein Lunar-Klasse Kreuzer",
           "points": 125,
           "extraUnits": [

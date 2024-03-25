@@ -14,7 +14,7 @@
 			{"id":513, "name":"Vindicators",		"pts":225, "upgrades":[1,2,3, 39], "units":"4 Vindicators"},
 			{"id":514, "name":"Whirlwinds",		"pts":275, "upgrades":[1,2,3, 39], "units":"4 Whirlwinds"},
 			{"id":515, "name":"Landing Craft",		"pts":350, "upgrades":[]},
-			{"id":516, "name":"Orbital Support",		"pts":200, "upgrades":[]}
+			{"id":516, "name":"Orbitalunterstüzung",		"pts":200, "upgrades":[]}
 		]},
 		{"name":"HUNTING PACKS <br/> Max 1 of any single type of Hunting Pack for each Great Company", "formations":[
 			{"id":520, "name":"Blood Claws Pack",		"pts":200, "units":"plus transport", "upgrades":[1,2,3, 37,38, 45,46,47]},

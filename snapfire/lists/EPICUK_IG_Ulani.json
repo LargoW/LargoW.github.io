@@ -24,7 +24,7 @@
          "formations": [
             {"id": 531, "name": "Thunderbolt Squadron", "pts": 150, "units": "2 Thunderbolt Fighters", "upgrades": [] },
             {"id": 532, "name": "Marauder Squadron", "pts": 250, "units": "2 Marauder Bombers", "upgrades": [] },
-			{"id": 504, "name": "Orbital Support", "pts": 150, "upgrades": [] }
+			{"id": 504, "name": "Orbitalunterstüzung", "pts": 150, "upgrades": [] }
          ]}
    ],
    "upgrades": [

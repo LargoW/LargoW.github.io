@@ -18,7 +18,7 @@
     {"name":"SUPPORT DETACHMENTS <br/> Max 1 for each Raven Guard Detachment", "formations":[
       {"id":520, "name":"Bike", "pts":200, "upgrades":[1,2,3,4,12,13]},
       {"id":521, "name":"Land Speeder", "pts":25, "upgrades":[1,2,3,4,15]},
-      {"id":522, "name":"Orbital Support", "pts":200, "upgrades":[]}
+      {"id":522, "name":"Orbitalunterstüzung", "pts":200, "upgrades":[]}
     ]},
     {"name":"IMPERIAL & SPACE MARINE AIRCRAFT, TITAN LEGION ALLIES <br/> Max 33%", "formations":[
         {"id":530, "name":"Thunderbolt Squadron",	"pts":175, "upgrades":[], "units":"2 Thunderbolt Fighters"},

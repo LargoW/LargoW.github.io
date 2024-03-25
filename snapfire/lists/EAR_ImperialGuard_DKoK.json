@@ -25,7 +25,7 @@
 			{ "id":531, "name":"Warhounds", "pts":75, "upgrades":[70] },
 			{ "id":532, "name":"Thunderbolt Squadron", "pts":175, "units":"2 Thunderbolt Fighters", "upgrades":[] },
 			{ "id":533, "name":"Marauder Squadron", "pts":250, "units":"2 Marauder Bombers",  "upgrades":[] },
-			{ "id":534, "name":"Orbital Support",	"pts":150, "upgrades":[]}
+			{ "id":534, "name":"Orbitalunterstüzung",	"pts":150, "upgrades":[]}
 		]}
 	],
 	"upgrades":[

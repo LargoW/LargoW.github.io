@@ -18,7 +18,7 @@
             {"id":521, "name":"Lightning Squadron",	"pts":150, "upgrades":[], "units":"2 Lightning Strike Fighters"},
 			{"id":522, "name":"Marauder Squadron",		"pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
             {"id":523, "name":"Marauder Destroyer Squadron",		"pts":275, "upgrades":[], "units":"2 Marauder Destroyers"},
-            {"id":524, "name":"Orbital Support",				"pts":150, "upgrades":[]}
+            {"id":524, "name":"Orbitalunterstüzung",				"pts":150, "upgrades":[]}
 
 		]}
 	],
