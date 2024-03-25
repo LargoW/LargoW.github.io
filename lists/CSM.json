@@ -1578,7 +1578,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von 5cm erleiden einen Treffer auf 6+."
       }
     ]
   }

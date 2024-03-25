@@ -1585,7 +1585,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All Einheiten innerhalb von 5cm of the model suffer a hit on a roll of 4+."
+        "crit": "Das Plasmareservoir des Verteidigungslasers explodiert.Die Einheit ist zersört und alle Einheiten innerhalb von 5cm erleiden bei 4+ einen Treffer."
       },
       {
         "name": "Gorgon",
@@ -1603,8 +1603,8 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry 10 Infanterie Einheiten without Sprungmodule oder Beritten Eigenschaft transportieren",
-        "crit": "The Gorgon is immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
+        "notes": "Darf zehn Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren.",
+        "crit": "Der Gorgon wird lahmgelegt und darf sich für den Rest des Spiels nicht mehr bewegen. 1W3 zufällig bestimmte, transportierte Einheiten erleiden einen Treffer. Weitere kritische Treffer vernichten den Gorgon."
       },
       {
         "name": "Baneblade",
@@ -1624,7 +1624,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von 5cm erleiden einen Treffer auf 6+."
       },
       {
         "name": "Hellhammer",
@@ -1644,7 +1644,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von 5cm erleiden einen Treffer auf 6+."
       },
       {
         "name": "Stormlord",
@@ -1663,8 +1663,8 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport zwölf Infanteristen Einheiten mitout Sprungmodule oder Beritten, zwei may fire from the firing deck und participate mit FF during assaults.",
-        "crit": "The Stormlord is immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Subsequent hits destroys the unit."
+        "notes": "Darf zwölf Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren, zwei Eiheiten dürfen vom Schussdeck feuern und zusätzlich mit ihrem FF Wert an Angriffen teilnehmen.",
+        "crit": "Der Stormlord wird lahmgelegt und darf sich für den Rest des Spiels nicht mehr bewegen. 1W3 zufällig bestimmte, transportierte Einheiten erleiden einen Treffer. Weitere kritische Treffer vernichten den Stormlord."
       },
       {
         "name": "Banehammer",
@@ -1682,7 +1682,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von 5cm erleiden einen Treffer auf 6+."
       },
       {
         "name": "Shadowsword",
@@ -1699,7 +1699,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von 5cm erleiden einen Treffer auf 6+."
       },
       {
         "name": "Stormblade",
@@ -1717,7 +1717,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von 5cm erleiden einen Treffer auf 6+."
       },
       {
         "name": "Stormsword",
@@ -1735,7 +1735,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von 5cm erleiden einen Treffer auf 6+."
       },
       {
         "name": "Stormhammer",
@@ -1754,7 +1754,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von 5cm erleiden einen Treffer auf 6+."
       }
     ]
   }
