@@ -1,15 +1,15 @@
 {
   "fraction": "Astra Militarum",
-  "army": "Catachan Jungle Fighters",
+  "army": "Catachanische Dschungelkämpfer",
   "version": "0.7.2",
   "release": "2022-04-01",
-  "strategy": "Catachan Jungle Fighter Armeen haben einen Strategiewert von 3.",
-  "Initiative": "All Verbände haben eine Initiativewert von 2+.",
+  "strategy": "Catachanische Dschungelkämpfer Armeen haben einen Strategiewert von 3.",
+  "Initiative": "Alle Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
-    "Catachanischer Befehlshabers"
+    "Catachanische Befehlshaber"
   ],
   "usage": [
-    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Catachan Jungle Fighters Regiment"
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Catachanische Dschungelkämpfer aufzustellen"
   ],
   "units": [
     {
@@ -57,34 +57,34 @@
   ],
   "sections": [
     {
-      "name": "Catachan Kern Companies",
+      "name": "Catachanische Kern Companies",
       "formations": [
         {
-          "name": "Catachan Regiments Hauptquartier",
-          "units": "Ein Catachanischer Oberbefehlshaber, sieben Catachanische Infanterie",
+          "name": "Catachanische Regiments Hauptquartier",
+          "units": "Ein Catachanischer Oberbefehlshaber, sieben Catachanische Infanterie Einheiten",
           "extraUnits": [
-            "Todeswelt Transport (Compulsory)",
-            "Flakk Teams",
+            "Todeswelt Transport (Pflichtauswahl)",
+            "Flak Teams",
             "Ogryns",
-            "Devil Dogs"
+            "Teufelshunde"
           ],
           "points": 225
         },
         {
-          "name": "Catachan Kompanie",
-          "units": "Ein Catachanischer Befehlshaber, sieben Catachanische Infanterie",
+          "name": "Catachanische Kompanie",
+          "units": "Ein Catachanischer Befehlshaber, sieben Catachanische Infanterie Einheiten",
           "extraUnits": [
-            "Todeswelt Transport (Compulsory)",
-            "Flakk Teams",
+            "Todeswelt Transport (Pflichtauswahl)",
+            "Flak Teams",
             "Ogryns",
-            "Devil Dogs"
+            "Teufelshunde"
           ],
           "points": 150
         }
       ]
     },
     {
-      "name": "Catachan Unterstützungsverbände",
+      "name": "Catachanische Unterstützungsverbände",
       "description": "Bis zu zwei Unterstützungsverbände pro Kern Kompanie.",
       "formations": [
         {
@@ -126,10 +126,10 @@
           "points": 200
         },
         {
-          "name": "Catachan Superschwerer Zug",
+          "name": "Catachanischer Superschwerer Zug",
           "units": "Ein Hellhammer oder Stormblade",
           "extraUnits": [
-            "Füge zwei Ogryns: 50 Punkte jeweils"
+            "Füge zwei Ogryns hinzu: 50 Punkte jeweils"
           ],
           "points": 200
         },
@@ -142,7 +142,7 @@
         },
         {
           "name": "Teufelshund Schwadron",
-          "units": "Vier Devil Dogs",
+          "units": "Vier Teufelshunde",
           "extraUnits": [
           ],
           "points": 200
@@ -156,7 +156,7 @@
         },
         {
           "name": "Catachanischer Sentinel Schwadron",
-          "units": "Vier Catachanischer Sentinels",
+          "units": "Vier Catachanische Sentinels",
           "extraUnits": [
           ],
           "points": 125
@@ -165,7 +165,7 @@
     },
     {
       "name": "Verbände der Imperialen Luftstreitkräfte",
-      "description": "Bis zu a fourth of the Punkte available may be spent on Verbände der Imperialen Luftstreitkräfte",
+      "description": "Bis zu einem Viertel der verfügbaren Punkte darf für Verbände der Imperialen Luftstreitkräfte ausgegeben werden",
       "formations": [
         {
           "name": "Thunderbolt Schwadron",
@@ -182,21 +182,21 @@
           "units": "Ein Lunar-Klasse Kreuzer",
           "points": 125,
           "extraUnits": [
-            "Ersetze the Cruiser mit einem Imperator-Klasse Schlachtschiff: 50 Punkte"
+            "Ersetze den Kreuzer mit einem Imperator-Klasse Schlachtschiff: 50 Punkte"
           ]
         }
       ]
     }
   ],
   "upgrades": {
-    "title": "Catachan Erweiterungen",
+    "title": "Catachanische Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [
       {
-        "name": "Flakk Teams",
+        "name": "Flak Teams",
         "options": [
           {
-            "description": "Ersetze bis zu zwei Catachanische Infanterie mit Flakk Teams",
+            "description": "Ersetze bis zu zwei Catachanische Infanterie Einheiten mit Flak Teams",
             "points": "25 Punkte jeweils"
           }
         ]
@@ -205,16 +205,16 @@
         "name": "Ogryns",
         "options": [
           {
-            "description": "Füge bis zu zwei Ogryns, jeweils mit einemDeathworld Chimäre. Formation may not be transported in Valkyries.",
+            "description": "Füge bis zu zwei Ogryns, jeweils mit einer Todeswelt Chimäre, hinzu. Der Verband darf nicht in Valkyries transportiert werden.",
             "points": "50 Punkte jeweils"
           }
         ]
       },
       {
-        "name": "Devil Dogs",
+        "name": "Teufelshunde",
         "options": [
           {
-            "description": "Füge bis zu zwei Devil Dogs",
+            "description": "Füge bis zu zwei Teufelshunde hinzu",
             "points": "25 Punkte jeweils"
           }
         ]
@@ -223,7 +223,7 @@
         "name": "Flak",
         "options": [
           {
-            "description": "Füge eine Hydra",
+            "description": "Füge eine Hydra hinzu",
             "points": "50 Punkte"
           }
         ]
@@ -232,19 +232,19 @@
         "name": "Todeswelt Transport",
         "options": [
           {
-            "description": "Choose eine of the following:",
+            "description": "Wähle eine der folgenden Optionen:",
             "points": ""
           },
           {
-            "description": "Füge enough Todeswelt Chimären to transport the entire formation mit no space left over",
+            "description": "Füge ausreichend Todeswelt Chimären hinzu um den gesamten Verband zu transportieren. Es dürfen nur so viele Chimären ausgewählt werden, wie tatsächlich benötigt werden.",
             "points": "25 Punkte jeweils"
           },
           {
-            "description": "Füge vier Valkyries",
+            "description": "Füge vier Valkyries hinzu",
             "points": "150 Punkte"
           },
           {
-            "description": "Füge drei Valkyries und zwei Vendettas",
+            "description": "Füge drei Valkyries und zwei Vendettas hinzu",
             "points": "175 Punkte"
           }
         ]

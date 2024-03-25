@@ -1,5 +1,5 @@
 {
-	"id":"EA-R Catachan Jungle Fighters",
+	"id":"EA-R Catachanische Dschungelkämpfers",
 	"version":"0.7.2",
 	"by":"EA-Ragnarok",
 	"sections":[
@@ -15,7 +15,7 @@
 			{"id":509, "name":"Deathstrike Battery", "pts":225, "units":"2 Deathstrike", "upgrades":[]},
 			{"id":515, "name":"Super-Heavy Platoon", "pts":200, "upgrades":[16] },
 			{"id":518, "name":"Griffon Battery", "pts":175, "upgrades":[], "units":"3 Griffons"},
-			{"id":514, "name":"Teufelshund Squadron", "pts":175, "upgrades":[], "units":"4 Devil Dogs"},
+			{"id":514, "name":"Teufelshund Squadron", "pts":175, "upgrades":[], "units":"4 Teufelshunde"},
 			{"id":519, "name":"Sniper Platoon", "pts":150, "upgrades":[], "units":"4 Snipers, 2 Death World Chimeras"},
 			{"id":511, "name":"Catachan Sentinel Squadron", "pts":125, "upgrades":[], "units":"4 Catachan Sentinels"}
 		]},
