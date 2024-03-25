@@ -84,7 +84,7 @@
             "Heralds of Chaos"
           ],
           "points": 900,
-          "notes": "* Choose eine: Vicebringer Titan of Slaanesh, Gloombringer Titan des Nurgle, Strifebringer Titan des Khorne, oder Changebringer Titan des Tzeentch"
+          "notes": "* Choose eine: Vicebringer Titan of Slaanesh, Gloombringer Titan des Nurgle, Strifebringer Titan des Khorne oder Changebringer Titan des Tzeentch"
         },
         {
           "name": "Chaos Warlord Titan",
@@ -94,7 +94,7 @@
             "Heralds of Chaos"
           ],
           "points": 750,
-          "notes": "* Choose eine: Painlord Titan of Slaanesh, Plaguelord Titan des Nurgle, Banelord Titan des Khorne, oder Warplord Titan des Tzeentch"
+          "notes": "* Choose eine: Painlord Titan of Slaanesh, Plaguelord Titan des Nurgle, Banelord Titan des Khorne oder Warplord Titan des Tzeentch"
         },
         {
           "name": "Chaos Reaver Titan",
@@ -103,7 +103,7 @@
             "Heralds of Chaos"
           ],
           "points": 600,
-          "notes": "* Choose eine: Reviler Titan of Slaanesh, Repugnant Titan des Nurgle, Ravager Titan des Khorne, oder Mutator Titan des Tzeentch"
+          "notes": "* Choose eine: Reviler Titan of Slaanesh, Repugnant Titan des Nurgle, Ravager Titan des Khorne oder Mutator Titan des Tzeentch"
         }
       ]
     },
@@ -119,7 +119,7 @@
             "Heralds of Chaos"
           ],
           "points": 275,
-          "notes": "* Choose eine: Plaguehound des Nurgle, Bloodhound des Khorne, Warphound des Tzeentch, oder Chaos Warhound of Chaos Undivided"
+          "notes": "* Choose eine: Plaguehound des Nurgle, Bloodhound des Khorne, Warphound des Tzeentch oder Chaos Warhound of Chaos Undivided"
         },
         {
           "name": "Slaanesh Aufklärer Titan",

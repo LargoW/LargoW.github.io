@@ -728,7 +728,7 @@
           "Sprungmodule",
           "Furchtlos"
         ],
-        "notes": "Must start the game in the Reserven, und may only enter the battlefield by Teleportation. May not be transported."
+        "notes": "Must start the game in the Reserven und may only enter the battlefield by Teleportation. May not be transported."
       },
       {
         "name": "Word Bearers Possessed",
@@ -1191,7 +1191,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport zwei Terminatoren, Mutilators, oder drei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+        "notes": "May transport zwei Terminatoren, Mutilators oder drei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Thousand Sons Land Raider",

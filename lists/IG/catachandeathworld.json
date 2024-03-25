@@ -89,7 +89,7 @@
       "formations": [
         {
           "name": "Leman Russ Zug",
-          "units": "Sechs Leman Russ, Leman Russ Belagerer, oder Leman Russ Exterminators",
+          "units": "Sechs Leman Russ, Leman Russ Belagerer oder Leman Russ Exterminators",
           "extraUnits": [
             "Flak"
           ],

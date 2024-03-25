@@ -5,7 +5,7 @@
   "release": "2023-01-09",
   "armyforge": "EAR_Inquisition_AdeptaSororitas",
   "strategy": "Adepta Sororitas Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Ordo Hereticus Verbände including the Inquisitor Retinue, und Verbände der Imperialen Luftstreitkräfte, have an Initiative Rating of 2+. All other Verbände have an Initiative of 1+.",
+  "Initiative": "Ordo Hereticus Verbände including the Inquisitor Retinue und Verbände der Imperialen Luftstreitkräfte, have an Initiative Rating of 2+. All other Verbände have an Initiative of 1+.",
   "specialRules": [
   ],
   "units": [
@@ -170,7 +170,7 @@
           "name": "Redemption",
           "units": "Ein Ministorum Prediger, acht Redemptionists, vier Ordo Hereticus Land Transporters",
           "extraUnits": [
-            "Ersetze vier Ordo Hereticus Land Transporters und vier Redemptionists mit sechs Arco-Flagellants, oder vier Penitent Engines: 50 Punkte"
+            "Ersetze vier Ordo Hereticus Land Transporters und vier Redemptionists mit sechs Arco-Flagellants oder vier Penitent Engines: 50 Punkte"
           ],
           "points": 175
         },

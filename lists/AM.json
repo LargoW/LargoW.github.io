@@ -515,7 +515,7 @@
           "Tunnelgräber",
           "Transport"
         ],
-        "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Must start the game in the Reserven, und may only enter the battlefield through Tunneling."
+        "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Must start the game in the Reserven und may only enter the battlefield through Tunneling."
       },
       {
         "name": "Leman Russ",
@@ -593,7 +593,7 @@
           "Furchtlos"
         ],
         "notes": "Armed mit einemsingle Battle Weapon. May be upgraded to a Support Weapon.",
-        "crit": "The Ordinatus is destroyed, und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 5+"
+        "crit": "The Ordinatus is destroyed und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 5+"
       },
       {
         "name": "Ordinatus Minoris ",
@@ -619,7 +619,7 @@
           "Furchtlos"
         ],
         "notes": "Armed mit einemsingle Battle Weapon.",
-        "crit": "The Ordinatus is destroyed, und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 5+"
+        "crit": "The Ordinatus is destroyed und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 5+"
       },
       {
         "name": "Ordinatus Majoris",
@@ -644,7 +644,7 @@
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "crit": "The Ordinatus is destroyed, und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 4+"
+        "crit": "The Ordinatus is destroyed und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 4+"
       },
       {
         "name": "Gorgon",
@@ -663,7 +663,7 @@
           "Transport"
         ],
         "notes": "May carry 10 Infanterie Einheiten without Sprungmodule oder Beritten Eigenschaft transportieren Praetorian Combat Servitor counts as zwei Einheiten.",
-        "crit": "The Gorgon is Immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
+        "crit": "The Gorgon is Immobilized und may not move für the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
       },
       {
         "name": "Mole",

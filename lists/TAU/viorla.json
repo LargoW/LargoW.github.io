@@ -4,7 +4,7 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Tau_ViorLa",
-  "intro": "The Vior'la Tau army list lets you field a Tau army from the Vior'la Sept. The Vior'la is focused on the larger Tau Battlesuits, mit support options largely restricted to other suits, und drones.",
+  "intro": "The Vior'la Tau army list lets you field a Tau army from the Vior'la Sept. The Vior'la is focused on the larger Tau Battlesuits, mit support options largely restricted to other suits und drones.",
   "strategy": "Tau Armeen haben einen Strategiewert von 3.",
   "Initiative": "XV8 Crisis Battlesuit, XV10 Heavy Battlesuit Cadres und KV128 Stormsurge und KX139 Supremacy Armour have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
@@ -95,7 +95,7 @@
       "formations": [
         {
           "name": "Fire Warrior Strike Group",
-          "units": "Acht Fire Warriors, oder sechs Fire Warriors und drei Devilfish",
+          "units": "Acht Fire Warriors oder sechs Fire Warriors und drei Devilfish",
           "extraUnits": [
             "Broadsides",
             "Drones",
@@ -107,7 +107,7 @@
           "name": "Drone Group",
           "units": "Acht Gun Drones",
           "extraUnits": [
-            "Ersetze zwei Gun Drones mit zwei Rakete Drones oder zwei Shield Drones (Kostenlos), oder zwei Marker Drones (25 Punkte)"
+            "Ersetze zwei Gun Drones mit zwei Rakete Drones oder zwei Shield Drones (Kostenlos) oder zwei Marker Drones (25 Punkte)"
           ],
           "points": 150
         },
@@ -217,7 +217,7 @@
       },
       {
         "name": "Heavy Battlesuits",
-        "description": "Füge bis zu zwei XV104 Riptide Battlesuits, XV107 R'Varna Battlesuits, oder XV109 Y'Vahra Battlesuits (the formation may not contain a mix of Heavy Battlesuits)",
+        "description": "Füge bis zu zwei XV104 Riptide Battlesuits, XV107 R'Varna Battlesuits oder XV109 Y'Vahra Battlesuits (the formation may not contain a mix of Heavy Battlesuits)",
         "points": "75 Punkte jeweils"
       }
     ]

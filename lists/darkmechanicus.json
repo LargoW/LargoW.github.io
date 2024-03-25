@@ -259,7 +259,7 @@
           "Furchtlos"
         ],
         "notes": "Armed mit einemsingle Battle Weapon. May be upgraded to a Support Weapon.",
-        "crit": "The Ordinatus is destroyed, und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 5+."
+        "crit": "The Ordinatus is destroyed und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 5+."
       },
       {
         "name": "Ordinatus Hereticus ",
@@ -282,7 +282,7 @@
           "Furchtlos"
         ],
         "notes": "Entweder mit Turbo Blaster, Doom Burner, Plasma Cremator oder Synchronisierter Hades Maschinenkanone.",
-        "crit": "The Ordinatus is destroyed, und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 5+."
+        "crit": "The Ordinatus is destroyed und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 5+."
       },
       {
         "name": "Ordinatus Hereticus Majoris",
@@ -307,7 +307,7 @@
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "crit": "The Ordinatus is destroyed, und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 4+"
+        "crit": "The Ordinatus is destroyed und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 4+"
       },
       {
         "name": "Ordinatus Cyclothrathe",
@@ -327,7 +327,7 @@
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "crit": "The Ordinatus is destroyed, und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 4+"
+        "crit": "The Ordinatus is destroyed und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 4+"
       },
       {
         "name": "The Kaban Machine",
@@ -1124,7 +1124,7 @@
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Tzeentch)"
         ],
-        "crit": "The runes that bind the imprisoned daemon are broken, und the Mirrorfiend wird zerstört. All models within 5cm take a hit on 4+."
+        "crit": "The runes that bind the imprisoned daemon are broken und the Mirrorfiend wird zerstört. All models within 5cm take a hit on 4+."
       },
       {
         "name": "Warp Palace",

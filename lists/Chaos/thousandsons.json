@@ -5,7 +5,7 @@
   "release": "2023-01-28",
   "armyforge": "EAR_Chaos_ThousandSons",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "The Thousand Sons Retinue, Havocs, Terminatoren, Armoured Kompanie, Disc Riders, und Warphound Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "The Thousand Sons Retinue, Havocs, Terminatoren, Armoured Kompanie, Disc Riders und Warphound Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Changer of Ways",
     "Fickle Masters",
@@ -14,7 +14,7 @@
     "Thousand Sons Characters"
   ],
   "intro": [
-    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Thousand Sons Traitor Legion. The Thousand Sons make extensive use of Hexers leading squads of unrelenting Rubric Marines into battle, und may utilize powerful Warp Rifts to enter the Battlefield."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Thousand Sons Traitor Legion. The Thousand Sons make extensive use of Hexers leading Trupps of unrelenting Rubric Marines into battle und may utilize powerful Warp Rifts to enter the Battlefield."
   ],
   "units": [
     {

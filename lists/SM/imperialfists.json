@@ -216,7 +216,7 @@
         },
         {
           "name": "Fortifications",
-          "units": "Zwei Bunker, und 40cm Gräben und/oder Minenfelder (exact proportions to be decided at the start of the game, before deploying objectives.)",
+          "units": "Zwei Bunker und 40cm Gräben und/oder Minenfelder (exact proportions to be decided at the start of the game, before deploying objectives.)",
           "points": 50
         },
         {
@@ -306,7 +306,7 @@
       },
       {
         "name": "Siege Equipment",
-        "description": "The formation may take Siege Rhinos instead of normal Rhinos, oder replace 'plus transport' mit Space Marine Rapier Geschütze oder Space Marine Thunderfires",
+        "description": "The formation may take Siege Rhinos instead of normal Rhinos oder replace 'plus transport' mit Space Marine Rapier Geschütze oder Space Marine Thunderfires",
         "points": [
           "25 Punkte für Siege Rhinos",
           "25 Punkte für zwei Rapier Geschütze oder zwei Thunderfires",

@@ -84,7 +84,7 @@
         },
         {
           "name": "Minervanische Superschwere Panzerkompanie",
-          "units": "Drei Baneblades, Stormblades, Stormswords, und/oder Shadowswords, einer mit Kommissar Hauptmann",
+          "units": "Drei Baneblades, Stormblades, Stormswords und/oder Shadowswords, einer mit Kommissar Hauptmann",
           "extraUnits": [
             "Werte eine Baneblade zu einem Stormhammer auf: 25 Punkte",
             "Oberbefehlshaber",
@@ -112,7 +112,7 @@
           "name": "Leman Russ Schwadron",
           "units": "Vier Leman Russ",
           "extraUnits": [
-            "Ersetze vier Leman Russ mit vier Leman Russ Executioners, vier Leman Russ Exterminators, vier Leman Russ Belagerer, vier Leman Russ Punishers, vier Leman Russ Thunderers, oder vier Leman Russ Conquerors",
+            "Ersetze vier Leman Russ mit vier Leman Russ Executioners, vier Leman Russ Exterminators, vier Leman Russ Belagerer, vier Leman Russ Punishers, vier Leman Russ Thunderers oder vier Leman Russ Conquerors",
             "Höllenhunde",
             "Flak"
           ],
@@ -151,7 +151,7 @@
         },
         {
           "name": "Superschwerer Panzerzug",
-          "units": "Ein Baneblade, Stormsword, Shadowsword, oder Stormblade",
+          "units": "Ein Baneblade, Stormsword, Shadowsword oder Stormblade",
           "extraUnits": [
               "Ersetze einen Baneblade mit einem Shadowsword: 25 Punkte"
           ],
@@ -229,7 +229,7 @@
       },
       {
         "name": "Leman Russ",
-        "description": "Füge drei Leman Russ, Leman Russ Executioners, Leman Russ Exterminators, Leman Russ Belagerer, Leman Russ Punishers, Leman Russ Thunderers, oder Leman Russ Conquerors hinzu",
+        "description": "Füge drei Leman Russ, Leman Russ Executioners, Leman Russ Exterminators, Leman Russ Belagerer, Leman Russ Punishers, Leman Russ Thunderers oder Leman Russ Conquerors hinzu",
         "points": "150 Punkte"
       },
       {

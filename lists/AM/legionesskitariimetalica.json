@@ -208,7 +208,7 @@
       },
       {
         "name": "Hypaspist Transport",
-        "description": "Füge ein Gorgon, fünf Chimären, oder fünf Chimedons",
+        "description": "Füge ein Gorgon, fünf Chimären oder fünf Chimedons",
         "options": [
           {
             "description": "Ein Gorgon",

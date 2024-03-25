@@ -4,7 +4,7 @@
   "version": "Alpha 0.8.4",
   "release": "2022-04-01",
   "strategy": "Craftworld Saim-Hann Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Shining Spears, Aspect Warriors, Crimson Hunters, Titans, und the Avatar Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "Shining Spears, Aspect Warriors, Crimson Hunters, Titans und the Avatar Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Avatar (Saim-Hann)",
     "Dürfen nicht als Garnison aufstellen (Saim-Hann)",

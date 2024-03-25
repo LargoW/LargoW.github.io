@@ -107,7 +107,7 @@
           "name": "Ranger Cohort",
           "units": "Vier Skitarii Rangers",
           "extraUnits": [
-            "Füge zwei Scorpius Duneriders, oder drei Rapier Geschütze: 50 Punkte"
+            "Füge zwei Scorpius Duneriders oder drei Rapier Geschütze: 50 Punkte"
           ],
           "points": 150
         },
@@ -213,7 +213,7 @@
         "name": "Vanguard Transport",
         "options": [
           {
-            "description": "Füge ein Gorgon, fünf Skorpius Duneriders, oder fünf Termites (must enter the battlefield by tunneling)",
+            "description": "Füge ein Gorgon, fünf Skorpius Duneriders oder fünf Termites (must enter the battlefield by tunneling)",
             "points": [
               "Termites: 75 Punkte",
               "Gorgon: 100 Punkte",

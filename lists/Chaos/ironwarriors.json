@@ -11,7 +11,7 @@
     "Iron Warriors Characters"
   ],
   "intro": [
-    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Iron Warriors Traitor Legion, which mirrors the loyalist Iron Hands und Imperial Fists in their use of siege weaponry. They abhor daemons, und may not summon these, but adore bionics und forbidden weaponry."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Iron Warriors Traitor Legion, which mirrors the loyalist Iron Hands und Imperial Fists in their use of siege weaponry. They abhor daemons und may not summon these, but adore bionics und forbidden weaponry."
   ],
   "units": [
     {
@@ -92,7 +92,7 @@
           "name": "Iron Warriors Armoured Kompanie",
           "units": "Sechs Chaos Vindicators",
           "extraUnits": [
-            "Ersetze sechs Chaos Vindicators mit sechs Chaos Predators (25 Punkte), drei Chaos Spartan Assault Panzers (75 Punkte), oder sechs Chaos Land Raiders (125 Punkte)"
+            "Ersetze sechs Chaos Vindicators mit sechs Chaos Predators (25 Punkte), drei Chaos Spartan Assault Panzers (75 Punkte) oder sechs Chaos Land Raiders (125 Punkte)"
           ],
           "points": 275
         },
@@ -116,7 +116,7 @@
           "name": "Auserwählte",
           "units": "Vier Auserwählte, zwei Chaos Rhinos",
           "extraUnits": [
-            "Ersetze zwei Chaos Rhinos mit zwei Chaos Siege Rhinos (10 Punkte), oder zwei Chaos Cybots oder zwei Chaos Siege Cybots (75 Punkte)",
+            "Ersetze zwei Chaos Rhinos mit zwei Chaos Siege Rhinos (10 Punkte) oder zwei Chaos Cybots oder zwei Chaos Siege Cybots (75 Punkte)",
             "Vindicators"
           ],
           "points": 150
@@ -302,7 +302,7 @@
       },
       {
         "name": "Cybots",
-        "description": "Füge bis zu zwei Chaos Cybots, oder bis zu zwei Siege Cybots",
+        "description": "Füge bis zu zwei Chaos Cybots oder bis zu zwei Siege Cybots",
         "points": "50 Punkte jeweils"
       },
       {

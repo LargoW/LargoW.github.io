@@ -78,7 +78,7 @@
         },
         {
           "name": "Fire Warrior Strike Cadre",
-          "units": "Acht Fire Warriors, oder sechs Fire Warriors und drei Devilfish.",
+          "units": "Acht Fire Warriors oder sechs Fire Warriors und drei Devilfish.",
           "extraUnits": [
             "Broadsides",
             "Himmlischer",
@@ -283,7 +283,7 @@
             "points": "75 Punkte"
           },
           {
-            "description": "Füge bis zu zwei Rail Hammerheads, oder add bis zu zwei Fusion Hammerheads",
+            "description": "Füge bis zu zwei Rail Hammerheads oder add bis zu zwei Fusion Hammerheads",
             "points": "50 Punkte jeweils"
           }
         ]

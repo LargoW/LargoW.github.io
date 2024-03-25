@@ -164,16 +164,16 @@
       "description": "Ein Grey Knights Detachment may be taken pro Blood Ravens Kern Formation",
       "formations": [
         {
-          "name": "Interceptor Squads",
-          "units": "Zwei Grey Knights Interceptor Squads",
+          "name": "Interceptor Trupps",
+          "units": "Zwei Grey Knights Interceptor Trupps",
           "extraUnits": [
             "Justicar"
           ],
           "points": 200
         },
         {
-          "name": "Strike Squads",
-          "units": "Zwei Grey Knights Strike Squads plus transport",
+          "name": "Strike Trupps",
+          "units": "Zwei Grey Knights Strike Trupps plus transport",
           "extraUnits": [
             "Grey Knights Support",
             "Justicar"
@@ -181,8 +181,8 @@
           "points": 200
         },
         {
-          "name": "Purgation Squads",
-          "units": "Zwei Grey Knights Purgation Squads plus transport",
+          "name": "Purgation Trupps",
+          "units": "Zwei Grey Knights Purgation Trupps plus transport",
           "extraUnits": [
             "Grey Knights Support",
             "Justicar"
@@ -254,7 +254,7 @@
       },
       {
         "name": "Grey Knights Support",
-        "description": "Füge eine Vortimer Land Raider oder Vortimer Land Raider Redeemer, oder eine Doomglaive Cybot.",
+        "description": "Füge eine Vortimer Land Raider oder Vortimer Land Raider Redeemer oder eine Doomglaive Cybot.",
         "points": [
           "75 Punkte"
         ]

@@ -93,7 +93,7 @@
           "units": "Ein Hellwright, eleven Chaos Squats",
           "extraUnits": [
             "Ersetze vier Chaos Squats mit vier Phospexors: 25 Punkte",
-            "Füge zwei Krios Lightning, zwei Krios Venators, oder eine Ordinatus Hereticus: 125 Punkte",
+            "Füge zwei Krios Lightning, zwei Krios Venators oder eine Ordinatus Hereticus: 125 Punkte",
             "Arch-Heretek",
             "The Kaban Machine",
             "Hell-Forge Transport"
@@ -266,7 +266,7 @@
       },
       {
         "name": "Hell-Forge Transport",
-        "description": "Any combination of transport options may be taken to transport a formation, as long as no vehicle is completely empty, und no unit lacks transport.",
+        "description": "Any combination of transport options may be taken to transport a formation, as long as no vehicle is completely empty und no unit lacks transport.",
         "points": [
           "Chaos Rhino: 10 Punkte",
           "Triaros Armoured Despoiler: 75 Punkte"

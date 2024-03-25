@@ -14,7 +14,7 @@
         "specialRules": [
           "Oberbefehlshaber"
         ],
-        "notes": "Has Dakka-Dakka if added to a WE unit, oder Energiekrallä if added to an INF unit"
+        "notes": "Has Dakka-Dakka if added to a WE unit oder Energiekrallä if added to an INF unit"
       },
       {
         "name": "Mekboy Bad Ork Bikerboy",
@@ -75,7 +75,7 @@
           "Deff-Rolla & Fresh Paint Job|0-1|"
         ],
         "specialRules": [
-          "The unit either replaces a Kanonä mit einemLifta Droppa, oder [*] adds D3+1 Schpezialkraftfelder, oder [**] is equipped mit einemDeff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)"
+          "The unit either replaces a Kanonä mit einemLifta Droppa oder [*] adds D3+1 Schpezialkraftfelder oder [**] is equipped mit einemDeff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)"
         ]
       },
       {
@@ -541,7 +541,7 @@
           "Geländegängig",
           "Jetz' geht's los"
         ],
-        "notes": "Armed mit either drei Kanonänbatterie, oder zwei Big Guns und a Kombat 'Ammer"
+        "notes": "Armed mit either drei Kanonänbatterie oder zwei Big Guns und a Kombat 'Ammer"
       },
       {
         "name": "Mega Transportpanza",
@@ -631,7 +631,7 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Supa-Stompa's head is blown off, und it suffers a -1 to-hit modifier to all shooting für the rest of the game. Subsequent crits cause einen zusätzlichen damage instead."
+        "crit": "The Supa-Stompa's head is blown off und it suffers a -1 to-hit modifier to all shooting für the rest of the game. Subsequent crits cause einen zusätzlichen damage instead."
       },
       {
         "name": "Supa-Stompa ",
@@ -658,7 +658,7 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Supa-Stompa's head is blown off, und it suffers a -1 to-hit modifier to all shooting für the rest of the game. Subsequent crits cause einen zusätzlichen damage instead."
+        "crit": "The Supa-Stompa's head is blown off und it suffers a -1 to-hit modifier to all shooting für the rest of the game. Subsequent crits cause einen zusätzlichen damage instead."
       },
       {
         "name": "Gargant",
@@ -1206,7 +1206,7 @@
           "Transport"
         ],
         "notes": "May carry bis zu sixteen Einheiten, in beliebiger Kombination: Huntas, Brutes, Squig Katapult, WildBoys. May carry bis zu sechs Grotz in addition to any other units.",
-        "crit": "The Orkeosaurus takes eine additional damage, und D3 random units being transported takes a hit."
+        "crit": "The Orkeosaurus takes eine additional damage und D3 random units being transported takes a hit."
       },
       {
         "name": "Steam Gargant",

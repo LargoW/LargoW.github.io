@@ -211,7 +211,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Squat Warlord, Grand Warlord, und Squat Thunderfire units takes zwei spaces jeweils. While transporting Squat Thunderfires, Squat Rhinos' speed are reduced to 20cm."
+        "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Squat Warlord, Grand Warlord und Squat Thunderfire units takes zwei spaces jeweils. While transporting Squat Thunderfires, Squat Rhinos' speed are reduced to 20cm."
       },
       {
         "name": "Land Raider",
@@ -364,7 +364,7 @@
           "Transport"
         ],
         "notes": "May transport zwölf Infanteristen units ohne Sprungmodule oder Beritten Eigenschaft transportieren.  Bis zu zwei units may shoot und FF from the Leviathan's fighting platform",
-        "crit": "The Leviathan is immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the Leviathan."
+        "crit": "The Leviathan is immobilized und may not move für the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the Leviathan."
       },
       {
         "name": "Cyclops",
@@ -385,7 +385,7 @@
           "Verstärkte Heckpanzerung",
           "Furchtlos"
         ],
-        "crit": "The Cyclops may no longer fire its Hellfury Geschütz. Subsequent crits destroys the Cyclops, und all Einheiten innerhalb von 5cm takes a hit."
+        "crit": "The Cyclops may no longer fire its Hellfury Geschütz. Subsequent crits destroys the Cyclops und all Einheiten innerhalb von 5cm takes a hit."
       },
       {
         "name": "Colossus",
@@ -408,7 +408,7 @@
           "Verstärkte Heckpanzerung",
           "Furchtlos"
         ],
-        "crit": "The Colossus is immobilized, und may not move für the rest of the game. Subsequent crits destroys the Colossus."
+        "crit": "The Colossus is immobilized und may not move für the rest of the game. Subsequent crits destroys the Colossus."
       },
       {
         "name": "Squat Land Train",

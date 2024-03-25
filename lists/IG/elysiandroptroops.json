@@ -108,7 +108,7 @@
         },
         {
           "name": "Sturmtruppen Kompanie",
-          "units": "Acht elysianische Sturmtruppen, eine Einheit mit Kommissar, und vier Valkyries.",
+          "units": "Acht elysianische Sturmtruppen, eine Einheit mit Kommissar und vier Valkyries.",
           "extraUnits": [
             "Ersetze alle Valkyries durch Vendettas: 75 Punkte"
           ],
@@ -116,7 +116,7 @@
         },
         {
           "name": "Support Zug",
-          "units": "Vier elysianische Unterstüzungs Trupps oder vier elysianische Mörsertrupps, und zwei Valkyries",
+          "units": "Vier elysianische Unterstüzungs Trupps oder vier elysianische Mörsertrupps und zwei Valkyries",
           "extraUnits": [
             "Ersetze alle Valkyries durch Vendettas: 25 Punkte"
           ],

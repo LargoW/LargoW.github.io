@@ -109,7 +109,7 @@
       "formations": [
         {
           "name": "Leman Russ Schwadron",
-          "units": "Vier Leman Russ, Leman Russ Thunderers, oder Leman Russ Annihilators",
+          "units": "Vier Leman Russ, Leman Russ Thunderers oder Leman Russ Annihilators",
           "extraUnits": [
             "Todeswölfe"
           ],
@@ -119,7 +119,7 @@
           "name": "Belagerungsinfanterie Kompanie",
           "units": "Ein Todeskorps von Krieg Befehlshaber mit Kommissar, 9 Belagerungsinfanterie Einheiten, 40cm Gräben, 40cm Stacheldraht",
           "extraUnits": [
-            "Füge vier Rapier Geschütze und 16cm Gräben, oder drei Thudd Guns und 12cm Gräben hinzu: 75 Punkte",
+            "Füge vier Rapier Geschütze und 16cm Gräben oder drei Thudd Guns und 12cm Gräben hinzu: 75 Punkte",
             "Füge bis zu zwei Scharfschützen hinzu: 25 Punkte jeweils"
           ],
           "points": 225
@@ -239,7 +239,7 @@
       },
       {
         "name": "Leman Russ",
-        "description": "Füge drei Leman Russ, drei Leman Russ Thunderers, oder drei Leman Russ Annihilators hinzu",
+        "description": "Füge drei Leman Russ, drei Leman Russ Thunderers oder drei Leman Russ Annihilators hinzu",
         "points": "150 Punkte"
       }
     ]

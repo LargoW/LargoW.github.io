@@ -571,7 +571,7 @@
           "Transport"
         ],
         "notes": "May transport acht Infanterie Einheiten without Sprungmodule oder Beritten, zwei may fire from the firing deck und participate mit FF during assaults.",
-        "crit": "The Stormlord is immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the unit."
+        "crit": "The Stormlord is immobilized und may not move für the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the unit."
       },
       {
         "name": "Emperor's Chapel",
@@ -618,7 +618,7 @@
           "Transport"
         ],
         "notes": "May transport acht Infanterie Einheiten without Beritten oder Jet Packs.",
-        "crit": "The Cathedral of the God-Emperor takes D3 additional damage, und D6 transported units takes a hit."
+        "crit": "The Cathedral of the God-Emperor takes D3 additional damage und D6 transported units takes a hit."
       }
     ]
   }

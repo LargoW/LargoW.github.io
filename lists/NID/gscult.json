@@ -6,7 +6,7 @@
   "armyforge": "EAR_SymbiontenCult_Cult",
   "intro": "The Cult of the Rusted Claw army list allows you to field an army based on the Cult of the Rusted Claw Symbiontenkult. The list represents an army made up of units from all stages of the Symbionten infection cycle.",
   "strategy": "Symbiontenkult Armeen haben einen Strategiewert von 2.",
-  "Initiative": "All Verbände haben eine Initiativewert von 2+, und are subject to the 'Brutbewusstsein' Sonderregel.",
+  "Initiative": "All Verbände haben eine Initiativewert von 2+ und are subject to the 'Brutbewusstsein' Sonderregel.",
   "specialRules": [
     "Broodcoven",
     "Brutbewusstsein",
@@ -83,7 +83,7 @@
         },
         {
           "name": "Acolyte Coven",
-          "units": "Ein Metamorph Hybrids mit Hybrid Ikonenwächter, und sieben Acolyte Hybrids",
+          "units": "Ein Metamorph Hybrids mit Hybrid Ikonenwächter und sieben Acolyte Hybrids",
           "extraUnits": [
             "Mineshaft Infiltratoren",
             "Aberrants",
@@ -121,7 +121,7 @@
         },
         {
           "name": "Shock Assault Coven",
-          "units": "Ein Hybrid Ikonenwächter, 4 Aberrants, und either 4 Goliath Trucks oder 4 Goliath Rock Grinders",
+          "units": "Ein Hybrid Ikonenwächter, 4 Aberrants und either 4 Goliath Trucks oder 4 Goliath Rock Grinders",
           "extraUnits": [
             "Coven Anführer",
             "Technicals"
