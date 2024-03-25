@@ -351,7 +351,7 @@
         ]
       },
       {
-        "name": "Angriffsinfanterie ",
+        "name": "Angriffsinfanterie",
         "type": "INF",
         "speed": 15,
         "cc": 5,

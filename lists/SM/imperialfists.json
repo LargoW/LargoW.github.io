@@ -6,7 +6,7 @@
   "armyforge": "EAR_AdeptusAstartes_ImperialFists",
   "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Imperial Fists Space Marine Orden oder einen der Nachfolgeorden aufstellen. The Imperial Fists specializes in siege warfare.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
-  "Initiative": "Tarantula und Hyperios Emplacement Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
+  "Initiative": "Tarantula und Hyperios Stellung Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
   "armyRules": "The <i>Sie kennen keine Furcht</i> Sonderregel applies to all non-'Maschinengeist' Imperial Fists detachments.",
   "specialRules": [
     "Imperial Fists Transports",
@@ -121,7 +121,7 @@
     },
     {
       "name": "Imperial Fists Support Detachments",
-      "description": " Bis zu zwei Support Detachments pro Kern Detachment.",
+      "description": "Bis zu zwei Support Detachments pro Kern Detachment.",
       "formations": [
           {
             "name": "Land Raiders",
@@ -205,7 +205,7 @@
     },
     {
       "name": "Imperial Fists Static Defenses, Navy & Titan Legion Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.  Bis zu eine Tarantula oder Hyperios formation pro Aufklärer detachment.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.  Bis zu eine Tarantula oder Hyperios formation pro Aufklärer detachment.",
       "formations": [
         {
           "name": "Bastion",
@@ -306,11 +306,11 @@
       },
       {
         "name": "Siege Equipment",
-        "description": "The formation may take Siege Rhinos instead of normal Rhinos, oder replace 'plus transport' mit Space Marine Rapiers oder Space Marine Thunderfires",
+        "description": "The formation may take Siege Rhinos instead of normal Rhinos, oder replace 'plus transport' mit Space Marine Rapier Geschütze oder Space Marine Thunderfires",
         "points": [
           "25 Punkte für Siege Rhinos",
-          "25 Punkte für zwei Rapiers oder zwei Thunderfires",
-          "100 Punkte für vier Rapiers oder vier Thunderfires"
+          "25 Punkte für zwei Rapier Geschütze oder zwei Thunderfires",
+          "100 Punkte für vier Rapier Geschütze oder vier Thunderfires"
         ]
       },
       {

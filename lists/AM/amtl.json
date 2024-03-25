@@ -102,7 +102,7 @@
     },
     {
       "name": "Recon Verbände",
-      "description": " Bis zu zwei Recon Verbände pro Battle Titan formation",
+      "description": "Bis zu zwei Recon Verbände pro Battle Titan formation",
       "formations": [
         {
           "name": "Warhounds",
@@ -125,7 +125,7 @@
     },
     {
       "name": "Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände pro Battle Titan formation",
+      "description": "Bis zu zwei Unterstützungsverbände pro Battle Titan formation",
       "formations": [
         {
           "name": "Secutarii Titan Guard",
@@ -163,7 +163,7 @@
     },
     {
       "name": "Adeptus Mechanicus Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Adeptus Mechanicus Navy Verbände.  Bis zu eine Lysander Fighter pro Warmonger Titan oder Anvilus Carapace Landing Pad.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Adeptus Mechanicus Navy Verbände.  Bis zu eine Lysander Fighter pro Warmonger Titan oder Anvilus Carapace Landing Pad.",
       "formations": [
         {
           "name": "Lysander Fighter",

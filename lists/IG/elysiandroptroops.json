@@ -87,7 +87,7 @@
     },
     {
       "name": "Elysian Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände pro Kern Kompanie.",
+      "description": "Bis zu zwei Unterstützungsverbände pro Kern Kompanie.",
       "formations": [
         {
           "name": "Luftlandungs-Sentinel Schwadron",
@@ -144,7 +144,7 @@
     },
     {
       "name": "Stationäre Verteidigungsanlagen und Imperiale Luftstreitkräfte",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden. Bis zu ein Tarantula Verband pro Tauros Aufklärungsschwadron.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden. Bis zu ein Tarantula Verband pro Tauros Aufklärungsschwadron.",
       "formations": [
         {
           "name": "Tarantula",

@@ -106,7 +106,7 @@
     },
     {
       "name": "Valhallanische Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände pro Kern Kompanie.",
+      "description": "Bis zu zwei Unterstützungsverbände pro Kern Kompanie.",
       "formations": [
         {
           "name": "Schwerer Panzer Zug",
@@ -157,7 +157,7 @@
     },
     {
       "name": "Adeptus Ministorum und Imperiale LuftstreitkräfteAllies",
-      "description": " Bis zu einem Viertel der verfügbaren Punkte kann für Verbände des Adeptus Ministorum, Tunnelgräber und Imperiale Luftstreitkräfte ausgegeben werden.",
+      "description": "Bis zu einem Viertel der verfügbaren Punkte kann für Verbände des Adeptus Ministorum, Tunnelgräber und Imperiale Luftstreitkräfte ausgegeben werden.",
       "formations": [
         {
           "name": "Ministorum Mission",

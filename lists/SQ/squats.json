@@ -23,7 +23,7 @@
         "Squat Bikers",
         "Squat Hearthguards",
         "Squat Thunderers",
-        "Mole Mörsers",
+        "Tunnelmörser",
         "Rapier",
         "Salvengeschütz",
         "Guildmaster Trike",
@@ -66,7 +66,7 @@
           "name": "Warrior Brotherhood",
           "units": "Squat Hearthguards, neun Squat Warriors",
           "extraUnits": [
-            "Ersetze zwei Squat Warriors mit zwei Rapiers, oder zwei Thunderers: 25 Punkte",
+            "Ersetze zwei Squat Warriors mit zwei Rapier Geschütze, oder zwei Thunderers: 25 Punkte",
             "Füge vier Squat Warriors: 75 Punkte",
             "Kriegsherr",
             "Warrior Transport",
@@ -86,7 +86,7 @@
     },
     {
       "name": "Wodanaz Stronghold Unterstützungsverbände",
-      "description": " Bis zu zwei Stronghold Unterstützungsverbände pro Stronghold Brotherhood Formation.",
+      "description": "Bis zu zwei Stronghold Unterstützungsverbände pro Stronghold Brotherhood Formation.",
       "formations": [
         {
           "name": "Bikers",
@@ -107,14 +107,14 @@
         },
         {
           "name": "Sentry Batterie",
-          "units": "Sechs Rapiers und/oder Tarantulas",
+          "units": "Sechs Rapier Geschütze und/oder Tarantulas",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Light Artillerie Batterie",
-          "units": "Sechs Thudd Guns und/oder Mole Mörsers",
+          "units": "Sechs Thudd Guns und/oder Tunnelmörser",
           "extraUnits": [
           ],
           "points": 200
@@ -146,7 +146,7 @@
     },
     {
       "name": "Wodanaz Stronghold Kriegsmaschinen",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Wodanaz Stronghold Kriegsmaschinen. Max eine Hellbore pro Warrior Brotherhood formation mit the 'Hellbore Transport' upgrade.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Wodanaz Stronghold Kriegsmaschinen. Max eine Hellbore pro Warrior Brotherhood formation mit the 'Hellbore Transport' upgrade.",
       "formations": [
         {
           "name": "Hellbore",

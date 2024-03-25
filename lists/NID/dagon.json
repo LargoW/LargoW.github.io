@@ -109,7 +109,7 @@
     },
     {
       "name": "Sekundäre Synapsenschwärme",
-      "description": " Bis zu ein sekundärer Synapsenschwarm pro primären Synapsenschwarm.",
+      "description": "Bis zu ein sekundärer Synapsenschwarm pro primären Synapsenschwarm.",
       "formations": [
         {
           "name": "Schwarmnest",

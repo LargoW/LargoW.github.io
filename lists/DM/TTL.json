@@ -109,7 +109,7 @@
     },
     {
       "name": "Unterstützungsverbände",
-      "description": " Bis zu vier pro Battle Titan. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
+      "description": "Bis zu vier pro Battle Titan. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
       "formations": [
         {
           "name": "Chaos Warhound",
@@ -204,7 +204,7 @@
     },
     {
       "name": "Chaos Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Heldrakes",

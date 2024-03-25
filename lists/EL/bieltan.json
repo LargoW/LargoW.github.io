@@ -91,7 +91,7 @@
     },
     {
       "name": "Biel-Tan Warhosts",
-      "description": " Bis zu eine Guardian Warhost may be taken pro Aspect oder Beritten Aspect Warhost",
+      "description": "Bis zu eine Guardian Warhost may be taken pro Aspect oder Beritten Aspect Warhost",
       "formations": [
         {
           "name": "Beritten Aspect Warrior Warhost",
@@ -129,7 +129,7 @@
     },
     {
       "name": "Biel-Tan Troupes",
-      "description": " Bis zu drei Biel-Tan Troupes may be taken pro Biel-Tan Warhost",
+      "description": "Bis zu drei Biel-Tan Troupes may be taken pro Biel-Tan Warhost",
       "formations": [
           {
             "name": "Rangers",
@@ -195,7 +195,7 @@
     },
     {
       "name": "Biel-Tan Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
       "formations": [
         {
           "name": "Nightwing Aerie",

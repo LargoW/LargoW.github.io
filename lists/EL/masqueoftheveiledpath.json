@@ -109,7 +109,7 @@
     },
     {
       "name": "Craftworld Lugganath Warhosts/Wraithhosts",
-      "description": " Bis zu eine Lugganath Wraithhost pro Lugganath Warhost",
+      "description": "Bis zu eine Lugganath Wraithhost pro Lugganath Warhost",
       "formations": [
         {
           "name": "Lugganath Warhost",
@@ -131,7 +131,7 @@
     },
     {
       "name": "Craftworld Lugganath Troupes",
-      "description": " Bis zu eine Lugganath Troupe pro Lugganath Warhost/Wraithhost",
+      "description": "Bis zu eine Lugganath Troupe pro Lugganath Warhost/Wraithhost",
       "formations": [
         {
           "name": "Corsair Aufklärers",
@@ -179,7 +179,7 @@
     },
     {
       "name": "Masque of the Veiled Path Saedaths",
-      "description": " Bis zu eine Veiled Path Saedath pro Lugganath Warhost/Wraithhost",
+      "description": "Bis zu eine Veiled Path Saedath pro Lugganath Warhost/Wraithhost",
       "formations": [
         {
           "name": "Cegorach's Escape",
@@ -227,7 +227,7 @@
     },
     {
       "name": "Craftworld Lugganath Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
           {
             "name": "Skathach WraithRitters",

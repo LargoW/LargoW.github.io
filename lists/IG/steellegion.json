@@ -129,7 +129,7 @@
     },
     {
       "name": "Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände pro Kompanieverband.",
+      "description": "Bis zu zwei Unterstützungsverbände pro Kompanieverband.",
       "formations": [
         {
           "name": "Mechanisierte Infanterie Zug",
@@ -211,7 +211,7 @@
     },
     {
       "name": "Collegia Titanica und Verbände der Imperialen Luftstreitkräfte",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Collegia Titanica und Verbände der Imperialen Luftstreitkräfte ausgegeben werden",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Collegia Titanica und Verbände der Imperialen Luftstreitkräfte ausgegeben werden",
       "formations": [
         {
           "name": "Warhounds",

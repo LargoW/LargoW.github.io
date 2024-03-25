@@ -106,7 +106,7 @@
     },
     {
       "name": "Cadian Unterstützungsverbände",
-      "description": " Bis zu drei Cadian Unterstützungsverbände pro Cadian Kern Kompanie Formation.",
+      "description": "Bis zu drei Cadian Unterstützungsverbände pro Cadian Kern Kompanie Formation.",
       "formations": [
         {
           "name": "Kasrkin Zug",
@@ -179,7 +179,7 @@
     },
     {
       "name": "Collegia Titanica und Verbände der Imperialen Luftstreitkräfte",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Collegia Titanica und Verbände der Imperialen Luftstreitkräfte",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Collegia Titanica und Verbände der Imperialen Luftstreitkräfte",
       "formations": [
         {
           "name": "Warhound Pack",

@@ -69,7 +69,7 @@
   "sections": [
     {
       "name": "Kern Banners",
-      "description": " Bis zu ein Dominus Banner pro Questoris Banner",
+      "description": "Bis zu ein Dominus Banner pro Questoris Banner",
       "formations": [
         {
           "name": "Questoris Banner",
@@ -95,7 +95,7 @@
     },
     {
       "name": "Aufklärungsbanner",
-      "description": " Bis zu ein Aufklärungsbanner pro Kern Banner",
+      "description": "Bis zu ein Aufklärungsbanner pro Kern Banner",
       "formations": [
         {
           "name": "Cerastus",
@@ -119,7 +119,7 @@
     },
     {
       "name": "Relikt Banner",
-      "description": " Bis zu ein Relikt Banner pro angefangene 1500 Punkte in der Armee.",
+      "description": "Bis zu ein Relikt Banner pro angefangene 1500 Punkte in der Armee.",
       "formations": [
         {
           "name": "Armiger Schwertknappen Reliquae",
@@ -157,7 +157,7 @@
     },
     {
       "name": "Mechanicus Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Maschinenweltalliierte ausgegeben werden.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Maschinenweltalliierte ausgegeben werden.",
       "formations": [
         {
           "name": "Skitarii Manipel",

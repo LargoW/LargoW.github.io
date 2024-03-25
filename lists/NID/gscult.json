@@ -99,7 +99,7 @@
     },
     {
       "name": "Elite Verbände",
-      "description": " Bis zu eine Elite formation pro Acolyte Formation",
+      "description": "Bis zu eine Elite formation pro Acolyte Formation",
       "formations": [
         {
           "name": "Atalan Jackals",
@@ -137,7 +137,7 @@
     },
     {
       "name": "Unterstützungsverbände",
-      "description": " Bis zu eine Support Formation pro Acolyte formation",
+      "description": "Bis zu eine Support Formation pro Acolyte formation",
       "formations": [
         {
           "name": "Mechanisierte Neophyte Zug",

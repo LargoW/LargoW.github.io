@@ -91,7 +91,7 @@
     },
     {
       "name": "Night Lords Elite Verbände",
-      "description": " Bis zu eine Elite formation may be taken pro Night Lords Kern Formation",
+      "description": "Bis zu eine Elite formation may be taken pro Night Lords Kern Formation",
       "formations": [
         {
           "name": "Auserwählte",
@@ -124,7 +124,7 @@
     },
     {
       "name": "Night Lords Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände may be taken pro Night Lords Kern Formation.",
+      "description": "Bis zu zwei Unterstützungsverbände may be taken pro Night Lords Kern Formation.",
       "formations": [
         {
           "name": "Destroyers",
@@ -169,7 +169,7 @@
     },
     {
       "name": "Night Lords Static Defenses und Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände. Nicht mehr als eine Tarantula formation pro Auserwählte formation.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände. Nicht mehr als eine Tarantula formation pro Auserwählte formation.",
       "formations": [
         {
           "name": "Tarantula",

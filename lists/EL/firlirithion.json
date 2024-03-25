@@ -93,7 +93,7 @@
     },
     {
       "name": "Fir Lirithion Aufklärer Titans",
-      "description": " Bis zu zwei Aufklärer Titan Verbände pro Battle Titan",
+      "description": "Bis zu zwei Aufklärer Titan Verbände pro Battle Titan",
       "formations": [
         {
           "name": "Revenant Titan",
@@ -107,7 +107,7 @@
     },
     {
       "name": "Fir Lirithion Troupes",
-      "description": " Bis zu drei Troupes pro Battle oder Aufklärer Titan formation.",
+      "description": "Bis zu drei Troupes pro Battle oder Aufklärer Titan formation.",
       "formations": [
         {
           "name": "WraithRitter Troupe",
@@ -140,7 +140,7 @@
     },
     {
       "name": "Craftworld Navy",
-      "description": " Bis zu a fourth of the Punkte available may be spent on these Verbände",
+      "description": "Bis zu a fourth of the Punkte available may be spent on these Verbände",
       "formations": [
         {
           "name": "Nightwing Aerie",

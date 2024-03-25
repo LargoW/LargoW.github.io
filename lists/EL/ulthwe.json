@@ -120,7 +120,7 @@
     },
     {
       "name": "Ulthwé Line Troupes",
-      "description": " Bis zu zwei Ulthwé Line Troupes pro Ulthwé Warhost",
+      "description": "Bis zu zwei Ulthwé Line Troupes pro Ulthwé Warhost",
       "formations": [
           {
             "name": "War Walkers",
@@ -188,7 +188,7 @@
     },
     {
       "name": "Ulthwé Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Nightwing Aerie",

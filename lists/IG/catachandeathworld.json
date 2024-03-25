@@ -85,7 +85,7 @@
     },
     {
       "name": "Catachan Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände pro Kern Kompanie.",
+      "description": "Bis zu zwei Unterstützungsverbände pro Kern Kompanie.",
       "formations": [
         {
           "name": "Leman Russ Zug",
@@ -165,7 +165,7 @@
     },
     {
       "name": "Verbände der Imperialen Luftstreitkräfte",
-      "description": " Bis zu a fourth of the Punkte available may be spent on Verbände der Imperialen Luftstreitkräfte",
+      "description": "Bis zu a fourth of the Punkte available may be spent on Verbände der Imperialen Luftstreitkräfte",
       "formations": [
         {
           "name": "Thunderbolt Schwadron",

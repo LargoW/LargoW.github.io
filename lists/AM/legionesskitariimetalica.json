@@ -76,7 +76,7 @@
           "name": "Hypaspist Manipel",
           "units": "Ein Magos, neun Hypaspists",
           "extraUnits": [
-            "Ersetze drei Hypaspists mit drei Rapiers: Kostenlos",
+            "Ersetze drei Hypaspists mit drei Rapier Geschütze: Kostenlos",
             "Ersetze zwei Hypaspists mit zwei Sagitarii: 25 Punkte",
             "Minoris",
             "Oberbefehlshaber",
@@ -89,13 +89,13 @@
     },
     {
       "name": "Legiones Metalica Line Verbände",
-      "description": " Bis zu drei Metalica Line Verbände pro Kern Formation.",
+      "description": "Bis zu drei Metalica Line Verbände pro Kern Formation.",
       "formations": [
         {
           "name": "Ballistae Cohort",
           "units": "Vier Sagitarii",
           "extraUnits": [
-            "Ersetze eine Einheit Sagitarii mit drei Rapiers: 25 Punkte",
+            "Ersetze eine Einheit Sagitarii mit drei Rapier Geschütze: 25 Punkte",
             "Füge enought Chimären oder Chimedons to transport the formation mit no space left over: 25 Punkte jeweils",
             "Hydra"
           ],
@@ -153,7 +153,7 @@
     },
     {
       "name": "Forge World Navy, Collegia Titanica und Questoris Mechanicus Support",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Paladin Häuser",
@@ -208,7 +208,7 @@
       },
       {
         "name": "Hypaspist Transport",
-        "description": "Füge eine Gorgon, fünf Chimären, oder fünf Chimedons",
+        "description": "Füge ein Gorgon, fünf Chimären, oder fünf Chimedons",
         "options": [
           {
             "description": "Ein Gorgon",

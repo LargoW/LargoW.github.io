@@ -117,7 +117,7 @@
     },
     {
       "name": "Iyanden Troupes",
-      "description": " Bis zu zwei pro Iyanden Wraithhost taken",
+      "description": "Bis zu zwei pro Iyanden Wraithhost taken",
       "formations": [
           {
             "name": "Guardians",
@@ -192,7 +192,7 @@
     },
     {
       "name": "Iyanden Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Nightwing Aerie",

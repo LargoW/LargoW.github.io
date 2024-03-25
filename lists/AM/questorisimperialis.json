@@ -73,7 +73,7 @@
     },
     {
       "name": "Ritter Welten Support Häusers",
-      "description": " Bis zu zwei Support Häusers pro Kern Häuser.",
+      "description": "Bis zu zwei Support Häusers pro Kern Häuser.",
       "formations": [
         {
           "name": "Castellan Häuser",
@@ -115,7 +115,7 @@
     },
     {
       "name": "Ritter Welten Retainer Verbände",
-      "description": " Bis zu eine Retainer Formation pro Kern oder Support Häuser.",
+      "description": "Bis zu eine Retainer Formation pro Kern oder Support Häuser.",
       "formations": [
         {
           "name": "Planetarer Defense Zug",
@@ -135,14 +135,14 @@
           "points": 150
         },
         {
-          "name": "Flak Emplacement",
+          "name": "Flak Stellung",
           "units": "Drei Schweres Flugabwehrgeschützs, drei Geschützstellungen",
           "extraUnits": [
           ],
           "points": 175
         },
         {
-          "name": "Haubitzen Emplacement",
+          "name": "Haubitzen Stellung",
           "units": "Vier Howitzers, vier Geschützstellungen",
           "extraUnits": [
           ],
@@ -152,7 +152,7 @@
     },
     {
       "name": "Verbände der Imperialen Luftstreitkräfte",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte.",
       "formations": [
         {
           "name": "Thunderbolt Schwadron",
@@ -208,7 +208,7 @@
       },
       {
         "name": "Support Weapons",
-        "description": "Füge drei Rapiers oder zwei Thudd Guns",
+        "description": "Füge drei Rapier Geschütze oder zwei Thudd Guns",
         "points": "50 Punkte"
       },
       {

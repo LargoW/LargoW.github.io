@@ -96,7 +96,7 @@
   "sections": [
     {
       "name": "Alpha Legion Kern Verbände",
-      "description": " Bis zu eine Cultist Coven formation pro Alpha Legion Marines formation",
+      "description": "Bis zu eine Cultist Coven formation pro Alpha Legion Marines formation",
       "formations": [
         {
           "name": "Alpha Legion Marines",
@@ -129,7 +129,7 @@
     },
     {
       "name": "Alpha Legion Elite Detachments",
-      "description": " Bis zu eine Alpha Legion Elite Detachment pro Alpha Legion Marines Formation.",
+      "description": "Bis zu eine Alpha Legion Elite Detachment pro Alpha Legion Marines Formation.",
       "formations": [
         {
           "name": "Destroyers",
@@ -170,7 +170,7 @@
     },
     {
       "name": "Cultist Unterstützungsverbände",
-      "description": " Bis zu zwei Cultist Unterstützungsverbände pro Cultist Coven",
+      "description": "Bis zu zwei Cultist Unterstützungsverbände pro Cultist Coven",
       "formations": [
         {
           "name": "Kavalleriezug",
@@ -205,7 +205,7 @@
     },
     {
       "name": "Alpha Legion Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Alpha Legion Navy.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Alpha Legion Navy.",
       "formations": [
         {
           "name": "Storm Eagle",

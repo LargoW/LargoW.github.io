@@ -85,7 +85,7 @@
     },
     {
       "name": "Saim-Hann Warhosts",
-      "description": " Bis zu eine Aspect Warrior Host pro Wild Rider Warhost",
+      "description": "Bis zu eine Aspect Warrior Host pro Wild Rider Warhost",
       "formations": [
         {
           "name": "Wild Rider Warhost",
@@ -109,7 +109,7 @@
     },
     {
       "name": "Saim-Hann Troupes",
-      "description": " Bis zu drei pro Saim-Hann Warhost taken",
+      "description": "Bis zu drei pro Saim-Hann Warhost taken",
       "formations": [
         {
           "name": "Beritten Aspect Warrior Troupe",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Saim-Hann Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Crimson Hunters",

@@ -104,7 +104,7 @@
     },
     {
       "name": "Daemonic Banner Verbände",
-      "description": " Bis zu drei pro Hell-Forge Kern formation. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
+      "description": "Bis zu drei pro Hell-Forge Kern formation. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
       "formations": [
         {
           "name": "Höllenritter of Slaanesh",
@@ -182,7 +182,7 @@
     },
     {
       "name": "Hell-Forge Support, Traitor Titan und Chaos Navy Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
       "formations": [
         {
           "name": "Chrono-Gladiators",

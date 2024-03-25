@@ -107,7 +107,7 @@
   "sections": [
     {
       "name": "Slaves to Darkness Kern Verbände",
-      "description": " Bis zu eine Chaos Space Marine formation pro Traitor Guard formation.",
+      "description": "Bis zu eine Chaos Space Marine formation pro Traitor Guard formation.",
       "formations": [
         {
           "name": "Traitor Guard",
@@ -121,7 +121,7 @@
     },
     {
       "name": "Slaves to Darkness Unterstützungsverbände",
-      "description": " Bis zu eine Support formation pro Kern formation.",
+      "description": "Bis zu eine Support formation pro Kern formation.",
       "formations": [
         {
           "name": "Flak Batterie",
@@ -177,7 +177,7 @@
     },
     {
       "name": "Slaves to Darkness Chaos Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Slaves to Darkness Chaos Allies. May not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände in the army.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Slaves to Darkness Chaos Allies. May not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände in the army.",
       "formations": [
         {
           "name": "Hell Blade Schwadron",

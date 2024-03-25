@@ -99,7 +99,7 @@
   "sections": [
     {
       "name": "Thousand Sons Kern Verbände",
-      "description": " Bis zu eine Thousand Sons Terminatoren formation pro Thousand Sons Retinue.",
+      "description": "Bis zu eine Thousand Sons Terminatoren formation pro Thousand Sons Retinue.",
       "formations": [
         {
           "name": "Thousand Sons Retinue",
@@ -131,7 +131,7 @@
     },
     {
       "name": "Thousand Sons Unterstützungsverbände",
-      "description": " Bis zu drei may be taken pro Thousand Sons Kern formation.",
+      "description": "Bis zu drei may be taken pro Thousand Sons Kern formation.",
       "formations": [
         {
           "name": "Tzaangor Host",
@@ -187,7 +187,7 @@
     },
     {
       "name": "Dark Mechanicus und Thousand Sons Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
       "formations": [
         {
           "name": "Warphound",

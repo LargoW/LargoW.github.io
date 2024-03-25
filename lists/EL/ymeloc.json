@@ -105,7 +105,7 @@
     },
     {
       "name": "Yme-Loc Troupes",
-      "description": " Bis zu zwei Yme-Loc Troupes may be taken pro Yme-Loc Vaulhost",
+      "description": "Bis zu zwei Yme-Loc Troupes may be taken pro Yme-Loc Vaulhost",
       "formations": [
         {
           "name": "Beritten Aspect Warrior Troupe",
@@ -170,7 +170,7 @@
     },
     {
       "name": "Yme-Loc Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
       "formations": [
         {
           "name": "Nightwing Aerie",

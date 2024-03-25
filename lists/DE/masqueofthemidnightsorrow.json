@@ -125,7 +125,7 @@
     },
     {
       "name": "Wraithkind Partisans",
-      "description": " Bis zu eine Wraithkind Partisans pro Wraithkind Kabal",
+      "description": "Bis zu eine Wraithkind Partisans pro Wraithkind Kabal",
       "formations": [
           {
             "name": "Mandrake Throng",
@@ -165,7 +165,7 @@
     },
     {
       "name": "Harlequins",
-      "description": " Bis zu eine Harlequin formation pro Wraithkind Kabal, und bis zu eine Harlequin Support pro Harlequin Masque",
+      "description": "Bis zu eine Harlequin formation pro Wraithkind Kabal, und bis zu eine Harlequin Support pro Harlequin Masque",
       "formations": [
         {
           "name": "Harlequin Masque",
@@ -189,7 +189,7 @@
     },
     {
       "name": "Commorragh Navy & Kriegsmaschinen",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Commorragh Navy und Kriegsmaschine Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Commorragh Navy und Kriegsmaschine Verbände",
         "formations": [
             {
                 "name": "Vessel of Pain",

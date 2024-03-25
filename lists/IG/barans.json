@@ -76,7 +76,7 @@
           "extraUnits": [
               "40cm of Stacheldraht und 4cm of Gräben pro Einheit INF in the formation: 50 Punkte. Ersetze 24cm of Gräben mit zwei Bunker: 25 Punkte",
               "Fünf Belagerungsinfanterie, oder zwei Scharfschützen, oder zwei Pioniere, oder zwei Ogryns: 50 Punkte",
-              "Vier Rapiers, oder drei Tunnelmörser Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafettes mit zwei Geschützstellungen, oder eine Todesstoss-Raketensystem: 75 Punkte",
+              "Vier Rapier Geschütze, oder drei Tunnelmörser Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafetten mit zwei Geschützstellungen, oder eine Todesstoss-Raketensystem: 75 Punkte",
               "Ein Verteidigungslaser, oder zwei Malcadors, oder zwei Malcador Defenders: 150 Punkte"
           ],
           "points": 225
@@ -87,7 +87,7 @@
           "extraUnits": [
               "40cm of Stacheldraht und 4cm of Gräben pro Einheit INF in the formation: 50 Punkte. Ersetze 24cm of Gräben mit zwei Bunker: 25 Punkte",
               "Fünf Belagerungsinfanterie, oder zwei Scharfschützen, oder zwei Pioniere, oder zwei Ogryns: 50 Punkte",
-              "Vier Rapiers, oder drei Tunnelmörser Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafettes mit zwei Geschützstellungen, oder eine Todesstoss-Raketensystem: 75 Punkte",
+              "Vier Rapier Geschütze, oder drei Tunnelmörser Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafetten mit zwei Geschützstellungen, oder eine Todesstoss-Raketensystem: 75 Punkte",
               "Ein Verteidigungslaser, oder zwei Malcadors, oder zwei Malcador Defenders: 150 Punkte"
           ],
           "points": 175
@@ -96,7 +96,7 @@
     },
     {
       "name": "Baran Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände pro Kern Kompanie.",
+      "description": "Bis zu zwei Unterstützungsverbände pro Kern Kompanie.",
       "formations": [
           {
             "name": "Heavy Panzer Kompanie",
@@ -110,7 +110,7 @@
           "name": "Macharius Kompanie",
           "units": "Ein Macharius Kommandopanzer mit einem Kommissar, zwei Macharius",
           "extraUnits": [
-              "Füge bis zu drei Höllenhunde, Bane Wolves, oder Devil Dogs: 25 Punkte jeweils"
+              "Füge bis zu drei Höllenhunde, Todeswölfe, oder Devil Dogs: 25 Punkte jeweils"
           ],
           "points": 350
         },
@@ -120,15 +120,15 @@
           "points": 225
         },
         {
-          "name": "Siege Artillerie Emplacement",
-          "units": "Vier Medusa Kanonenlafettes und vier Geschützstellungen",
+          "name": "Siege Artillerie Stellung",
+          "units": "Vier Medusa Kanonenlafetten und vier Geschützstellungen",
           "extraUnits": [
-              "Ersetze vier Medusa Kanonenlafettes und vier Geschützstellungen mit drei Bombard und drei Geschützstellungen: 25 Punkte"
+              "Ersetze vier Medusa Kanonenlafetten und vier Geschützstellungen mit drei Bombard und drei Geschützstellungen: 25 Punkte"
           ],
           "points": 200
         },
         {
-          "name": "Haubitzen Emplacement",
+          "name": "Haubitzen Stellung",
           "units": "Drei Howitzers, drei Geschützstellungen",
           "extraUnits": [
               "Füge drei Howitzers und drei Geschützstellungen (100 Punkte), oder add a Kommissar, sechs Howitzers, und sechs Geschützstellungen (200 Punkte)",
@@ -137,15 +137,15 @@
           "points": 175
         },
         {
-          "name": "Flak Emplacement",
+          "name": "Flak Stellung",
           "units": "Drei Schweres Flugabwehrgeschützs, drei Geschützstellungen",
           "extraUnits": [
           ],
           "points": 150
         },
         {
-          "name": "Light Artillerie Emplacement",
-          "units": "Vier Rapiers, vier Thudd Guns, oder vier Tunnelmörser, mit 16cm Gräben",
+          "name": "Light Artillerie Stellung",
+          "units": "Vier Rapier Geschütze, vier Thudd Guns, oder vier Tunnelmörser, mit 16cm Gräben",
           "extraUnits": [
               "Füge vier Einheiten the same type, 16cm Gräben, und a Kommissar: 125 Punkte"
           ],
@@ -155,7 +155,7 @@
           "name": "Greifen Batterie",
           "units": "Drei Greifen",
           "extraUnits": [
-              "Füge bis zu drei Höllenhunde, Bane Wolves, oder Devil Dogs: 25 Punkte jeweils"
+              "Füge bis zu drei Höllenhunde, Todeswölfe, oder Devil Dogs: 25 Punkte jeweils"
           ],
           "points": 175
         },
@@ -164,7 +164,7 @@
           "units": "Sechs Todesreiter",
           "extraUnits": [
               "Füge sechs Todesreiter und a Kommissar: 100 Punkte",
-              "Füge bis zu drei Höllenhunde, Bane Wolves, oder Devil Dogs: 25 Punkte jeweils"
+              "Füge bis zu drei Höllenhunde, Todeswölfe, oder Devil Dogs: 25 Punkte jeweils"
           ],
           "points": 150
         },
@@ -172,7 +172,7 @@
           "name": "Siege Recon Schwadron",
           "units": "Vier Siegfried Light Panzers",
           "extraUnits": [
-              "Füge bis zu drei Höllenhunde, Bane Wolves, oder Devil Dogs: 25 Punkte jeweils"
+              "Füge bis zu drei Höllenhunde, Todeswölfe, oder Devil Dogs: 25 Punkte jeweils"
           ],
           "points": 125
       },
@@ -187,7 +187,7 @@
     },
     {
       "name": "Imperial Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte",
       "formations": [
         {
           "name": "Thunderbolt Schwadron",

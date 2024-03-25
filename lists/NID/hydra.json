@@ -111,7 +111,7 @@
     },
     {
       "name": "Sekundäre Synapse Swarms",
-      "description": " Bis zu eine Sekundäre Synapse Swarm pro Primäre Synapse Swarm.",
+      "description": "Bis zu eine Sekundäre Synapse Swarm pro Primäre Synapse Swarm.",
       "formations": [
         {
           "name": "Tervigon Spawn Swarm",
@@ -144,7 +144,7 @@
           "units": "Ein Schwarmharridan, vier Gargoyles",
           "extraUnits": [
             "Füge eine Schwarmharridan, vier Gargoyles: 175 Punkte",
-            " Bis zu zwei Bioflieger Instinktive Schwärme."
+            "Bis zu zwei Bioflieger Instinktive Schwärme."
           ],
           "points": 200
         }
@@ -152,7 +152,7 @@
     },
     {
       "name": "Common Unabhängig Swarms",
-      "description": " Bis zu eine Common Unabhängig Swarm pro Primäre Synapse Swarm. Nicht mehr als a third of the army.",
+      "description": "Bis zu eine Common Unabhängig Swarm pro Primäre Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
           "name": "Symbionten Schwarm",
@@ -174,7 +174,7 @@
     },
     {
       "name": "Rare Unabhängig Swarms",
-      "description": " Bis zu eine Rare Unabhängig Swarm pro Primäre Synapse Swarm. Nicht mehr als a third of the army.",
+      "description": "Bis zu eine Rare Unabhängig Swarm pro Primäre Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
           "name": "Bio-Titan",

@@ -120,13 +120,13 @@
         ]
       },
       {
-        "name": "Mole Mörsers",
+        "name": "Tunnelmörser",
         "type": "INF",
         "speed": 10,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Mole Mörsers"
+          "Tunnelmörser"
         ],
         "specialRules": [
         ]
