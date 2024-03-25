@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_LegionesSkitariiMetalica",
   "strategy": "The Legiones Skitarii have a Strategy Rating of 3.",
-  "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. All other Verbände have a Initiative Rating of 2+.",
+  "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. All other Verbände haben einen Initiative Wert of 2+.",
   "specialRules": [
   ],
   "usage": [

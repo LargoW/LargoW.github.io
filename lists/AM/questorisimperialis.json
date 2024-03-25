@@ -123,7 +123,7 @@
           "extraUnits": [
             "Land Transporters",
             "Support Weapons",
-            "Entrenchments"
+            "Grabenanlagen"
           ],
           "points": 150
         },
@@ -212,7 +212,7 @@
         "points": "50 Punkte"
       },
       {
-        "name": "Entrenchments",
+        "name": "Grabenanlagen",
         "description": "40cm Stacheldraht, 40cm Gräben",
         "points": "50 Punkte"
       }

@@ -14,12 +14,12 @@
       "units": [
         "Canoness",
         "Palatine",
-        "Ministorum Priest",
+        "Ministorum Prediger",
         "Living Saint",
         "Ordo Hereticus Inquisitor Lord",
         "Ordo Hereticus Inquisitor",
         "Arco-Flagellants",
-        "Battle Sisters",
+        "Sororitatrupp",
         "Dominion Sisters",
         "Celestian Sisters",
         "Retributor Sisters",
@@ -58,7 +58,7 @@
     {
       "from": "ImperialNavy.json",
       "units": [
-        "Lightning Interceptor",
+        "Lightning Abfangjäger",
         "Marauder Destroyer",
         "Lunar-Klasse Kreuzer",
         "Imperator-Klasse Schlachtschiff"
@@ -74,9 +74,9 @@
       "formations": [
         {
           "name": "Mission",
-          "units": "Ein Palatine, acht Battle Sisters",
+          "units": "Ein Palatine, acht Sororitatrupp",
           "extraUnits": [
-            "Ersetze zwei Einheiten Battle Sisters mit zwei Exorcist Prioris: 50 Punkte",
+            "Ersetze zwei Einheiten Sororitatrupp mit zwei Exorcist Prioris: 50 Punkte",
             "Ordo Hereticus Superior",
             "Hunter",
             "Transport"
@@ -168,7 +168,7 @@
         },
         {
           "name": "Redemption",
-          "units": "Ein Ministorum Priest, acht Redemptionists, vier Ordo Hereticus Land Transporters",
+          "units": "Ein Ministorum Prediger, acht Redemptionists, vier Ordo Hereticus Land Transporters",
           "extraUnits": [
             "Ersetze vier Ordo Hereticus Land Transporters und vier Redemptionists mit sechs Arco-Flagellants, oder vier Penitent Engines: 50 Punkte"
           ],

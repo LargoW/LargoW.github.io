@@ -26,7 +26,7 @@
         ]
       },
       {
-        "name": "Ministorum Priest",
+        "name": "Ministorum Prediger",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "name": "Battle Sisters",
+        "name": "Sororitatrupp",
         "type": "INF",
         "speed": 15,
         "armour": 4,
