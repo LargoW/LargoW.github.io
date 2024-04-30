@@ -41,11 +41,11 @@
         "Rhino",
         "Whirlwind",
         "Vindicator",
-        "Landing Craft",
+        "Landungsbarke",
         "Storm Talon",
         "Thunderhawk",
-        "Battle Barge",
-        "Strike Cruiser",
+        "Schlachtkreuzer",
+        "Angriffskreuzer",
         "Drop Pod"
       ],
       "unitRules": [
@@ -206,15 +206,15 @@
           "points": 175
         },
         {
-          "name": "Landing Craft",
-          "units": "Ein Landing Craft",
+          "name": "Landungsbarke",
+          "units": "Ein Landungsbarke",
           "points": 325
         },
         {
           "name": "0-1 Orbitalunterstüzung",
-          "units": "Ein Strike Cruiser",
+          "units": "Ein Angriffskreuzer",
           "extraUnits": [
-            "Battle Barge"
+            "Schlachtkreuzer"
           ],
           "points": 200
         },
@@ -260,8 +260,8 @@
         "points": "Kostenlos"
       },
       {
-        "name": "Battle Barge",
-        "description": "Ersetze the Strike Cruiser mit einemBattle Barge",
+        "name": "Schlachtkreuzer",
+        "description": "Ersetze the Angriffskreuzer mit einemBattle Barge",
         "points": "75 Punkte"
       },
       {

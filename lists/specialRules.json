@@ -267,7 +267,7 @@
       "description": [
         "Die Space Marines sind eine äußerst mobile Armee. Aus diesem Grund beinhalten die Punktekosten eines Verbands normalerweise genügend Rhinos, um den Verband und alle Erweiterungen, die gekauft wurden, zu transportieren. Bestimmt die Anzahl der benötigten Rhinos, nachdem alle Erweiterungen gekauft wurden. Die Anzahl der Rhinos entspricht dem benötigten Minimum zum Transport aller Einheiten im Verband. Es können keine zusätzlichen Rhinos mitgenommen werden, um eventuelle Verluste abzufangen.",
         "Beachte, dass viele Verbände keine Rhinos erhalten, normalerweise weil sie nicht hineinpassen. Einheitenverbände, die Rhinos erhalten, werden als 'plus Transport' im Einheitenabschnitt des Armeeorganisationsplan angegeben.  Es besteht keine Pflicht die Rhinos mitzunehmen. Wenn der Verband stattdessen zu Fuß aufgestellt werden soll, damit er beispielsweise als Garnison fungieren kann oder um den Verband mit einem Thunderhawk zu transportieren, ist dies ohne weiteres möglich.",
-        "Der Verband darf seine Rhinos durch Drop Pods ersetzen. Wenn der Verband sich dafür entscheidet, betritt er das Spielfeld über eine planetare Landung. Beachte das hierfür ein Space Marine Angriffskreuzer oder eine Battle Barge notwendig ist um die Drop Pods abzusetzen.",
+        "Der Verband darf seine Rhinos durch Drop Pods ersetzen. Wenn der Verband sich dafür entscheidet, betritt er das Spielfeld über eine planetare Landung. Beachte das hierfür ein Space Marine Angriffskreuzer oder eine Schlachtkreuzer notwendig ist um die Drop Pods abzusetzen.",
         "Vor jedem Spiel, nachdem die gegnerische Armee bekannt ist, aber bevor Zielmarker platziert werden, darf der Space Marine Spieler wählen, welche Verbände mit dem Zusatz 'plus Transport' in Rhinos, zu Fuß oder mit Drop Pods eingesetzt werden."
       ]
     },
@@ -303,14 +303,14 @@
       "description": [
         "Die White Scars sind eine äußerst mobile Armee. Aus diesem Grund beinhalten die Punktekosten eines Verbands normalerweise genügend Rhinos, um den Verband und alle Erweiterungen, die gekauft wurden, zu transportieren. Bestimmt die Anzahl der benötigten Rhinos, nachdem alle Erweiterungen gekauft wurden. Die Anzahl der Rhinos entspricht dem benötigten Minimum zum Transport aller Einheiten im Verband. Es können keine zusätzlichen Rhinos mitgenommen werden, um eventuelle Verluste abzufangen.",
         "Beachte, dass viele Verbände keine Rhinos erhalten, normalerweise weil sie nicht hineinpassen. Einheitenverbände, die Rhinos erhalten, werden als 'plus Transport' im Einheitenabschnitt des Armeeorganisationsplan angegeben. White Scars Verbände müssen Transportfahrzeuge mitnehmen wenn möglich.  Du kannst auf diese Einheiten nicht freiwillig verzichten um die Einheit als Garnison zu verwenden, zu teleportieren oder um den Verband mit einem Thunderhawk zu transportieren.",
-        "Der Verband darf seine Rhinos durch Drop Pods ersetzen. Wenn der Verband sich dafür entscheidet, betritt er das Spielfeld über eine planetare Landung. Beachte das hierfür ein Space Marine Angriffskreuzer oder eine Battle Barge notwendig ist um die Drop Pods abzusetzen.",
+        "Der Verband darf seine Rhinos durch Drop Pods ersetzen. Wenn der Verband sich dafür entscheidet, betritt er das Spielfeld über eine planetare Landung. Beachte das hierfür ein Space Marine Angriffskreuzer oder eine Schlachtkreuzer notwendig ist um die Drop Pods abzusetzen.",
         "Vor jedem Spiel, nachdem die gegnerische Armee bekannt ist, aber bevor Zielmarker platziert werden, darf der White Scars-Spieler wählen, welche Verbände mit dem Zusatz 'plus Transport' in Rhinos oder mit Drop Pods eingesetzt werden."
       ]
     },
     {
       "title": "Navis Bossilite",
       "description": [
-        "Grey Knight spacecraft are among the fastest und best piloted ships in the Galaxy. If a Grey Knights Strike Cruiser has been bought, the Blood Ravens Spieler counts as having a Strategy Rating of 6 für the purposes of choosing which turn the spacecraft will pass over the battlefield."
+        "Grey Knight spacecraft are among the fastest und best piloted ships in the Galaxy. If a Grey Knights Angriffskreuzer has been bought, the Blood Ravens Spieler counts as having a Strategy Rating of 6 für the purposes of choosing which turn the spacecraft will pass over the battlefield."
       ]
     },
     {
@@ -320,20 +320,20 @@
       ]
     },
     {
-      "title": "Wings of the Sky Angel",
+      "title": "Flügel der Himmelsengel",
       "description": [
-        "All Deathwatch Detachments must start the game in the Reserven, transported in either a Dark Hunter Class Destroyer, a Corvus Blackstar Dropship oder a Deathwatch Thunderhawk Transporter.",
+        "All Deathwatch Detachments must start the game in the Reserven, transported in either a Dark Jäger Klasse Zerstörer, a Corvus Blackstar Dropship oder a Deathwatch Thunderhawk Transporter.",
         "In addition, all AA shots have einen zusätzlichen -1 to hit against Corvus Blackstar Dropships."
       ]
     },
     {
-      "title": "Descent of Angels",
+      "title": "Abstieg der Engel",
       "description": [
-        "Units in a formation mit Stormravens does not have to roll für scatter when using the Planetfall Sonderregel. Place the first Stormraven within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control."
+        "Units in a formation mit Stormravens does not have to roll für scatter when using the Planetare Landung Sonderregel. Place the first Stormraven within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control."
       ]
     },
     {
-      "title": "Lucifer Pattern Engine",
+      "title": "Lucifer Pattern Maschine",
       "description": [
         "Einheiten mit the Lucifer Pattern Engine Sonderregel gain einen zusätzlichen 5cm speed wenn ein 'Offensive' Befehl ausgeführt werden soll."
       ]
@@ -368,7 +368,7 @@
       "description": [
         "Units that Teleportieren within 15cm from a friendly, unbroken unit mit Telemetrieempfänger (except from teleporting Verbände) may re-roll 1:s when testing für Teleportieren Mishap.",
         "In addition, Verbände that exclusively consists of models mit Teleportieren may be set up in a spacecraft if such has been bought. From there, they can either Teleportieren normally oder coordinate their Teleportieren mit the spacecraft's activation.",
-        "Teleports coordinated mit einemspacecraft activation happen after Orbital Barrage, Pin-Points und all events related to Verbände making Planetfall has been resolved. All such teleports counts as taking place simultaneously, not eine after another. The entire formation must be placed within 15cm of a unit mit the Telemetrieempfänger Sonderregel. If they are unable oder unwilling to do so they must wait und Teleportieren normally in later turns."
+        "Teleports coordinated mit einemspacecraft activation happen after Orbital Barrage, Pin-Points und all events related to Verbände making Planetare Landung has been resolved. All such teleports counts as taking place simultaneously, not eine after another. The entire formation must be placed within 15cm of a unit mit the Telemetrieempfänger Sonderregel. If they are unable oder unwilling to do so they must wait und Teleportieren normally in later turns."
       ]
     },
     {
@@ -380,13 +380,13 @@
     {
       "title": "Land Speeder Escort",
       "description": [
-        "All types of Land Speeders bought as part of the 'Raven Guard Land Speeders' upgrade gain the <i>Planetfall</i> Sonderregel (only roll to scatter once für the entire formation). In addition, such Land Speeders may start the game transported in an air transport, taking up no transport space und Zählt als having the <i>Sprungmodule</i> Sonderregel when disembarking their transport. They may not be picked up again once on the battlefield."
+        "All types of Land Speeders bought as part of the 'Raven Guard Land Speeders' upgrade gain the <i>Planetare Landung</i> Sonderregel (only roll to scatter once für the entire formation). In addition, such Land Speeders may start the game transported in an air transport, taking up no transport space und Zählt als having the <i>Sprungmodule</i> Sonderregel when disembarking their transport. They may not be picked up again once on the battlefield."
       ]
     },
     {
       "title": "Aufklärungsspezialisten",
       "description": [
-        "Friendly Raven Guard Verbände that enter the battlefield through <i>Planetfall</i> that are placed within 30cm of a unit mit the <i>Aufklärungsspezialisten</i> Sonderregel does not roll für scatter. In addition, friendly Raven Guard Verbände that enter the battlefield through <i>Teleportieren</i> und are placed within 15cm of a unit mit the <i>Aufklärungsspezialisten</i> Sonderregel may re-roll 1:s when testing für Teleportieren Mishap."
+        "Friendly Raven Guard Verbände that enter the battlefield through <i>Planetare Landung</i> that are placed within 30cm of a unit mit the <i>Aufklärungsspezialisten</i> Sonderregel does not roll für scatter. In addition, friendly Raven Guard Verbände that enter the battlefield through <i>Teleportieren</i> und are placed within 15cm of a unit mit the <i>Aufklärungsspezialisten</i> Sonderregel may re-roll 1:s when testing für Teleportieren Mishap."
       ]
     },
     {
@@ -642,7 +642,7 @@
         "Summoned units must be setup mit their base completely within 5cm of any non-summoned unit in the Beschwörung formation (i.e. You cannot place a chain of summoned units). If the Beschwörung formation has the Transport ability, newly summoned units can be set up inside if there is space left. They cannot be placed in enemy zones of control oder impassable terrain. Summoned units become part of the Beschwörung formation für all rules purposes as long as they remain on the battlefield.",
         "Summoned Lesser Daemons are Entbehrlich, but they are otherwise counted as normal units und are included when working out if a formation outnumbers an opponent in an assault oder is broken by Beschussmarke, etc. Note that Daemons that are killed in an assault do count towards the number of units killed by the enemy when working out modifiers für assault resolution.",
         "Summoned units remain in play until the End Phase of the turn in which they were summoned. After all Verbände have attempted to rally any summoned units are removed from play und the total of their Daemon Pool cost is returned to the relevant Daemon Pool. This may cause the formation to break, if the number of Beschussmarke now equals oder exceeds the number of units in the formation.",
-        "When a formation becomes broken all its summoned units are destroyed.",
+        "When a formation becomes broken all its summoned units are zerstört.",
         "When calculating victory Punkte, the Lesser Daemon Pool scores half Punkte if the pool has less than oder equal to half (round up) its original number of daemons remaining. The Lesser Daemon Pool scores full Punkte if the pool has less than oder equal to a quarter (round up) its daemons remaining. Treat Greater Daemons as Kriegsmaschinen für the purpose of calculating victory Punkte."
       ]
     },
@@ -854,42 +854,42 @@
     {
       "title": "Black Legion Dreadclaws",
       "description": [
-        "Dreadclaws allow a Chaos formation to enter play using the planetfall rules if a spaceship has been purchased to carry them. Units in a formation mit Dreadclaws deploy using the planetfall rules but do not roll für scatter. Place the first unit within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control.",
+        "Dreadclaws allow a Chaos formation to enter play using the Planetare Landung rules if a spaceship has been purchased to carry them. Units in a formation mit Dreadclaws deploy using the Planetare Landung rules but do not roll für scatter. Place the first unit within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control.",
         "The following units may be deployed using Dreadclaws: Noise Marines, Rubric Marines, Khorne Berzerkers, Seuchenmarines, Chaos Space Marines, Havocs, Chaos Terminatoren, Kyborgs, Chaos Cybots."
       ]
     },
     {
       "title": "Night Lords Dreadclaws",
       "description": [
-        "Dreadclaws allow a Chaos formation to enter play using the planetfall rules if a spaceship has been purchased to carry them. Units in a formation mit Dreadclaws deploy using the planetfall rules but do not roll für scatter. Place the first unit within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control.",
+        "Dreadclaws allow a Chaos formation to enter play using the Planetare Landung rules if a spaceship has been purchased to carry them. Units in a formation mit Dreadclaws deploy using the Planetare Landung rules but do not roll für scatter. Place the first unit within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control.",
         "The following units may be deployed using Dreadclaws: Night Lords Sturmtrupps, Atramentar Terminatoren, Night Lords Cybots."
       ]
     },
     {
       "title": "Word Bearers Dreadclaws",
       "description": [
-        "Dreadclaws allow a Chaos formation to enter play using the planetfall rules if a spaceship has been purchased to carry them. Units in a formation mit Dreadclaws deploy using the planetfall rules but do not roll für scatter. Place the first unit within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control.",
+        "Dreadclaws allow a Chaos formation to enter play using the Planetare Landung rules if a spaceship has been purchased to carry them. Units in a formation mit Dreadclaws deploy using the Planetare Landung rules but do not roll für scatter. Place the first unit within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control.",
         "The following units may be deployed using Dreadclaws: Chaos Space Marines, Havocs, Chaos Terminatoren, Word Bearers Possessed, Chaos Cybots."
       ]
     },
     {
       "title": "Emperor's Children Dreadclaws",
       "description": [
-        "Dreadclaws  allow  a  chaos  formation  to  enter  play  using  the  planetfall  rules  if  a  spaceship  has  been purchased to carry them. Units in a formation mit Dreadclaws deploy using the planetfall rules but do not roll für scatter. Place the first unit within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control.",
+        "Dreadclaws  allow  a  chaos  formation  to  enter  play  using  the  Planetare Landung  rules  if  a  spaceship  has  been purchased to carry them. Units in a formation mit Dreadclaws deploy using the Planetare Landung rules but do not roll für scatter. Place the first unit within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control.",
         "The following units may be deployed using Dreadclaws: Noise Marines, Chaos Space Marines, Havocs, Sirenshriek Terminatoren, Chaos Cybots."
       ]
     },
     {
       "title": "Iron Warriors Dreadclaws",
       "description": [
-        "Dreadclaws allow a Chaos formation to enter play using the planetfall rules if a spaceship has been purchased to carry them. Units in a formation mit Dreadclaws deploy using the planetfall rules but do not roll für scatter. Place the first unit within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control.",
+        "Dreadclaws allow a Chaos formation to enter play using the Planetare Landung rules if a spaceship has been purchased to carry them. Units in a formation mit Dreadclaws deploy using the Planetare Landung rules but do not roll für scatter. Place the first unit within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control.",
         "The following units may be deployed using Dreadclaws: Chaos Space Marines, Havocs, Kyborgs, Tyrant Terminatoren, Chaos Cybots, Chaos Siege Cybots."
       ]
     },
     {
       "title": "World Eaters Dreadclaws",
       "description": [
-        "Dreadclaws  allow  a  chaos  formation  to  enter  play  using  the  planetfall  rules  if  a  spaceship  has  been purchased to carry them. Units in a formation mit Dreadclaws deploy using the planetfall rules but do not roll für scatter. Place the first unit within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control.",
+        "Dreadclaws  allow  a  chaos  formation  to  enter  play  using  the  Planetare Landung  rules  if  a  spaceship  has  been purchased to carry them. Units in a formation mit Dreadclaws deploy using the Planetare Landung rules but do not roll für scatter. Place the first unit within 15cm of the pre-plotted drop zone co-ordinates und place all other units in the formation within 15cm of this unit und in coherency. Units may not be placed in impassable terrain oder enemy zones of control.",
         "The following units may be deployed using Dreadclaws: Khorne Berzerkers, World Eaters Marines, Skullseeker Terminatoren, Cybots, Mutilators."
       ]
     },
@@ -966,7 +966,7 @@
     {
       "title": "Daemonic Instability",
       "description": [
-        "When any Exalted Greater Daemon formation oder Daemon Legions formation becomes broken für any reason, it is immediately destroyed."
+        "When any Exalted Greater Daemon formation oder Daemon Legions formation becomes broken für any reason, it is immediately zerstört."
       ]
     },
     {
@@ -980,7 +980,7 @@
         "If the activation is successful, place a Warp Rift token at the plotted coordinates. It does not scatter.",
         "If a Warp Rift would open on terrain that is impassable für units in the formation that will enter through it under a friendly unit oder in an enemy zone of control, then it is assumed that will divert towards another entry point. The location für the Warp Rift should be moved to the nearest point where it can open.",
         "Finally, the activated formation carries out the order determined at the start of its action und must move the formation out of the Warp Rift. Measure all distances from the centre point of the token.",
-        "All units from the activating formation must move out of the Warp Rift. Any units that are unable to exit the Warp Rift are destroyed. The Warp Rift token is then removed from the battlefield."
+        "All units from the activating formation must move out of the Warp Rift. Any units that are unable to exit the Warp Rift are zerstört. The Warp Rift token is then removed from the battlefield."
       ]
     },
     {
@@ -1012,7 +1012,7 @@
         "The Alpha Legion are a highly mobile army. Because of this, the Punkte cost of a detachment usually includes enough Rhino transport vehicles to transport it und any Erweiterungen that have been taken. Determine the number of Rhinos needed after all Erweiterungen have been purchased. The number of Rhinos will always be the minimum needed to carry the formation, you can’t take extras along to cover any losses!",
         "Note that many Verbände don’t receive Rhinos, usually because they can’t fit into them. Detachments that come mit Rhinos will be noted as having plus transport in the units section of the army list opposite.",
         "Also note that you don’t have to take Rhinos if you don’t want to. If you’d rather field the formation on foot instead, so it can act as a garrison für example oder be transported in a Storm Eagle, then you may do so.",
-        "In addition, you may choose to replace a detachment’s Rhinos mit Drop Pods. If you do this then the detachment will enter play in a Drop Pods using the rules für Planetfall (see Planetfall). Note that if you choose to do this you will also require a Chaos Strike Cruiser deploy the Drop Pods from.",
+        "In addition, you may choose to replace a detachment’s Rhinos mit Drop Pods. If you do this then the detachment will enter play in a Drop Pods using the rules für Planetare Landung (see Planetare Landung). Note that if you choose to do this you will also require a Chaos Angriffskreuzer deploy the Drop Pods from.",
         "Before jeweils game, after the opposing army is known but before objectives are placed, the Alpha Legion Spieler may choose which Verbände mit the plus transport aspect are deployed in Rhinos, Drop Pods oder on foot. If the formation has any units unable to deploy in Drop Pods then that option cannot be selected."
       ]
     },

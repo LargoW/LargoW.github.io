@@ -87,7 +87,7 @@
       {
         "name": "Corsair Nightwing Interceptor",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Abfangjäger",
         "armour": 5,
         "weapons": [
           "AC Synchronisierter Shuriken Geschütz",
@@ -110,12 +110,12 @@
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "May carry bis zu acht of the following: Corsair Warriors, Corsair Veterans, Ghostwalker, Corsair Wasp Walker. Corsair Wasp Walkers take zwei spaces jeweils.",
-        "crit": "The Vampire Raider und all units on board are destroyed."
+        "crit": "The Vampire Raider und all units on board are zerstört."
       }
     ]
   }

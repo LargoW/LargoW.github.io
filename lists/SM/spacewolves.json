@@ -23,7 +23,7 @@
         "Blood Claw Sturmtrupp",
         "Sky Claw Sturmtrupp",
         "Grey Hunter Taktischer Trupp",
-        "Wolf Guard Terminatoren",
+        "Terminatoren der Wolfsgarde",
         "Long Fang Devastoren",
         "Swift Claw Assault Bikes",
         "Fenrisian Wolves",
@@ -43,10 +43,10 @@
         "Whirlwind",
         "Vindicator",
         "Storm Talon",
-        "Stormwolf Assault Boat",
-        "Stormfang Gunship",
-        "Battle Barge",
-        "Strike Cruiser",
+        "Stormwolf Sturmtransporter",
+        "Stormfang Kanonenschiff",
+        "Schlachtkreuzer",
+        "Angriffskreuzer",
         "Drop Pod"
       ],
       "unitRules": [
@@ -137,7 +137,7 @@
         },
         {
           "name": "Wolf Guard Terminator Pack",
-          "units": "Ein Wolf Lord Captain, vier Wolf Guard Terminatoren plus transport",
+          "units": "Ein Wolf Lord Captain, vier Terminatoren der Wolfsgarde plus transport",
           "extraUnits": [
             "Cybots",
             "Oberbefehlshaber"
@@ -207,9 +207,9 @@
       "formations": [
         {
           "name": "0-1 Orbitalunterstüzung",
-          "units": "Ein Strike Cruiser",
+          "units": "Ein Angriffskreuzer",
           "extraUnits": [
-            "Battle Barge"
+            "Schlachtkreuzer"
           ],
           "points": 200
         },
@@ -219,15 +219,15 @@
           "points": 200
         },
         {
-          "name": "Stormwolf Assault Boat",
-          "units": "Ein Stormwolf Assault Boat",
+          "name": "Stormwolf Sturmtransporter",
+          "units": "Ein Stormwolf Sturmtransporter",
           "extraUnits": [
           ],
           "points": 200
         },
         {
-          "name": "Stormfang Gunship",
-          "units": "Ein Stormfang Gunship",
+          "name": "Stormfang Kanonenschiff",
+          "units": "Ein Stormfang Kanonenschiff",
           "points": 175
         },
         {
@@ -260,8 +260,8 @@
         ]
       },
       {
-        "name": "Battle Barge",
-        "description": "Ersetze the Strike Cruiser mit einemBattle Barge",
+        "name": "Schlachtkreuzer",
+        "description": "Ersetze the Angriffskreuzer mit einemBattle Barge",
         "points": "75 Punkte"
       },
       {

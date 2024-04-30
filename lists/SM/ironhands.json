@@ -44,8 +44,8 @@
         "Whirlwind",
         "Storm Talon",
         "Thunderhawk Transporter",
-        "Battle Barge",
-        "Strike Cruiser",
+        "Schlachtkreuzer",
+        "Angriffskreuzer",
         "Drop Pod"
       ],
       "unitRules": [
@@ -181,9 +181,9 @@
         },
         {
           "name": "0-1 Orbitalunterstüzung",
-          "units": "Ein Strike Cruiser",
+          "units": "Ein Angriffskreuzer",
           "extraUnits": [
-            "Battle Barge"
+            "Schlachtkreuzer"
           ],
           "points": 200
         },
@@ -228,8 +228,8 @@
         ]
       },
       {
-        "name": "Battle Barge",
-        "description": "Ersetze the Strike Cruiser mit einemBattle Barge",
+        "name": "Schlachtkreuzer",
+        "description": "Ersetze the Angriffskreuzer mit einemBattle Barge",
         "points": "75 Punkte"
       },
       {

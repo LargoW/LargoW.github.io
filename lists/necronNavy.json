@@ -54,7 +54,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "4BP, MW"
@@ -64,7 +64,7 @@
           "Pin Point|1|"
         ],
         "specialRules": [
-          "Slow to Arrive (may only arrive on the battlefield from turn 2 onwards)"
+          "Verzögerte Ankunft (may only arrive on the battlefield from turn 2 onwards)"
         ]
       }
     ]

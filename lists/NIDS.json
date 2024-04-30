@@ -652,7 +652,7 @@
       {
         "name": "Schwarmnest",
         "type": "WE",
-        "speed": "Immobil",
+        "speed": "Immobile",
         "armour": 5,
         "cc": 5,
         "ff": 6,

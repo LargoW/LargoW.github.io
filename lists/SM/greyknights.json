@@ -55,7 +55,7 @@
         "Fire Raptor",
         "Thunderhawk Transporter",
         "Vanguard Class Light Cruiser",
-        "Grey Knights Strike Cruiser",
+        "Grey Knights Angriffskreuzer",
         "Drop Pod"
       ],
       "unitRules": [
@@ -73,7 +73,7 @@
           "name": "1 Orbitalunterstüzung",
           "units": "Vanguard Class Light Cruiser",
           "extraUnits": [
-            "Ersetze the Strike Cruiser mit einemGrey Knights Strike Cruiser: 75 Punkte"
+            "Ersetze the Angriffskreuzer mit einemGrey Knights Angriffskreuzer: 75 Punkte"
           ],
           "points": 150
         },

@@ -48,8 +48,8 @@
         "Glaive",
         "Ravenwing Nephilim",
         "Ravenwing Dark Talon",
-        "Hunter Class Destroyer",
-        "Strike Cruiser",
+        "Jäger Klasse Zerstörer",
+        "Angriffskreuzer",
         "Drop Pod"
       ],
       "unitRules": [
@@ -199,9 +199,9 @@
         },
         {
           "name": "1 Swordwing Support",
-          "units": "Hunter Class Destroyer",
+          "units": "Jäger Klasse Zerstörer",
           "extraUnits": [
-            "Strike Cruiser"
+            "Angriffskreuzer"
           ],
           "points": 100
         }
@@ -231,8 +231,8 @@
         ]
       },
       {
-        "name": "Strike Cruiser",
-        "description": "Ersetze the Hunter Class Destroyer mit einemStrike Cruiser",
+        "name": "Angriffskreuzer",
+        "description": "Ersetze the Jäger Klasse Zerstörer mit einemStrike Cruiser",
         "points": "125 Punkte"
       },
       {
@@ -295,7 +295,7 @@
   },
   "usage": [
     "The EA-R Dark Angels list is inspired by the E-UK version of the list, but the differences are obviously way more numerous than the similarities. Für example, while the Unmodifizierter Rettungswurf on the Ravenwing Verbände has been retained, the Deathwing rule has been dropped und the Telemetrieempfänger rule is greatly expanded.",
-    "Apart from the rigid structure und the changes inherited from the EA-R Codex Astartes list, the most major difference is that it has no access to air assault Verbände, but strongly encourages the Spieler to concentrate on the Teleportieren aspects of the Dark Angels fluff und bringing a strong ground game. The Battle Barge has been replaced mit the Hunter Class Destroyer, which provides the army mit einemcheaper way to use the Telemetrieempfänger Sonderregel.",
+    "Apart from the rigid structure und the changes inherited from the EA-R Codex Astartes list, the most major difference is that it has no access to air assault Verbände, but strongly encourages the Spieler to concentrate on the Teleportieren aspects of the Dark Angels fluff und bringing a strong ground game. The Schlachtkreuzer has been replaced mit the Jäger Klasse Zerstörer, which provides the army mit einemcheaper way to use the Telemetrieempfänger Sonderregel.",
     "A great number of the Dark Angels' many special units has been added, somewhat compensating für the loss of air assault options und Collegia Titanica allies. The Glaive, being a relic Horus Heresy technology, has been restricted to eine formation für thematic purposes, while the normal Cybot loadouts have been replaced mit the Mortis AA variant. The Land Speeder Typhoon has been replaced mit the Land Speeder Venegance und the formation reduced to vier units to keep the cost down und make the formation more competitive mit the Aufklärer formation. The Sturmtrupp detachment was expanded to sechs units und comes mit einemDark Angels Captain as standard (providing Telemetrieempfänger), making them more relevant in a list without Thunderhawks. The Nephilim is now more similar to the Storm Talon und the Dark Talon provides the list mit einemFighter-Bomber option."
   ]
 }

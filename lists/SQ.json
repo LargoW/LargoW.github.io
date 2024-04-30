@@ -150,7 +150,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Rapier-Lasergeschütz"
+          "Rapier Schnitter"
         ],
         "specialRules": [
         ]
@@ -211,7 +211,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Squat Warlord, Grand Warlord und Squat Thunderfire units takes zwei spaces jeweils. While transporting Squat Thunderfires, Squat Rhinos' speed are reduced to 20cm."
+        "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Squat Warlord, Grand Warlord, und Squat Donnerfeuer units takes zwei spaces jeweils. While transporting Squat Thunderfires, Squat Rhinos' speed are reduced to 20cm."
       },
       {
         "name": "Land Raider",
@@ -232,13 +232,13 @@
         "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Squat Warlord und Grand Warlord units takes zwei spaces jeweils."
       },
       {
-        "name": "Squat Thunderfire",
+        "name": "Squat Donnerfeuer",
         "type": "AV",
         "speed": 5,
         "armour": 5,
         "ff": 6,
         "weapons": [
-          "Squat Thunderfire Cannons"
+          "Squat Donnerfeuer Cannons"
         ],
         "specialRules": [
         ]
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "name": "Bronze Raven Gunship",
+        "name": "Bronze Raven Kanonenschiff",
         "type": "AC",
         "speed": "Bomber[*]",
         "armour": 5,

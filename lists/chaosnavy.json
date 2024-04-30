@@ -7,7 +7,7 @@
       {
         "name": "Hell Blade Interceptor",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Abfangjäger",
         "armour": 6,
         "weapons": [
           "AC Reaper Maschinenkanone|2|FxF"
@@ -31,7 +31,7 @@
       {
         "name": "Heldrake",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Abfangjäger",
         "armour": 6,
         "weapons": [
           "AC Hades Maschinenkanone||FxF",
@@ -57,7 +57,7 @@
       {
         "name": "Doomwing",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Abfangjäger",
         "armour": 6,
         "weapons": [
           "AC Flammengeschütz||FxF"
@@ -115,7 +115,7 @@
       {
         "name": "Chaos Xiphon Interceptor",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Abfangjäger",
         "armour": 5,
         "weapons": [
           "AC Doppeltsynchronisierte Laserkanone||FxF",
@@ -134,17 +134,17 @@
         "weapons": [
           "AC Doppeltsynchronisierte Laserkanone||FxF",
           "AC Synchronisierter schwerer Bolter||FxF",
-          "Vengeance Launcher||"
+          "Vergeltungswerfer||"
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Planetfall",
+          "Planetare Landung",
           "Hartnäckig",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "May transport vier Infanterie Einheiten without Beritten; Terminatoren, Dämonenprinzs, Chaos Spawn, Big Mutants und Cybots counts as zwei Einheiten. Zählt als a Chaos Thunderhawk für being transported.",
-        "crit": "The Storm Eagle und all units being carried are destroyed."
+        "crit": "The Storm Eagle und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Chaos Fire Raptor",
@@ -152,9 +152,9 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Synchronisierter Avenger Bolt Geschütz||FxF",
-          "AC Rakete Array||FxF",
-          "AC Doppeltsynchronisierter schwerer Bolter Turrets||"
+          "AC Synchronisiertes Avenger Bolter Geschütz||FxF",
+          "AC Raketenarray||FxF",
+          "AC Doppeltsynchronisierte schwere Bolter Türme||"
         ],
         "specialRules": [
           "Schadenskapazität 2",
@@ -177,12 +177,12 @@
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "May transport acht Infanterie Einheiten; Terminatoren, Dämonenprinzs, Chaos Spawn, Big Mutants und Cybots counts as zwei Einheiten.",
-        "crit": "The Thunderhawk und all units being carried are destroyed."
+        "crit": "The Thunderhawk und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Night Lords Thunderhawk",
@@ -199,12 +199,12 @@
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "May transport acht Infanterie Einheiten; Terminatoren, Dämonenprinzs, Chaos Spawn, Big Mutants und Cybots counts as zwei Einheiten.",
-        "crit": " The Thunderhawk und all units being carried are destroyed."
+        "crit": " The Thunderhawk und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Alpha Legion Thunderhawk",
@@ -222,12 +222,12 @@
         "specialRules": [
           "Schadenskapazität 2",
           "Hartnäckig",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "May transport acht Infanterie Einheiten; Terminatoren, Dämonenprinzs, Chaos Spawn, Big Mutants und Cybots counts as zwei Einheiten.",
-        "crit": " The Thunderhawk und all units being carried are destroyed."
+        "crit": " The Thunderhawk und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Chaos Stormbird",
@@ -245,11 +245,11 @@
           "Schadenskapazität 3",
           "Furchtlos",
           "Verstärkte Panzerung",
-          "Planetfall",
+          "Planetare Landung",
           "Transport"
         ],
         "notes": "May transport zwölf Infanteristen units; Chaos Spawn, Terminatoren und Cybots zählen als zwei Einheiten. Zählt als a Thunderhawk für being transported.",
-        "crit": "The Stormbird und all units being carried are destroyed. All Einheiten innerhalb von 5cm takes a hit."
+        "crit": "The Stormbird und all units being carried are zerstört. All Einheiten innerhalb von 5cm takes a hit."
       },
       {
         "name": "Hellbringer Class Light Cruiser",
@@ -264,7 +264,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "3BP, MW"
@@ -273,14 +273,14 @@
           },
           "Pin Point"
         ],
-        "notes": "Transport. May transport 20 Infanterie Einheiten oder Cybots; plus drei Thunderhawks to transport und enough Dreadclaws to transport any other units being carried."
+        "notes": "Transport. May transport 20 Infanterie Einheiten oder Cybots; plus drei Thunderhawks to transport und enough Dreadclaws um alle anderen Einheiten zu transportieren."
       },
       {
         "name": "Plagueship",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "4BP, MW"
@@ -289,7 +289,7 @@
           }
         ],
         "specialRules": [
-          "Slow to Arrive (May only arrive from turn 2 onwards)"
+          "Verzögerte Ankunft (Darf erst ab der 2. Runde  erscheinen)"
         ]
       },
       {
@@ -299,7 +299,7 @@
           "Pin Point"
         ],
         "specialRules": [
-          "Slow to Arrive (May only arrive from turn 2 onwards)"
+          "Verzögerte Ankunft (Darf erst ab der 2. Runde  erscheinen)"
         ]
       },
       {
@@ -307,7 +307,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "3BP, MW"
@@ -317,16 +317,16 @@
           "Pin Point|2|"
         ],
         "specialRules": [
-          "Slow to Arrive (May only arrive from turn 2 onwards)"
+          "Verzögerte Ankunft (Darf erst ab der 2. Runde  erscheinen)"
         ],
-        "notes": "Transport. May transport 30 Infanterie Einheiten oder Cybots; plus sechs Thunderhawks und enough Dreadclaws to transport any other units being carried."
+        "notes": "Transport. May transport 30 Infanterie Einheiten oder Cybots; plus sechs Thunderhawks und enough Dreadclaws um alle anderen Einheiten zu transportieren."
       },
       {
-        "name": "Chaos Strike Cruiser",
+        "name": "Chaos Angriffskreuzer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "4BP, MW"
@@ -337,7 +337,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport 20 Infanterie Einheiten oder Cybots; plus twenty leichte Fahrzeuge oder armoured vehicle units (except Cybots); plus sechs Thunderhawks und enough Drop Pods und Thunderhawk Transporters to transport any other units being carried."
+        "notes": "May transport 20 Infanterie Einheiten oder Cybots; plus twenty light vehicles oder armoured vehicle units (except Cybots); plus sechs Thunderhawks und enough Drop Pods und Thunderhawk Transporters um alle anderen Einheiten zu transportieren."
       },
       {
         "name": "Alpha Legion Drop Pod",
@@ -353,7 +353,7 @@
           }
         ],
         "specialRules": [
-          "Planetfall",
+          "Planetare Landung",
           "Transport"
         ],
         "notes": "May transport eine formation of only the following units: Alpha Legion Marines, Alpha Legion Havocs, Alpha Legion Headhunters, Lernaean Terminatoren, Alpha Legion Cybots. After the Drop Pod lands, its Deathwind attacks all enemy Einheiten innerhalb von 15cm. Jeweils enemy formation attacked receives a Beschussmarke für coming under fire und an extra Beschussmarke pro casualty. Then any troops carried in the Drop Pod must disembark within 5cm of the Drop Pod oder within 5cm of another unit from the same formation that has already landed, so long as all units are placed within 15cm of the Drop Pod. Drop Pod models should be removed from the board once the formation they transport has disembarked."
