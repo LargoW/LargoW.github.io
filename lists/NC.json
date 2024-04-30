@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Necron Overlord",
+        "name": "Necron Schwarmoberhaupt",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -23,7 +23,7 @@
         ]
       },
       {
-        "name": "Necron Destroyer Overlord",
+        "name": "Necron Destroyer Schwarmoberhaupt",
         "type": "INF",
         "speed": 25,
         "armour": 3,
@@ -106,7 +106,7 @@
           "Regeneration",
           "Teleportieren"
         ],
-        "notes": "'The Unbidden': Albträume may only contest objectives, must start the game in the Reserven, und may not use Necron Portale."
+        "notes": "'The Unbidden': Albträume may only contest objectives, must start the game in the Reserven und may not use Necron Portale."
       },
       {
         "name": "Immortals",
@@ -464,7 +464,7 @@
           "Teleportieren",
           "Enduring"
         ],
-        "crit": "The Pylon is zerstört. All Einheiten mitin 5cm suffer a hit on a roll of 4+."
+        "crit": "The Pylon wird zerstört. All Einheiten innerhalb von 5cm suffer a hit on a roll of 4+."
       },
       {
         "name": "Megalith",
@@ -488,7 +488,7 @@
           "Enduring"
         ],
         "notes": "May transport bis zu zwei Monoliths oder Obelisks",
-        "crit": "The Megalith's Portal is zerstört. Subsequent critical hits cause eine additional damage."
+        "crit": "The Megalith's Portal wird zerstört. Subsequent critical hits cause eine additional damage."
       },
       {
         "name": "Æonic Orb",
@@ -506,7 +506,7 @@
           "Hilfstransportschiff",
           "Enduring"
         ],
-        "crit": "The Æonic Orb is zerstört. Alle Einheiten innerhalb von 5 cm erleiden einen Treffer."
+        "crit": "The Æonic Orb wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden einen Treffer."
       },
       {
         "name": "Abattoir",
@@ -527,7 +527,7 @@
           "Antigrav",
           "Enduring"
         ],
-        "crit": "The Abattoir's Portal is zerstört. Subsequent critical hits cause eine additional damage."
+        "crit": "The Abattoir's Portal wird zerstört. Subsequent critical hits cause eine additional damage."
       }
     ]
   }

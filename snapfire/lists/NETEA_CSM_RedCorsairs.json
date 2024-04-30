@@ -2,7 +2,7 @@
 	"id":"NetEA Red Corsairs",
 	"version":"2019-10-17",
 	"by":"EA-Ragnarok",
-	"notes":["Formations deploying by Drop Pod or Chaos Rhinos may only take enough to transport the entire formation with no space left over. Max 4 different upgrades per formation."],
+	"notes":["Formations deploying by Drop Pod or Chaos Rhinos may only take enough to transport the entire formation mit no space left over. Max 4 different upgrades per formation."],
 	"sections":[
 		{"name":"DAEMON POOL", "formations": [
 			{ "id":500, "name":"Daemon Pool", "pts":0, "upgrades":[11,12,10] }

@@ -4,7 +4,7 @@
   "version": "1.0.beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_WhiteScars",
-  "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee White Scars Space Marine Orden oder einen der Nachfolgeorden aufstellen. The White Scars practice a highly mobile method of warfare, tearing into their enemies with lightning-quick attacks und vanishing before a response can be made.",
+  "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee White Scars Space Marine Orden oder einen der Nachfolgeorden aufstellen. The White Scars practice a highly mobile method of warfare, tearing into their enemies mit lightning-quick attacks und vanishing before a response can be made.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "armyRules": "The <i>Sie kennen keine Furcht</i> Sonderregel applies to all White Scars detachments und Aircraft Verbände.",
@@ -88,7 +88,7 @@
           "name": "Terminatoren",
           "units": "Vier Terminatoren, zwei Land Raider Crusaders",
           "extraUnits": [
-            "Ersetze bis zu zwei Land Raider Crusaders with zwei Land Raiders jeweils: 50 Punkte jeweils",
+            "Ersetze bis zu zwei Land Raider Crusaders mit zwei Land Raiders jeweils: 50 Punkte jeweils",
             "Anti-Air",
             "Befehlshaber",
             "Vindicators"
@@ -148,7 +148,7 @@
     },
     {
       "name": "White Scars Navy & Collegia Titanica Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Storm Talons",
@@ -166,7 +166,7 @@
           "points": 325
         },
         {
-          "name": "0-1 Orbital Support",
+          "name": "0-1 Orbitalunterstüzung",
           "units": "Ein Angriffskreuzer",
           "extraUnits": [
             "Schlachtkreuzer"
@@ -184,7 +184,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "White Scars Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro detachment",
     "items": [
@@ -204,7 +204,7 @@
       },
       {
         "name": "Trikes",
-        "description": "Ersetze bis zu drei White Scars Assault Bikes, oder eine White Scars Aufklärer Bikes, mit einem equal number of White Scars Attack oder Melter Bikes",
+        "description": "Ersetze bis zu drei White Scars Assault Bikes oder eine White Scars Aufklärer Bikes, mit einem equal number of White Scars Attack oder Melter Bikes",
         "points": "Kostenlos"
       },
       {

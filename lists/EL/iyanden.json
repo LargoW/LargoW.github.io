@@ -117,7 +117,7 @@
     },
     {
       "name": "Iyanden Troupes",
-      "description": " Bis zu zwei für jeweils Iyanden Wraithhost taken",
+      "description": "Bis zu zwei pro Iyanden Wraithhost taken",
       "formations": [
           {
             "name": "Guardians",
@@ -130,7 +130,7 @@
         },
         {
           "name": "Aspect Warrior Troupe",
-          "units": "Sechs Aspect Warriors chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Shining Spears, Striking Scorpions, Swooping Hawks, Warp Spiders",
+          "units": "Sechs Aspect Warriors ausgewählt aus the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Shining Spears, Striking Scorpions, Swooping Hawks, Warp Spiders",
           "extraUnits": [
             "Exarch"
           ],
@@ -138,7 +138,7 @@
         },
         {
           "name": "Engines of Vaul Troupe",
-          "units": "Ein Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
+          "units": "Ein Engine of Vaul ausgewählt aus the following: Cobra, Scorpion, Storm Serpent",
           "extraUnits": [
             "Füge bis zu zwei additional Engines of Vaul (Cobra, Scorpion, Storm Serpent): 200 Punkte jeweils"
           ],
@@ -148,7 +148,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos"
+            "Ersetze bis zu zwei Falcons mit Firestorms: Kostenlos"
           ],
           "points": 250
         },
@@ -192,7 +192,7 @@
     },
     {
       "name": "Iyanden Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Nightwing Aerie",
@@ -249,7 +249,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Iyanden Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
@@ -265,17 +265,17 @@
       },
       {
         "name": "Vypers",
-        "description": "Ersetze any number of Eldar Jetbikes with Eldar Vypers",
+        "description": "Ersetze any number of Eldar Jetbikes mit Eldar Vypers",
         "points": "Kostenlos"
       },
       {
         "name": "Heavy Weapons",
-        "description": "Ersetze bis zu drei Eldar Guardians with Eldar Heavy Weapon Platforms",
+        "description": "Ersetze bis zu drei Eldar Guardians mit Eldar Heavy Weapon Platforms",
         "points": "Kostenlos"
       },
       {
         "name": "Support Weapons",
-        "description": "Ersetze bis zu drei Eldar Guardians with with Eldar Support Weapon Platforms (all armed with the same weapon).",
+        "description": "Ersetze bis zu drei Eldar Guardians mit with Eldar Support Weapon Platforms (all armed mit the same weapon).",
         "points": "25 Punkte jeweils"
       },
       {
@@ -296,7 +296,7 @@
     ]
   },
   "about": [
-    "v1.0.Beta: The EA-R Iyanden Craftworld list owes its basic structure to the NetEA version on the list, mit einemnumber important changes und additions, most of which have been inherited from the process of making the 'main' EA-R Craftworld Eldar list: Biel-Tan. With the Wraithguard being reduced to 3+ save, Wraithblades got the same save. These units no longer being 4++ und Furchtlos allowed für making their Verbände somewhat cheaper.",
-    "The Spirit Walker Wraithhost has been made a bit more similar to the other Wraithhosts, und the list has also gained access to a WraithRitter formation, using the 'Ritter' H-AV unit type."
+    "v1.0.Beta: The EA-R Iyanden Craftworld list owes its basic structure to the NetEA version on the list, mit einemnumber important changes und additions, most of which have been inherited from the process of making the 'main' EA-R Craftworld Eldar list: Biel-Tan. mit the Wraithguard being reduced to 3+ save, Wraithblades got the same save. These units no longer being 4++ und Furchtlos allowed für making their Verbände somewhat cheaper.",
+    "The Spirit Walker Wraithhost has been made a bit more similar to the other Wraithhosts und the list has also gained access to a WraithRitter formation, using the 'Ritter' H-AV unit type."
   ]
 }

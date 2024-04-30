@@ -19,7 +19,7 @@
         {"id":523, "name":"Scouts", "pts":150, "units": "4 Raven Guard Scouts plus transport", "upgrades":[17,34,35,40,41,42,43]},
       {"id":520, "name":"Bikes", "pts":200, "upgrades":[1,2,3,4]},
       {"id":521, "name":"Land Speeders", "pts":50, "upgrades":[]},
-      {"id":522, "name":"Orbital Support", "pts":200, "upgrades":[]}
+      {"id":522, "name":"Orbitalunterstüzung", "pts":200, "upgrades":[]}
     ]},
     {"name":"RAVEN GUARD AIRCRAFT & COLLEGIA TITANICA ALLIES <br/> Max 33%", "formations":[
       {"id":532, "name":"Storm Talons", "pts":200, "units": "Two Storm Talons"},

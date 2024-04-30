@@ -15,7 +15,7 @@
 			{"id":506, "name":"Flak Battery",					"pts":150, "units":"3 Hydra"},
 			{"id":505, "name":"Mechanized Platoon",				"pts":300, "upgrades":[56], "units":"10 Infantry, 5 Chimera"},
 			{"id":504, "name":"Salamander Scout Platoon",		"pts":100, "upgrades":[56], "units":"3 Salamanders"},
-			{"id":508, "name":"Storm Trooper Platoon",			"pts":200, "upgrades":[70,71], "units":"8 Storm Troopers"},
+			{"id":508, "name":"Sturmtruppen Platoon",			"pts":200, "upgrades":[70,71], "units":"8 Storm Troopers"},
 			{"id":503, "name":"Super-Heavy Tank Platoon", 		"pts":200},
 			{"id":501, "name":"Tank Platoon",					"pts":280},
 			{"id":507, "name":"Vulture Squadron",				"pts":300, "units":"4 Vultures"}
@@ -23,7 +23,7 @@
 		{"name":"IMPERIAL NAVY & TITAN LEGION ALLIES <br/> Max 33%", "formations":[
 			{"id":520, "name":"Marauder Squadron",		"pts":250, "units":"2 Marauder Bombers"},
 			{"id":519, "name":"Thunderbolt Squadron",	"pts":150, "units":"2 Thunderbolt Fighters"},
-			{"id":510, "name":"Orbital Support",				"pts":150},
+			{"id":510, "name":"Orbitalunterstüzung",				"pts":150},
 			{"id":523, "name":"Reaver Titan",					"pts":650},
 			{"id":524, "name":"Warhound Titan",				"pts":275},
 			{"id":526, "name":"Warhound Pack",			"pts":500, "units":"2 Warhound Class Titans"},
@@ -80,7 +80,7 @@
 		{"id":61, "name":"Leman Russ Conqueror",					"pts":10},
 		{"id":62, "name":"Leman Russ Exterminator",				"pts":10},
 		{"id":63, "name":"Leman Russ",							"pts":20},
-		{"id":64, "name":"Leman Russ Demolisher",				"pts":20},
+		{"id":64, "name":"Leman Russ Belagerer",				"pts":20},
 
 		{"id":70, "name":"4 Chimeras",				"pts":100},
 		{"id":71, "name":"4 Valkyries",				"pts":150}

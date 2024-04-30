@@ -4,7 +4,7 @@
   "version": "1.0.Beta",
   "release": "2023-03-08",
   "strategy": "Dark Eldar Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Wraithkind Kabals, Harlequins, und Tormentor Titan Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "Wraithkind Kabals, Harlequins und Tormentor Titan Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Fleet of Foot",
     "Hit und Run",
@@ -15,7 +15,7 @@
     "Cegorach, the Laughing God"
   ],
   "usage": [
-    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Kabal of the Wraithkind, with Harlequin Allies."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Kabal of the Wraithkind, mit Harlequin Allies."
   ],
   "units": [
     {
@@ -92,7 +92,7 @@
       "formations": [
         {
           "name": "1 Wraithkind Coterie",
-          "units": "Ein Arcon in a unit of Incubi, drei Incubi",
+          "units": "Ein Arcon in a Einheit Incubi, drei Incubi",
           "extraUnits": [
             "Füge zwei Incubi: 75 Punkte",
             "Warriors",
@@ -125,7 +125,7 @@
     },
     {
       "name": "Wraithkind Partisans",
-      "description": " Bis zu eine Wraithkind Partisans für jeweils Wraithkind Kabal",
+      "description": "Bis zu eine Wraithkind Partisans pro Wraithkind Kabal",
       "formations": [
           {
             "name": "Mandrake Throng",
@@ -165,13 +165,13 @@
     },
     {
       "name": "Harlequins",
-      "description": " Bis zu eine Harlequin formation für jeweils Wraithkind Kabal, und bis zu eine Harlequin Support für jeweils Harlequin Masque",
+      "description": "Bis zu eine Harlequin formation pro Wraithkind Kabal und bis zu eine Harlequin Support pro Harlequin Masque",
       "formations": [
         {
           "name": "Harlequin Masque",
           "units": "Ein Shadowseer, drei Harlequin Troupes, eine Death Jesters, vier Starweavers",
           "extraUnits": [
-              "Ersetze vier Starweavers with zwei Harlequin Troupe und eine Death Jesters: Kostenlos",
+              "Ersetze vier Starweavers mit zwei Harlequin Troupe und eine Death Jesters: Kostenlos",
              "Füge bis zu drei Skyweaver Jetbikes: 25 Punkte jeweils",
              "(0-1 in the army) Füge eine Solitaire to a Harlequin Troupe: 50 Punkte"
           ],
@@ -189,7 +189,7 @@
     },
     {
       "name": "Commorragh Navy & Kriegsmaschinen",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Commorragh Navy und Kriegsmaschine Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Commorragh Navy und Kriegsmaschine Verbände",
         "formations": [
             {
                 "name": "Vessel of Pain",
@@ -220,7 +220,7 @@
                 "points": 225
             },
             {
-                "name": "0-1 Orbital Support",
+                "name": "0-1 Orbitalunterstüzung",
                 "units": "Ein Torture Class Cruiser",
                 "extraUnits": [
                 ],
@@ -229,7 +229,7 @@
         ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Wraithkind Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
@@ -253,7 +253,7 @@
       },
       {
         "name": "(0-1 in the army) Portable Netz der tausend Tore",
-        "description": "Füge a Portable Tor zum Netz der tausend Tore to an Archon, Dracon, oder Haemonculus Ancient character. This Portable Netz der tausend Tore may be used once in a game. After the character's formation (oder the formation carrying it) completes an action you may place a small barrage template marker completely within 15cm of the character's unit (oder the unit carrying it) und outside any enemy zones of control. This marker counts as a Tor zum Netz der tausend Tore which may not be attacked oder damaged in any way. Remove this Tor zum Netz der tausend Tore marker in the End Phase of the turn before any rallying.",
+        "description": "Füge a Portable Tor zum Netz der tausend Tore to an Archon, Dracon oder Haemonculus Ancient character. This Portable Netz der tausend Tore may be used once in a game. After the character's formation (oder the formation carrying it) completes an action you may place a small barrage template marker completely within 15cm of the character's unit (oder the unit carrying it) und outside any enemy zones of control. This marker counts as a Tor zum Netz der tausend Tore which may not be attacked oder damaged in any way. Remove this Tor zum Netz der tausend Tore marker in the End Phase of the turn before any rallying.",
         "points": "50 Punkte"
       },
       {

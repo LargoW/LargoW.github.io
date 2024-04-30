@@ -14,12 +14,12 @@
 		]},
 		{"name":"SUPPORT FORMATIONS <br/> Max 2 for each Steel Legion Company", "formations":[
 			{"id":500, "name":"Rough Rider Platoon", 			"pts":150, "upgrades":[1], "units":"6 Rough Riders"},
-			{"id":501, "name":"Storm Trooper Platoon",			"pts":200, "upgrades":[36, 1], "units":"8 Storm Troopers"},
+			{"id":501, "name":"Sturmtruppen Platoon",			"pts":200, "upgrades":[36, 1], "units":"8 Storm Troopers"},
 			{"id":502, "name":"Artillery Battery",				"pts":250, "upgrades":[1]},
 			{"id":505, "name":"Sentinel Squadron",				"pts":100, "upgrades":[1], "units":"4 Sentinels"},
 			{"id":506, "name":"Deathstrike Missile Battery",		"pts":200, "upgrades":[1], "units":"2 Deathstrike Missile Launchers"},
 			{"id":507, "name":"Super-Heavy Tank Platoon", 			"pts":200, "upgrades":[1]},
-			{"id":508, "name":"Orbital Support",				"pts":150, "upgrades":[]},
+			{"id":508, "name":"Orbitalunterstüzung",				"pts":150, "upgrades":[]},
 			{"id":509, "name":"Flak Battery",				"pts":150, "upgrades":[1], "units":"3 Hydra"},
 			{"id":510, "name":"Vulture Squadron",				"pts":300, "upgrades":[1], "units":"4 Vultures"}
 		]},

@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_RitterWorld",
   "strategy": "Ritter Welten Armeen haben einen Strategiewert von 2.",
-  "Initiative": "All Verbände haben eine Initiativewert von 2+. In addition, all Ritter Household Verbände are subject to the 'Tapferkeit' Sonderregel.",
+  "Initiative": "All Verbände haben eine Initiativewert von 2+. In addition, all Ritter Häuser Verbände are subject to the 'Tapferkeit' Sonderregel.",
   "specialRules": [
     "Tapferkeit",
     "Befestigte Stellungen"
@@ -34,12 +34,12 @@
     {
       "from": "IG.json",
       "units": [
-        "PDF Infanterie",
-        "Thudd Gun",
+        "PDS Infanterie",
+        "Salvengeschütz",
         "Rapier",
         "Schweres Flugabwehrgeschütz",
         "Haubitzen",
-        "Kavallerieschwadron",
+        "Kavallerie",
         "Land Transporter"
       ],
       "unitRules": [
@@ -57,10 +57,10 @@
   ],
   "sections": [
     {
-      "name": "Ritter Welten Kern Households",
+      "name": "Ritter Welten Kern Häusers",
       "formations": [
         {
-          "name": "Paladin Household",
+          "name": "Paladin Häuser",
           "units": "Fünf Ritter-Paladins",
           "extraUnits": [
             "Seneschal",
@@ -72,11 +72,11 @@
       ]
     },
     {
-      "name": "Ritter Welten Support Households",
-      "description": " Bis zu zwei Support Households für jeweils Kern Household.",
+      "name": "Ritter Welten Support Häusers",
+      "description": "Bis zu zwei Support Häusers pro Kern Häuser.",
       "formations": [
         {
-          "name": "Castellan Household",
+          "name": "Castellan Häuser",
           "units": "Zwei Ritter-Castellans (any combination configurations)",
           "extraUnits": [
             "Seneschal",
@@ -85,7 +85,7 @@
           "points": 300
         },
         {
-          "name": "Fahrender Ritter Household",
+          "name": "Fahrender Ritter Häuser",
           "units": "Drei Ritter-Errants",
           "extraUnits": [
             "Seneschal",
@@ -94,7 +94,7 @@
           "points": 325
         },
         {
-          "name": "Lancer Household",
+          "name": "Lancer Häuser",
           "units": "Drei Ritter-Lancer",
           "extraUnits": [
             "Seneschal",
@@ -103,7 +103,7 @@
           "points": 350
         },
         {
-          "name": "Wächterritter Household",
+          "name": "Wächterritter Häuser",
           "units": "Vier Ritter-Wardens (any combination of configurations)",
           "extraUnits": [
             "Seneschal",
@@ -115,35 +115,35 @@
     },
     {
       "name": "Ritter Welten Retainer Verbände",
-      "description": " Bis zu eine Retainer Formation für jeweils Kern oder Support Household.",
+      "description": "Bis zu eine Retainer Formation pro Kern oder Support Häuser.",
       "formations": [
         {
-          "name": "Planetary Defense Zug",
-          "units": "Acht PDF Infanterie",
+          "name": "Planetarer Defense Zug",
+          "units": "Acht PDS Infanterie",
           "extraUnits": [
             "Land Transporters",
             "Support Weapons",
-            "Entrenchments"
+            "Grabenanlagen"
           ],
           "points": 150
         },
         {
           "name": "Kavalleriezug",
-          "units": "Sechs Kavallerieschwadronen",
+          "units": "Sechs Kavallerie Einheiten",
           "extraUnits": [
           ],
           "points": 150
         },
         {
-          "name": "Flak Emplacement",
+          "name": "Flak Stellung",
           "units": "Drei Schweres Flugabwehrgeschützs, drei Geschützstellungen",
           "extraUnits": [
           ],
           "points": 175
         },
         {
-          "name": "Haubitzen Emplacement",
-          "units": "Vier Howitzers, vier Geschützstellungen",
+          "name": "Haubitzen Stellung",
+          "units": "Vier Haubitzen, vier Geschützstellungen",
           "extraUnits": [
           ],
           "points": 275
@@ -152,7 +152,7 @@
     },
     {
       "name": "Verbände der Imperialen Luftstreitkräfte",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte.",
       "formations": [
         {
           "name": "Thunderbolt Schwadron",
@@ -167,7 +167,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Ritter Welten Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
@@ -208,19 +208,19 @@
       },
       {
         "name": "Support Weapons",
-        "description": "Füge drei Rapiers oder zwei Thudd Guns",
+        "description": "Füge drei Rapier Geschütze oder zwei Thudd Guns",
         "points": "50 Punkte"
       },
       {
-        "name": "Entrenchments",
+        "name": "Grabenanlagen",
         "description": "40cm Stacheldraht, 40cm Gräben",
         "points": "50 Punkte"
       }
     ]
   },
   "about": [
-    "v1.0.Beta: The Ritter Welten list is a mix of the E-UK und NetEA Ritter lists, with stats und structure taken from both. As these lists are based on the retro-40k 1990s fluff, most Ritters have had their names changed to prevent naming conflicts with the Ritters in the current fluff.",
-    "The biggest change from the E-UK und the NetEA Ritters is obviously the fact that Ritters no longer are DC2 WE, but are H-AV instead. This change makes Ritter Verbände a lot more sane to play with/against, und makes it a lot easier to stay within the EA rules. It also means that sniping the Baron mit einemPin-Point is no longer an issue.",
+    "v1.0.Beta: The Ritter Welten list is a mix of the E-UK und NetEA Ritter lists, mit stats und structure taken from both. As these lists are based on the retro-40k 1990s fluff, most Ritters have had their names changed to prevent naming conflicts mit the Ritters in the current fluff.",
+    "The biggest change from the E-UK und the NetEA Ritters is obviously the fact that Ritters no longer are DC2 WE, but are H-AV instead. This change makes Ritter Verbände a lot more sane to play with/against und makes it a lot easier to stay within the EA rules. It also means that sniping the Baron mit einemPin-Point is no longer an issue.",
     "Another significant change is that the Retainer Verbände are more accessible, making the list a bit more flexible."
   ]
 }

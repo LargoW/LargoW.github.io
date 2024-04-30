@@ -18,7 +18,7 @@
 
 		]},
 		{"name":"Coven Vanguard Formations <br/> Max 1 for each Cult Kern Formation", "formations": [
-			{ "id":510, "name":"Genestealer Brood", "pts":175,  "units":"Broodlord", "upgrades":[] },
+			{ "id":510, "name":"Genestealer Brood", "pts":175,  "units":"Symbiarch", "upgrades":[] },
 			{ "id":501, "name":"Hybrid Brood", "pts":175, "units":"6 Hybrid Acolytes", "upgrades":[19, 24, 41] },
 			{ "id":511, "name":"Biker Brood", "pts":175,"units":"6 Coven Bikers", "upgrades":[24]},
 			{ "id":512, "name":"Recon Brood", "pts":175, "units":"5 Coven Ridgerunners", "upgrades":[24]},
@@ -53,10 +53,10 @@
 		{"id":30, "name":"Cult Baneblade",						"pts":0},
 		{"id":31, "name":"Cult Shadowsword",					"pts":25},
 
-		{"id":32, "name":"3 Cult Leman Russ Demolisher",		"pts":125},
+		{"id":32, "name":"3 Cult Leman Russ Belagerer",		"pts":125},
 
 		{"id":33, "name":"6 Cult Leman Russ",						"pts":0},
-		{"id":34, "name":"6 Cult Leman Russ Demolishers",			"pts":0},
+		{"id":34, "name":"6 Cult Leman Russ Belagerer",			"pts":0},
 
 		{"id":37, "name":"6 Hybrid Acolytes",					"pts":0},
 		{"id":38, "name":"3 Genestealers",						"pts":75},

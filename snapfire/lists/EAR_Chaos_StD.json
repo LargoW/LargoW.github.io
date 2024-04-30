@@ -40,11 +40,11 @@
    ],
 	"upgrades":[
 		{"id":10, "name":"Fallen Commander", 		"pts":0},
-		{"id":13, "name":"Fallen Commander with Daemonic Icon", 		"pts":25},
-		{"id":5, "name":"Fallen Commander with Arch-Heretic", 		"pts":50},
-		{"id":11, "name":"Fallen Commander with Daemonic Icon and Arch-Heretic", 		"pts":75},
+		{"id":13, "name":"Fallen Commander mit Daemonic Icon", 		"pts":25},
+		{"id":5, "name":"Fallen Commander mit Arch-Heretic", 		"pts":50},
+		{"id":11, "name":"Fallen Commander mit Daemonic Icon and Arch-Heretic", 		"pts":75},
 		{"id":6, "name":"Daemon Prince", 		"pts":100},
-		{"id":12, "name":"Daemon Prince with Daemonic Icon", 		"pts":125},
+		{"id":12, "name":"Daemon Prince mit Daemonic Icon", 		"pts":125},
 
 
 		{"id":14, "name":"Daemonic Icon", "pts":25},
@@ -71,17 +71,17 @@
 		{"id":30, "name":"Baneblade", "pts":0},
 		{"id":31, "name":"Shadowsword", "pts":0},
 		{"id":32, "name":"Leman Russ", "pts":0},
-		{"id":33, "name":"Leman Russ Demolisher", "pts":0},
+		{"id":33, "name":"Leman Russ Belagerer", "pts":0},
 		{"id":34, "name":"Leman Russ Thunderer", "pts":0},
 
 		{"id":35, "name":"Daemonic Icon", "pts":75},
 		{"id":36, "name":"Daemonic Pact", "pts":25},
 
 		{"id":40, "name":"Leman Russ", "pts":50},
-		{"id":41, "name":"Leman Russ Demolisher", "pts":50},
+		{"id":41, "name":"Leman Russ Belagerer", "pts":50},
 		{"id":42, "name":"Leman Russ Thunderer", "pts":50},
 		{"id":43, "name":"3 Leman Russ", "pts":150},
-		{"id":44, "name":"3 Leman Russ Demolishers", "pts":150},
+		{"id":44, "name":"3 Leman Russ Belagerer", "pts":150},
 		{"id":45, "name":"3 Leman Russ Thunderers", "pts":150},
 
 		{"id":72, "name":"Lesser Daemon Pool point", "pts":15},

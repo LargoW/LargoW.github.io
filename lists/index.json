@@ -29,7 +29,7 @@
               "name": "Ritter Welten",
               "file": "questorisimperialis",
               "status": "approved",
-              "img": "images/AdeptusMechanicus_RitterWorld.jpg"
+              "img": "images/AdeptusMechanicus_KnightWorld.jpg"
             },
             {
               "name": "Questoris Mechanicus",
@@ -56,7 +56,7 @@
               "img": "images/AstraMilitarum_Cadian.jpg"
             },
             {
-              "name": "Catachan Jungle Fighters",
+              "name": "Catachanische Dschungelkämpfers",
               "file": "catachandeathworld",
               "status": "alpha",
               "img": "images/AstraMilitarum_Catachan.jpg"
@@ -453,7 +453,7 @@
               "name": "Kult der Rostigen Klaue",
               "file": "gscult",
               "status": "approved",
-              "img": "images/Symbionten_Rust.jpg"
+              "img": "images/Genestealer_Rust.jpg"
             },
             {
               "name": "Schwarmflotte Dagon",

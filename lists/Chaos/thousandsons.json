@@ -5,7 +5,7 @@
   "release": "2023-01-28",
   "armyforge": "EAR_Chaos_ThousandSons",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "The Thousand Sons Retinue, Havocs, Terminatoren, Armoured Kompanie, Disc Riders, und Warphound Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "The Thousand Sons Retinue, Havocs, Terminatoren, Armoured Kompanie, Disc Riders und Warphound Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Changer of Ways",
     "Fickle Masters",
@@ -14,7 +14,7 @@
     "Thousand Sons Characters"
   ],
   "intro": [
-    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Thousand Sons Traitor Legion. The Thousand Sons make extensive use of Hexers leading squads of unrelenting Rubric Marines into battle, und may utilize powerful Warp Rifts to enter the Battlefield."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Thousand Sons Traitor Legion. The Thousand Sons make extensive use of Hexers leading Trupps of unrelenting Rubric Marines into battle und may utilize powerful Warp Rifts to enter the Battlefield."
   ],
   "units": [
     {
@@ -99,14 +99,14 @@
   "sections": [
     {
       "name": "Thousand Sons Kern Verbände",
-      "description": " Bis zu eine Thousand Sons Terminatoren formation für jeweils Thousand Sons Retinue.",
+      "description": "Bis zu eine Thousand Sons Terminatoren formation pro Thousand Sons Retinue.",
       "formations": [
         {
           "name": "Thousand Sons Retinue",
           "units": "Ein Aufstrebender Hexer, fünf Rubric Marines, vier Thousand Sons Marines, Dämonischer Pakt",
           "extraUnits": [
-            "Ersetze vier Thousand Sons Marines with vier Thousand Sons Havocs: 50 Punkte",
-            "Ersetze bis zu drei Rubric Marines with Thousand Sons Cybots: 25 Punkte jeweils",
+            "Ersetze vier Thousand Sons Marines mit vier Thousand Sons Havocs: 50 Punkte",
+            "Ersetze bis zu drei Rubric Marines mit Thousand Sons Cybots: 25 Punkte jeweils",
             "Oberbefehlshaber",
             "Ikonenträger",
             "Champion des Chaos",
@@ -131,7 +131,7 @@
     },
     {
       "name": "Thousand Sons Unterstützungsverbände",
-      "description": " Bis zu drei may be taken pro Thousand Sons Kern formation.",
+      "description": "Bis zu drei may be taken pro Thousand Sons Kern formation.",
       "formations": [
         {
           "name": "Tzaangor Host",
@@ -152,7 +152,7 @@
           "name": "Armoured Kompanie",
           "units": "Vier Thousand Sons Predators",
           "extraUnits": [
-            "Ersetze vier Thousand Sons Predators with vier Thousand Sons Land Raiders: 75 Punkte"
+            "Ersetze vier Thousand Sons Predators mit vier Thousand Sons Land Raiders: 75 Punkte"
           ],
           "points": 225
         },
@@ -160,7 +160,7 @@
           "name": "Havocs",
           "units": "Ein Aufstrebender Hexer, vier Thousand Sons Havocs, zwei Thousand Sons Rhinos, Dämonischer Pakt",
           "extraUnits": [
-            "Ersetze zwei Thousand Sons Rhinos with zwei Thousand Sons Cybots: 75 Punkte",
+            "Ersetze zwei Thousand Sons Rhinos mit zwei Thousand Sons Cybots: 75 Punkte",
             "Ikonenträger",
             "Predators"
           ],
@@ -187,7 +187,7 @@
     },
     {
       "name": "Dark Mechanicus und Thousand Sons Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
       "formations": [
         {
           "name": "Warphound",
@@ -244,7 +244,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Thousand Sons Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [

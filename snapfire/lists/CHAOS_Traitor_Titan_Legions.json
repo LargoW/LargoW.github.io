@@ -296,9 +296,9 @@
 
 		{"id":412,	"name":"Daemonic Assault Engine",	"pts":55},
 
-		{"id":413,	"name":"Retlaxi-Pattern Defiler with Mark of Chaos Undivided",	"pts":45},
-		{"id":414,	"name":"Retlaxi-Pattern Defiler with Trappings of Nurgle",	"pts":45},
-		{"id":415,	"name":"Retlaxi-Pattern Defiler with Gifts of Tzeentch",	"pts":45},
+		{"id":413,	"name":"Retlaxi-Pattern Defiler mit Mark of Chaos Undivided",	"pts":45},
+		{"id":414,	"name":"Retlaxi-Pattern Defiler mit Trappings of Nurgle",	"pts":45},
+		{"id":415,	"name":"Retlaxi-Pattern Defiler mit Gifts of Tzeentch",	"pts":45},
 
 		{"id":416,	"name":"Cannon of Khorne",	"pts":45},
 

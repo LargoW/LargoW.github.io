@@ -3,13 +3,13 @@
   "army": "Cult of the Star-Spawn",
   "version": "0.6.5",
   "release": "2022-04-01",
-  "strategy": "Tyranid Armeen haben einen Strategiewert von 1.",
-  "Initiative": "The Cult Kompanie und all Cult Support Verbände haben eine Initiativewert von 2+, und are subject to the 'Brood Brothers' Sonderregel. All other Verbände have an Initative Rating of 1+.",
+  "strategy": "Tyraniden Armeen haben einen Strategiewert von 1.",
+  "Initiative": "The Cult Kompanie und all Cult Support Verbände haben eine Initiativewert von 2+ und are subject to the 'Brood Brothers' Sonderregel. All other Verbände have an Initative Rating of 1+.",
   "specialRules": [
     "Broodcoven",
-    "Broodmind",
+    "Brutbewusstsein",
     "Brood Brothers",
-    "Extreme Mobility (Cult of the Star-Spawn)"
+    "Extreme Mobilität (Cult of the Star-Spawn)"
   ],
   "usage": [
   ],
@@ -19,7 +19,7 @@
       "units": [
         "Symbionten Patriarch",
         "Coven Locus",
-        "Broodlord",
+        "Symbiarch",
         "Symbionten Primus",
         "Acolytes",
         "Hybrid Metamorphs",
@@ -40,7 +40,7 @@
         "Cult Chimäre",
         "Cult Hydra",
         "Cult Leman Russ",
-        "Cult Leman Russ Demolisher",
+        "Cult Leman Russ Belagerer",
         "Cult Baneblade",
         "Cult Stormblade",
         "Cult Shadowsword"
@@ -59,7 +59,7 @@
           "units": "Ein Symbionten Patriarch, drei Symbionten, drei Hybrid Acolytes",
           "extraUnits": [
             "Füge vier Coven Limousines (75 Punkte) oder vier Coven Goliaths (125 Punkte)",
-            "Ersetze drei Symbionten with drei Hybrid Acolytes, oder drei Hybrid Acolytes with drei Symbionten: Kostenlos",
+            "Ersetze drei Symbionten mit drei Hybrid Acolytes oder drei Hybrid Acolytes mit drei Symbionten: Kostenlos",
             "Hybrid Aberrants",
             "Coven Flak"
           ],
@@ -71,8 +71,8 @@
           "extraUnits": [
             "Füge vier Cult Infanterie: 50 Punkte",
             "Füge zwei Cult Unterstützungstrupps: 50 Punkte",
-            "Füge drei Cult Leman Russ oder Cult Leman Russ Demolisher: 150 Punkte",
-            "Füge enough Cult Chimären to transport the entire formation with no space left over: 25 Punkte jeweils",
+            "Füge drei Cult Leman Russ oder Cult Leman Russ Belagerer: 150 Punkte",
+            "Füge enough Cult Chimären to transport the entire formation mit no space left over: 25 Punkte jeweils",
             "Füge eine Cult Hydra: 50 Punkte",
             "Füge bis zu zwei Cult Höllenhunde: 25 Punkte jeweils",
             "Füge drei Cult Greifen: 50 Punkte"
@@ -83,11 +83,11 @@
     },
     {
       "name": "Coven Vanguard Verbände",
-      "description": "Ein Coven Vanguard formation may be taken für jeweils Cult Kern formation.",
+      "description": "Ein Coven Vanguard formation may be taken pro Cult Kern formation.",
       "formations": [
         {
           "name": "Symbionten Brood",
-          "units": "Ein Broodlord, sechs Symbionten",
+          "units": "Ein Symbiarch, sechs Symbionten",
           "extraUnits": [
             "Symbionten"
           ],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Coven Ambush Verbände",
-      "description": "Ein Coven Ambush formation may be taken für jeweils Coven Vanguard formation. ",
+      "description": "Ein Coven Ambush formation may be taken pro Coven Vanguard formation. ",
       "formations": [
         {
           "name": "Liktor Swarm",
@@ -160,7 +160,7 @@
         },
         {
           "name": "Cult Leman Russ Zug",
-          "units": "Ein Coven Locus character, sechs Cult Leman Russ oder Cult Leman Russ Demolisher",
+          "units": "Ein Coven Locus character, sechs Cult Leman Russ oder Cult Leman Russ Belagerer",
           "extraUnits": [
           ],
           "points": 425
@@ -191,7 +191,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [

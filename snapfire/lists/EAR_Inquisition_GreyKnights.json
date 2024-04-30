@@ -6,7 +6,7 @@
 
    "sections": [
         {"name": "BLOOD RAVENS Kern FORMATIONS", "formations": [
-	        {"id":500, "name":"1 Orbital Support", "pts": 150, "upgrades": [] },
+	        {"id":500, "name":"1 Orbitalunterstüzung", "pts": 150, "upgrades": [] },
             {"id":501, "name":"Tacticals",			    "pts":275, "units":"6 Tacticals plus transport", "upgrades":[18,19,27,28,29,30, 31,32]},
             {"id":510, "name":"Devastators",			    "pts":250, "units":"4 Devastators plus transport", "upgrades":[27,28,29,30, 33,34,35]},
             {"id":504, "name":"Assaults",			    "pts":225, "units":"6 Assaults", "upgrades":[]},
@@ -40,7 +40,7 @@
       {"id":14, "name":"Grey Knights Justicar","pts": 25},
 
       {"id":15, "name":"4 Scouts plus transport",							"pts":0},
-      {"id":16, "name":"4 Scouts with 'Sniper' plus transport",				"pts":25},
+      {"id":16, "name":"4 Scouts mit 'Sniper' plus transport",				"pts":25},
 
       {"id":18, "name":"Razorback (Twin Heavy Bolter)",						"pts":25},
       {"id":19, "name":"Razorback (Twin Lascannon)",						"pts":25},

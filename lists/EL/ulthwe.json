@@ -99,7 +99,7 @@
           "extraUnits": [
             "Seer Council",
             "Ersetze bis zu drei Eldar Guardians mit einem equal number of Eldar Heavy Weapon Platform units: Kostenlos",
-            "Ersetze bis zu drei Eldar Guardians with Support Weapons Platforms (all armed with the same weapon): 25 Punkte jeweils",
+            "Ersetze bis zu drei Eldar Guardians mit Support Weapons Platforms (all armed mit the same weapon): 25 Punkte jeweils",
             "Füge zwei Eldar Wraithguards: 75 Punkte",
             "Füge bis zu drei Eldar Wraithlords: 50 Punkte jeweils"
           ],
@@ -111,8 +111,8 @@
           "extraUnits": [
             "Seer Council",
             "Ersetze bis zu drei Eldar Guardians mit einem equal number of Eldar Heavy Weapon Platform units: Kostenlos",
-            "Ersetze any number of Wave Serpents with zwei Falcons jeweils: 50 Punkte jeweils",
-            "Ersetze eine Wave Serpent with zwei Firestorms: 75 Punkte"
+            "Ersetze any number of Wave Serpents mit zwei Falcons jeweils: 50 Punkte jeweils",
+            "Ersetze eine Wave Serpent mit zwei Firestorms: 75 Punkte"
           ],
           "points": 325
         }
@@ -120,7 +120,7 @@
     },
     {
       "name": "Ulthwé Line Troupes",
-      "description": " Bis zu zwei Ulthwé Line Troupes für jeweils Ulthwé Warhost",
+      "description": "Bis zu zwei Ulthwé Line Troupes pro Ulthwé Warhost",
       "formations": [
           {
             "name": "War Walkers",
@@ -134,13 +134,13 @@
             "name": "Windriders",
             "units": "Sechs Eldar Jetbikes",
             "extraUnits": [
-              "Ersetze bis zu sechs Eldar Jetbikes with Vypers: Kostenlos"
+              "Ersetze bis zu sechs Eldar Jetbikes mit Vypers: Kostenlos"
             ],
             "points": 200
         },
         {
           "name": "Aspect Warrior Troupe",
-          "units": "Sechs Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Shining Spears, Striking Scorpions, Swooping Hawks, Warp Spiders. The formation may not mix aspects.",
+          "units": "Sechs Aspect Warrior units ausgewählt aus the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Shining Spears, Striking Scorpions, Swooping Hawks, Warp Spiders. The formation may not mix aspects.",
           "extraUnits": [
             "Füge eine Exarch: 25 Punkte"
           ],
@@ -148,7 +148,7 @@
         },
         {
           "name": "Engines of Vaul",
-          "units": "Ein Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
+          "units": "Ein Engine of Vaul ausgewählt aus the following: Cobra, Scorpion, Storm Serpent",
           "extraUnits": [
             "Füge bis zu zwei additional Engines of Vaul (Cobra, Scorpion, Storm Serpent): 200 Punkte jeweils"
           ],
@@ -180,7 +180,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos"
+            "Ersetze bis zu zwei Falcons mit Firestorms: Kostenlos"
           ],
           "points": 250
         }
@@ -188,7 +188,7 @@
     },
     {
       "name": "Ulthwé Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Nightwing Aerie",
@@ -244,7 +244,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Ulthwé Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [

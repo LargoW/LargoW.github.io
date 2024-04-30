@@ -17,7 +17,7 @@
     "Masters of the Netz der tausend Tore"
   ],
   "usage": [
-    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Craftworld Lugganath, with Corsair support und Harlequin allies from the Masque of the Veiled Path."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Craftworld Lugganath, mit Corsair support und Harlequin allies from the Masque of the Veiled Path."
   ],
   "units": [
     {
@@ -109,7 +109,7 @@
     },
     {
       "name": "Craftworld Lugganath Warhosts/Wraithhosts",
-      "description": " Bis zu eine Lugganath Wraithhost für jeweils Lugganath Warhost",
+      "description": "Bis zu eine Lugganath Wraithhost pro Lugganath Warhost",
       "formations": [
         {
           "name": "Lugganath Warhost",
@@ -131,19 +131,19 @@
     },
     {
       "name": "Craftworld Lugganath Troupes",
-      "description": " Bis zu eine Lugganath Troupe für jeweils Lugganath Warhost/Wraithhost",
+      "description": "Bis zu eine Lugganath Troupe pro Lugganath Warhost/Wraithhost",
       "formations": [
         {
           "name": "Corsair Aufklärers",
           "units": "Vier Ghost Walkers",
           "extraUnits": [
-            "Ersetze vier Ghost Walkers with vier Wasp Walkers: Kostenlos"
+            "Ersetze vier Ghost Walkers mit vier Wasp Walkers: Kostenlos"
           ],
           "points": 150
         },
         {
           "name": "Beritten Aspect Warrior Troupe",
-          "units": "Drei Wave Serpents und sechs Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions",
+          "units": "Drei Wave Serpents und sechs Aspect Warrior units ausgewählt aus the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions",
           "extraUnits": [
             "Autarch",
             "Exarch"
@@ -161,7 +161,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos",
+            "Ersetze bis zu zwei Falcons mit Firestorms: Kostenlos",
             "OR",
             "Füge fünf Guardians to the formation: 50 Punkte"
           ],
@@ -179,7 +179,7 @@
     },
     {
       "name": "Masque of the Veiled Path Saedaths",
-      "description": " Bis zu eine Veiled Path Saedath für jeweils Lugganath Warhost/Wraithhost",
+      "description": "Bis zu eine Veiled Path Saedath pro Lugganath Warhost/Wraithhost",
       "formations": [
         {
           "name": "Cegorach's Escape",
@@ -227,7 +227,7 @@
     },
     {
       "name": "Craftworld Lugganath Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
           {
             "name": "Skathach WraithRitters",
@@ -268,7 +268,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [

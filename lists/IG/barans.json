@@ -7,7 +7,7 @@
   "strategy": "Baranische Belagerungsmeister Armeen haben einen Strategiewert von 2.",
   "Initiative": "Alle Verbände haben einen Initiativewert von 2+.",
   "specialRules": [
-    "Baran Regiments Hauptquartier",
+    "Baranisches Regiments Hauptquartier",
     "Belagerungsmeister",
     "Mut, Disziplin und Loyalität",
     "Tunnelgräber",
@@ -23,31 +23,31 @@
         "Baranischer Belagerungsmeister",
         "Baranischer Befehlshaber",
         "Kommissar",
-        "Siege Infanterie",
+        "Belagerungsinfanterie",
         "Pioniere",
-        "Death Riders",
+        "Todesreiter",
         "Scharfschützen",
         "Ogryns",
-        "Thudd Gun",
+        "Salvengeschütz",
         "Rapier",
-        "Mole Launcher Squad",
+        "Tunnelmörser Trupp",
         "Schweres Flugabwehrgeschütz",
         "Medusa Kanonenlafette",
         "Bombard",
         "Greif",
         "Höllenhund",
-        "Bane Wolf",
-        "Devil Dog",
+        "Todeswolf",
+        "Teufelshund",
         "Todesstoss-Raketensystem",
         "Haubitzen",
         "Schwerer Ragnarok Panzer",
         "Leichter Siegfried Panzer",
-        "Hades Breaching Drill",
+        "Hades Durchbruchsbohrfahrzeug",
         "Macharius",
-        "Macharius Command",
+        "Macharius Kommandopanzer",
         "Malcador",
         "Malcador Defender",
-        "Defense Laser"
+        "Verteidigungslaser"
       ],
       "unitRules": [
         "Schwergepanzertes Fahrzeug (H-AV)"
@@ -68,27 +68,27 @@
   "sections": [
     {
       "name": "Kern Kompanieverbände",
-      "description": "Ein Siegemaster Regiments Hauptquartier must be taken. Jeweils Kern Kompanie formation must take between eine und drei Erweiterungen. Jeweils upgrade may be taken only once.",
+      "description": "Ein Belagerungsmeister Regiments Hauptquartier muss ausgewählt werden. Jeder Kern Kompanieverband muss zwischen einer und drei Erweiterungen auswählen. Jedes Upgrade kann jeweils nur einmal ausgewählt werden.",
       "formations": [
         {
-          "name": "1 Siegemaster Regiments Hauptquartier",
-          "units": "Ein Baranischer Belagerungsmeister mit einem Kommissar, neun Siege Infanterie",
+          "name": "1 Belagerungsmeister Regiments Hauptquartier",
+          "units": "Ein Baranischer Belagerungsmeister mit einem Kommissar, neun Belagerungsinfanterie Einheiten",
           "extraUnits": [
-              "40cm of Stacheldraht und 4cm of Gräben für jeweils unit of INF in the formation: 50 Punkte. Ersetze 24cm of Gräben with zwei Bunker: 25 Punkte",
-              "Fünf Siege Infanterie, oder zwei Scharfschützen, oder zwei Pioniere, oder zwei Ogryns: 50 Punkte",
-              "Vier Rapiers, oder drei Mole Launcher Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafettes with zwei Geschützstellungen, oder eine Todesstoss-Raketensystem: 75 Punkte",
-              "Ein Defense Laser, oder zwei Malcadors, oder zwei Malcador Defenders: 150 Punkte"
+              "40cm Stacheldraht und 4cm Gräben pro Einheit INF im Verband: 50 Punkte. Ersetze 24cm Gräben mit zwei Bunkern: 25 Punkte",
+              "Fünf Belagerungsinfanterie Einheiten oder zwei Scharfschützen oder zwei Pioniere oder zwei Ogryns: 50 Punkte",
+              "Vier Rapier Geschütze oder drei Tunnelmörser Trupps oder drei Thudd Guns oder zwei Medusa Kanonenlafetten mit zwei Geschützstellungen oder ein Todesstoss-Raketensystem: 75 Punkte",
+              "Ein Verteidigungslaser oder zwei Malcador oder zwei Malcador Defender: 150 Punkte"
           ],
           "points": 225
         },
         {
-          "name": "Siege Infanterie Kompanie",
-          "units": "Ein Baranischer Befehlshaber mit einem Kommissar, neun Siege Infanterie",
+          "name": "Belagerungsinfanterie Kompanie",
+          "units": "Ein Baranischer Befehlshaber mit einem Kommissar, neun Belagerungsinfanterie Einheiten",
           "extraUnits": [
-              "40cm of Stacheldraht und 4cm of Gräben für jeweils unit of INF in the formation: 50 Punkte. Ersetze 24cm of Gräben with zwei Bunker: 25 Punkte",
-              "Fünf Siege Infanterie, oder zwei Scharfschützen, oder zwei Pioniere, oder zwei Ogryns: 50 Punkte",
-              "Vier Rapiers, oder drei Mole Launcher Squads, oder drei Thudd Guns, oder zwei Medusa Kanonenlafettes with zwei Geschützstellungen, oder eine Todesstoss-Raketensystem: 75 Punkte",
-              "Ein Defense Laser, oder zwei Malcadors, oder zwei Malcador Defenders: 150 Punkte"
+              "40cm Stacheldraht und 4cm Gräben pro Einheit INF im Verband: 50 Punkte. Ersetze 24cm Gräben mit zwei Bunkern: 25 Punkte",
+              "Fünf Belagerungsinfanterie Einheiten oder zwei Scharfschützen oder zwei Pioniere oder zwei Ogryns: 50 Punkte",
+              "Vier Rapier Geschütze oder drei Tunnelmörser Trupps oder drei Thudd Guns oder zwei Medusa Kanonenlafetten mit zwei Geschützstellungen oder ein Todesstoss-Raketensystem: 75 Punkte",
+              "Ein Verteidigungslaser oder zwei Malcador oder zwei Malcador Defender: 150 Punkte"
           ],
           "points": 175
       }
@@ -96,58 +96,58 @@
     },
     {
       "name": "Baran Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände für jeweils Kern Kompanie.",
+      "description": "Bis zu zwei Unterstützungsverbände pro Kern Kompanie.",
       "formations": [
           {
-            "name": "Heavy Panzer Kompanie",
-            "units": "Ein Kommissar, sechs Ragnarok Heavy Panzers",
+            "name": "Schwere Panzer Kompanie",
+            "units": "Ein Kommissar, sechs Ragnarok",
             "extraUnits": [
-              "Füge drei Ragnarok Heavy Panzers: 125 Punkte"
+              "Füge drei Ragnarok hinzu: 125 Punkte"
             ],
             "points": 350
         },
         {
           "name": "Macharius Kompanie",
-          "units": "Ein Macharius Command mit einem Kommissar, zwei Macharius",
+          "units": "Ein Macharius Kommandopanzer mit einem Kommissar, zwei Macharius",
           "extraUnits": [
-              "Füge bis zu drei Höllenhunde, Bane Wolves, oder Devil Dogs: 25 Punkte jeweils"
+              "Füge bis zu drei Höllenhunde, Todeswölfe oder Teufelshunde hinzu hinzu: 25 Punkte jeweils"
           ],
           "points": 350
         },
         {
-          "name": "Sapper Kompanie",
-          "units": "Ein Kommissar, acht Pioniere, eine Hades Breaching Drill",
+          "name": "Pionier Kompanie",
+          "units": "Ein Kommissar, acht Pioniere, eine Hades Durchbruchsbohrfahrzeug",
           "points": 225
         },
         {
-          "name": "Siege Artillerie Emplacement",
-          "units": "Vier Medusa Kanonenlafettes und vier Geschützstellungen",
+          "name": "Belagerungsartillerie Stellung",
+          "units": "Vier Medusa Kanonenlafetten und vier Geschützstellungen",
           "extraUnits": [
-              "Ersetze vier Medusa Kanonenlafettes und vier Geschützstellungen with drei Bombard und drei Geschützstellungen: 25 Punkte"
+              "Ersetze vier Medusa Kanonenlafetten und vier Geschützstellungen mit drei Bombard und drei Geschützstellungen: 25 Punkte"
           ],
           "points": 200
         },
         {
-          "name": "Haubitzen Emplacement",
-          "units": "Drei Howitzers, drei Geschützstellungen",
+          "name": "Haubitzen Stellung",
+          "units": "Drei Haubitzen, drei Geschützstellungen",
           "extraUnits": [
-              "Füge drei Howitzers und drei Geschützstellungen (100 Punkte), oder add a Kommissar, sechs Howitzers, und sechs Geschützstellungen (200 Punkte)",
-              "Füge eine Schweres Flugabwehrgeschütz und eine Geschützstellung: 50 Punkte"
+              "Füge drei Haubitzen und drei Geschützstellungen (100 Punkte) oder füge einen Kommissar, sechs Haubitzen und sechs Geschützstellungen hinzu (200 Punkte)",
+              "Füge eine schweres Flugabwehrgeschütz und eine Geschützstellung hinzu: 50 Punkte"
           ],
           "points": 175
         },
         {
-          "name": "Flak Emplacement",
-          "units": "Drei Schweres Flugabwehrgeschützs, drei Geschützstellungen",
+          "name": "Flak Stellung",
+          "units": "Drei schwere Flugabwehrgeschütze, drei Geschützstellungen",
           "extraUnits": [
           ],
           "points": 150
         },
         {
-          "name": "Light Artillerie Emplacement",
-          "units": "Vier Rapiers, vier Thudd Guns, oder vier Mole Launchers, with 16cm Gräben",
+          "name": "Leichte Artillerie Stellung",
+          "units": "Vier Rapier Geschütze, vier Thudd Guns oder vier Tunnelmörser, mit 16cm Gräben",
           "extraUnits": [
-              "Füge vier units of the same type, 16cm Gräben, und a Kommissar: 125 Punkte"
+              "Füge vier Einheiten des selben Typs hinzu sowie 16cm Gräben und einen Kommissar: 125 Punkte"
           ],
           "points": 150
         },
@@ -155,30 +155,30 @@
           "name": "Greifen Batterie",
           "units": "Drei Greifen",
           "extraUnits": [
-              "Füge bis zu drei Höllenhunde, Bane Wolves, oder Devil Dogs: 25 Punkte jeweils"
+              "Füge bis zu drei Höllenhunde, Todeswölfe oder Teufelshunde hinzu: 25 Punkte jeweils"
           ],
           "points": 175
         },
         {
-          "name": "Death Riders",
-          "units": "Sechs Death Riders",
+          "name": "Todesreiter",
+          "units": "Sechs Todesreiter",
           "extraUnits": [
-              "Füge sechs Death Riders und a Kommissar: 100 Punkte",
-              "Füge bis zu drei Höllenhunde, Bane Wolves, oder Devil Dogs: 25 Punkte jeweils"
+              "Füge sechs Todesreiter und a Kommissar: 100 Punkte",
+              "Füge bis zu drei Höllenhunde, Todeswölfe oder Teufelshunde hinzu: 25 Punkte jeweils"
           ],
           "points": 150
         },
         {
-          "name": "Siege Recon Schwadron",
-          "units": "Vier Siegfried Light Panzers",
+          "name": "Siege Aufklärungsschwadron",
+          "units": "Vier Siegfried",
           "extraUnits": [
-              "Füge bis zu drei Höllenhunde, Bane Wolves, oder Devil Dogs: 25 Punkte jeweils"
+              "Füge bis zu drei Höllenhunde, Todeswölfe oder Teufelshunde hinzu: 25 Punkte jeweils"
           ],
           "points": 125
       },
       {
-        "name": "Defense Laser",
-        "units": "Ein Defense Laser",
+        "name": "Verteidigungslaser",
+        "units": "Ein Verteidigungslaser",
         "extraUnits": [
         ],
         "points": 200
@@ -186,8 +186,8 @@
       ]
     },
     {
-      "name": "Imperial Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte",
+      "name": "Verbände der Imperialen Luftstreitkräfte",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte ausgegeben werden",
       "formations": [
         {
           "name": "Thunderbolt Schwadron",
@@ -200,11 +200,11 @@
           "points": 250
       },
       {
-        "name": "0–1 Orbital Support",
+        "name": "0–1 Orbitalunterstüzung",
         "units": "Ein Lunar-Klasse Kreuzer",
         "points": 125,
         "extraUnits": [
-          "Ersetze mit einem Imperator-Klasse Schlachtschiff: 50 Punkte"
+          "Ersetze den Kreuzer mit einem Imperator-Klasse Schlachtschiff: 50 Punkte"
         ]
       }
       ]

@@ -503,14 +503,14 @@
         ]
       },
       {
-        "name": "Space Marine Thudd Gun",
+        "name": "Space Marine Salvengeschütz",
         "type": "INF",
         "speed": 10,
         "armour": 5,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Thudd Gun"
+          "Salvengeschütz"
         ],
         "specialRules": [
         ]
@@ -975,7 +975,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "May transport eine unit of Aufklärers."
+        "notes": "May transport eine Einheit Aufklärers."
       },
       {
         "name": "Land Speeder",
@@ -1218,7 +1218,7 @@
           "Inspirierend",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "May only be added to a Cybot unit of any configuration."
+        "notes": "May only be added to a Cybot Einheit any configuration."
       },
       {
         "name": "Cybot",
@@ -1477,7 +1477,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Plasma Destroyer",
+          "Plasmazerstörer",
           "Laserkanone|2"
         ]
       },
@@ -1511,7 +1511,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Darf eine Infanterie Einheit (außer Terminatoren) ohne Sprungmodule oder Beritten Eigenschaft transportieren. Armed with either Synchronisierte Laserkanone oder Synchronisierter schwerer Bolter. Razorbacks die mit einem synchronisierten schweren Bolter bewaffnet sind, haben einen FF von 4+."
+        "notes": "Darf eine Infanterie Einheit (außer Terminatoren) ohne Sprungmodule oder Beritten Eigenschaft transportieren. Armed mit either Synchronisierte Laserkanone oder Synchronisierter schwerer Bolter. Razorbacks die mit einem synchronisierten schweren Bolter bewaffnet sind, haben einen FF von 4+."
       },
       {
         "name": "Blood Angels Razorback",
@@ -1544,7 +1544,7 @@
           "Transport",
           "Lucifer Pattern Maschine"
         ],
-        "notes": "Darf eine Infanterie Einheit (außer Terminatoren) ohne Sprungmodule oder Beritten Eigenschaft transportieren. Armed with either Synchronisierte Laserkanone oder Synchronisierter schwerer Bolter. Razorbacks die mit einem synchronisierten schweren Bolter bewaffnet sind, haben einen FF von 4+."
+        "notes": "Darf eine Infanterie Einheit (außer Terminatoren) ohne Sprungmodule oder Beritten Eigenschaft transportieren. Armed mit either Synchronisierte Laserkanone oder Synchronisierter schwerer Bolter. Razorbacks die mit einem synchronisierten schweren Bolter bewaffnet sind, haben einen FF von 4+."
       },
       {
         "name": "Deathwatch Razorback",
@@ -2130,7 +2130,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "Der Stormfang ist zerstört."
+        "crit": "Der Stormfang wird zerstört."
       },
       {
         "name": "Storm Talon",
@@ -2247,7 +2247,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "Der Fire Raptor ist zerstört."
+        "crit": "Der Fire Raptor wird zerstört."
       },
       {
         "name": "Storm Eagle",
@@ -2412,7 +2412,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "Der Thunderhawk Bomber ist zerstört."
+        "crit": "Der Thunderhawk Bomber wird zerstört."
       },
       {
         "name": "Landungsbarke",
@@ -2746,7 +2746,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Synchronisierter Maschinenkanone",
+          "Synchronisierte Maschinenkanone",
           "Servo Arm"
         ],
         "specialRules": [
@@ -2763,7 +2763,7 @@
         "ff": 4,
         "weapons": [
           "Onslaught Heavy Gatling Geschütz",
-          "Icarus Rocket Pods",
+          "Icarus Salvenraketenwerfer",
           "Energiefaust"
         ],
         "specialRules": [
@@ -2846,7 +2846,7 @@
         "ff": 4,
         "weapons": [
           "Stormfury Raketen",
-          "Icarus Rocket Pods",
+          "Icarus Salvenraketenwerfer",
           "Las-Talon"
         ],
         "specialRules": [
@@ -2885,7 +2885,7 @@
           "Deflektorschilde 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Astraeus is zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer."
+        "crit": "The Astraeus wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer."
       }
     ]
   }

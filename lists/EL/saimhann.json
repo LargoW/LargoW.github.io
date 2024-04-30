@@ -4,7 +4,7 @@
   "version": "Alpha 0.8.4",
   "release": "2022-04-01",
   "strategy": "Craftworld Saim-Hann Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Shining Spears, Aspect Warriors, Crimson Hunters, Titans, und the Avatar Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "Shining Spears, Aspect Warriors, Crimson Hunters, Titans und the Avatar Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Avatar (Saim-Hann)",
     "Dürfen nicht als Garnison aufstellen (Saim-Hann)",
@@ -85,15 +85,15 @@
     },
     {
       "name": "Saim-Hann Warhosts",
-      "description": " Bis zu eine Aspect Warrior Host für jeweils Wild Rider Warhost",
+      "description": "Bis zu eine Aspect Warrior Host pro Wild Rider Warhost",
       "formations": [
         {
           "name": "Wild Rider Warhost",
           "units": "Nine Saim-Hann Wild Riders",
           "extraUnits": [
-            "Ersetze any number of Wild Riders with Saim-Hann Vypers: Kostenlos",
-            "Ersetze eine unit of Wild Riders mit einemBeritten Farseer: 25 Punkte",
-            "(0-1 pro army) Ersetze eine unit of Wild Riders mit einemWild Rider Chieftain: 50 Punkte"
+            "Ersetze any number of Wild Riders mit Saim-Hann Vypers: Kostenlos",
+            "Ersetze eine Einheit Wild Riders mit einemBeritten Farseer: 25 Punkte",
+            "(0-1 pro army) Ersetze eine Einheit Wild Riders mit einemWild Rider Chieftain: 50 Punkte"
           ],
           "points": 300
         },
@@ -109,11 +109,11 @@
     },
     {
       "name": "Saim-Hann Troupes",
-      "description": " Bis zu drei für jeweils Saim-Hann Warhost taken",
+      "description": "Bis zu drei pro Saim-Hann Warhost taken",
       "formations": [
         {
           "name": "Beritten Aspect Warrior Troupe",
-          "units": "Drei Wave Serpents und sechs Aspect Warriors chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions",
+          "units": "Drei Wave Serpents und sechs Aspect Warriors ausgewählt aus the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions",
           "extraUnits": [
             "Exarch"
           ],
@@ -128,7 +128,7 @@
         },
         {
           "name": "Engines of Vaul",
-          "units": "Ein Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
+          "units": "Ein Engine of Vaul ausgewählt aus the following: Cobra, Scorpion, Storm Serpent",
           "extraUnits": [
             "Füge bis zu zwei Cobra, Scorpion und/oder Storm Serpent: 200 Punkte jeweils"
           ],
@@ -138,7 +138,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos",
+            "Ersetze bis zu zwei Falcons mit Firestorms: Kostenlos",
             "Füge fünf Guardians to the formation: 75 Punkte"
           ],
           "points": 250
@@ -183,7 +183,7 @@
     },
     {
       "name": "Saim-Hann Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Crimson Hunters",
@@ -225,13 +225,13 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Saim-Hann Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
         "name": "Exarch",
-        "description": "Füge eine Eldar Exarch to a unit of Aspect Warriors",
+        "description": "Füge eine Eldar Exarch to a Einheit Aspect Warriors",
         "points": "25 Punkte"
       }
     ]

@@ -1,21 +1,21 @@
 {
-	"id":"EA-R Cadian Shock Troops",
+	"id":"EA-R Stoßtruppen von Cadia",
 	"version":"0.6.2",
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"CADIAN Kern COMPANIES", "formations":[
-			{"id":500, "name":"Regimental HQ", "pts":400, "upgrades":[30,31,32,33, 34,35,36], "units":"Cadian Supreme Commander with a Commissar, 8 Kasrkin"},
-			{"id":501, "name":"Whiteshield Company", "pts":400, "upgrades":[30,31,32,33, 34,35,36], "units":"Cadian Commander with a Commissar, 15 Whiteshields, 2 Stormlord"},
-			{"id":502, "name":"Shock Trooper Company", "pts":400, "upgrades":[], "units":"Cadian Commander with Commissar, 11 Infantry, 2 Crassus Assault Transport"}
+			{"id":500, "name":"Regimental HQ", "pts":400, "upgrades":[30,31,32,33, 34,35,36], "units":"Cadian Supreme Commander mit a Commissar, 8 Kasrkin"},
+			{"id":501, "name":"Whiteshield Company", "pts":400, "upgrades":[30,31,32,33, 34,35,36], "units":"Cadian Commander mit a Commissar, 15 Weißbleche, 2 Stormlord"},
+			{"id":502, "name":"Shock Trooper Company", "pts":400, "upgrades":[], "units":"Cadian Commander mit Commissar, 11 Infantry, 2 Crassus Sturmtransporter"}
 		]},
 		{"name":"CADIAN SUPPORT FORMATIONS <br/> Up to 3 for each Kern Company", "formations":[
-			{"id":509, "name":"Kasrkin Platoon", "pts":275, "upgrades":[], "units":"6 Kasrkin, Crassus Assault Transport"},
-			{"id":510, "name":"Praetor Battery", "pts":275, "upgrades":[], "units":"Praetor Assault Launcher"},
+			{"id":509, "name":"Kasrkin Platoon", "pts":275, "upgrades":[], "units":"6 Kasrkin, Crassus Sturmtransporter"},
+			{"id":510, "name":"Praetor Battery", "pts":275, "upgrades":[], "units":"Praetor Angriffswerfer"},
 			{"id":511, "name":"Siege Artillery Battery", "pts":225, "upgrades":[18]},
 			{"id":512, "name":"Leman Russ Platoon", "pts":375, "upgrades":[18]},
 			{"id":513, "name":"Flak Battery", "pts":150, "upgrades":[], "units":"3 Hydras"},
 			{"id":514, "name":"Hellhound Platoon", "pts":250, "upgrades":[18], "units":"6 Hellhounds"},
-			{"id":515, "name":"Whiteshield Platoon", "pts":275, "upgrades":[], "units":"8 Whiteshields, Stormlord"},
+			{"id":515, "name":"Whiteshield Platoon", "pts":275, "upgrades":[], "units":"8 Weißbleche, Stormlord"},
 			{"id":517, "name":"Armoured Sentinel Squadron", "pts":125, "upgrades":[], "units":"4 Armoured Sentinels"},
 			{"id":518, "name":"Super-Heavy Platoon", "pts":175, "upgrades":[]},
 			{"id":519, "name":"Deathstrike Battery",	"pts":200, "upgrades":[], "units":"2 Deathstrikes"}
@@ -26,7 +26,7 @@
 			{"id":521, "name":"Reaver Titan",		"pts":600, "upgrades":[], "units":"Reaver Titan"},
 			{"id":530, "name":"Thunderbolt Fighters", "pts":175, "upgrades":[], "units":"2 Thunderbolt Fighters"},
 			{"id":531, "name":"Marauder Bombers", "pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
-			{"id":532, "name":"Orbital Support", "pts":125, "upgrades":[]}
+			{"id":532, "name":"Orbitalunterstüzung", "pts":125, "upgrades":[]}
 		]}
 	],
 	"upgrades":[
@@ -44,8 +44,8 @@
 		{"id":23, "name":"Stormblade", "pts":0},
 
 		{"id":24, "name":"6 Leman Russ", "pts":0},
-		{"id":25, "name":"6 Leman Russ Demolisher", "pts":0},
-		{"id":26, "name":"6 Leman Russ Punisher", "pts":0},
+		{"id":25, "name":"6 Leman Russ Belagerer", "pts":0},
+		{"id":26, "name":"6 Leman Russ Vollstrecker", "pts":0},
 
 		{"id":30, "name":"Shadowsword", "pts":125},
 		{"id":31, "name":"Baneblade", "pts":125},
@@ -53,8 +53,8 @@
 		{"id":33, "name":"Stormblade", "pts":125},
 
 		{"id":34, "name":"3 Leman Russ", "pts":100},
-		{"id":35, "name":"3 Leman Russ Demolisher", "pts":100},
-		{"id":36, "name":"3 Leman Russ Punisher", "pts":100},
+		{"id":35, "name":"3 Leman Russ Belagerer", "pts":100},
+		{"id":36, "name":"3 Leman Russ Vollstrecker", "pts":100},
 
 		{"id":40, "name":"Lunar Class",	"pts":0},
 		{"id":41, "name":"Emperor Class", "pts":50},

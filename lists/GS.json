@@ -11,7 +11,7 @@
         "armour": 3,
         "cc": 4,
         "weapons": [
-          "Large Rending Klauen"
+          "Large Zangenkrallen"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -43,7 +43,7 @@
         ]
       },
       {
-        "name": "Broodlord",
+        "name": "Symbiarch",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -144,7 +144,7 @@
         "armour": 6,
         "cc": 2,
         "weapons": [
-          "Rending Klauen"
+          "Zangenkrallen"
         ],
         "specialRules": [
           "Aufklärer",
@@ -175,7 +175,7 @@
         "ff": 6,
         "weapons": [
           "Fanghaken",
-          "Scythed Klauen"
+          "Geschlitzte Klauen"
         ],
         "specialRules": [
           "Erstschlag",
@@ -193,7 +193,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr"
+          "Synchronisiertes schweres Maschinengewehr"
         ],
         "specialRules": [
           "Transport"
@@ -208,7 +208,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr Turm"
+          "Synchronisiertes schweres Maschinengewehr (Turm)"
         ],
         "specialRules": [
         ]
@@ -332,7 +332,7 @@
         ]
       },
       {
-        "name": "Cult Leman Russ Demolisher",
+        "name": "Cult Leman Russ Belagerer",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -444,7 +444,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is zerstört. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von 5cm erleiden einen Treffer auf 6+."
       },
       {
         "name": "Cult Stormblade",
@@ -462,7 +462,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is zerstört. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von 5cm erleiden einen Treffer auf 6+."
       },
       {
         "name": "Cult Shadowsword",
@@ -479,7 +479,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is zerstört. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von 5cm erleiden einen Treffer auf 6+."
       }
     ]
   }

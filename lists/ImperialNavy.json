@@ -1,6 +1,6 @@
 [
   {
-    "name": "Imperial Navy",
+    "name": "Verbände der Imperialen Luftstreitkräfte",
     "specialRules": [
     ],
     "unit": [
@@ -17,7 +17,7 @@
         ]
       },
       {
-        "name": "Lightning Interceptor",
+        "name": "Lightning Abfangjäger",
         "type": "AC",
         "speed": "Abfangjäger",
         "armour": 6,
@@ -73,7 +73,7 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Synchronisierter Maschinenkanone|3|FxF",
+          "AC Synchronisierte Maschinenkanone|3|FxF",
           "AC Raketenarray||FxF",
           "AC Synchronisierte Sturmkanone Turm||",
           "AC Synchronisierter schwerer Bolter Turm||"

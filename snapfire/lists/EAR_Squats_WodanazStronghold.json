@@ -1,7 +1,7 @@
 {
 	"id":"EA-R Squats - Wodanaz Stronghold",
 	"version":"Approved 1.0.Beta",
-	"notes":["No more transports than needed to carry the formation with no space left over.", "Leviathans and Hellbores may transport 12 units, and may only be taken if the transported formation fits inside. Squat Warlords and Grand Warlords counts as two units each.", "Hellbores are bought separately from their transported formation."],
+	"notes":["No more transports than needed to carry the formation mit no space left over.", "Leviathans and Hellbores may transport 12 units, and may only be taken if the transported formation fits inside. Squat Warlords and Grand Warlords counts as two units each.", "Hellbores are bought separately from their transported formation."],
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"WODANAZ STRONGHOLD BROTHERHOODS", "formations":[
@@ -18,7 +18,7 @@
 			{"id":511, "name":"Gyrokopter Squadron",		"pts":250, "units":"4 Iron Eagle Gyrokopters", "upgrades":[]}
 		]},
 
-		{"name":"WODANAZ STRONGHOLD WAR ENGINES <br/> Max 33% <br/> Max 1 Hellbore for each Warrior Brotherhood formation with the 'Hellbore Transport' upgrade", "formations":[
+		{"name":"WODANAZ STRONGHOLD WAR ENGINES <br/> Max 33% <br/> Max 1 Hellbore for each Warrior Brotherhood formation mit the 'Hellbore Transport' upgrade", "formations":[
 			{"id":521, "name":"Hellbore",			"pts":150, "upgrades":[111]},
 			{"id":512, "name":"Overlord",			"pts":250, "upgrades":[111]},
 		    {"id":520, "name":"Goliath Battery",		"pts":350, "units":"2 Goliath Mega Cannons", "upgrades":[]},
@@ -41,7 +41,7 @@
         {"id":113, "name":"Squat Trike",				"pts":0},
 
         {"id":114, "name":"Mole Mortars",				"pts":0},
-        {"id":115, "name":"Thudd Gun",				"pts":0},
+        {"id":115, "name":"Salvengeschütz",				"pts":0},
         {"id":116, "name":"Guildmaster Trike",			"pts":25},
 
 		{"id":117, "name":"3 Squat Rhinos",				"pts":25},

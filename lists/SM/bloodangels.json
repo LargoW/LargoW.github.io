@@ -4,7 +4,7 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_BloodAngels",
-  "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Blood Angels Space Marine Orden oder einen der Nachfolgeorden aufstellen. The Blood Angels are well-known across the galaxy für their bloodthirsty nature in battle, und feared für the curse of the flawed gene-seed they carry.",
+  "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Blood Angels Space Marine Orden oder einen der Nachfolgeorden aufstellen. The Blood Angels are well-known across the galaxy für their bloodthirsty nature in battle und feared für the curse of the flawed gene-seed they carry.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "armyRules": "The <i>Sie kennen keine Furcht</i> Sonderregel applies to all Blood Angels detachments und Aircraft Verbände.",
@@ -117,7 +117,7 @@
           "extraUnits": [
             "Befehlshaber",
             "Cybots",
-            "Ersetze eine Assault Terminator with drei Stormravens oder drei Land Raiders: 100 Punkte, oder add zwei Land Raider Redeemers: 100 Punkte"
+            "Ersetze eine Assault Terminator mit drei Stormravens oder drei Land Raiders: 100 Punkte oder add zwei Land Raider Redeemers: 100 Punkte"
           ],
           "points": 325
         }
@@ -125,7 +125,7 @@
     },
     {
       "name": "Blood Angels Support Detachments",
-      "description": " Bis zu zwei Support Detachments may be taken pro Kern Detachment.",
+      "description": "Bis zu zwei Support Detachments may be taken pro Kern Detachment.",
       "formations": [
         {
           "name": "Baal Predators",
@@ -179,7 +179,7 @@
     },
     {
       "name": "Blood Angels Navy & Titan Legion Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
       "formations": [
         {
           "name": "Storm Talons",
@@ -192,10 +192,10 @@
           "points": 325
         },
         {
-          "name": "0-1 Orbital Support",
+          "name": "0-1 Orbitalunterstüzung",
           "units": "Ein Vanguard Class Light Cruiser",
           "extraUnits": [
-            "Ersetze the Vanguard Class Light Cruiser mit einemStrike Cruiser: 50 Punkte, oder a Schlachtkreuzer: 125 Punkte"
+            "Ersetze den Vanguard Angriffskreuzer mit einem Angriffskreuzer: 50 Punkte oder einem Schlachtkreuzer: 125 Punkte"
           ],
           "points": 150
         },
@@ -210,7 +210,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Blood Angels Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro detachment.",
     "items": [
@@ -263,7 +263,7 @@
       },
       {
         "name": "Honor Guards",
-        "description": "In a formation containing a Oberbefehlshaber character: replace bis zu zwei Sturmtrupp oder Taktischer Trupp with Sanguinary Guards",
+        "description": "In a formation containing a Oberbefehlshaber character: replace bis zu zwei Sturmtrupp oder Taktischer Trupp mit Sanguinary Guards",
         "points": "25 Punkte jeweils"
       },
       {

@@ -85,7 +85,7 @@
       "formations": [
         {
           "name": "Engines of Vaul",
-          "units": "Ein Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
+          "units": "Ein Engine of Vaul ausgewählt aus the following: Cobra, Scorpion, Storm Serpent",
           "extraUnits": [
             "Füge bis zu zwei additional Engines of Vaul für 200 Punkte jeweils",
             "Bonesinger"
@@ -96,7 +96,7 @@
           "name": "Swords of Vaul",
           "units": "Sechs Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos",
+            "Ersetze bis zu zwei Falcons mit Firestorms: Kostenlos",
             "Füge sechs Guardians to the formation: 100 Punkte"
           ],
           "points": 275
@@ -105,11 +105,11 @@
     },
     {
       "name": "Yme-Loc Troupes",
-      "description": " Bis zu zwei Yme-Loc Troupes may be taken für jeweils Yme-Loc Vaulhost",
+      "description": "Bis zu zwei Yme-Loc Troupes may be taken pro Yme-Loc Vaulhost",
       "formations": [
         {
           "name": "Beritten Aspect Warrior Troupe",
-          "units": "Drei Wave Serpents und sechs Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions, Swooping Hawks",
+          "units": "Drei Wave Serpents und sechs Aspect Warrior units ausgewählt aus the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions, Swooping Hawks",
           "extraUnits": [
             "Exarch"
           ],
@@ -170,7 +170,7 @@
     },
     {
       "name": "Yme-Loc Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
       "formations": [
         {
           "name": "Nightwing Aerie",
@@ -220,18 +220,18 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Yme-Loc Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
         "name": "Exarch",
-        "description": "Füge eine Eldar Exarch to a unit of Aspect Warriors",
+        "description": "Füge eine Eldar Exarch to a Einheit Aspect Warriors",
         "points": "25 Punkte"
       },
       {
         "name": "Heavy Weapons",
-        "description": "Ersetze bis zu drei Eldar Guardians with Eldar Heavy Weapon Platforms",
+        "description": "Ersetze bis zu drei Eldar Guardians mit Eldar Heavy Weapon Platforms",
         "points": "Kostenlos"
       },
       {

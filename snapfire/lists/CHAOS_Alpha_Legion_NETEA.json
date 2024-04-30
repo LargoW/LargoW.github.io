@@ -25,7 +25,7 @@
 			{ "id":541, "name":"Strike Cruiser", "pts":150, "units":"1 Strike Cruiser", "upgrades":[] },
 			{ "id":543, "name":"Thunderhawk", "pts":250, "units":"1 Thunderhawk", "upgrades":[] },
 			{ "id":544, "name":"Fire Raptors", "pts":250, "units":"2 Fire Raptors", "upgrades":[] },
-			{ "id":545, "name":"Lightning Interceptors", "pts":150, "units":"2 Lightning Interceptors", "upgrades":[] },
+			{ "id":545, "name":"Lightning Abfangjäger", "pts":150, "units":"2 Lightning Abfangjäger", "upgrades":[] },
 			{ "id":546, "name":"Super-Heavy Company (Glaive)", "pts":50, "upgrades":[50] },
 			{ "id":547, "name":"Super-Heavy Company (Fellblade)", "pts":50, "upgrades":[51] },
 			{ "id":548, "name":"Super-Heavy Company (Falchion)", "pts":50, "upgrades":[52] }		

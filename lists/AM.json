@@ -271,7 +271,7 @@
         ]
       },
       {
-        "name": "Kataphron Breacher Battle Servitors",
+        "name": "Kataphron Brecher Battle Servitors",
         "type": "LV",
         "speed": 10,
         "armour": 3,
@@ -337,7 +337,7 @@
           "Furchtlos",
           "Entbehrlich"
         ],
-        "notes": "Armed with either Synchronisierte Laserkanone oder Synchronisierter schwerer Bolter. Tarantulas armed with Synchronisierter schwerer Bolter have their firefight value increased to 4+."
+        "notes": "Armed mit either Synchronisierte Laserkanone oder Synchronisierter schwerer Bolter. Tarantulas armed mit Synchronisierter schwerer Bolter have their firefight value increased to 4+."
       },
       {
         "name": "Hyperios Sentry",
@@ -366,13 +366,13 @@
         "specialRules": []
       },
       {
-        "name": "Mole Mörser",
+        "name": "Tunnelmörser",
         "type": "INF",
         "speed": 10,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Mole Mörser"
+          "Tunnelmörser"
         ],
         "specialRules": [
         ]
@@ -385,7 +385,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Maschinenkanone"
+          "Synchronisierte Maschinenkanone"
         ],
         "specialRules": [
           "Geländegängig"
@@ -422,7 +422,7 @@
         "specialRules": [
           "Geländegängig"
         ],
-        "notes": "Must choose either an Eradication Beamer, Synchronisierter Heavy Phosphor Blaster, Icarus Array oder Neutron Laser. Onager Dunecrawlers armed with Eradication Beamer have their firefight value increased to 4+."
+        "notes": "Must choose either an Eradication Beamer, Synchronisierter Heavy Phosphor Blaster, Icarus Array oder Neutron Laser. Onager Dunecrawlers armed mit Eradication Beamer have their firefight value increased to 4+."
       },
       {
         "name": "Chimäre",
@@ -448,7 +448,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr|2|"
+          "Synchronisiertes schweres Maschinengewehr|2|"
         ],
         "specialRules": [
           "Transport"
@@ -465,7 +465,7 @@
         "weapons": [
           "Ferrumite Geschütz",
           "Raketenwerfer",
-          "Synchronisierter schweres Maschinengewehr"
+          "Synchronisiertes schweres Maschinengewehr"
         ],
         "specialRules": [
         ]
@@ -512,10 +512,10 @@
         ],
         "specialRules": [
           "Verstärkte Heckpanzerung",
-          "Tunneler",
+          "Tunnelgräber",
           "Transport"
         ],
-        "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Must start the game in the Reserven, und may only enter the battlefield through Tunneling."
+        "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Must start the game in the Reserven und may only enter the battlefield through Tunneling."
       },
       {
         "name": "Leman Russ",
@@ -534,7 +534,7 @@
         ]
       },
       {
-        "name": "Leman Russ Demolisher",
+        "name": "Leman Russ Belagerer",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -550,14 +550,14 @@
         ]
       },
       {
-        "name": "Leman Russ Executioner",
+        "name": "Leman Russ Exekutor",
         "type": "AV",
         "speed": 20,
         "armour": 4,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Plasma Destroyer",
+          "Plasmazerstörer",
           "Laserkanone",
           "Plasmakanone|2|"
         ],
@@ -573,13 +573,13 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr|2|",
+          "Synchronisiertes schweres Maschinengewehr|2|",
           ">Battle Weapons<",
           "Turbo-Laser Destructor|0-1|FxF",
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Heavy Icarus Array|0-1|",
           "Titan Plasmakanone|0-1|FxF",
-          "Titan Melter Geschütz |0-1|",
+          "Titan Melterkanone |0-1|",
           "Gatling Blaster|0-1|FxF",
           ">Support Weapons<",
           "Plasma Destructor|0-1|FxF",
@@ -593,7 +593,7 @@
           "Furchtlos"
         ],
         "notes": "Armed mit einemsingle Battle Weapon. May be upgraded to a Support Weapon.",
-        "crit": "The Ordinatus is destroyed, und any Einheiten mitin 5cm suffers a hit on 5+"
+        "crit": "The Ordinatus is destroyed und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 5+"
       },
       {
         "name": "Ordinatus Minoris ",
@@ -603,13 +603,13 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr|2|",
+          "Synchronisiertes schweres Maschinengewehr|2|",
           ">Battle Weapons<",
           "Turbo-Laser Destructor|0-1|FxF",
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Heavy Icarus Array|0-1|",
           "Titan Plasmakanone|0-1|FxF",
-          "Titan Melter Geschütz |0-1|",
+          "Titan Melterkanone |0-1|",
           "Gatling Blaster|0-1|FxF"
         ],
         "specialRules": [
@@ -619,7 +619,7 @@
           "Furchtlos"
         ],
         "notes": "Armed mit einemsingle Battle Weapon.",
-        "crit": "The Ordinatus is destroyed, und any Einheiten mitin 5cm suffers a hit on 5+"
+        "crit": "The Ordinatus is destroyed und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 5+"
       },
       {
         "name": "Ordinatus Majoris",
@@ -629,7 +629,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr|2|",
+          "Synchronisiertes schweres Maschinengewehr|2|",
           "Laserkanone|2|",
           ">Ordinatus Armageddon<",
           "Nova Geschütz||FxF",
@@ -644,7 +644,7 @@
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "crit": "The Ordinatus is destroyed, und any Einheiten mitin 5cm suffers a hit on 4+"
+        "crit": "The Ordinatus is destroyed und any Einheiten innerhalb von 5cm erleiden einen Treffer auf 4+"
       },
       {
         "name": "Gorgon",
@@ -654,7 +654,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr|4|"
+          "Synchronisiertes schweres Maschinengewehr|4|"
         ],
         "specialRules": [
           "Schadenskapazität 3",
@@ -662,8 +662,8 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry 10 Infanterie Einheiten without Jump Pack oder Beritten Eigenschaft transportieren Praetorian Combat Servitor counts as zwei Einheiten.",
-        "crit": "The Gorgon is Immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
+        "notes": "May carry 10 Infanterie Einheiten without Sprungmodule oder Beritten Eigenschaft transportieren Praetorian Combat Servitor counts as zwei Einheiten.",
+        "crit": "The Gorgon is Immobilized und may not move für the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
       },
       {
         "name": "Mole",
@@ -677,7 +677,7 @@
         "specialRules": [
           "Damage capacity: 2",
           "Verstärkte Panzerung",
-          "Tunneler",
+          "Tunnelgräber",
           "Transport"
         ],
         "notes": "May transport sechs Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
@@ -701,7 +701,7 @@
         "armour": 5,
         "weapons": [
           "AC Avenger Bolt Geschütz||FxF",
-          "AC Synchronisierter Maschinenkanone||FxF",
+          "AC Synchronisierte Maschinenkanone||FxF",
           "AC Schweres Maschinengewehr Turm"
         ],
         "specialRules": [
@@ -714,7 +714,7 @@
         "weapons": [
           "AC Phosphor Blaster|FxF",
           "AC Synchronisierte Laserkanone|FxF",
-          "AC Synchronisierter schweres Maschinengewehr Turm"
+          "AC Synchronisiertes schweres Maschinengewehr (Turm)"
         ],
         "specialRules": [
         ]
@@ -751,7 +751,7 @@
         "specialRules": [
           "Verzögerte Ankunft (may only arrive on the battlefield from turn 2 onwards)"
         ],
-        "notes": "Is equipped with either Orbitales Bombardement oder zwei Pin Point attacks (may be chosen at the start of battle)"
+        "notes": "Is equipped mit either Orbitales Bombardement oder zwei Pin Point attacks (may be chosen at the start of battle)"
       }
     ]
   }

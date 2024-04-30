@@ -4,7 +4,7 @@
   "version": "0.6.0",
   "release": "2022-04-01",
   "strategy": "Deathwatch Armeen haben einen Strategiewert von 5.",
-  "Initiative": "Ordo Xenos und Planetary Defense Force Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
+  "Initiative": "Ordo Xenos und Planetarer Defense Force Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
   "armyRules": "The <i>Sie kennen keine Furcht</i> Sonderregel applies to all Deathwatch detachments und Aircraft Verbände.",
   "specialRules": [
     "Ad Hoc Verbände",
@@ -12,7 +12,7 @@
     "Flügel der Himmelsengel"
   ],
   "usage": [
-    "The following army list allows you to field an army based on Ordo Xenos with Deathwatch allies"
+    "The following army list allows you to field an army based on Ordo Xenos mit Deathwatch allies"
   ],
   "units": [
     {
@@ -56,9 +56,9 @@
       "units": [
         "Vulture",
         "Vendetta",
-        "PDF Infanterie",
-        "Flakk Team",
-        "Thudd Gun",
+        "PDS Infanterie",
+        "Flak Team",
+        "Salvengeschütz",
         "Gepanzerter Sentinel",
         "Leman Russ",
         "Leman Russ Thunderer",
@@ -74,7 +74,7 @@
       "formations": [
         {
           "name": "0-1 Officio Assassinorum",
-          "units": "Once pro battle, during an Assault that the Deathwatch Spieler initiated (after all units have finished moving), a single unit anywhere in the enemy formation(s) is hit with D3 hits. These hits counts as being from CC, und have the 'Scharfschütze' und 'Erstschlag' Sonderregels. Any damage caused by these hits counts towards combat resolution (unless the target is Vollkommen Entbehrlich).",
+          "units": "Once pro battle, during an Assault that the Deathwatch Spieler initiated (after all units have finished moving), a single unit anywhere in the enemy formation(s) is hit mit D3 hits. These hits counts as being from CC und have the 'Scharfschütze' und 'Erstschlag' Sonderregels. Any damage caused by these hits counts towards combat resolution (unless the target is Vollkommen Entbehrlich).",
           "points": 50
         }
       ]
@@ -87,8 +87,8 @@
           "name": "Deathwatch Kill-Team",
           "units": "Ein Watch Sergeant, drei Deathwatch Taktischer Trupp",
           "extraUnits": [
-            "Ersetze drei Deathwatch Taktischer Trupp with drei Deathwatch Black Shields: 25 Punkte",
-            "Ersetze drei Deathwatch Taktischer Trupp with drei Deathwatch Devastoren: 50 Punkte",
+            "Ersetze drei Deathwatch Taktischer Trupp mit drei Deathwatch Black Shields: 25 Punkte",
+            "Ersetze drei Deathwatch Taktischer Trupp mit drei Deathwatch Devastoren: 50 Punkte",
             "Oberbefehlshaber",
             "Deathwatch Specialists",
             "Deathwatch Support"
@@ -154,10 +154,10 @@
           "points": 250
         },
         {
-          "name": "Planetary Defense Zug",
-          "units": "Acht PDF Infanterie, vier Land Transporters",
+          "name": "Planetarer Defense Zug",
+          "units": "Acht PDS Infanterie, vier Land Transporters",
           "extraUnits": [
-            "Ersetze vier Land Transporters with drei Thudd Guns oder drei Flakk Teams: 25 Punkte"
+            "Ersetze vier Land Transporters mit drei Thudd Guns oder drei Flak Teams: 25 Punkte"
           ],
           "points": 200
         },
@@ -179,7 +179,7 @@
     },
     {
       "name": "Deathwatch Drop Detachments",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Deathwatch Drop Detachments.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Deathwatch Drop Detachments.",
       "formations": [
         {
           "name": "Corvus Dropship",
@@ -196,13 +196,13 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [
       {
         "name": "0-1 Oberbefehlshaber",
-        "description": "Ersetze an Ordo Xenos Inquisitor mit einem Ordo Xenos Inquisitor Lord, oder a Watch Sergeant mit einemWatch Befehlshaber",
+        "description": "Ersetze an Ordo Xenos Inquisitor mit einem Ordo Xenos Inquisitor Lord oder a Watch Sergeant mit einemWatch Befehlshaber",
         "points": [
           "Inquisitor Lord: 50 Punkte",
           "Watch Befehlshaber: 100 Punkte"

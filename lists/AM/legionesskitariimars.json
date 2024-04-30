@@ -4,7 +4,7 @@
   "version": "0.7.0",
   "release": "2022-04-01",
   "strategy": "The Legiones Skitarii have a Strategy Rating of 3.",
-  "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. All other Verbände have a Initiative Rating of 2+. In addition, the Questoris Banner formation is subject to the 'Ritterlichkeit' Sonderregel.",
+  "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. All other Verbände haben einen Initiative Wert of 2+. In addition, the Questoris Banner formation is subject to the 'Ritterlichkeit' Sonderregel.",
   "specialRules": [
     "Tunnelgräber"
   ],
@@ -24,7 +24,7 @@
         "Skitarii Rangers",
         "Rapier",
         "Kastelan Robot",
-        "Kataphron Breacher Battle Servitors",
+        "Kataphron Brecher Battle Servitors",
         "Kataphron Destroyer Battle Servitors",
         "Skorpius Dunerider",
         "Skorpius Disintegrator",
@@ -77,7 +77,7 @@
           "name": "Vanguard Manipel",
           "units": "Ein Magos, neun Skitarii Vanguards",
           "extraUnits": [
-            "Ersetze vier Skitarii Vanguards with vier Rapiers: Kostenlos",
+            "Ersetze vier Skitarii Vanguards mit vier Rapier Geschütze: Kostenlos",
             "Füge bis zu zwei Onager Dunecrawlers: 50 Punkte jeweils",
             "Füge bis zu zwei Skorpius Disintegrators: 50 Punkte jeweils",
             "Oberbefehlshaber",
@@ -87,14 +87,14 @@
         },
         {
           "name": "Onager Cataphractii",
-          "units": "Zwei Onager Dunecrawlers with Icarus Array, sechs Onager Dunecrawlers with another single configuration",
+          "units": "Zwei Onager Dunecrawlers mit Icarus Array, sechs Onager Dunecrawlers mit another single configuration",
           "points": 450
         }
       ]
     },
     {
       "name": "Legiones Mars Line Verbände",
-      "description": " Bis zu drei Mars Line Verbände für jeweils Kern Formation.",
+      "description": "Bis zu drei Mars Line Verbände pro Kern Formation.",
       "formations": [
         {
           "name": "Sicarian Killclade",
@@ -107,7 +107,7 @@
           "name": "Ranger Cohort",
           "units": "Vier Skitarii Rangers",
           "extraUnits": [
-            "Füge zwei Scorpius Duneriders, oder drei Rapiers: 50 Punkte"
+            "Füge zwei Scorpius Duneriders oder drei Rapier Geschütze: 50 Punkte"
           ],
           "points": 150
         },
@@ -121,13 +121,13 @@
         },
         {
           "name": "Kataphron Manipel",
-          "units": "Ein Tech-Priest, fünf Kataphron Breacher Battle Servitors oder fünf Kataphron Destroyer Battle Servitors",
+          "units": "Ein Tech-Priest, fünf Kataphron Brecher Battle Servitors oder fünf Kataphron Destroyer Battle Servitors",
           "extraUnits": [],
           "points": 250
         },
         {
           "name": "Onager Manipel",
-          "units": "Ein Onager Dunecrawlers with Icarus Array, drei Onager Dunecrawlers with another single configuration",
+          "units": "Ein Onager Dunecrawlers mit Icarus Array, drei Onager Dunecrawlers mit another single configuration",
           "points": 225
         },
         {
@@ -160,7 +160,7 @@
     },
     {
       "name": "Forge World Navy, Collegia Titanica und Questoris Mechanicus Support",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Questoris Banner",
@@ -169,7 +169,7 @@
           "points": 325
         },
         {
-          "name": "Warhound Pack",
+          "name": "Warhound Rudel",
           "units": "Zwei Warhound Titans, both of either Standard oder Support Configuration",
           "extraUnits": [
             "Panzerjägerkonfiguration"
@@ -196,7 +196,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Legiones Mars Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
@@ -213,7 +213,7 @@
         "name": "Vanguard Transport",
         "options": [
           {
-            "description": "Füge eine Gorgon, fünf Skorpius Duneriders, oder fünf Termites (must enter the battlefield by tunneling)",
+            "description": "Füge ein Gorgon, fünf Skorpius Duneriders oder fünf Termites (must enter the battlefield by tunneling)",
             "points": [
               "Termites: 75 Punkte",
               "Gorgon: 100 Punkte",

@@ -51,7 +51,7 @@
 		{"id":29, "name":"Strike Cruiser", "pts":200},
 		{"id":30, "name":"Battle Barge", "pts":350},
 		{"id":31, "name":"Death Company Dreadnought", "pts":75},
-		{"id":32, "name":"4 Death Company Squads w/ Jump Packs", "pts":50},
+		{"id":32, "name":"4 Death Company Squads w/ Sprungmodules", "pts":50},
 		{"id":33, "name":"4 Death Company Squads plus Transport", "pts":0},
 		{"id":34, "name":"Dreadnought w/ TLC, ML", "pts":50},
 		{"id":40, "name":" 4 Predator Destructors", "pts":0},

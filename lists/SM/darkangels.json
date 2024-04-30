@@ -185,7 +185,7 @@
     },
     {
       "name": "Ravenwing Aircraft & Dark Angels Swordwing",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände. Ein Swordwing Support formation must be taken",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände. Ein Swordwing Support formation must be taken",
       "formations": [
         {
           "name": "Nephilims",
@@ -208,7 +208,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Dark Angels Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro detachment",
     "items": [
@@ -219,7 +219,7 @@
       },
       {
         "name": "Deathwing Ritters",
-        "description": "Ersetze eine unit of Terminatoren with Deathwing Ritters",
+        "description": "Ersetze eine Einheit Terminatoren mit Deathwing Ritters",
         "points": "25 Punkte"
       },
       {
@@ -288,14 +288,14 @@
       },
       {
         "name": "Venegance",
-        "description": "Ersetze vier Ravenwing Land Speeder Tornado with vier Ravenwing Land Speeder Venegance",
+        "description": "Ersetze vier Ravenwing Land Speeder Tornado mit vier Ravenwing Land Speeder Venegance",
         "points": "50 Punkte"
       }
     ]
   },
   "usage": [
-    "The EA-R Dark Angels list is inspired by the E-UK version of the list, but the differences are obviously way more numerous than the similarities. Für example, while the Unmodifizierter Rettungswurf on the Ravenwing Verbände has been retained, the Deathwing rule has been dropped, und the Telemetrieempfänger rule is greatly expanded.",
-    "Apart from the rigid structure und the changes inherited from the EA-R Codex Astartes list, the most major difference is that it has no access to air assault Verbände, but strongly encourages the Spieler to concentrate on the Teleportieren aspects of the Dark Angels fluff, und bringing a strong ground game. The Schlachtkreuzer has been replaced with the Jäger Klasse Zerstörer, which provides the army mit einemcheaper way to use the Telemetrieempfänger Sonderregel.",
-    "A great number of the Dark Angels' many special units has been added, somewhat compensating für the loss of air assault options und Collegia Titanica allies. The Glaive, being a relic Horus Heresy technology, has been restricted to eine formation für thematic purposes, while the normal Cybot loadouts have been replaced with the Mortis AA variant. The Land Speeder Typhoon has been replaced with the Land Speeder Venegance, und the formation reduced to vier units to keep the cost down, und make the formation more competitive with the Aufklärer formation. The Sturmtrupp detachment was expanded to sechs units und comes mit einemDark Angels Captain as standard (providing Telemetrieempfänger), making them more relevant in a list without Thunderhawks. The Nephilim is now more similar to the Storm Talon, und the Dark Talon provides the list mit einemFighter-Bomber option."
+    "The EA-R Dark Angels list is inspired by the E-UK version of the list, but the differences are obviously way more numerous than the similarities. Für example, while the Unmodifizierter Rettungswurf on the Ravenwing Verbände has been retained, the Deathwing rule has been dropped und the Telemetrieempfänger rule is greatly expanded.",
+    "Apart from the rigid structure und the changes inherited from the EA-R Codex Astartes list, the most major difference is that it has no access to air assault Verbände, but strongly encourages the Spieler to concentrate on the Teleportieren aspects of the Dark Angels fluff und bringing a strong ground game. The Schlachtkreuzer has been replaced mit the Jäger Klasse Zerstörer, which provides the army mit einemcheaper way to use the Telemetrieempfänger Sonderregel.",
+    "A great number of the Dark Angels' many special units has been added, somewhat compensating für the loss of air assault options und Collegia Titanica allies. The Glaive, being a relic Horus Heresy technology, has been restricted to eine formation für thematic purposes, while the normal Cybot loadouts have been replaced mit the Mortis AA variant. The Land Speeder Typhoon has been replaced mit the Land Speeder Venegance und the formation reduced to vier units to keep the cost down und make the formation more competitive mit the Aufklärer formation. The Sturmtrupp detachment was expanded to sechs units und comes mit einemDark Angels Captain as standard (providing Telemetrieempfänger), making them more relevant in a list without Thunderhawks. The Nephilim is now more similar to the Storm Talon und the Dark Talon provides the list mit einemFighter-Bomber option."
   ]
 }

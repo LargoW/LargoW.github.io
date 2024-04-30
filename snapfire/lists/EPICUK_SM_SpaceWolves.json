@@ -53,7 +53,7 @@
 		{"id":37, "name":"Vindicator", "pts":50},
 		{"id":38, "name":"Hunter", "pts":75},
 		{"id":40, "name":"plus transport", "pts":0},
-		{"id":41, "name":"w/ Jump Packs", "pts":0},
+		{"id":41, "name":"w/ Sprungmodules", "pts":0},
 		{"id":42, "name":"Battle Leader", "pts":0},
 		{"id":43, "name":"Rune Priest", "pts":0},
 		{"id":44, "name":"Wolf Priest", "pts":0},

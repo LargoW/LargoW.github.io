@@ -4,7 +4,7 @@
   "version": "1.0.Beta-2",
   "release": "2022-04-28",
   "armyforge": "EAR_Ork_FeralOrk",
-  "intro": "Unlike the very rigid Verbände used by the Imperium, Ork Verbände vary widely in both size und composition. The rules für creating Ork Verbände reflect this. The most common type of Ork formation is the warband. Other more specialised Verbände do exist, such as Kults of Speed und Blitz Brigades. The different types of Ork Verbände you may choose are shown on the army list that follows.</p><p>Some Ork Verbände come in different sizes: Normal, Big & 'Uge. A Big formation is double in size und a 'Uge formation is triple. If there is a limitation to formation Erweiterungen, then the limit is doubled für a big formation und tripled für a ’uge formation. Für example, a normal sized Kult of Speed can include 0–1 Oddboy, a big Kult of Speed can include 0–2, und a 'Uge Kult of Speed can include 0–3.",
+  "intro": "Unlike the very rigid Verbände used by the Imperium, Ork Verbände vary widely in both size und composition. The rules für creating Ork Verbände reflect this. The most common type of Ork formation is the warband. Other more specialised Verbände do exist, such as Kults of Speed und Blitz Brigades. The different types of Ork Verbände you may choose are shown on the army list that follows.</p><p>Some Ork Verbände come in different sizes: Normal, Big & 'Uge. A Big formation is double in size und a 'Uge formation is triple. If there is a limitation to formation Erweiterungen, then the limit is doubled für a big formation und tripled für a ’uge formation. Für example, a normal sized Kult of Speed can include 0–1 Oddboy, a big Kult of Speed can include 0–2 und a 'Uge Kult of Speed can include 0–3.",
   "strategy": "Snakebite Clan Armeen haben einen Strategiewert von 3.",
   "Initiative": "All Verbände haben eine Initiativewert von 3+.",
   "specialRules": [
@@ -57,8 +57,8 @@
             "Any number of BoarBoys hinzu:25 Punkte jeweils",
             "Füge bis zu drei Squig Katapults: 25 Punkte jeweils",
             "Any number of Huntas + Grotz hinzu: 35 Punkte",
-            "Füge eine unit of Brutes: 35 Punkte jeweils",
-            "Füge eine Wyrdboy to a unit of Brutes: 25 Punkte jeweils",
+            "Füge eine Einheit Brutes: 35 Punkte jeweils",
+            "Füge eine Wyrdboy to a Einheit Brutes: 25 Punkte jeweils",
             "Füge bis zu zwei Squiggoth Flakkas: 40 Punkte jeweils",
             "Füge drei Squiggoth Supa-Lobbas: 100 Punkte",
             "Füge enough Squiggoths to transport the entire formation: 30 Punkte jeweils, eine Gargantuan Squiggoth: 100 Punkte oder eine Orkeosaurus: 175 Punkte"
@@ -112,7 +112,7 @@
           "extraUnits": [
             "Any number of Junkas + Junkatrukk: 30 Punkte",
             "Füge eine Brutes + Junkatrukk: 50 Punkte",
-            "Füge eine Wyrdboy to a unit of Brutes: 25 Punkte"
+            "Füge eine Wyrdboy to a Einheit Brutes: 25 Punkte"
           ],
           "pointsOptions": [
             {
@@ -129,7 +129,7 @@
           "name": "Lobba Mob",
           "units": "Sechs Lobbas",
           "extraUnits": [
-            "Füge bis zu eine unit of Brutes: 35 Punkte"
+            "Füge bis zu eine Einheit Brutes: 35 Punkte"
           ],
           "points": 150
         },
@@ -156,7 +156,7 @@
           "extraUnits": [
             "Any number of WildBoys hinzu:15 Punkte jeweils",
             "Füge eine Brutes: 35 Punkte jeweils",
-            "Füge eine Wyrdboy to a unit of Brutes: 25 Punkte",
+            "Füge eine Wyrdboy to a Einheit Brutes: 25 Punkte",
             "Füge bis zu zwei Squiggoth Flakkas: 40 Punkte jeweils",
             "Füge drei Squiggoth Supa-Lobbas: 100 Punkte",
             "Füge enough Squiggoths to transport the entire formation: 30 Punkte jeweils, eine Gargantuan Squiggoth: 100 Punkte oder eine Orkeosaurus: 175 Punkte"
@@ -176,7 +176,7 @@
   },
     {
       "name": "Snakebites Gargants",
-      "description": " Bis zu 25% of the Punkte available may be spent on these Verbände",
+      "description": "Bis zu 25% of the Punkte available may be spent on these Verbände",
       "formations": [
           {
             "name": "Snakebites Gargant Mob",

@@ -5,7 +5,7 @@
   "release": "2023-01-09",
   "armyforge": "EAR_Inquisition_AdeptaSororitas",
   "strategy": "Adepta Sororitas Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Ordo Hereticus Verbände including the Inquisitor Retinue, und Verbände der Imperialen Luftstreitkräfte, have an Initiative Rating of 2+. All other Verbände have an Initiative of 1+.",
+  "Initiative": "Ordo Hereticus Verbände including the Inquisitor Retinue und Verbände der Imperialen Luftstreitkräfte, have an Initiative Rating of 2+. All other Verbände have an Initiative of 1+.",
   "specialRules": [
   ],
   "units": [
@@ -14,12 +14,12 @@
       "units": [
         "Canoness",
         "Palatine",
-        "Ministorum Priest",
+        "Ministorum Prediger",
         "Living Saint",
         "Ordo Hereticus Inquisitor Lord",
         "Ordo Hereticus Inquisitor",
         "Arco-Flagellants",
-        "Battle Sisters",
+        "Sororitatrupp",
         "Dominion Sisters",
         "Celestian Sisters",
         "Retributor Sisters",
@@ -58,7 +58,7 @@
     {
       "from": "ImperialNavy.json",
       "units": [
-        "Lightning Interceptor",
+        "Lightning Abfangjäger",
         "Marauder Destroyer",
         "Lunar-Klasse Kreuzer",
         "Imperator-Klasse Schlachtschiff"
@@ -74,9 +74,9 @@
       "formations": [
         {
           "name": "Mission",
-          "units": "Ein Palatine, acht Battle Sisters",
+          "units": "Ein Palatine, acht Sororitatrupp",
           "extraUnits": [
-            "Ersetze zwei units of Battle Sisters with zwei Exorcist Prioris: 50 Punkte",
+            "Ersetze zwei Einheiten Sororitatrupp mit zwei Exorcist Prioris: 50 Punkte",
             "Ordo Hereticus Superior",
             "Hunter",
             "Transport"
@@ -88,7 +88,7 @@
         "units": "Ein Ordo Hereticus Inquisitor, fünf Sturmtruppen, drei Chimären",
         "extraUnits": [
           "Füge eine Hydra: 50 Punkte",
-          "Ersetze drei Chimären with drei Valkyries: 50 Punkte",
+          "Ersetze drei Chimären mit drei Valkyries: 50 Punkte",
           "Höllenhunde",
           "Ordo Hereticus Superior"
         ],
@@ -111,7 +111,7 @@
           "name": "Exorcism",
           "units": "Vier Exorcist Prioris",
           "extraUnits": [
-            "Ersetze vier Exorcist Prioris with vier Exorcist Sanctorum: 25 Punkte",
+            "Ersetze vier Exorcist Prioris mit vier Exorcist Sanctorum: 25 Punkte",
             "Hunter"
           ],
           "points": 225
@@ -128,7 +128,7 @@
           "name": "Retribution",
           "units": "Ein Palatine, vier Retributor Sisters, zwei Sororitas Rhinos",
           "extraUnits": [
-            "Ersetze zwei Sororitas Rhinos with zwei Sororitas Repressors: 20 Punkte"
+            "Ersetze zwei Sororitas Rhinos mit zwei Sororitas Repressors: 20 Punkte"
           ],
           "points": 225
         },
@@ -143,7 +143,7 @@
             "name": "Dominus",
             "units": "Ein Palatine, vier Dominion Sisters, zwei Sororitas Rhinos",
             "extraUnits": [
-                "Ersetze zwei Sororitas Rhinos with zwei Sororitas Repressors: 20 Punkte"
+                "Ersetze zwei Sororitas Rhinos mit zwei Sororitas Repressors: 20 Punkte"
             ],
             "points": 175
         },
@@ -168,9 +168,9 @@
         },
         {
           "name": "Redemption",
-          "units": "Ein Ministorum Priest, acht Redemptionists, vier Ordo Hereticus Land Transporters",
+          "units": "Ein Ministorum Prediger, acht Redemptionists, vier Ordo Hereticus Land Transporters",
           "extraUnits": [
-            "Ersetze vier Ordo Hereticus Land Transporters und vier Redemptionists with sechs Arco-Flagellants, oder vier Penitent Engines: 50 Punkte"
+            "Ersetze vier Ordo Hereticus Land Transporters und vier Redemptionists mit sechs Arco-Flagellants oder vier Penitent Engines: 50 Punkte"
           ],
           "points": 175
         },
@@ -185,11 +185,11 @@
     },
     {
       "name": "Verbände der Imperialen Luftstreitkräfte",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte",
       "formations": [
         {
           "name": "Lightning Schwadron",
-          "units": "Zwei Lightning Interceptors",
+          "units": "Zwei Lightning Abfangjäger",
           "points": 150
         },
         {
@@ -198,7 +198,7 @@
           "points": 175
         },
         {
-          "name": "0–1 Orbital Support",
+          "name": "0–1 Orbitalunterstüzung",
           "units": "Ein Lunar-Klasse Kreuzer",
           "extraUnits": [
             "Ersetze the Lunar-Klasse Kreuzer mit einem Imperator-Klasse Schlachtschiff: 50 Punkte"
@@ -208,7 +208,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [

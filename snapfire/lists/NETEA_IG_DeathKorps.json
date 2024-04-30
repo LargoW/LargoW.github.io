@@ -6,18 +6,18 @@
 		{"name":"DEATH KORPS Kern COMPANIES", "formations":[
 			{ "id":501, "name":"Regimental HQ", "pts":400, "units":"Death Korps Supreme Commander, 19 Death Korps Infantry" , "upgrades":[107,108,105,109,111,114,120,121,122,123] },
 			{ "id":502, "name":"Infantry Company", "pts":300, "units":"Death Korps Commander, 19 Death Korps Infantry", "upgrades":[107,108,105,109,111,114,120,121,122,123] },
-			{ "id":503, "name":"Death Rider Company", "pts":250, "units":"12 Death Riders", "upgrades":[105,109,111,114,120,121,122,123] }
+			{ "id":503, "name":"Death Rider Company", "pts":250, "units":"12 Todesreiter", "upgrades":[105,109,111,114,120,121,122,123] }
 		]},
 		{"name":"SUPPORT FORMATIONS <br/> Max 2 for each Death Corps Kern Company", "formations":[
 			{ "id":511, "name":"Grenadiers Platoon", "pts":225, "units":"8 Death Korps Grenadiers", "upgrades":[51,53] },
-			{ "id":512, "name":"Engineers Platoon", "pts":250, "units":"8 Death Korps Engineers, Hades Breaching Drill", "upgrades":[] },
+			{ "id":512, "name":"Engineers Platoon", "pts":250, "units":"8 Death Korps Engineers, Hades Durchbruchsbohrfahrzeug", "upgrades":[] },
 			{ "id":513, "name":"Tank Platoon", "pts":280, "upgrades":[] },
 			{ "id":514, "name":"Heavy Tank Platoon", "pts":325,  "units":"2 Macharius", "upgrades":[] },
 			{ "id":515, "name":"Light Support Battery", "pts":200, "upgrades":[34,35] },
 			{ "id":516, "name":"Heavy Support Battery", "pts":0, "upgrades":[] },
 			{ "id":517, "name":"Self-Propelled Artillery", "pts":250, "units":"3 Bombards", "upgrades":[] },
 			{ "id":518, "name":"Super-Heavy Tank Platoon", "pts":200, "upgrades":[] },
-			{ "id":519, "name":"Death Rider Scout Platoon", "pts":150, "units":"6 Death Riders w/ 'Scout'", "upgrades":[] },
+			{ "id":519, "name":"Death Rider Scout Platoon", "pts":150, "units":"6 Todesreiter w/ 'Scout'", "upgrades":[] },
 			{ "id":520, "name":"Deathstrike Silo", "pts":250, "units":"Deathstrike Missile Silo", "upgrades":[] },
 			{ "id":521, "name":"Artillery Support Company", "pts":600, "units":"9 Earthshaker Platforms", "upgrades":[] },
 			{ "id":522, "name":"Super-Heavy Tank Company", "pts":500, "upgrades":[] }
@@ -37,8 +37,8 @@
 	"upgrades":[
 		{ "id":11, "name":"Leman Russ Thunderer", "pts":0 },
 		{ "id":12, "name":"Leman Russ", 			"pts":20 },
-		{ "id":13, "name":"Leman Russ Demolisher", "pts":20 },
-		{ "id":14, "name":"Leman Russ Vanquisher", "pts":50 },
+		{ "id":13, "name":"Leman Russ Belagerer", "pts":20 },
+		{ "id":14, "name":"Leman Russ Vernichter", "pts":50 },
 
 		{ "id":21, "name":"Baneblade", "pts":0 },
 		{ "id":22, "name":"Shadowsword", "pts":0 },
@@ -69,8 +69,8 @@
 		{ "id":114, "name":"6 Fire Supports", "pts":75 },
 		{ "id":111, "name":"10 Death Korps Infantry", "pts":175 },
 		{ "id":101, "name":"Hydra", "pts":50 },
-		{ "id":103, "name":"Macharius Command w/ Twin Vanquisher", "pts":0 },
-		{ "id":104, "name":"Macharius Command w/ Vulcan Mega-Bolter", "pts":0 },
+		{ "id":103, "name":"Macharius Kommandopanzer w/ Twin Vanquisher", "pts":0 },
+		{ "id":104, "name":"Macharius Kommandopanzer w/ Vulcan Mega-Bolter", "pts":0 },
 
 		{ "id":109, "name":"Macharius", "pts":100 },
 
@@ -82,7 +82,7 @@
 		{"id":120, "name":"Tank Squadron (Choose 3 Leman Russ Variants)",	"pts":140},
 		{ "id":121, "name":"Leman Russ Thunderer", "pts":0},
 		{ "id":122, "name":"Leman Russ", "pts":20},
-		{ "id":123, "name":"Leman Russ Demolisher", "pts":20}
+		{ "id":123, "name":"Leman Russ Belagerer", "pts":20}
 	],
 	"formationConstraints":[
 		{"max":1, "perPoints":1500, "from":[503]},

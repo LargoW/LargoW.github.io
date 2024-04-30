@@ -4,7 +4,7 @@
   "version": "1.0.beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_Ravenguard",
-  "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Raven Guard Space Marine Orden oder einen der Nachfolgeorden aufstellen. The Raven Guard specialise in guerrilla warfare, moving behind enemy lines with unrivalled stealth, und striking with precise application of force.",
+  "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Raven Guard Space Marine Orden oder einen der Nachfolgeorden aufstellen. The Raven Guard specialise in guerrilla warfare, moving behind enemy lines mit unrivalled stealth und striking mit precise application of force.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
@@ -175,7 +175,7 @@
     },
     {
       "name": "Ravenguard Navy & Collegia Titanica Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Storm Talons",
@@ -188,7 +188,7 @@
           "points": 175
         },
         {
-          "name": "0-1 Orbital Support",
+          "name": "0-1 Orbitalunterstüzung",
           "units": "Ein Vanguard Class Light Cruiser",
           "extraUnits": [
             "Angriffskreuzer"
@@ -206,7 +206,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Ravenguard Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro detachment",
     "items": [

@@ -91,22 +91,22 @@
     },
     {
       "name": "Biel-Tan Warhosts",
-      "description": " Bis zu eine Guardian Warhost may be taken für jeweils Aspect oder Beritten Aspect Warhost",
+      "description": "Bis zu eine Guardian Warhost may be taken pro Aspect oder Beritten Aspect Warhost",
       "formations": [
         {
           "name": "Beritten Aspect Warrior Warhost",
-          "units": "Vier Wave Serpents und acht Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions oder Swooping Hawks. The formation may not mix aspects.",
+          "units": "Vier Wave Serpents und acht Aspect Warrior units ausgewählt aus the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions oder Swooping Hawks. The formation may not mix aspects.",
           "extraUnits": [
             "Autarch",
             "Exarchs",
-            "Ersetze any number of Wave Serpents with zwei Falcons jeweils: 50 Punkte jeweils",
-            "Ersetze eine Wave Serpent with zwei Firestorms: 50 Punkte"
+            "Ersetze any number of Wave Serpents mit zwei Falcons jeweils: 50 Punkte jeweils",
+            "Ersetze eine Wave Serpent mit zwei Firestorms: 50 Punkte"
           ],
           "points": 450
         },
         {
           "name": "Aspect Warrior Warhost",
-          "units": "Acht Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Shining Spears, Striking Scorpions, Swooping Hawks oder Warp Spiders. The formation may not mix aspects.",
+          "units": "Acht Aspect Warrior units ausgewählt aus the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Shining Spears, Striking Scorpions, Swooping Hawks oder Warp Spiders. The formation may not mix aspects.",
           "extraUnits": [
             "Autarch",
             "Exarchs"
@@ -117,8 +117,8 @@
           "name": "Guardian Warhost",
           "units": "Ein Farseer unit und sieben Guardians",
           "extraUnits": [
-            "Ersetze bis zu drei Eldar Guardians with Eldar Heavy Weapon Platforms: Kostenlos",
-            "Ersetze bis zu drei Eldar Guardians with Support Weapons Platforms (all armed with the same weapon): 25 Punkte jeweils",
+            "Ersetze bis zu drei Eldar Guardians mit Eldar Heavy Weapon Platforms: Kostenlos",
+            "Ersetze bis zu drei Eldar Guardians mit Support Weapons Platforms (all armed mit the same weapon): 25 Punkte jeweils",
             "Füge zwei Eldar Wraithguards: 75 Punkte",
             "Füge bis zu drei Eldar Wraithlords: 50 Punkte jeweils",
             "Füge vier Wave Serpents: 150 Punkte (may only be taken if the entire formation can fit inside)"
@@ -129,7 +129,7 @@
     },
     {
       "name": "Biel-Tan Troupes",
-      "description": " Bis zu drei Biel-Tan Troupes may be taken für jeweils Biel-Tan Warhost",
+      "description": "Bis zu drei Biel-Tan Troupes may be taken pro Biel-Tan Warhost",
       "formations": [
           {
             "name": "Rangers",
@@ -150,7 +150,7 @@
           "name": "Wind Rider Troupe ",
           "units": "Sechs Jetbike units",
           "extraUnits": [
-            "Ersetze any number of Eldar Jetbikes with Eldar Vypers: Kostenlos"
+            "Ersetze any number of Eldar Jetbikes mit Eldar Vypers: Kostenlos"
           ],
           "points": 200
         },
@@ -158,7 +158,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu zwei Falcons with Firestorms: Kostenlos"
+            "Ersetze bis zu zwei Falcons mit Firestorms: Kostenlos"
           ],
           "points": 250
         },
@@ -185,9 +185,9 @@
         },
         {
           "name": "Engines of Vaul",
-          "units": "Ein Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
+          "units": "Ein Engine of Vaul ausgewählt aus the following: Cobra, Scorpion, Storm Serpent",
           "extraUnits": [
-            "Füge bis zu zwei additional Engine of Vaul für 200 Punkte jeweils chosen from the following: Cobra, Scorpion, Storm Serpent"
+            "Füge bis zu zwei additional Engine of Vaul für 200 Punkte jeweils ausgewählt aus the following: Cobra, Scorpion, Storm Serpent"
           ],
           "points": 250
         }
@@ -195,7 +195,7 @@
     },
     {
       "name": "Biel-Tan Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
       "formations": [
         {
           "name": "Nightwing Aerie",
@@ -251,7 +251,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Biel-Tan Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [

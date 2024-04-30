@@ -4,16 +4,16 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"Kern COMPANY FORMATIONS", "formations":[
-			{"id":500, "name":"Regimental HQ", 				"pts":375, "units":"Steel Legion Supreme Commander with a Commissar",  "upgrades":[45,48,50,54,57,58,52,55,59,60,61,62,63]},
-			{"id":501, "name":"Infantry Company", 			"pts":250, "units":"Steel Legion Commander with a Commissar", "upgrades":[45,49,51,54,57,58,66,56,59,60,61,64,65]},
-			{"id":502, "name":"Mechanized Infantry Company", 	"pts":325, "units":"Steel Legion Commander with a Commissar", "upgrades":[45,48,50,54,57,58,52,55,59,60,61,62,63]},
-			{"id":503, "name":"Tank Company", 			"pts":500, "units":"Leman Russ Vanquisher with a Commissar, 7 Leman Russ", "upgrades":[45,54,57,58]},
+			{"id":500, "name":"Regimental HQ", 				"pts":375, "units":"Steel Legion Supreme Commander mit a Commissar",  "upgrades":[45,48,50,54,57,58,52,55,59,60,61,62,63]},
+			{"id":501, "name":"Infantry Company", 			"pts":250, "units":"Steel Legion Commander mit a Commissar", "upgrades":[45,49,51,54,57,58,66,56,59,60,61,64,65]},
+			{"id":502, "name":"Mechanized Infantry Company", 	"pts":325, "units":"Steel Legion Commander mit a Commissar", "upgrades":[45,48,50,54,57,58,52,55,59,60,61,62,63]},
+			{"id":503, "name":"Tank Company", 			"pts":500, "units":"Leman Russ Vernichter mit a Commissar, 7 Leman Russ", "upgrades":[45,54,57,58]},
 			{"id":504, "name":"Super-Heavy Company", 		"pts":525, "units":"Commissar", "upgrades":[45,52,55,66,56,54,57,58]},
 		 	{"id":505, "name":"Artillery Company", 			"pts":400, "units":"Commissar", "upgrades":[45]}
 		]},
 		{"name":"SUPPORT FORMATIONS <br/> Max 2 for each Kern Company", "formations":[
 			{"id":510, "name":"Rough Rider Platoon", 			"pts":150, "upgrades":[], "units":"6 Rough Riders"},
-			{"id":511, "name":"Storm Trooper Company",				"pts":200, "upgrades":[42,43], "units":"Commissar, 8 Storm Troopers"},
+			{"id":511, "name":"Sturmtruppen Company",				"pts":200, "upgrades":[42,43], "units":"Commissar, 8 Storm Troopers"},
 			{"id":512, "name":"Artillery Battery",				"pts":225, "upgrades":[]},
 			{"id":509, "name":"Deathstrike Battery", "pts":225, "units":"2 Deathstrike", "upgrades":[]},
 			{"id":514, "name":"Sentinel Squadron",				"pts":100, "upgrades":[], "units":"4 Sentinels"},
@@ -30,7 +30,7 @@
 			{"id":535, "name":"Warlord Titan",		"pts":750, "upgrades":[]},
 			{"id":532, "name":"Thunderbolt Squadron",	"pts":175, "upgrades":[], "units":"2 Thunderbolt Fighters"},
 			{"id":533, "name":"Marauder Squadron",		"pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
-			{"id":534, "name":"Orbital Support",		"pts":150, "upgrades":[]}
+			{"id":534, "name":"Orbitalunterstüzung",		"pts":150, "upgrades":[]}
 		]}
 	],
 	"upgrades":[
@@ -41,7 +41,7 @@
 		{"id":23, "name":"18 Infantry",					"pts":75},
 
 		{"id":24, "name":"Leman Russ",					"pts":0},
-		{"id":25, "name":"Leman Russ Vanquisher",		"pts":0},
+		{"id":25, "name":"Leman Russ Vernichter",		"pts":0},
 
 		{"id":26, "name":"Baneblade",					"pts":0},
 		{"id":27, "name":"Shadowsword",					"pts":0},
@@ -57,7 +57,7 @@
 		{"id":33, "name":"3 Manticores",				"pts":25},
 
 		{"id":34, "name":"6 Leman Russ Punishers",		"pts":0},
-		{"id":35, "name":"6 Leman Russ Demolishers",	"pts":0},
+		{"id":35, "name":"6 Leman Russ Belagerer",	"pts":0},
 		{"id":36, "name":"6 Leman Russ Leman Russ",		"pts":0},
 
 		{"id":37, "name":"Lunar Class Cruiser",			"pts":0},
@@ -87,7 +87,7 @@
 		{"id":58, "name":"3 Hellhounds",				"pts":75},
 
 		{"id":59, "name":"3 Leman Russ Punishers",		"pts":150},
-		{"id":60, "name":"3 Leman Russ Demolishers",	"pts":150},
+		{"id":60, "name":"3 Leman Russ Belagerer",	"pts":150},
 		{"id":61, "name":"3 Leman Russ",		"pts":150},
 
 		{"id":62, "name":"Sniper, Chimera",			"pts":50},

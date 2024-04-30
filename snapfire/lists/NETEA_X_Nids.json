@@ -35,25 +35,25 @@
        {"id": 5, "name": "Hive Tyrant w/ Symbiote", "pts": 150},
        {"id": 6, "name": "Dominatrix w/ Symbiote", "pts": 375},
 
-       {"id": 8, "name": "3 Tyranid Warriors", "pts": 150},
+       {"id": 8, "name": "3 Tyranidenkrieger", "pts": 150},
        {"id": 10, "name": "Dominatrix", "pts": 325},
-      {"id": 11, "name": "Termaganten#", "pts": 15},
+      {"id": 11, "name": "Termaganten", "pts": 15},
       {"id": 12, "name": "Hormaganten", "pts": 15},
-      {"id": 13, "name": "2 Tyranid Warriors", "pts": 100},
+      {"id": 13, "name": "2 Tyranidenkrieger", "pts": 100},
       {"id": 14, "name": "Hive Tyrant", "pts": 100},
-      {"id": 15, "name": "Tyranid Warriors", "pts": 50},
+      {"id": 15, "name": "Tyranidenkrieger", "pts": 50},
 
       {"id": 16, "name": "Biovore", "pts": 25},
-      {"id": 160, "name": "5 Biovores", "pts": 150},
-      {"id": 161, "name": "10 Biovores", "pts": 275},
-      {"id": 162, "name": "15 Biovores", "pts": 375},
+      {"id": 160, "name": "5 Biovoren", "pts": 150},
+      {"id": 161, "name": "10 Biovoren", "pts": 275},
+      {"id": 162, "name": "15 Biovoren", "pts": 375},
 
       {"id": 21, "name": "Gargoyles", "pts": 20},
       {"id": 22, "name": "Zoanthrope", "pts": 25},
       {"id": 23, "name": "Malefactor", "pts": 50},
       {"id": 24, "name": "Carnifex", "pts": 50},
       {"id": 25, "name": "Haruspex", "pts": 50},
-      {"id": 26, "name": "Raveners", "pts": 30},
+      {"id": 26, "name": "Venatorens", "pts": 30},
 
       {"id": 28, "name": "Exocrine", "pts": 50},
       {"id": 280, "name": "3 Exocrines", "pts": 175},
@@ -76,11 +76,11 @@
       {"id": 60, "name": "Bile Launcher", "pts": 0},
       {"id": 61, "name": "Bio-Titan Bio-Cannon", "pts": 0},
       {"id": 62, "name": "Cluster Spines", "pts": 0},
-      {"id": 63, "name": "Pyro-Acid Spray", "pts": 0},
+      {"id": 63, "name": "Pyro-Säure Spray", "pts": 0},
       {"id": 64, "name": "Razorclaw", "pts": 0},
 
       {"id": 80, "name": "Genestealers", "pts": 25},
-      {"id": 81, "name": "Brood Lord", "pts": 25}
+      {"id": 81, "name": "Symbiarch", "pts": 25}
 
    ],
    "formationConstraints": [
@@ -98,11 +98,11 @@
       {"max": 6, "from": [30], "appliesTo": [500]},
       {"max": 12, "from": [30], "appliesTo": [501]},
       {"max": 18, "from": [30], "appliesTo": [502]},
-      {"min": 6, "from": [11,12], "appliesTo": [500], "name": "Gaunts"},
+      {"min": 6, "from": [11,12], "appliesTo": [500], "name": "Ganten"},
       {"max": 1, "min": 1, "from": [13,14,5,10,6,8], "appliesTo": [500], "name": "Synapse"},
-      {"min": 12, "from": [11,12], "appliesTo": [501], "name": "Gaunts"},
+      {"min": 12, "from": [11,12], "appliesTo": [501], "name": "Ganten"},
       {"max": 2, "min": 2, "from": [13,14,5,10,6], "appliesTo": [501], "name": "Synapse"},
-      {"min": 18, "from": [11,12], "appliesTo": [502], "name": "Gaunts"},
+      {"min": 18, "from": [11,12], "appliesTo": [502], "name": "Ganten"},
       {"max": 3, "min": 3, "from": [13,14,5,10,6], "appliesTo": [502], "name": "Synapse"},
       {"min": 1, "from": [160,161,162], "appliesTo": [517]},
       {"max": 1, "min": 1, "from": [32,33,34], "appliesTo": [518]},

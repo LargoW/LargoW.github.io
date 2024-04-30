@@ -6,11 +6,11 @@
   "armyforge": "EAR_SymbiontenCult_Cult",
   "intro": "The Cult of the Rusted Claw army list allows you to field an army based on the Cult of the Rusted Claw Symbiontenkult. The list represents an army made up of units from all stages of the Symbionten infection cycle.",
   "strategy": "Symbiontenkult Armeen haben einen Strategiewert von 2.",
-  "Initiative": "All Verbände haben eine Initiativewert von 2+, und are subject to the 'Broodmind' Sonderregel.",
+  "Initiative": "All Verbände haben eine Initiativewert von 2+ und are subject to the 'Brutbewusstsein' Sonderregel.",
   "specialRules": [
     "Broodcoven",
-    "Broodmind",
-    "Extreme Mobility (Symbiontenkult)",
+    "Brutbewusstsein",
+    "Extreme Mobilität (Symbiontenkult)",
     "Symbiontenkult Charaktermodelle",
     "Tunnelgräber"
   ],
@@ -18,11 +18,11 @@
     {
       "from": "GS2.json",
       "units": [
-        "Brood Lord",
+        "Symbiarch",
         "Symbionten Magus",
         "Symbionten Patriarch",
         "Symbionten Primus",
-        "Hybrid Iconward",
+        "Hybrid Ikonenwächter",
         "Acolyte Hybrids",
         "Symbionten",
         "Aberrants",
@@ -83,7 +83,7 @@
         },
         {
           "name": "Acolyte Coven",
-          "units": "Ein Metamorph Hybrids with Hybrid Iconward, und sieben Acolyte Hybrids",
+          "units": "Ein Metamorph Hybrids mit Hybrid Ikonenwächter und sieben Acolyte Hybrids",
           "extraUnits": [
             "Mineshaft Infiltratoren",
             "Aberrants",
@@ -99,11 +99,11 @@
     },
     {
       "name": "Elite Verbände",
-      "description": " Bis zu eine Elite formation pro Acolyte Formation",
+      "description": "Bis zu eine Elite formation pro Acolyte Formation",
       "formations": [
         {
           "name": "Atalan Jackals",
-          "units": "Ein Hybrid Iconward, ten Neophyte Outriders",
+          "units": "Ein Hybrid Ikonenwächter, ten Neophyte Outriders",
           "extraUnits": [
             "Coven Anführer",
             "Quadbikes",
@@ -112,8 +112,8 @@
           "points": 225
         },
         {
-          "name": "Symbionten Swarm",
-          "units": "Ein Brood Lord, sechs Symbionten",
+          "name": "Symbionten Schwarm",
+          "units": "Ein Symbiarch, sechs Symbionten",
           "extraUnits": [
             "Symbionten"
           ],
@@ -121,7 +121,7 @@
         },
         {
           "name": "Shock Assault Coven",
-          "units": "Ein Hybrid Iconward, 4 Aberrants, und either 4 Goliath Trucks oder 4 Goliath Rock Grinders",
+          "units": "Ein Hybrid Ikonenwächter, 4 Aberrants und either 4 Goliath Trucks oder 4 Goliath Rock Grinders",
           "extraUnits": [
             "Coven Anführer",
             "Technicals"
@@ -137,11 +137,11 @@
     },
     {
       "name": "Unterstützungsverbände",
-      "description": " Bis zu eine Support Formation pro Acolyte formation",
+      "description": "Bis zu eine Support Formation pro Acolyte formation",
       "formations": [
         {
           "name": "Mechanisierte Neophyte Zug",
-          "units": "Ein Hybrid Iconward, sechs Neophytes und drei Chimären",
+          "units": "Ein Hybrid Ikonenwächter, sechs Neophytes und drei Chimären",
           "extraUnits": [
             "Coven Anführer",
             "Flak",
@@ -151,7 +151,7 @@
         },
         {
           "name": "Neophyte Kompanie",
-          "units": "Ein Hybrid Iconward, thirteen Neophytes",
+          "units": "Ein Hybrid Ikonenwächter, thirteen Neophytes",
           "extraUnits": [
             "Coven Anführer",
             "Support Weapons"
@@ -194,7 +194,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [
@@ -205,7 +205,7 @@
       },
       {
         "name": "Aberrants",
-        "description": "Ersetze bis zu zwei Acolyte Hybrids with Aberrants",
+        "description": "Ersetze bis zu zwei Acolyte Hybrids mit Aberrants",
         "points": "15 Punkte jeweils"
       },
       {
@@ -237,7 +237,7 @@
       },
       {
         "name": "Coven Anführer",
-        "description": "Ersetze a Hybrid Iconward mit einemSymbionten Primus oder Symbionten Magus.",
+        "description": "Ersetze a Hybrid Ikonenwächter mit einemSymbionten Primus oder Symbionten Magus.",
         "options": [
           {
             "description": "Symbionten Primus",
@@ -293,7 +293,7 @@
       },
       {
         "name": "Quadbikes",
-        "description": "Ersetze bis zu fünf Neophyte Outriders with Outrider Quadbikes",
+        "description": "Ersetze bis zu fünf Neophyte Outriders mit Outrider Quadbikes",
         "points": "Kostenlos"
       },
       {

@@ -26,7 +26,7 @@
         ]
       },
       {
-        "name": "Ministorum Priest",
+        "name": "Ministorum Prediger",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "name": "Battle Sisters",
+        "name": "Sororitatrupp",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -511,7 +511,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr"
+          "Synchronisiertes schweres Maschinengewehr"
         ],
         "specialRules": [
           "Geländegängig",
@@ -570,8 +570,8 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport acht Infanterie Einheiten without Jump Pack oder Beritten, zwei may fire from the firing deck und participate with FF during assaults.",
-        "crit": "The Stormlord is immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the unit."
+        "notes": "May transport acht Infanterie Einheiten without Sprungmodule oder Beritten, zwei may fire from the firing deck und participate mit FF during assaults.",
+        "crit": "The Stormlord is immobilized und may not move für the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the unit."
       },
       {
         "name": "Emperor's Chapel",
@@ -618,7 +618,7 @@
           "Transport"
         ],
         "notes": "May transport acht Infanterie Einheiten without Beritten oder Jet Packs.",
-        "crit": "The Cathedral of the God-Emperor takes D3 additional damage, und D6 transported units takes a hit."
+        "crit": "The Cathedral of the God-Emperor takes D3 additional damage und D6 transported units takes a hit."
       }
     ]
   }

@@ -24,18 +24,18 @@
          "formations": [
             {"id": 531, "name": "Thunderbolt Squadron", "pts": 150, "units": "2 Thunderbolt Fighters", "upgrades": [] },
             {"id": 532, "name": "Marauder Squadron", "pts": 250, "units": "2 Marauder Bombers", "upgrades": [] },
-			{"id": 504, "name": "Orbital Support", "pts": 150, "upgrades": [] }
+			{"id": 504, "name": "Orbitalunterstüzung", "pts": 150, "upgrades": [] }
          ]}
    ],
    "upgrades": [
        {"id":1, "name":"Commissar",			"pts":0},
 
        {"id": 11, "name": "Leman Russ", "pts": 0},
-       {"id": 12, "name": "Leman Russ Executioner", "pts": 0},
-       {"id": 13, "name": "Leman Russ Demolisher", "pts": 0},
+       {"id": 12, "name": "Leman Russ Exekutor", "pts": 0},
+       {"id": 13, "name": "Leman Russ Belagerer", "pts": 0},
        {"id": 14, "name": "Leman Russ Command Tank", "pts": 75},
       {"id": 16, "name":"Leman Russ", "pts":0},
-      {"id": 17, "name":"Leman Russ Executioner", "pts": 0},
+      {"id": 17, "name":"Leman Russ Exekutor", "pts": 0},
       {"id": 19, "name": "Baneblade", "pts": 0},
       {"id": 20, "name": "Shadowsword", "pts": 0},
       {"id": 21, "name": "Stormblade", "pts": 0},
@@ -48,10 +48,10 @@
       {"id": 28, "name": "3 Hellhounds", "pts": 100},
       {"id": 29, "name": "3 Griffons", "pts": 50},
       {"id": 30, "name": "6 Tank Rider Infantry",  "pts": 100},
-	  {"id": 31, "name": "3 Leman Russ Demolisher", "pts": 175},
-	  {"id": 32, "name": "3 Leman Russ Executioner", "pts": 175},
+	  {"id": 31, "name": "3 Leman Russ Belagerer", "pts": 175},
+	  {"id": 32, "name": "3 Leman Russ Exekutor", "pts": 175},
 	  {"id": 33, "name": "6 Leman Russ", "pts": 350},
-	  {"id": 34, "name": "6 Leman Russ Demolishers", "pts": 350},
+	  {"id": 34, "name": "6 Leman Russ Belagerer", "pts": 350},
 	  {"id": 35, "name": "6 Leman Russ Executioners", "pts": 350}
    ],
    "formationConstraints": [

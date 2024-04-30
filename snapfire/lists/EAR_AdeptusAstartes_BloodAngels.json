@@ -18,7 +18,7 @@
 			{"id":513, "name":"Scouts",							"pts":150, "upgrades":[29,30]},
 			{"id":514, "name":"Land Speeders",					"pts":200, "upgrades":[]},
 			{"id":516, "name":"Whirlwinds",				"pts":275, "units":"4 Blood Angels Whirlwinds", "upgrades":[31,32]},
-			{"id":523, "name":"Orbital Support",											"pts":0, "upgrades":[]},
+			{"id":523, "name":"Orbitalunterstüzung",											"pts":0, "upgrades":[]},
 			{"id":517, "name":"Landing Craft",			"pts":350, "upgrades":[]}
 		]},
 
@@ -40,7 +40,7 @@
 		{"id":13, "name":"Supreme Commander", 		"pts":75},
 
 		{"id":15, "name":"4 Scouts plus transport",								"pts":0},
-		{"id":17, "name":"4 Scouts with 'Sniper' plus transport",				"pts":25},
+		{"id":17, "name":"4 Scouts mit 'Sniper' plus transport",				"pts":25},
 
 
 		{"id":19, "name":"Assault Bikes",						"pts":0},

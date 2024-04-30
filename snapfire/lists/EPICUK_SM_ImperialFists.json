@@ -63,7 +63,7 @@
                 { "id":44, "name":"Snipers","pts":50 },
 
                 { "id":45, "name":"Imperial Fists Rapier", "pts":25 },
-                { "id":46, "name":"Imperial Fists Thudd Gun", "pts":25 },
+                { "id":46, "name":"Imperial Fists Salvengeschütz", "pts":25 },
 
                 {"id":50, "name":"Razorback w/ Twin Heavy Bolter", "pts":25},
                 {"id":51, "name":"Razorback w/ Twin Lascannon", "pts":25},

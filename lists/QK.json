@@ -71,7 +71,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Maschinenkanone"
+          "Synchronisierte Maschinenkanone"
         ],
         "specialRules": [
           "Hartnäckig",
@@ -99,7 +99,7 @@
           "Ionenfeld (4+)",
           "Ionisiertes Blitzfeld"
         ],
-        "notes": "Must be armed with either Lightning Locks, oder Volkite Veuglaire und Gyges Siege Claw"
+        "notes": "Must be armed mit either Lightning Locks oder Volkite Veuglaire und Gyges Siege Claw"
       },
       {
         "name": "Questoris Paladinritter",
@@ -569,7 +569,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Vanquisher Geschütz"
+          "Vernichter-Panzerabwehrkanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung",

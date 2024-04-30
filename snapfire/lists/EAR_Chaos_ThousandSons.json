@@ -30,9 +30,9 @@
 	],
 	"upgrades":[
 		{"id":10, "name":"Aspiring Hexer", 				"pts":0},
-		{"id":11, "name":"Scarab Occult Terminators with Aspiring Hexer", 	"pts":0},
+		{"id":11, "name":"Scarab Occult Terminators mit Aspiring Hexer", 	"pts":0},
 		{"id":12, "name":"Exalted Hexer", 				"pts":50},
-		{"id":13, "name":"Scarab Occult Terminators with Exalted Hexer", 	"pts":50},
+		{"id":13, "name":"Scarab Occult Terminators mit Exalted Hexer", 	"pts":50},
 		{"id":14, "name":"Daemon Prince of Tzeentch (Replaces the Aspiring Hexer and its unit)", 	"pts":100},
 
 		{"id":15, "name":"Icon Bearer", 			"pts":25},

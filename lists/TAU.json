@@ -457,7 +457,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "May transport zwei units of Fire Warriors, Pathfinders."
+        "notes": "May transport zwei Einheiten Fire Warriors, Pathfinders."
       },
       {
         "name": "Swordfish",
@@ -473,7 +473,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "May transport eine unit of Gun Drones."
+        "notes": "May transport eine Einheit Gun Drones."
       },
       {
         "name": "Rakete Hammerhead",
@@ -491,7 +491,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "May transport eine unit of Gun Drones."
+        "notes": "May transport eine Einheit Gun Drones."
       },
       {
         "name": "Ion Hammerhead",
@@ -509,7 +509,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "May transport eine unit of Gun Drones."
+        "notes": "May transport eine Einheit Gun Drones."
       },
       {
         "name": "Rail Hammerhead",

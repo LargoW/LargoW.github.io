@@ -18,7 +18,7 @@
 			{"id":515, "name":"Whirlwinds",		"pts":275, "units":"4 Whirlwinds", "upgrades":[36,37,30,31]},
 			{"id":506, "name":"Predators",		"pts":250, "upgrades":[30,31,36,37]},
 			{"id":505, "name":"Landing Craft",			"pts":350, "upgrades":[]},
-			{"id":509, "name":"Orbital Support",	"pts":200, "upgrades":[]}
+			{"id":509, "name":"Orbitalunterstüzung",	"pts":200, "upgrades":[]}
 			]},
 		{"name":"WHITE SCARS NAVY & COLLEGIA TITANICA ALLIES <br/> Max 33%", "formations":[
 			{"id":517, "name":"Storm Talons",			"pts":200, "units":"2 Storm Talons", "upgrades":[]},
@@ -55,7 +55,7 @@
 		{"id":32, "name":"Land Raider", 			"pts":50},
 		{"id":33, "name":"Land Raider Crusader", 			"pts":50},
 		{"id":34, "name":"4 Scouts plus transport",				"pts":0},
-		{"id":35, "name":"4 Scouts with Sniper, plus transport",			"pts":25},
+		{"id":35, "name":"4 Scouts mit Sniper, plus transport",			"pts":25},
 		{"id":36, "name":"White Scars Vindicator",		"pts":50},
 		{"id":37, "name":"2 White Scars Vindicators",		"pts":75},
 		{"id":38, "name":"Razorback w/ Twin Lascannon",				"pts":25},

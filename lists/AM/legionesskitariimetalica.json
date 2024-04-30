@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_LegionesSkitariiMetalica",
   "strategy": "The Legiones Skitarii have a Strategy Rating of 3.",
-  "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. All other Verbände have a Initiative Rating of 2+.",
+  "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. All other Verbände haben einen Initiative Wert of 2+.",
   "specialRules": [
   ],
   "usage": [
@@ -28,8 +28,8 @@
         "Chimäre",
         "Chimedon",
         "Leman Russ",
-        "Leman Russ Demolisher",
-        "Leman Russ Executioner",
+        "Leman Russ Belagerer",
+        "Leman Russ Exekutor",
         "Ordinatus Minoris",
         "Ordinatus Majoris",
         "Gorgon",
@@ -76,8 +76,8 @@
           "name": "Hypaspist Manipel",
           "units": "Ein Magos, neun Hypaspists",
           "extraUnits": [
-            "Ersetze drei Hypaspists with drei Rapiers: Kostenlos",
-            "Ersetze zwei Hypaspists with zwei Sagitarii: 25 Punkte",
+            "Ersetze drei Hypaspists mit drei Rapier Geschütze: Kostenlos",
+            "Ersetze zwei Hypaspists mit zwei Sagitarii: 25 Punkte",
             "Minoris",
             "Oberbefehlshaber",
             "Hypaspist Transport",
@@ -89,14 +89,14 @@
     },
     {
       "name": "Legiones Metalica Line Verbände",
-      "description": " Bis zu drei Metalica Line Verbände für jeweils Kern Formation.",
+      "description": "Bis zu drei Metalica Line Verbände pro Kern Formation.",
       "formations": [
         {
           "name": "Ballistae Cohort",
           "units": "Vier Sagitarii",
           "extraUnits": [
-            "Ersetze eine unit of Sagitarii with drei Rapiers: 25 Punkte",
-            "Füge enought Chimären oder Chimedons to transport the formation with no space left over: 25 Punkte jeweils",
+            "Ersetze eine Einheit Sagitarii mit drei Rapier Geschütze: 25 Punkte",
+            "Füge enought Chimären oder Chimedons to transport the formation mit no space left over: 25 Punkte jeweils",
             "Hydra"
           ],
           "points": 150
@@ -125,7 +125,7 @@
         },
         {
           "name": "Cataphractii Manipel",
-          "units": "Sechs Leman Russ, Leman Russ Demolisher oder Leman Russ Executioners",
+          "units": "Sechs Leman Russ, Leman Russ Belagerer oder Leman Russ Executioners",
           "extraUnits": [
             "Hydra"
           ],
@@ -153,17 +153,17 @@
     },
     {
       "name": "Forge World Navy, Collegia Titanica und Questoris Mechanicus Support",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
-          "name": "Paladin Household",
+          "name": "Paladin Häuser",
           "units": "Fünf Ritter-Paladins",
           "extraUnits": [
           ],
           "points": 450
         },
         {
-          "name": "Warhound Pack",
+          "name": "Warhound Rudel",
           "units": "Zwei Warhound Aufklärer Titans, both of either Standard oder Support Configuration",
           "extraUnits": [
             "Panzerjägerkonfiguration"
@@ -197,7 +197,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Legiones Metalica Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
@@ -208,7 +208,7 @@
       },
       {
         "name": "Hypaspist Transport",
-        "description": "Füge eine Gorgon, fünf Chimären, oder fünf Chimedons",
+        "description": "Füge ein Gorgon, fünf Chimären oder fünf Chimedons",
         "options": [
           {
             "description": "Ein Gorgon",

@@ -5,7 +5,7 @@
   "release": "2023-01-28",
   "armyforge": "EAR_Chaos_DeathGuard",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Death Guard Kern, Elite, und Traitor Titan Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
+  "Initiative": "Death Guard Kern, Elite und Traitor Titan Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Beschwörung",
     "Death Guard Beschwörungs Regeln",
@@ -150,7 +150,7 @@
           "name": "Armoured Kompanie",
           "units": "Fünf Death Guard Vindicators",
           "extraUnits": [
-            "Ersetze fünf Death Guard Vindicators with vier Death Guard Land Raiders: 25 Punkte",
+            "Ersetze fünf Death Guard Vindicators mit vier Death Guard Land Raiders: 25 Punkte",
             "Füge zwei Death Guard Vindicators: 80 Punkte",
             "Stalker"
           ],
@@ -160,7 +160,7 @@
     },
     {
       "name": "Death Guard Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände may be taken pro Kern Formation.",
+      "description": "Bis zu zwei Unterstützungsverbände may be taken pro Kern Formation.",
       "formations": [
         {
           "name": "Poxwalker Infestation",
@@ -199,7 +199,7 @@
     },
     {
       "name": "Traitor Titans und Chaos Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Plaguehound",
@@ -249,7 +249,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Death Guard Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
@@ -290,7 +290,7 @@
         "description": "Choose eine of the following:",
         "options": [
           {
-            "description": "Ersetze eine Blightlord Terminator with drei Death Guard Land Raiders",
+            "description": "Ersetze eine Blightlord Terminator mit drei Death Guard Land Raiders",
             "points": "100 Punkte"
         },
         {
@@ -340,7 +340,7 @@
       },
       {
         "name": "Havocs",
-        "description": "Ersetze drei Chaos Space Marines with drei Havocs",
+        "description": "Ersetze drei Chaos Space Marines mit drei Havocs",
         "points": "35 Punkte"
       }
     ]

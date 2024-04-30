@@ -80,7 +80,7 @@
       "formations": [
         {
           "name": "1 Black Heart Coterie",
-          "units": "Ein Arcon in a unit of Incubi, drei Incubi",
+          "units": "Ein Arcon in a Einheit Incubi, drei Incubi",
           "extraUnits": [
             "Füge zwei Incubi: 75 Punkte",
             "Ravagers",
@@ -113,7 +113,7 @@
     },
     {
       "name": "Black Heart Partisan Verbände",
-      "description": " Bis zu zwei Partisan Verbände may be taken für jeweils Kabal Formation",
+      "description": "Bis zu zwei Partisan Verbände may be taken pro Kabal Formation",
       "formations": [
           {
             "name": "Mandrake Throng",
@@ -187,7 +187,7 @@
     },
     {
       "name": "Commorragh Navy & Kriegsmaschinen",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Commorragh Navy und Kriegsmaschine Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Commorragh Navy und Kriegsmaschine Verbände",
       "formations": [
         {
           "name": "Executioner",
@@ -218,7 +218,7 @@
           "points": 200
         },
         {
-          "name": "0-1 Orbital Support",
+          "name": "0-1 Orbitalunterstüzung",
           "units": "Ein Torture Class Cruiser",
           "extraUnits": [
           ],
@@ -227,7 +227,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Black Heart Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [

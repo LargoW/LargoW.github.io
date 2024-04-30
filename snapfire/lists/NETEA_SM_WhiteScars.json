@@ -14,7 +14,7 @@
 			{"id":507, "name":"Predator",					"pts":250, "upgrades":[1,2,3,4, 31, 36,37]},
 			{"id":508, "name":"Whirlwinds",				"pts":275, "units":"4 Whirlwinds", "upgrades":[1,2,3,4, 31, 36,37]},
 			{"id":509, "name":"Landing Craft",				"pts":350, "upgrades":[]},
-			{"id":510, "name":"Orbital Support",			"pts":200, "upgrades":[]}
+			{"id":510, "name":"Orbitalunterstüzung",			"pts":200, "upgrades":[]}
 
 		]},
 		{"name":"AIRCRAFT & TITAN LEGION ALLIES <br/> Max 33%", "formations":[

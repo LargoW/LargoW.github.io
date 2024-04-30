@@ -91,7 +91,7 @@
           "extraUnits": [
             "Dragon Prince",
             "Füge eine Worldsinger character für +25 Punkte",
-            "Ersetze zwei Dragon Ritters with Support Dragons für +25 Punkte, oder replace bis zu zwei Dragon Ritters with Bloodfang Megadons für +25 Punkte jeweils"
+            "Ersetze zwei Dragon Ritters mit Support Dragons für +25 Punkte oder replace bis zu zwei Dragon Ritters mit Bloodfang Megadons für +25 Punkte jeweils"
           ]
         },
         {
@@ -107,7 +107,7 @@
     },
     {
       "name": "Exodite Unterstützungsverbände",
-      "description": " Bis zu zwei unterstützungsverbände pro warhost formation",
+      "description": "Bis zu zwei unterstützungsverbände pro warhost formation",
       "formations": [
         {
           "name": "Dragon Outriders",
@@ -119,7 +119,7 @@
           "units": "Sechs Support Dragons",
           "points": "200",
           "extraUnits": [
-            "Ersetze zwei Support Dragons with zwei Bloodfang Megadons für +50 Punkte"
+            "Ersetze zwei Support Dragons mit zwei Bloodfang Megadons für +50 Punkte"
           ]
         },
         {
@@ -127,7 +127,7 @@
           "units": "Acht Exodite Militia und a Worldsinger",
           "points": "175",
           "extraUnits": [
-            "Ersetze bis zu drei Exodite Militia with Exodite Weapons Platforms für +25 Punkte jeweils"
+            "Ersetze bis zu drei Exodite Militia mit Exodite Weapons Platforms für +25 Punkte jeweils"
           ]
         },
         {
@@ -152,7 +152,7 @@
     },
     {
       "name": "Eldar Ritter & Corsairs support",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Corsairs Nightwing Aerie",
@@ -176,7 +176,7 @@
             "Füge bis zu zwei Corsair Wasp Walkers für +25 Punkte jeweils",
             "Füge bis zu zwei Corsair Veterans für +25 Punkte jeweils",
             "Füge bis zu zwei Ghostwalkers für +25 Punkte jeweils",
-            "Ersetze any number of Corsair Warriors with Corsair Veterans für +50 Punkte",
+            "Ersetze any number of Corsair Warriors mit Corsair Veterans für +50 Punkte",
             "Füge enough Corsair Venoms to transport the formation für +25 Punkte jeweils. The entire formation must be transported if any Venoms are added."
           ],
           "points": 150

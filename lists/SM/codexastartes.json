@@ -74,7 +74,7 @@
   "sections": [
     {
       "name": "Codex Astartes Detachments",
-      "description": " Bis zu eine Aufklärer Detachment für jeweils non-Aufklärer Detachment.",
+      "description": "Bis zu eine Aufklärer Detachment pro non-Aufklärer Detachment.",
       "formations": [
         {
           "name": "Sturmtrupp",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Codex Astartes Navy, Imperial Aircraft & Collegia Titanica Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
       "formations": [
         {
           "name": "Storm Talons",
@@ -211,7 +211,7 @@
           "points": 325
         },
         {
-          "name": "0-1 Orbital Support",
+          "name": "0-1 Orbitalunterstüzung",
           "units": "Ein Angriffskreuzer",
           "extraUnits": [
             "Schlachtkreuzer"
@@ -236,7 +236,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Codex Astartes Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro detachment",
     "items": [

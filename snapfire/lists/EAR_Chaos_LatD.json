@@ -32,11 +32,11 @@
          ]}
    ],
 	"upgrades":[
-		{"id":8, "name":"Aspiring Champion with Arch-Heretic", 		"pts":50},
+		{"id":8, "name":"Aspiring Champion mit Arch-Heretic", 		"pts":50},
 		{"id":9, "name":"Champion of Chaos", 		"pts":50},
 		{"id":10, "name":"Aspiring Champion", 		"pts":0},
 		{"id":11, "name":"Demagogue", 		"pts":25},
-		{"id":12, "name":"Demagogue with Arch-Heretic", 		"pts":75},
+		{"id":12, "name":"Demagogue mit Arch-Heretic", 		"pts":75},
 		{"id":13, "name":"Daemon Prince", 		"pts":100},
 		{"id":14, "name":"Icon Bearer", "pts":25},
 

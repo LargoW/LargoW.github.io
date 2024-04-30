@@ -4,7 +4,7 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Ork_BadMoonsGargants",
-  "intro": "Unlike the very rigid Verbände used by the Imperium, Ork Verbände vary widely in both size und composition. The rules für creating Ork Verbände reflect this. The most common type of Ork formation is the warband. Other more specialised Verbände do exist, such as Kults of Speed und Blitz Brigades. The different types of Ork Verbände you may choose are shown on the army list that follows.</p><p>Some Ork Verbände come in different sizes: Normal, Big & 'Uge. A Big formation is double in size und a 'Uge formation is triple. If there is a limitation to formation Erweiterungen, then the limit is doubled für a big formation und tripled für a ’uge formation. Für example, a normal sized Kult of Speed can include 0–1 Oddboy, a big Kult of Speed can include 0–2, und a 'Uge Kult of Speed can include 0–3.",
+  "intro": "Unlike the very rigid Verbände used by the Imperium, Ork Verbände vary widely in both size und composition. The rules für creating Ork Verbände reflect this. The most common type of Ork formation is the warband. Other more specialised Verbände do exist, such as Kults of Speed und Blitz Brigades. The different types of Ork Verbände you may choose are shown on the army list that follows.</p><p>Some Ork Verbände come in different sizes: Normal, Big & 'Uge. A Big formation is double in size und a 'Uge formation is triple. If there is a limitation to formation Erweiterungen, then the limit is doubled für a big formation und tripled für a ’uge formation. Für example, a normal sized Kult of Speed can include 0–1 Oddboy, a big Kult of Speed can include 0–2 und a 'Uge Kult of Speed can include 0–3.",
   "strategy": "Ork Armeen haben einen Strategiewert von 3.",
   "Initiative": "All Verbände haben eine Initiativewert von 3+.",
   "specialRules": [
@@ -64,7 +64,7 @@
         {
           "name": "0-1 Mega Gargant",
           "units": "Ein Mega Gargant",
-          "Erweiterungen": [
+          "upgrades": [
             "Füge a 'Uge Banner of Gork (Inspirierend): 50 Punkte"
           ],
           "points": 950
@@ -72,15 +72,15 @@
         {
           "name": "Great Gargant",
           "units": "Ein Great Gargant",
-          "Erweiterungen": [
-            "Füge a 'Uge Banner of Gork (Inspirierend, 50 Punkte) oder a Big Banner of Mork (Anführer, 25 Punkte. May not be combined with Big Mek)"
+          "upgrades": [
+            "Füge a 'Uge Banner of Gork (Inspirierend, 50 Punkte) oder a Big Banner of Mork (Anführer, 25 Punkte. May not be combined mit Big Mek)"
           ],
           "points": 750
         },
         {
           "name": "Gargant",
           "units": "Ein Gargant",
-          "Erweiterungen": [
+          "upgrades": [
             "Füge a Big Banner of Mork (Anführer): 25 Punkte"
           ],
           "points": 550
@@ -89,7 +89,7 @@
     },
     {
       "name": "Bad Moons Big Mob Mobs",
-      "description": " Bis zu drei für jeweils Bad Moons Gargants formation",
+      "description": "Bis zu drei pro Bad Moons Gargants formation",
       "formations": [
         {
           "name": "Bad Moons Warband",
@@ -148,7 +148,7 @@
             "Füge eine beliebige Anzahl Flakpanza: 30 Punkte jeweils",
             "Füge eine beliebige Anzahl Stompas: 60 Punkte jeweils",
             "0-1 Flash Gitz: 35 Punkte",
-            "0-1 Füge ein Oddboy Charaktermodell einem unit of Kanonänbatterie hinzu: 50 Punkte"
+            "0-1 Füge ein Oddboy Charaktermodell einem Einheit Kanonänbatterie hinzu: 50 Punkte"
           ],
           "points": 125
         },
@@ -193,12 +193,12 @@
     },
     {
       "name": "Bad Moons 'Craft",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Jagdbomma Skwadron",
           "units": "Drei Jagdbommas",
-          "Erweiterungen": [
+          "upgrades": [
             "Füge bis zu sechs Jagdbommas: 50 Punkte jeweils"
           ],
           "points": 175
@@ -206,7 +206,7 @@
         {
           "name": "Bommer",
           "units": "Ein Bommer",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 175
         },

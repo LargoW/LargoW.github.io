@@ -17,11 +17,11 @@
         "Todeskorps von Krieg Oberbefehlshaber",
         "Todeskorps von Krieg Befehlshaber",
         "Kommissar",
-        "Angriffsinfanterie ",
-        "Siege Infanterie",
-        "Death Riders",
+        "Angriffsinfanterie",
+        "Belagerungsinfanterie",
+        "Todesreiter",
         "Grenadiere",
-        "Thudd Gun",
+        "Salvengeschütz",
         "Rapier",
         "Scharfschützen",
         "Gepanzerter Sentinel",
@@ -32,13 +32,13 @@
         "Bombard",
         "Greif",
         "Todesstoss-Raketensystem",
-        "Bane Wolf",
+        "Todeswolf",
         "Sturmchimäre",
         "Leman Russ",
         "Leman Russ Annihilator",
         "Leman Russ Thunderer",
         "Macharius",
-        "Macharius Command",
+        "Macharius Kommandopanzer",
         "Gorgon",
         "Baneblade",
         "Stormsword",
@@ -72,32 +72,32 @@
   ],
   "sections": [
     {
-      "name": "Todeskorps von Krieg Kern Companies",
+      "name": "Todeskorps von Krieg Kern Kompanien",
       "formations": [
         {
           "name": "0-1 Death Korps Regiments Hauptquartier",
-          "units": "Ein Todeskorps von Krieg Oberbefehlshaber mit einem Kommissar, neun Angriffsinfanterie , eine Gorgon",
+          "units": "Ein Todeskorps von Krieg Oberbefehlshaber mit einem Kommissar, neun Angriffsinfanterie Einheiten, ein Gorgon",
           "extraUnits": [
-            "Füge ten Assault Infanteristen und eine Gorgon: 250 Punkte",
+            "Füge zehn Angriffsinfanterie Einheiten und ein Gorgon hinzu: 250 Punkte",
             "Leman Russ",
-            "Bane Wolves"
+            "Todeswölfe"
           ],
           "points": 300
         },
         {
           "name": "Assault Kompanie",
-          "units": "Ein Todeskorps von Krieg Befehlshaber mit einem Kommissar, neun Angriffsinfanterie , eine Gorgon",
+          "units": "Ein Todeskorps von Krieg Befehlshaber mit einem Kommissar, neun Angriffsinfanterie Einheiten, ein Gorgon",
           "extraUnits": [
             "Leman Russ",
-            "Bane Wolves"
+            "Todeswölfe"
           ],
           "points": 250
         },
         {
           "name": "Death Rider Kompanie",
-          "units": "Ein Kommissar, zwölf Death Riders",
+          "units": "Ein Kommissar, zwölf Todesreiter",
           "extraUnits": [
-            "Bane Wolves"
+            "Todeswölfe"
           ],
           "points": 275
         }
@@ -105,39 +105,39 @@
     },
     {
       "name": "Todeskorps von Krieg Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände pro Kompanieverband Formation.",
+      "description": "Bis zu zwei Unterstützungsverbände pro Kompanieverband Formation.",
       "formations": [
         {
           "name": "Leman Russ Schwadron",
-          "units": "Vier Leman Russ, Leman Russ Thunderers, oder Leman Russ Annihilators",
+          "units": "Vier Leman Russ, Leman Russ Thunderers oder Leman Russ Annihilators",
           "extraUnits": [
-            "Bane Wolves"
+            "Todeswölfe"
           ],
           "points": 275
         },
         {
-          "name": "Siege Infanterie Kompanie",
-          "units": "Todeskorps von Krieg Befehlshaber with Kommissar, 9 Siege Infanterie, 40cm Gräben, 40cm Stacheldraht",
+          "name": "Belagerungsinfanterie Kompanie",
+          "units": "Ein Todeskorps von Krieg Befehlshaber mit Kommissar, 9 Belagerungsinfanterie Einheiten, 40cm Gräben, 40cm Stacheldraht",
           "extraUnits": [
-            "Füge vier Rapiers und 16cm Gräben, oder drei Thudd Guns und 12cm Gräben: 75 Punkte",
-            "Füge bis zu zwei Scharfschützen: 25 Punkte jeweils"
+            "Füge vier Rapier Geschütze und 16cm Gräben oder drei Thudd Guns und 12cm Gräben hinzu: 75 Punkte",
+            "Füge bis zu zwei Scharfschützen hinzu: 25 Punkte jeweils"
           ],
           "points": 225
         },
         {
-          "name": "Artillerie Emplacement",
-          "units": "Vier Medusa Kanonenlafettes, vier Geschützstellungen",
+          "name": "Artillerie Stellung",
+          "units": "Vier Medusa Kanonenlafetten, vier Geschützstellungen",
           "extraUnits": [
-            "Ersetze vier Geschützstellungen with vier Trojans: Kostenlos",
-            "Ersetze vier Medusa Kanonenlafettes with vier Tremorkanonenlafettes: 50 Punkte"
+            "Ersetze vier Geschützstellungen mit vier Trojans: Kostenlos",
+            "Ersetze vier Medusa Kanonenlafetten mit vier Tremor Kanonenlafetten: 50 Punkte"
           ],
           "points": 225
         },
         {
-          "name": "Flak Emplacement",
-          "units": "Vier Schweres Flugabwehrgeschützs, vier Geschützstellungen",
-          "Erweiterungen": [
-            "Ersetze vier Geschützstellungen with vier Trojans: Kostenlos"
+          "name": "Flak Stellung",
+          "units": "Vier Schwere Flugabwehrgeschütze, vier Geschützstellungen",
+          "upgrades": [
+            "Ersetze vier Geschützstellungen mit vier Trojans: Kostenlos"
           ],
           "points": 175
         },
@@ -166,14 +166,14 @@
           "name": "Superschwerer Zug",
           "units": "Ein Baneblade oder Stormsword",
           "extraUnits": [
-              "Ersetze a Baneblade mit einem Shadowsword: 25 Punkte"
+              "Ersetze einen Baneblade mit einem Shadowsword: 25 Punkte"
           ],
           "points": 175
         },
         {
           "name": "Macharius Kompanie",
-          "units": "Ein Macharius Command mit einem Kommissar, zwei Macharius",
-          "Erweiterungen": [
+          "units": "Ein Macharius Kommandopanzer mit einem Kommissar, zwei Macharius",
+          "upgrades": [
           ],
           "points": 350
         },
@@ -181,14 +181,14 @@
           "name": "Grenadier Kompanie",
           "units": "Ein Todeskorps von Krieg Befehlshaber mit einem Kommissar, sieben Grenadiere, vier Sturmchimären",
           "extraUnits": [
-            "Ersetze vier Sturmchimären mit einemGorgon: Kostenlos",
-            "Bane Wolf"
+            "Ersetze vier Sturmchimären mit einem Gorgon: Kostenlos",
+            "Todeswölfe"
           ],
           "points": 325
         },
         {
           "name": "Gepanzerter Sentinel Schwadron",
-          "units": "Vier Gepanzerter Sentinels",
+          "units": "Vier Gepanzerte Sentinels",
           "extraUnits": [
           ],
           "points": 125
@@ -197,14 +197,14 @@
     },
     {
       "name": "Collegia Titanica & Imperiale LuftstreitkräfteAllies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Collegia Titanica & Verbände der Imperialen Luftstreitkräfte",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Collegia Titanica & Verbände der Imperialen Luftstreitkräfte ausgegeben werden",
       "formations": [
         {
           "name": "Warhounds",
           "units": "Ein Warhound Titan",
           "points": 275,
           "extraUnits": [
-            "Füge einen zusätzlichen Warhound Titan: 200 Punkte"
+            "Füge einen zusätzlichen Warhound Titan hinzu: 200 Punkte"
           ]
         },
         {
@@ -218,28 +218,28 @@
           "points": 250
         },
         {
-          "name": "0–1 Orbital Support",
+          "name": "0–1 Orbitalunterstüzung",
           "units": "Ein Lunar-Klasse Kreuzer",
           "points": 125,
-          "Erweiterungen": [
-            "Ersetze the Cruiser mit einem Imperator-Klasse Schlachtschiff: 50 Punkte"
+          "upgrades": [
+            "Ersetze den Kreuzer mit einem Imperator-Klasse Schlachtschiff: 50 Punkte"
           ]
         }
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Todeskorps von Krieg Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [
       {
-        "name": "Bane Wolf",
-        "description": "Füge bis zu drei Bane Wolves",
+        "name": "Todeswölfe",
+        "description": "Füge bis zu drei Todeswölfe hinzu",
         "points": "25 Punkte jeweils"
       },
       {
         "name": "Leman Russ",
-        "description": "Füge drei Leman Russ, drei Leman Russ Thunderers, oder drei Leman Russ Annihilators",
+        "description": "Füge drei Leman Russ, drei Leman Russ Thunderers oder drei Leman Russ Annihilators hinzu",
         "points": "150 Punkte"
       }
     ]

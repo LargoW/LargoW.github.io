@@ -2,7 +2,7 @@
    "id": "EA-R Adepta Sororitas",
    "version": "1.0.Beta",
    "by": "EA-Ragnarok",
-   "notes":["No more transports than needed to carry the formation with no space left over."],
+   "notes":["No more transports than needed to carry the formation mit no space left over."],
 
    "sections": [
         {"name": "SORORITAS Kern FORMATIONS", "formations": [
@@ -18,28 +18,28 @@
          ]},
         {"name": "ORDO HERETICUS FORMATIONS <br/> Max 1 for each Kern Formation or Inquisitor Retinue", "formations": [
             {"id": 520, "name": "Ordo Hereticus Inquisitor Retinue", "pts": 250, "units": "5 Storm Troopers, 3 Chimeras", "upgrades": [25,26]},
-	        {"id": 522, "name": "Redemption", "pts": 150, "units": "Ministorum Priest, 6 Redemptionists", "upgrades": [25]},
+	        {"id": 522, "name": "Redemption", "pts": 150, "units": "Ministorum Prediger, 6 Redemptionists", "upgrades": [25]},
             {"id": 523, "name": "Infernus", "pts": 175, "units": "4 Hellhounds", "upgrades": []}
          ]},
         {"name": "IMPERIAL NAVY <br/> Max 33%", "formations": [
-            {"id": 532, "name": "Lightning Squadron", "pts": 175, "units": "2 Lightning Interceptors", "upgrades": [] },
+            {"id": 532, "name": "Lightning Squadron", "pts": 175, "units": "2 Lightning Abfangjäger", "upgrades": [] },
             {"id": 533, "name": "Marauder Destroyer", "pts": 175, "upgrades": [] },
-	        {"id": 534, "name": "Orbital Support", "pts": 150, "upgrades": [] }
+	        {"id": 534, "name": "Orbitalunterstüzung", "pts": 150, "upgrades": [] }
          ]}
    ],
    "upgrades": [
-	  {"id": 1, "name": "8 Battle Sisters","pts": 0},
-	  {"id": 2, "name": "Palatine, 8 Battle Sisters","pts": 25},
-      {"id": 3, "name": "Canoness, 8 Battle Sisters","pts": 100},
+	  {"id": 1, "name": "8 Sororitatrupp","pts": 0},
+	  {"id": 2, "name": "Palatine, 8 Sororitatrupp","pts": 25},
+      {"id": 3, "name": "Canoness, 8 Sororitatrupp","pts": 100},
 
       {"id": 4, "name": "Palatine, 6 Seraphim Sisters","pts": 0},
 	  {"id": 5, "name": "Living Saint, 5 Seraphim Sisters","pts": 50},
 
-      {"id": 6, "name": "6 Battle Sisters, two Exorcist Prioris","pts": 25},
-      {"id": 7, "name": "Palatine, 6 Battle Sisters, two Exorcist Prioris","pts": 50},
-      {"id": 8, "name": "Canoness, 6 Battle Sisters, two Exorcist Prioris","pts": 100},
+      {"id": 6, "name": "6 Sororitatrupp, two Exorcist Prioris","pts": 25},
+      {"id": 7, "name": "Palatine, 6 Sororitatrupp, two Exorcist Prioris","pts": 50},
+      {"id": 8, "name": "Canoness, 6 Sororitatrupp, two Exorcist Prioris","pts": 100},
 
-	  {"id": 9, "name": "Ministorum Priest","pts": 25},
+	  {"id": 9, "name": "Ministorum Prediger","pts": 25},
 
       {"id": 10, "name": "Sororitas Rhino","pts": 10},
       {"id": 11, "name": "Sororitas Repressor","pts": 20},

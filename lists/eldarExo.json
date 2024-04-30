@@ -217,7 +217,7 @@
           "Schadenskapazität 3",
           "Geländegängig"
         ],
-        "crit": "The Great Megadon is killed."
+        "crit": "The Great Megadon wird zerstört."
       },
       {
         "name": "Great Drake",
@@ -236,7 +236,7 @@
           "Furchtlos",
           "Sprungmodule"
         ],
-        "crit": "The Great Drake is killed."
+        "crit": "The Great Drake wird zerstört."
       },
       {
         "name": "Colossal Carnosaur",
@@ -255,7 +255,7 @@
           "Unmodifizierter Rettungswurf",
           "Geländegängig"
         ],
-        "crit": "The Colossal Carnosaur is killed."
+        "crit": "The Colossal Carnosaur wird zerstört."
       }
     ]
   }

@@ -99,7 +99,7 @@
   "sections": [
     {
       "name": "Word Bearers Kern Verbände",
-      "description": " Bis zu eine Cultist Coven may be taken pro Word Bearer Retinue.",
+      "description": "Bis zu eine Cultist Coven may be taken pro Word Bearer Retinue.",
       "formations": [
         {
           "name": "Word Bearers Retinue",
@@ -122,7 +122,7 @@
             "Icon Bearer",
             "Füge eine Chaos Spawn: 35 Punkte",
             "Füge bis zu drei Chaos Hounds: 10 Punkte jeweils",
-            "Füge enought Land Transporters to carry the entire formation with no space left over: 10 Punkte jeweils"
+            "Füge enought Land Transporters to carry the entire formation mit no space left over: 10 Punkte jeweils"
           ],
           "points": 250
         }
@@ -130,7 +130,7 @@
     },
     {
       "name": "Word Bearers Elite Verbände",
-      "description": " Bis zu zwei Elite Verbände may be taken pro Word Bearers Retinue.",
+      "description": "Bis zu zwei Elite Verbände may be taken pro Word Bearers Retinue.",
       "formations": [
         {
           "name": "Iconoclasts",
@@ -144,7 +144,7 @@
           "name": "Havocs",
           "units": "Ein Diabolist, vier Havocs, zwei Chaos Rhinos, Dämonischer Pakt",
           "extraUnits": [
-            "Ersetze zwei Chaos Rhinos with Chaos Land Raiders: 75 Punkte",
+            "Ersetze zwei Chaos Rhinos mit Chaos Land Raiders: 75 Punkte",
             "Icon Bearer"
           ],
           "points": 250
@@ -174,7 +174,7 @@
     },
     {
       "name": "Daemon Engine Verbände",
-      "description": " Bis zu zwei Daemon Engine Verbände may be taken pro Cultist Coven formation.",
+      "description": "Bis zu zwei Daemon Engine Verbände may be taken pro Cultist Coven formation.",
       "formations": [
         {
           "name": "Cerberites",
@@ -207,7 +207,7 @@
     },
     {
       "name": "Kriegsmaschinen & Chaos Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
       "formations": [
         {
           "name": "0-1 Dreadblade",
@@ -251,7 +251,7 @@
       "formations": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine für jeweils Dämonischer Pakt in the army.",
+          "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine pro Dämonischer Pakt in the army.",
           "points": 20
         },
         {
@@ -262,7 +262,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Word Bearers Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
@@ -299,7 +299,7 @@
             "points": "50 Punkte jeweils"
           },
           {
-            "description": "(Nicht mehr als needed to transport the formation with no space left over)",
+            "description": "(Nicht mehr als needed to transport the formation mit no space left over)",
             "points": ""
           }
         ]
@@ -321,12 +321,12 @@
       },
       {
         "name": "Havocs",
-        "description": "Ersetze vier Chaos Space Marines with vier Havocs",
+        "description": "Ersetze vier Chaos Space Marines mit vier Havocs",
         "points": "50 Punkte"
       },
       {
         "name": "Possessed",
-        "description": "Ersetze vier Chaos Space Marines with vier Word Bearers Possessed",
+        "description": "Ersetze vier Chaos Space Marines mit vier Word Bearers Possessed",
         "points": "50 Punkte"
       }
     ]

@@ -71,7 +71,7 @@
           "name": "Hunting Pack",
           "units": "Ein Wolf Lord Captain, sechs Grey Hunter Taktischer Trupp plus transport",
           "extraUnits": [
-            "Ersetze zwei Grey Hunter Taktischer Trupp with Long Fang Devastoren: 50 Punkte",
+            "Ersetze zwei Grey Hunter Taktischer Trupp mit Long Fang Devastoren: 50 Punkte",
             "Anti-Air",
             "Cybots",
             "Fenrisian Wolves",
@@ -203,10 +203,10 @@
     },
     {
       "name": "Space Wolf Navy & Collegia Titanica Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
-          "name": "0-1 Orbital Support",
+          "name": "0-1 Orbitalunterstüzung",
           "units": "Ein Angriffskreuzer",
           "extraUnits": [
             "Schlachtkreuzer"
@@ -241,7 +241,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Space Wolf Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro pack",
     "items": [

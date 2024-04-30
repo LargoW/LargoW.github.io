@@ -15,7 +15,7 @@
 			{"id":518, "name":"Siege Scouts", "pts":250, "units":"4 Scouts, 2 Siege Rhinos, 2 Vindicators", "upgrades":[]},
 			{"id":515, "name":"Vindicators", "pts":225,  "upgrades":[55, 56,57,58,59]},
 			{"id":516, "name":"Whirlwinds", "pts":225, "upgrades":[48, 56,57,58,59]},
-			{"id":517, "name":"Orbital Support", "pts":200, "upgrades":[]}
+			{"id":517, "name":"Orbitalunterstüzung", "pts":200, "upgrades":[]}
 
 		]},
 		{"name":"IRON HANDS AIRCRAFT & IMPERIAL ALLIES <br/> Max 33%", "formations":[
@@ -54,7 +54,7 @@
 		{"id":31, "name":"Razorback (Twin Lascannon)",			"pts":25},
 		{"id":32, "name":"Razorback (Twin Heavy Bolter)",			"pts":25},
 
-		{"id":33, "name":"May replace Rhinos with Siege Rhinos",			"pts":25},
+		{"id":33, "name":"May replace Rhinos mit Siege Rhinos",			"pts":25},
 
 		{"id":39, "name":"Land Raider Helios (Hyperios)",		"pts":75},
 		{"id":40, "name":"Land Raider",				"pts":50},

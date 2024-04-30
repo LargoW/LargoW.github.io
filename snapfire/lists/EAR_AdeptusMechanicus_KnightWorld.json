@@ -13,7 +13,7 @@
 			{"id":513, "name":"Warden Household",		"pts":50, "upgrades":[16,17,18,12]}
 		]},
 		{"name":"RETAINER FORMATIONS <br/> Max 1 per Kern or Support Household", "formations":[
-			{"id":521, "name":"Planetary Defence Platoon",	"pts":150, "units":"8 PDF Infantry", "upgrades":[20,21,22,25]},
+			{"id":521, "name":"Planetarer Defence Platoon",	"pts":150, "units":"8 PDS Infantry", "upgrades":[20,21,22,25]},
 			{"id":524, "name":"Rough Rider Platoon",		"pts":150, "units":"6 Rough Riders", "upgrades":[]},
 			{"id":522, "name":"Flak Emplacement", 		"pts":175, "units":"3 Heavy AA, 3 Geschützstellungen", "upgrades":[]},
 			{"id":523, "name":"Howitzer Emplacement",		"pts":275, "units":"4 Howitzers, 4 Geschützstellungen", "upgrades":[]}
@@ -27,7 +27,7 @@
 
 	],
 	"upgrades":[
-		{"id":10, "name":"Paladinritter with Seneschal",		"pts":100},
+		{"id":10, "name":"Paladinritter mit Seneschal",		"pts":100},
 		{"id":11, "name":"Knight-Baron",						"pts":150},
 		{"id":12, "name":"Seneschal",							"pts":25},
 		{"id":13, "name":"Paladinritter",					"pts":75},

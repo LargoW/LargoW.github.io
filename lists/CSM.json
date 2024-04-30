@@ -234,7 +234,7 @@
           "Verbesserte Beschwörung (+2W3)",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "May be sacrificed. Before rolling its Verbände Beschwörung Punkte this unit’s Verbesserte Beschwörung (+2W3) ability is changed to Verbesserte Beschwörung (+6). After this roll the unit with the Champion is destroyed with no saves allowed. A unit sacrificed in this way does not cause a Beschussmarke."
+        "notes": "May be sacrificed. Before rolling its Verbände Beschwörung Punkte this unit’s Verbesserte Beschwörung (+2W3) ability is changed to Verbesserte Beschwörung (+6). After this roll the unit mit the Champion is destroyed mit no saves allowed. A unit sacrificed in this way does not cause a Beschussmarke."
       },
       {
         "name": "Night Lords Sergeant",
@@ -274,7 +274,7 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Verstärkte Panzerung",
-          "Jump Pack",
+          "Sprungmodule",
           "Teleportieren",
           "Furchtlos",
           "Dämonischer Fokus",
@@ -295,7 +295,7 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Verstärkte Panzerung",
-          "Jump Pack",
+          "Sprungmodule",
           "Teleportieren",
           "Furchtlos",
           "Dämonischer Fokus",
@@ -317,7 +317,7 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Verstärkte Panzerung",
-          "Jump Pack",
+          "Sprungmodule",
           "Teleportieren",
           "Furchtlos",
           "Dämonischer Fokus",
@@ -338,7 +338,7 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Verstärkte Panzerung",
-          "Jump Pack",
+          "Sprungmodule",
           "Teleportieren",
           "Furchtlos",
           "Dämonischer Fokus",
@@ -359,7 +359,7 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Verstärkte Panzerung",
-          "Jump Pack",
+          "Sprungmodule",
           "Teleportieren",
           "Furchtlos",
           "Dämonischer Fokus",
@@ -381,7 +381,7 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Verstärkte Panzerung",
-          "Jump Pack",
+          "Sprungmodule",
           "Warp Rift",
           "Furchtlos",
           "Dämonischer Fokus",
@@ -728,7 +728,7 @@
           "Sprungmodule",
           "Furchtlos"
         ],
-        "notes": "Must start the game in the Reserven, und may only enter the battlefield by Teleportation. May not be transported."
+        "notes": "Must start the game in the Reserven und may only enter the battlefield by Teleportation. May not be transported."
       },
       {
         "name": "Word Bearers Possessed",
@@ -1191,7 +1191,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport zwei Terminatoren, Mutilators, oder drei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+        "notes": "May transport zwei Terminatoren, Mutilators oder drei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Thousand Sons Land Raider",
@@ -1578,7 +1578,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is zerstört. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von 5cm erleiden einen Treffer auf 6+."
       }
     ]
   }

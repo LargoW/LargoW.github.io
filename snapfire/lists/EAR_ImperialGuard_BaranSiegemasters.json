@@ -4,19 +4,19 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"Kern COMPANIES", "formations":[
-			{"id":501, "name":"1 Siegemaster Regimental HQ", "pts":350, "upgrades":[18,20,21,19,22,24,27,44,45,46], "units":"Baran Siegemaster with a Commissar, 9 Siege Infantry"},
-		 	{"id":502, "name":"Siege Infantry Company", "pts":300, "upgrades":[18,20,21,19,22,24,27,44,45,46], "units":"Baran Commander with a Commissar, 9 Siege Infantry"}
+			{"id":501, "name":"1 Siegemaster Regimental HQ", "pts":350, "upgrades":[18,20,21,19,22,24,27,44,45,46], "units":"Baran Siegemaster mit a Commissar, 9 Siege Infantry"},
+		 	{"id":502, "name":"Siege Infantry Company", "pts":300, "upgrades":[18,20,21,19,22,24,27,44,45,46], "units":"Baran Commander mit a Commissar, 9 Siege Infantry"}
 
 		]},
 		{"name":"SUPPORT FORMATIONS <br/> Max 3 for each Kern Company", "formations":[
 			{"id":515, "name":"Heavy Tank Emplacement",			"pts":325, "upgrades":[]},
 			{"id":520, "name":"Macharius Company", 				"pts":375,  "units":"2 Macharius", "upgrades":[]},
-			{"id":518, "name":"Sapper Company",					"pts":250, "upgrades":[], "units":"Baran Commander with a Commissar, 7 Sappers, Hades Breaching Drill"},
+			{"id":518, "name":"Sapper Company",					"pts":250, "upgrades":[], "units":"Baran Commander mit a Commissar, 7 Sappers, Hades Durchbruchsbohrfahrzeug"},
 			{"id":511, "name":"Siege Artillery Emplacement", 	"pts":250, "upgrades":[15]},
 			{"id":519, "name":"Super-Heavy Platoon", 			"pts":200, "upgrades":[]},
 			{"id":510, "name":"Howitzer Emplacement", 			"pts":275, "upgrades":[], "units":"4 Howitzers, 4 Geschützstellungen"},
 			{"id":514, "name":"Flak Emplacement", 				"pts":175, "upgrades":[], "units":"3 Heavy AA Guns, 3 Geschützstellungen"},
-			{"id":517, "name":"Death Rider Platoon",			"pts":150, "upgrades":[], "units":"6 Death Riders"},
+			{"id":517, "name":"Death Rider Platoon",			"pts":150, "upgrades":[], "units":"6 Todesreiter"},
 			{"id":516, "name":"Siege Recon Squadron",			"pts":150, "upgrades":[], "units":"4 Siegfried Light Tanks"}
 		]},
 		{"name":"IMPERIAL NAVY <br/> Max 33%", "formations":[
@@ -38,7 +38,7 @@
 		{"id":26, "name":"Shadowsword",								"pts":0},
 		{"id":17, "name":"Stormsword",								"pts":0},
 
-		{"id":18, "name":"3 Mole Launcher Squads, 12cm Gräben",					"pts":75},
+		{"id":18, "name":"3 Tunnelmörser Squads, 12cm Gräben",					"pts":75},
 		{"id":20, "name":"4 Rapiers, 16cm Gräben",								"pts":75},
 		{"id":21, "name":"3 Thudd Guns, 12cm Gräben",							"pts":75},
 		{"id":19, "name":"2 Baran Fire Support Squads, 8cm Gräben",					"pts":50},
@@ -50,8 +50,8 @@
 		{"id":25, "name":"40cm Stacheldraht, 40cm Gräben",		"pts":0},
 		{"id":28, "name":"40cm Stacheldraht, 20cm Gräben, 2 Bunker",		"pts":25},
 
-		{ "id":40, "name":"Macharius Command Tank with a Commissar (Twin Vanquishers)", "pts":0 },
-		{ "id":41, "name":"Macharius Command Tank with a Commissar (Vulcan Mega-Bolter)", "pts":0 },
+		{ "id":40, "name":"Macharius Kommandopanzer Tank mit a Commissar (Twin Vanquishers)", "pts":0 },
+		{ "id":41, "name":"Macharius Kommandopanzer Tank mit a Commissar (Vulcan Mega-Bolter)", "pts":0 },
 
 		{ "id":44, "name":"3 Ragnarok Heavy Tanks, 3 Geschützstellungen",	"pts":175},
 		{ "id":45, "name":"2 Malcadors", "pts":175},

@@ -18,7 +18,7 @@
         "Kommissar",
         "Infanterie",
         "Ogryns",
-        "Kavallerieschwadron",
+        "Kavallerie",
         "Scharfschützen",
         "Sturmtruppen",
         "Unterstützungstrupp",
@@ -32,9 +32,9 @@
         "Höllenhund",
         "Hydra",
         "Leman Russ",
-        "Leman Russ Demolisher",
-        "Leman Russ Vanquisher",
-        "Leman Russ Punisher",
+        "Leman Russ Belagerer",
+        "Leman Russ Vernichter",
+        "Leman Russ Vollstrecker",
         "Mantikor",
         "Valkyrie",
         "Vulture",
@@ -99,7 +99,7 @@
         },
         {
           "name": "Leman Russ Kompanie",
-          "units": "Ein Leman Russ Vanquisher mit einem Kommissar, sieben Leman Russ",
+          "units": "Ein Leman Russ Vernichter mit einem Kommissar, sieben Leman Russ",
           "extraUnits": [
             "Flak",
             "Höllenhunde"
@@ -129,7 +129,7 @@
     },
     {
       "name": "Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände pro Kompanieverband.",
+      "description": "Bis zu zwei Unterstützungsverbände pro Kompanieverband.",
       "formations": [
         {
           "name": "Mechanisierte Infanterie Zug",
@@ -170,7 +170,7 @@
         },
         {
           "name": "Kavalleriezug",
-          "units": "Sechs Kavallerieschwadronen",
+          "units": "Sechs Kavallerie Einheiten",
           "points": 150
         },
         {
@@ -190,7 +190,7 @@
         },
         {
           "name": "Leman Russ Zug",
-          "units": "Sechs Leman Russ, Leman Russ Punishers oder Leman Russ Demolisher",
+          "units": "Sechs Leman Russ, Leman Russ Punishers oder Leman Russ Belagerer",
           "points": 375
         },
         {
@@ -200,8 +200,8 @@
           "extraUnits": []
         },
         {
-          "name": "Storm Trooper Kompanie",
-          "units": "Acht Sturmtruppen, eine mit Kommissar",
+          "name": "Gardisten Kompanie",
+          "units": "Acht Gardisten, eine mit Kommissar",
           "points": 200,
           "extraUnits": [
             "Füge vier Taurox oder vier Valkyries hinzu: 150 Punkte"
@@ -211,7 +211,7 @@
     },
     {
       "name": "Collegia Titanica und Verbände der Imperialen Luftstreitkräfte",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Collegia Titanica und Verbände der Imperialen Luftstreitkräfte ausgegeben werden",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Collegia Titanica und Verbände der Imperialen Luftstreitkräfte ausgegeben werden",
       "formations": [
         {
           "name": "Warhounds",
@@ -246,7 +246,7 @@
           "points": 250
         },
         {
-          "name": "0–1 Orbital Support",
+          "name": "0–1 Orbitalunterstüzung",
           "units": "Ein Lunar-Klasse Kreuzer",
           "points": 125,
           "extraUnits": [
@@ -256,7 +256,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Stahlegion Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden. Nicht mehr als drei Erweiterungen pro Kompanieverband",
     "items": [
@@ -280,7 +280,7 @@
       },
       {
         "name": "Infanterie*",
-        "description": "Füge sechs Infanterie hinzu",
+        "description": "Füge sechs Infanterie Einheiten hinzu",
         "points": "75 Punkte"
       },
       {
@@ -295,7 +295,7 @@
       },
       {
         "name": "Leman Russ",
-        "description": "Füge drei Leman Russ, Leman Russ Punishers, oder Leman Russ Demolisher hinzu",
+        "description": "Füge drei Leman Russ, Leman Russ Punishers oder Leman Russ Belagerer hinzu",
         "points": "150 Punkte"
       },
       {

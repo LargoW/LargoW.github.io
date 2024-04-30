@@ -4,8 +4,8 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"ELYSIAN Kern COMPANIES", "formations":[
-			{"id":502, "name":"Regimental HQ", "pts":350, "upgrades":[12], "units":"Elysian Supreme Commander with Commissar,  4 Valkyries"},
-			{"id":500, "name":"Drop Troop Company", "pts":300, "upgrades":[12], "units":"Elysian Commander with Commissar, 4 Valkyries"}
+			{"id":502, "name":"Regimental HQ", "pts":350, "upgrades":[12], "units":"Elysian Supreme Commander mit Commissar,  4 Valkyries"},
+			{"id":500, "name":"Drop Troop Company", "pts":300, "upgrades":[12], "units":"Elysian Commander mit Commissar, 4 Valkyries"}
 		]},
 		{"name":"ELYSIAN SUPPORT FORMATIONS <br/> Max 2 for each Kern Company Formation", "formations":[
 			{"id":510, "name":"Elysian Commando Company", "pts":300, "upgrades":[22], "units":"Commissar, 6 Elysian Storm Troopers, 3 Valkyries"},
@@ -18,11 +18,11 @@
 		]},
 		{"name":"STATIC DEFENSES & IMPERIAL NAVY <br/> Max 33% <br/> Max 1 Tarantula formation for each Tauros Recon Squadron", "formations":[
 			{"id":520, "name":"Tarantula", "pts":100, "upgrades":[]},
-			{"id":525, "name":"Lightning Squadron", "pts":175, "upgrades":[], "units":"2 Lightning Interceptors"},
+			{"id":525, "name":"Lightning Squadron", "pts":175, "upgrades":[], "units":"2 Lightning Abfangjäger"},
 			{"id":521, "name":"Thunderbolt Squadron", "pts":175, "upgrades":[], "units":"2 Thunderbolt Fighters"},
 			{"id":523, "name":"Marauder Destroyer", "pts":175, "upgrades":[]},
 			{"id":522, "name":"Marauder Squadron", "pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
-			{"id":524, "name":"Orbital Support", "pts":150, "upgrades":[]}
+			{"id":524, "name":"Orbitalunterstüzung", "pts":150, "upgrades":[]}
 		]}
 	],
 	"upgrades":[

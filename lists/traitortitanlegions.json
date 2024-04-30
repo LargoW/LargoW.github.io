@@ -96,7 +96,7 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either Death Storm oder Plasma Furnace"
+          "Must be armed mit either Death Storm oder Plasma Furnace"
         ],
         "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide.",
         "crit": "The unit takes a point of damage."
@@ -150,7 +150,7 @@
           "Geländegängig"
         ],
         "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a D6 für jeweils breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten mitin 5cm suffer a hit on a roll of 5+, und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
+        "crit": "The unit’s plasma reactor has been breached. Roll a D6 pro breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten innerhalb von 5cm suffer a hit on a roll of 5+ und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
       },
       {
         "name": "Chaos Reaver",
@@ -173,7 +173,7 @@
           "Geländegängig"
         ],
         "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a D6 für jeweils breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten mitin 5cm suffer a hit on a roll of 5+, und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
+        "crit": "The unit’s plasma reactor has been breached. Roll a D6 pro breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten innerhalb von 5cm suffer a hit on a roll of 5+ und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
       },
       {
         "name": "Reviler Titan",
@@ -196,9 +196,9 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either Hex Geschütz, Turbo Blaster oder Plasma Cremator"
+          "Must be armed mit either Hex Geschütz, Turbo Blaster oder Plasma Cremator"
         ],
-        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 für jeweils breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten mitin 5cm suffer a hit on a roll of 5+, und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
+        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 pro breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten innerhalb von 5cm suffer a hit on a roll of 5+ und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
       },
       {
         "name": "Repugnant Titan",
@@ -220,9 +220,9 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either Rot Geschütz, Turbo Blaster oder Plasma Cremator"
+          "Must be armed mit either Rot Geschütz, Turbo Blaster oder Plasma Cremator"
         ],
-        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 für jeweils breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten mitin 5cm suffer a hit on a roll of 5+, und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
+        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 pro breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten innerhalb von 5cm suffer a hit on a roll of 5+ und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
       },
       {
         "name": "Ravager Titan",
@@ -245,9 +245,9 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either Hex Geschütz, Turbo Blaster oder Plasma Cremator"
+          "Must be armed mit either Hex Geschütz, Turbo Blaster oder Plasma Cremator"
         ],
-        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 für jeweils breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten mitin 5cm suffer a hit on a roll of 5+, und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
+        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 pro breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten innerhalb von 5cm suffer a hit on a roll of 5+ und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
       },
       {
         "name": "Mutator Titan",
@@ -269,9 +269,9 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either Hex Geschütz, Turbo Blaster oder Coruscant Hail"
+          "Must be armed mit either Hex Geschütz, Turbo Blaster oder Coruscant Hail"
         ],
-        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 für jeweils breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten mitin 5cm suffer a hit on a roll of 5+, und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
+        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 pro breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten innerhalb von 5cm suffer a hit on a roll of 5+ und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
       },
       {
         "name": "Chaos Warlord",
@@ -296,7 +296,7 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 für jeweils breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten mitin 5cm suffer a hit on a roll of 5+, und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
+        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 pro breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten innerhalb von 5cm suffer a hit on a roll of 5+ und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
       },
       {
         "name": "Painlord Titan",
@@ -322,9 +322,9 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either a Beam of Ecstasy, Plasma Incinerator, Cyclone Geschütz oder Beam Blaster"
+          "Must be armed mit either a Beam of Ecstasy, Plasma Incinerator, Cyclone Geschütz oder Beam Blaster"
         ],
-        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 für jeweils breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten mitin 5cm suffer a hit on a roll of 5+, und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
+        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 pro breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten innerhalb von 5cm suffer a hit on a roll of 5+ und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
       },
       {
         "name": "Plaguelord Titan",
@@ -349,9 +349,9 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either a Plasma Incinerator, Cyclone Geschütz oder Beam Blaster"
+          "Must be armed mit either a Plasma Incinerator, Cyclone Geschütz oder Beam Blaster"
         ],
-        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 für jeweils breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten mitin 5cm suffer a hit on a roll of 5+, und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
+        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 pro breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten innerhalb von 5cm suffer a hit on a roll of 5+ und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
       },
       {
         "name": "Banelord Titan",
@@ -377,9 +377,9 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either a Hellstrike Geschütz, Plasma Incinerator, Cyclone Geschütz oder Beam Blaster"
+          "Must be armed mit either a Hellstrike Geschütz, Plasma Incinerator, Cyclone Geschütz oder Beam Blaster"
         ],
-        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 für jeweils breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten mitin 5cm suffer a hit on a roll of 5+, und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
+        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 pro breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten innerhalb von 5cm suffer a hit on a roll of 5+ und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
       },
       {
         "name": "Warplord Titan",
@@ -403,9 +403,9 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either zwei Tzeentch Cannons, zwei Plasma Incinerators oder zwei Beam Blasters"
+          "Must be armed mit either zwei Tzeentch Cannons, zwei Plasma Incinerators oder zwei Beam Blasters"
         ],
-        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 für jeweils breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten mitin 5cm suffer a hit on a roll of 5+, und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
+        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 pro breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten innerhalb von 5cm suffer a hit on a roll of 5+ und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
       },
       {
         "name": "Vicebringer Titan",
@@ -431,7 +431,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport 4 Infanterie Einheiten without Beritten oder Sprungmodule. May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 für jeweils breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten mitin 5cm suffer a hit on a roll of 5+, und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
+        "notes": "May transport 4 Infanterie Einheiten without Beritten oder Sprungmodule. May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 pro breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten innerhalb von 5cm suffer a hit on a roll of 5+ und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
       },
       {
         "name": "Gloombringer Titan",
@@ -457,7 +457,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport 4 Infanterie Einheiten without Beritten oder Sprungmodule. May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 für jeweils breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten mitin 5cm suffer a hit on a roll of 5+, und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
+        "notes": "May transport 4 Infanterie Einheiten without Beritten oder Sprungmodule. May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 pro breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten innerhalb von 5cm suffer a hit on a roll of 5+ und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
       },
       {
         "name": "Strifebringer Titan",
@@ -483,7 +483,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport 4 Infanterie Einheiten without Beritten oder Sprungmodule. May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 für jeweils breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten mitin 5cm suffer a hit on a roll of 5+, und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
+        "notes": "May transport 4 Infanterie Einheiten without Beritten oder Sprungmodule. May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 pro breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten innerhalb von 5cm suffer a hit on a roll of 5+ und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
       },
       {
         "name": "Changebringer Titan",
@@ -508,7 +508,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport 4 Infanterie Einheiten without Beritten oder Sprungmodule. May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 für jeweils breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten mitin 5cm suffer a hit on a roll of 5+, und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
+        "notes": "May transport 4 Infanterie Einheiten without Beritten oder Sprungmodule. May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide. Kritischer Treffer: The unit’s plasma reactor has been breached. Roll a D6 pro breach on the unit in the End Phase of jeweils turn. On a roll of 1 the unit is destroyed und all Einheiten innerhalb von 5cm suffer a hit on a roll of 5+ und on a roll of 4–6 the breach has been repaired. Any breach not repaired causes eine point of damage."
       }
     ]
   }

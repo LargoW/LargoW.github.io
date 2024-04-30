@@ -14,7 +14,7 @@
     "Sie kennen keine Furcht"
   ],
   "usage": [
-    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Blood Ravens with Ordo Malleus allies"
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Blood Ravens mit Ordo Malleus allies"
   ],
   "units": [
     {
@@ -67,10 +67,10 @@
   "sections": [
     {
       "name": "Blood Ravens Kern Verbände",
-      "description": "Ein Orbital Support formation must be taken.",
+      "description": "Ein Orbitalunterstüzung formation must be taken.",
       "formations": [
         {
-          "name": "1 Orbital Support",
+          "name": "1 Orbitalunterstüzung",
           "units": "Vanguard Class Light Cruiser",
           "extraUnits": [
             "Ersetze the Angriffskreuzer mit einemGrey Knights Angriffskreuzer: 75 Punkte"
@@ -111,7 +111,7 @@
           "units": "Ein Blood Ravens Scriptor, drei Land Raiders",
           "extraUnits": [
             "Füge eine Land Raider: 75 Punkte",
-            "Ersetze bis zu vier Land Raiders with Land Raider Helios: 25 Punkte jeweils"
+            "Ersetze bis zu vier Land Raiders mit Land Raider Helios: 25 Punkte jeweils"
           ],
           "points": 275
         }
@@ -164,16 +164,16 @@
       "description": "Ein Grey Knights Detachment may be taken pro Blood Ravens Kern Formation",
       "formations": [
         {
-          "name": "Interceptor Squads",
-          "units": "Zwei Grey Knights Interceptor Squads",
+          "name": "Interceptor Trupps",
+          "units": "Zwei Grey Knights Interceptor Trupps",
           "extraUnits": [
             "Justicar"
           ],
           "points": 200
         },
         {
-          "name": "Strike Squads",
-          "units": "Zwei Grey Knights Strike Squads plus transport",
+          "name": "Strike Trupps",
+          "units": "Zwei Grey Knights Strike Trupps plus transport",
           "extraUnits": [
             "Grey Knights Support",
             "Justicar"
@@ -181,8 +181,8 @@
           "points": 200
         },
         {
-          "name": "Purgation Squads",
-          "units": "Zwei Grey Knights Purgation Squads plus transport",
+          "name": "Purgation Trupps",
+          "units": "Zwei Grey Knights Purgation Trupps plus transport",
           "extraUnits": [
             "Grey Knights Support",
             "Justicar"
@@ -210,7 +210,7 @@
     },
     {
       "name": "Blood Ravens Aircraft",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
       "formations": [
         {
           "name": "Storm Talons",
@@ -234,7 +234,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
@@ -254,7 +254,7 @@
       },
       {
         "name": "Grey Knights Support",
-        "description": "Füge eine Vortimer Land Raider oder Vortimer Land Raider Redeemer, oder eine Doomglaive Cybot.",
+        "description": "Füge eine Vortimer Land Raider oder Vortimer Land Raider Redeemer oder eine Doomglaive Cybot.",
         "points": [
           "75 Punkte"
         ]

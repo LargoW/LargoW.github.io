@@ -85,7 +85,7 @@
         {
           "name": "Ghost Ark Phalanx",
           "units": "Drei Ghost Arks, sechs Necron Warrior eine Necron Lord.",
-          "Erweiterungen": [
+          "upgrades": [
             "Listed Below"
           ],
           "points": 275
@@ -94,12 +94,12 @@
     },
     {
       "name": "Sautekh Dynasty Unterstützungsverbände",
-      "description": " Bis zu drei für jeweils Maynarkh Dynasty Phalanx taken",
+      "description": "Bis zu drei pro Maynarkh Dynasty Phalanx taken",
       "formations": [
         {
           "name": "Infanterie Phalanx",
           "units": "Acht Necron Warriors und eine Necron Lord",
-          "Erweiterungen": [
+          "upgrades": [
             "Listed Below"
           ],
           "points": 275
@@ -107,7 +107,7 @@
         {
           "name": "Blade Manipel",
           "units": "Sechs Tomb Blades",
-          "Erweiterungen": [
+          "upgrades": [
             "Listed Below"
           ],
           "points": 200
@@ -115,7 +115,7 @@
         {
           "name": "Iudicium Manipel",
           "units": "Fünf Doomsday Arks oder fünf Annihilation Barges",
-          "Erweiterungen": [
+          "upgrades": [
             "Listed Below"
           ],
           "points": 225
@@ -123,7 +123,7 @@
         {
           "name": "Eques Manipel",
           "units": "Any sechs Einheiten, in beliebiger Kombination: Destroyers, Heavy Destroyers",
-          "Erweiterungen": [
+          "upgrades": [
             "Listed Below"
           ],
           "points": 300
@@ -131,7 +131,7 @@
         {
           "name": "Monolith Manipel",
           "units": "Zwei Monoliths und zwei Obelisks",
-          "Erweiterungen": [
+          "upgrades": [
             "Listed Below"
           ],
           "points": 250
@@ -139,7 +139,7 @@
         {
           "name": "Stalker Manipel",
           "units": "Vier Triarch Stalkers",
-          "Erweiterungen": [
+          "upgrades": [
             "Listed Below"
           ],
           "points": 200
@@ -147,7 +147,7 @@
         {
           "name": "Sentry Manipel",
           "units": "Vier Sentry Pylons.",
-          "Erweiterungen": [
+          "upgrades": [
             "Listed Below"
           ],
           "points": 225
@@ -155,7 +155,7 @@
         {
           "name": "Triarch Phalanx",
           "units": "Vier Triarch Praetorian Units",
-          "Erweiterungen": [
+          "upgrades": [
             "Listed Below"
           ],
           "points": 275
@@ -163,7 +163,7 @@
         {
           "name": "Letum Manipel",
           "units": "Vier Death Marks",
-          "Erweiterungen": [
+          "upgrades": [
             "Listed Below"
           ],
           "points": 200
@@ -172,12 +172,12 @@
     },
     {
       "name": "Maynarkh Dynasty Ernters",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "0–1 Ernter Engine",
           "units": "Ein Einheiten, in beliebiger Kombination: Abattoir, Æonic Orb",
-          "Erweiterungen": [
+          "upgrades": [
             "None"
           ],
           "points": 600
@@ -185,7 +185,7 @@
         {
           "name": "0–1 Spacecraft",
           "units": "Ein Scythe Class Ernter",
-          "Erweiterungen": [
+          "upgrades": [
             "None"
           ],
           "points": 300
@@ -193,7 +193,7 @@
         {
           "name": "Night Scythes",
           "units": "Zwei Night Scythes",
-          "Erweiterungen": [
+          "upgrades": [
             "None"
           ],
           "points": 175
@@ -201,7 +201,7 @@
         {
           "name": "Doom Scythes",
           "units": "Zwei Doom Scythes",
-          "Erweiterungen": [
+          "upgrades": [
             "None"
           ],
           "points": 225
@@ -209,7 +209,7 @@
         {
           "name": "Night Shroud Bomber",
           "units": "Ein Night Shroud Bomber",
-          "Erweiterungen": [
+          "upgrades": [
             "None"
           ],
           "points": 200
@@ -217,7 +217,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Sautekh Dynasty Erweiterungen",
     "items": [
       {

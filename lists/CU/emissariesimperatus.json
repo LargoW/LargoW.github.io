@@ -9,7 +9,7 @@
     "Adeptus Custodes"
   ],
   "usage": [
-    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Adeptus Custodes. All Units are subject to the 'Adeptus Custodes' Sonderregel with the exception of Sisters of Silence."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Adeptus Custodes. All Units are subject to the 'Adeptus Custodes' Sonderregel mit the exception of Sisters of Silence."
   ],
   "units": [
     {
@@ -55,7 +55,7 @@
         {
           "name": "Custodes Guardian Squad",
           "units": "Zwei Sagittarum plus either Zwei Guardian OR Zwei Sentinel Guard und 2 Venerable Land Raiders oder 2 Coronus",
-          "Erweiterungen": [
+          "upgrades": [
             "Befehlshaber"
           ],
           "points": 375
@@ -69,7 +69,7 @@
         {
           "name": "Warden Wing",
           "units": "5 Wardens",
-          "Erweiterungen": [
+          "upgrades": [
             "Befehlshaber",
             "Cybot",
             "Transport"
@@ -79,7 +79,7 @@
         {
           "name": "Cybot Wing",
           "units": "3 of the following in any combination: Contemptor Cybot Achilles oder Telemon Heavy Cybots",
-          "Erweiterungen": [
+          "upgrades": [
             "Cybot"
           ],
           "points": 300
@@ -87,7 +87,7 @@
         {
           "name": "Aquilon Custodians",
           "units": "Vier Aquilon Terminatoren",
-          "Erweiterungen": [
+          "upgrades": [
             "Befehlshaber",
             "Cybot",
             "Transport"
@@ -103,7 +103,7 @@
         {
           "name": "Venatari Wing",
           "units": "Fünf Venatari",
-          "Erweiterungen": [
+          "upgrades": [
             "Befehlshaber"
           ],
           "points": 300
@@ -111,7 +111,7 @@
         {
           "name": "Kataphractoi",
           "units": "Sechs Vertus Praetors",
-          "Erweiterungen": [
+          "upgrades": [
             "Befehlshaber"
           ],
           "points": 250
@@ -119,21 +119,21 @@
         {
           "name": "Pallas Amour",
           "units": "Vier Pallas Panzers",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 225
         },
         {
           "name": "Caladius Armour",
           "units": "Drei Caladius Panzers",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 225
         },
         {
           "name": "Null Maiden Cadre",
           "units": "Sechs Sisters of Silence units und 3 Null-Maiden Rhinos",
-          "Erweiterungen": [
+          "upgrades": [
             "Null-Maiden Hunter"
           ],
           "points": 300
@@ -142,7 +142,7 @@
     },
     {
       "name": "Adeptus Custodes Aerial Transport & Imperial Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Orion Assault Ship",
@@ -157,7 +157,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Adeptus Custodes Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro detachment",
     "items": [

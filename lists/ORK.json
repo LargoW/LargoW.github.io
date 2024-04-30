@@ -14,7 +14,7 @@
         "specialRules": [
           "Oberbefehlshaber"
         ],
-        "notes": "Has Dakka-Dakka if added to a WE unit, oder Energiekrallä if added to an INF unit"
+        "notes": "Has Dakka-Dakka if added to a WE unit oder Energiekrallä if added to an INF unit"
       },
       {
         "name": "Mekboy Bad Ork Bikerboy",
@@ -75,7 +75,7 @@
           "Deff-Rolla & Fresh Paint Job|0-1|"
         ],
         "specialRules": [
-          "The unit either replaces a Kanonä mit einemLifta Droppa, oder [*] adds D3+1 Schpezialkraftfelder, oder [**] is equipped mit einemDeff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)"
+          "The unit either replaces a Kanonä mit einemLifta Droppa oder [*] adds D3+1 Schpezialkraftfelder oder [**] is equipped mit einemDeff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)"
         ]
       },
       {
@@ -286,7 +286,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "Ein unit of Kommandos. Units may Shoot und Firefight while being transported"
+        "notes": "Ein Einheit Kommandos. Units may Shoot und Firefight while being transported"
       },
       {
         "name": "Warbuggy",
@@ -326,7 +326,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Ein unit of Boys oder Bosse. Units may Shoot und Firefight while being transported, unless an enemy model is in base contact with the transport."
+        "notes": "Ein Einheit Boys oder Bosse. Units may Shoot und Firefight while being transported, unless an enemy model is in base contact mit the transport."
       },
       {
         "name": "Mekboy Speedsta",
@@ -356,7 +356,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Zwei units of Boys, Bosse, Flash Gitz, Kommandos oder Grotz. Kanonänbatterie takes zwei spaces jeweils. May carry eine unit of Grotz in addition to any other units transported"
+        "notes": "Zwei Einheiten Boys, Bosse, Flash Gitz, Kommandos oder Grotz. Kanonänbatterie takes zwei spaces jeweils. May carry eine Einheit Grotz in addition to any other units transported"
       },
       {
         "name": "Kampfpanza",
@@ -371,7 +371,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Ein unit of Boys, Bosse, Flash Gitz, Kommandos oder Grotz"
+        "notes": "Ein Einheit Boys, Bosse, Flash Gitz, Kommandos oder Grotz"
       },
       {
         "name": "Speed Freek Kampfpanza",
@@ -386,7 +386,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Ein unit of Boys, Bosse, Kommandos oder Grotz"
+        "notes": "Ein Einheit Boys, Bosse, Kommandos oder Grotz"
       },
       {
         "name": "Looted Leman Russ/Land Raider",
@@ -402,7 +402,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Ein unit of Boys, Bosse, Kommandos oder Grotz"
+        "notes": "Ein Einheit Boys, Bosse, Kommandos oder Grotz"
       },
       {
         "name": "Looted Vindicator/Thunderer",
@@ -444,7 +444,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Ein unit of Boys, Bosse, Flash Gitz, Kommandos oder Grotz"
+        "notes": "Ein Einheit Boys, Bosse, Flash Gitz, Kommandos oder Grotz"
       },
       {
         "name": "Speed Freek Flakwagon",
@@ -459,7 +459,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Ein unit of Boys, Bosse, Kommandos oder Grotz"
+        "notes": "Ein Einheit Boys, Bosse, Kommandos oder Grotz"
       },
       {
         "name": "Looted Hydra/Stalker",
@@ -474,7 +474,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Ein unit of Boys, Bosse, Kommandos oder Grotz"
+        "notes": "Ein Einheit Boys, Bosse, Kommandos oder Grotz"
       },
       {
         "name": "Killa Bot",
@@ -541,7 +541,7 @@
           "Geländegängig",
           "Jetz' geht's los"
         ],
-        "notes": "Armed with either drei Kanonänbatterie, oder zwei Big Guns und a Kombat 'Ammer"
+        "notes": "Armed mit either drei Kanonänbatterie oder zwei Big Guns und a Kombat 'Ammer"
       },
       {
         "name": "Mega Transportpanza",
@@ -558,7 +558,7 @@
           "Schadenskapazität 3",
           "Transport"
         ],
-        "notes": "Acht Boys, Flash Gitz, Bosse, Kommandos, Grotz. Kanonänbatterie takes zwei spaces jeweils. May carry vier units of Grotz in addition to any other units transported.",
+        "notes": "Acht Boys, Flash Gitz, Bosse, Kommandos, Grotz. Kanonänbatterie takes zwei spaces jeweils. May carry vier Einheiten Grotz in addition to any other units transported.",
         "crit": "The Mega Transportpanza is destroyed, all units being carried are killed unless roll they a 6+."
       },
       {
@@ -576,7 +576,7 @@
           "Schadenskapazität 3",
           "Transport"
         ],
-        "notes": "Vier Boys, Bosse, Flash Gitz, Kommandos, Grotz. Kanonänbatterie takes zwei spaces jeweils. May carry zwei units of Grotz in addition to any other units transported.",
+        "notes": "Vier Boys, Bosse, Flash Gitz, Kommandos, Grotz. Kanonänbatterie takes zwei spaces jeweils. May carry zwei Einheiten Grotz in addition to any other units transported.",
         "crit": "The Mega Wummenpanza is destroyed, all units being carried are killed unless roll they a 6+."
       },
       {
@@ -610,7 +610,7 @@
         "specialRules": [
           "Schadenskapazität 3"
         ],
-        "crit": "The Skullhamma is zerstört. All Einheiten mitin 5cm takes a hit on 6+"
+        "crit": "The Skullhamma wird zerstört. All Einheiten innerhalb von 5cm takes a hit on 6+"
       },
       {
         "name": "Supa-Stompa",
@@ -631,7 +631,7 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Supa-Stompa's head is blown off, und it suffers a -1 to-hit modifier to all shooting für the rest of the game. Subsequent crits cause einen zusätzlichen damage instead."
+        "crit": "The Supa-Stompa's head is blown off und it suffers a -1 to-hit modifier to all shooting für the rest of the game. Subsequent crits cause einen zusätzlichen damage instead."
       },
       {
         "name": "Supa-Stompa ",
@@ -658,7 +658,7 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Supa-Stompa's head is blown off, und it suffers a -1 to-hit modifier to all shooting für the rest of the game. Subsequent crits cause einen zusätzlichen damage instead."
+        "crit": "The Supa-Stompa's head is blown off und it suffers a -1 to-hit modifier to all shooting für the rest of the game. Subsequent crits cause einen zusätzlichen damage instead."
       },
       {
         "name": "Gargant",
@@ -678,9 +678,9 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Armed with either drei Soopaguns oder zwei Soopaguns und either Supa-Zzap-Waffe oder a Mega-Spalta"
+          "Armed mit either drei Soopaguns oder zwei Soopaguns und either Supa-Zzap-Waffe oder a Mega-Spalta"
         ],
-        "crit": "The Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
+        "crit": "The Gargant catches fire. Roll 1D6 pro fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
         "name": "Gargant ",
@@ -711,7 +711,7 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
+        "crit": "The Gargant catches fire. Roll 1D6 pro fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
         "name": "Great Gargant",
@@ -735,9 +735,9 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Armed with either zwei Synchronisierter Soopaguns oder eine Synchronisierter Mega Kanonä und a Smäsha-Kanonä"
+          "Armed mit either zwei Synchronisierter Soopaguns oder eine Synchronisierter Mega Kanonä und a Smäsha-Kanonä"
         ],
-        "crit": "The Great Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
+        "crit": "The Great Gargant catches fire. Roll 1D6 pro fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
         "name": "Great Gargant ",
@@ -771,7 +771,7 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Great Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
+        "crit": "The Great Gargant catches fire. Roll 1D6 pro fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
         "name": "Mega Gargant",
@@ -797,7 +797,7 @@
           "Furchtlos",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Mega Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
+        "crit": "The Mega Gargant catches fire. Roll 1D6 pro fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
         "name": "Jagdbomma",
@@ -860,7 +860,7 @@
         "specialRules": [
           "Schadenskapazität 2"
         ],
-        "crit": "The Bommer is zerstört."
+        "crit": "The Bommer wird zerstört."
       },
       {
         "name": "Landa",
@@ -879,7 +879,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "Ten Killa Bots, Waaghbikes, Boys, Bosse, Kommandos, StormBoys, Grotz. Kanonänbatterie, Buggies, Skorchas, Deff Dreads takes zwei spaces jeweils. May carry vier units of Grotz in addition to any other units transported",
+        "notes": "Zehn Killa Bots, Waaghbikes, Boys, Bosse, Kommandos, StormBoys, Grotz. Kanonänbatterie, Buggies, Skorchas, Deff Dreads takes zwei spaces jeweils. May carry vier Einheiten Grotz in addition to any other units transported",
         "crit": "The Landa und all units being transported are zerstört."
       },
       {
@@ -1113,7 +1113,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry eine unit of Junkas oder Bosss. Units may Shoot und Firefight while being transported, unless an enemy model is in base contact with the transport."
+        "notes": "May carry eine Einheit Junkas oder Bosss. Units may Shoot und Firefight while being transported, unless an enemy model is in base contact mit the transport."
       },
       {
         "name": "Squiggoth",
@@ -1185,7 +1185,7 @@
           "Transport"
         ],
         "notes": "May carry bis zu acht Einheiten, in beliebiger Kombination: Huntas, Brutes, Squig Katapult, WildBoys. May carry bis zu vier Grotz in addition to any other units.",
-        "crit": "The Gargantuan Squiggoth is killed."
+        "crit": "The Gargantuan Squiggoth wird zerstört."
       },
       {
         "name": "Orkeosaurus",
@@ -1206,7 +1206,7 @@
           "Transport"
         ],
         "notes": "May carry bis zu sixteen Einheiten, in beliebiger Kombination: Huntas, Brutes, Squig Katapult, WildBoys. May carry bis zu sechs Grotz in addition to any other units.",
-        "crit": "The Orkeosaurus takes eine additional damage, und D3 random units being transported takes a hit."
+        "crit": "The Orkeosaurus takes eine additional damage und D3 random units being transported takes a hit."
       },
       {
         "name": "Steam Gargant",
@@ -1224,7 +1224,7 @@
           "Furchtlos",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Steam Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
+        "crit": "The Steam Gargant catches fire. Roll 1D6 pro fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       }
     ]
   }

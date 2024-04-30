@@ -28,7 +28,7 @@
         {
           "id": 530,
           "name": "Genestealer Swarm",
-          "units": "Brood Lord",
+          "units": "Symbiarch",
           "pts": 25,
           "upgrades": [ 60 ]
         }
@@ -47,14 +47,14 @@
           {
             "id": 511,
             "name": "Outrider Squadron",
-            "units": "Hybrid Iconward, 6 Neophyte Outriders",
+            "units": "Hybrid Ikonenwächter, 6 Neophyte Outriders",
             "pts": 150,
             "upgrades": [ 33 ]
           },
         {
           "id": 510,
           "name": "Neophyte Platoon",
-          "units": "Hybrid Iconward, 8 Neophytes",
+          "units": "Hybrid Ikonenwächter, 8 Neophytes",
           "pts": 200,
           "upgrades": [ 42, 50 ]
         },
@@ -81,7 +81,7 @@
         {
           "id": 512,
           "name": "Mechanized Neophyte Platoon",
-          "units": "Hybrid Iconward, 6 Neophytes, 3 Chimera",
+          "units": "Hybrid Ikonenwächter, 6 Neophytes, 3 Chimera",
           "pts": 250,
           "upgrades": [ 53, 50 ]
       },
@@ -103,12 +103,12 @@
     }
   ],
   "upgrades": [
-    { "id": 10, "name": "Acolyte Praetorians with Hybrid Iconward", "pts": 0 },
-    { "id": 11, "name": "Acolyte Praetorians with Genestealer Primus", "pts": 25 },
-		{ "id": 12, "name": "Acolyte Praetorians with Genestealer Magus", "pts": 50 },
+    { "id": 10, "name": "Acolyte Praetorians mit Hybrid Ikonenwächter", "pts": 0 },
+    { "id": 11, "name": "Acolyte Praetorians mit Genestealer Primus", "pts": 25 },
+		{ "id": 12, "name": "Acolyte Praetorians mit Genestealer Magus", "pts": 50 },
 		{ "id": 13, "name": "Metamorph Hybrids", "pts": 25 },
 		{ "id": 14, "name": "Aberrants", "pts": 30 },
-        { "id": 15, "name": "Mineshaft Infiltrators: All units in the formation gains the 'Tunnelers' special rule (may only be upgraded with Acolytes, Aberrants and Metamorphs)", "pts": 0 },
+        { "id": 15, "name": "Mineshaft Infiltrators: All units in the formation gains the 'Tunnelgräbers' special rule (may only be upgraded mit Acolytes, Aberrants and Metamorphs)", "pts": 0 },
 		{ "id": 16, "name": "Acolyte Hybrids", "pts": 15 },
 
         { "id":19, "name":"Coven Limousine", "pts": 15 },

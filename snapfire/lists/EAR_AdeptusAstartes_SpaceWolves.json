@@ -17,7 +17,7 @@
 			{"id":524, "name":"Predator Pack",				"pts":250, "upgrades":[31,32]},
 			{"id":525, "name":"Vindicator Pack",			"pts":225,  "units":"4 Vindicators", "upgrades":[31,32]},
 			{"id":526, "name":"Whirlwind Pack",				"pts":275, "units":"4 Whirlwinds", "upgrades":[31,32]},
-			{"id":528, "name":"Orbital Support",			"pts":0, "upgrades":[]}
+			{"id":528, "name":"Orbitalunterstüzung",			"pts":0, "upgrades":[]}
 
 		]},
 

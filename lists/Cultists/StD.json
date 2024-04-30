@@ -13,7 +13,7 @@
     "StD Eternal Animösität"
   ],
   "usage": [
-    "The following army list allows you to field an army based on a Renegade Imperial Guard regiment with Chaos allies."
+    "The following army list allows you to field an army based on a Renegade Imperial Guard regiment mit Chaos allies."
   ],
   "units": [
     {
@@ -39,7 +39,7 @@
         "Infanterie",
         "Unterstützungstrupp",
         "Ogryns",
-        "Kavallerieschwadron",
+        "Kavallerie",
         "Sentinel",
         "Basilisk",
         "Chimäre",
@@ -47,7 +47,7 @@
         "Höllenhund",
         "Hydra",
         "Leman Russ",
-        "Leman Russ Demolisher",
+        "Leman Russ Belagerer",
         "Leman Russ Thunderer",
         "Shadowsword",
         "Baneblade"
@@ -107,11 +107,11 @@
   "sections": [
     {
       "name": "Slaves to Darkness Kern Verbände",
-      "description": " Bis zu eine Chaos Space Marine formation für jeweils Traitor Guard formation.",
+      "description": "Bis zu eine Chaos Space Marine formation pro Traitor Guard formation.",
       "formations": [
         {
           "name": "Traitor Guard",
-          "units": "Ein Fallen Befehlshaber, neun units of Infanterie",
+          "units": "Ein Fallen Befehlshaber, neun Einheiten Infanterie",
           "extraUnits": [
             "Alle"
           ],
@@ -121,7 +121,7 @@
     },
     {
       "name": "Slaves to Darkness Unterstützungsverbände",
-      "description": " Bis zu eine Support formation für jeweils Kern formation.",
+      "description": "Bis zu eine Support formation pro Kern formation.",
       "formations": [
         {
           "name": "Flak Batterie",
@@ -145,7 +145,7 @@
         },
         {
           "name": "Kavalleriezug",
-          "units": "Sechs Kavallerieschwadronen",
+          "units": "Sechs Kavallerie Einheiten",
           "extraUnits": [
             "Daemonic Icon"
           ],
@@ -161,7 +161,7 @@
         },
         {
           "name": "Leman Russ Schwadron",
-          "units": "Vier chosen from: Leman Russ, Leman Russ Demolisher, Leman Russ Thunderer",
+          "units": "Vier ausgewählt aus: Leman Russ, Leman Russ Belagerer, Leman Russ Thunderer",
           "extraUnits": [
           ],
           "points": 275
@@ -177,7 +177,7 @@
     },
     {
       "name": "Slaves to Darkness Chaos Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Slaves to Darkness Chaos Allies. May not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände in the army.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Slaves to Darkness Chaos Allies. May not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände in the army.",
       "formations": [
         {
           "name": "Hell Blade Schwadron",
@@ -210,7 +210,7 @@
         {
           "name": "Death Wheel of Chaos Undivided",
           "units": "Ein Death Wheel",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 300
         },
@@ -258,7 +258,7 @@
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool Punkte. Füge eine point to the Lesser Daemon pool für jeweils Daemonic Icon oder Dämonischer Pakt in the army.",
+      "description": "Any amount may be spent on Daemon Pool Punkte. Füge eine point to the Lesser Daemon pool pro Daemonic Icon oder Dämonischer Pakt in the army.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
@@ -268,7 +268,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Slaves to Darkness Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden. Max 5 different Erweiterungen pro formation.",
     "items": [
@@ -280,7 +280,7 @@
             "points": "25 Punkte"
           },
           {
-            "description": "Füge eine Daemonic Icon to a unit of Kavallerieschwadron",
+            "description": "Füge eine Daemonic Icon to a Einheit Kavallerie",
             "points": "75 Punkte"
           }
         ]
@@ -306,7 +306,7 @@
       },
       {
         "name": "Ogryns",
-        "description": "Füge bis zu zwei units of Ogryns",
+        "description": "Füge bis zu zwei Einheiten Ogryns",
         "points": "25 Punkte jeweils"
       },
       {
@@ -326,7 +326,7 @@
       },
       {
         "name": "Leman Russ",
-        "description": "Füge eine oder drei Leman Russ, Leman Russ Demolisher oder Leman Russ Thunderers",
+        "description": "Füge eine oder drei Leman Russ, Leman Russ Belagerer oder Leman Russ Thunderers",
         "options": [
           {
             "description": "Ein Leman Russ variant",

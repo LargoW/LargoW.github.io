@@ -2,7 +2,7 @@
 	"id":"EpicUK Red Corsairs",
 	"version": "v26-01-19",
     "by": "EA-Ragnarok",
-    "notes":    ["Add one free Lesser Daemon to the Lesser Daemon Pool per Daemonic Pact. Max four different upgrades per formation. Brass Scorpions, Silver Towers, Blight Drones, and Daemon Knights requires at least one formation or upgrade with Cult Marines from the same faction"],
+    "notes":    ["Add one free Lesser Daemon to the Lesser Daemon Pool per Daemonic Pact. Max four different upgrades per formation. Brass Scorpions, Silver Towers, Blight Drones, and Daemon Knights requires at least one formation or upgrade mit Cult Marines from the same faction"],
 	"sections":[
 		{"name":"LESSER DAEMON POOL", "formations": [
 			{ "id":500, "name":"Daemon Pool", "pts":0, "upgrades":[12,11] }

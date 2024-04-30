@@ -8,7 +8,7 @@
         "name": "Symbionten Patriarch",
         "type": "CH",
         "weapons": [
-          "Large Rending Klauen||EA(+1)"
+          "Large Zangenkrallen||EA(+1)"
         ],
         "specialRules": [
           "Erweiterter Befehlsradius",
@@ -35,7 +35,7 @@
         "name": "Symbionten Primus",
         "type": "CH",
         "weapons": [
-          "Large Rending Klauen||EA(+1)"
+          "Large Zangenkrallen||EA(+1)"
         ],
         "specialRules": [
           "Inspirierend",
@@ -43,7 +43,7 @@
         ]
       },
       {
-        "name": "Hybrid Iconward",
+        "name": "Hybrid Ikonenwächter",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -54,7 +54,7 @@
         ]
       },
       {
-        "name": "Brood Lord",
+        "name": "Symbiarch",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -74,7 +74,7 @@
         "weapons": [
           "Schweres Maschinengewehr",
           "Automatikpistolen",
-          "Rending Klauen"
+          "Zangenkrallen"
         ],
         "specialRules": [
           "Entbehrlich"
@@ -88,7 +88,7 @@
         "armour": 6,
         "cc": 2,
         "weapons": [
-          "Rending Klauen"
+          "Zangenkrallen"
         ],
         "specialRules": [
           "Aufklärer",
@@ -118,7 +118,7 @@
         "weapons": [
           "Blasting Charges",
           "Flammenpistole",
-          "Rending Klauen"
+          "Zangenkrallen"
         ],
         "specialRules": [
           "Infiltratoren",
@@ -204,7 +204,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr Turm"
+          "Synchronisiertes schweres Maschinengewehr (Turm)"
         ]
       },
       {
@@ -269,14 +269,14 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Retrofitted Defense Laser||FxF",
-          "Synchronisierter schweres Maschinengewehr|2|FxF"
+          "Retrofitted Verteidigungslaser||FxF",
+          "Synchronisiertes schweres Maschinengewehr|2|FxF"
         ],
         "specialRules": [
           "Schadenskapazität 4",
           "Furchtlos"
         ],
-        "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All Einheiten mitin 5cm of the model suffer a hit on a roll of 4+."
+        "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All Einheiten innerhalb von 5cm of the model suffer a hit on a roll of 4+."
       },
       {
         "name": "Assault Excavator",
@@ -287,7 +287,7 @@
         "ff": 6,
         "weapons": [
           "Excavator Power Arms",
-          "Synchronisierter schweres Maschinengewehr|2|FxF"
+          "Synchronisiertes schweres Maschinengewehr|2|FxF"
         ],
         "specialRules": [
           "Schadenskapazität 4",

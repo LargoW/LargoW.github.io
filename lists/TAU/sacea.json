@@ -78,7 +78,7 @@
         },
         {
           "name": "Fire Warrior Strike Cadre",
-          "units": "Acht Fire Warriors, oder sechs Fire Warriors und drei Devilfish.",
+          "units": "Acht Fire Warriors oder sechs Fire Warriors und drei Devilfish.",
           "extraUnits": [
             "Broadsides",
             "Himmlischer",
@@ -96,13 +96,13 @@
     },
     {
       "name": "Sa'cea Unterstützungsverbände",
-      "description": " Bis zu drei für jeweils Sa'cea Cadre taken",
+      "description": "Bis zu drei pro Sa'cea Cadre taken",
       "formations": [
         {
           "name": "Hammerhead Group",
           "units": "Vier Ion oder vier Fusion Hammerheads",
           "extraUnits": [
-            "Ersetze vier Ion oder Fusion Hammerheads with vier Rail Hammerheads: 25 Punkte",
+            "Ersetze vier Ion oder Fusion Hammerheads mit vier Rail Hammerheads: 25 Punkte",
             "Gun Drones",
             "Hammerheads",
             "Piranhas",
@@ -164,7 +164,7 @@
     },
     {
       "name": "Sa'cea Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Barracuda Schwadron",
@@ -213,7 +213,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Erweiterungen",
     "description": "Max drei Erweiterungen pro formation. Jeweils upgrade may be taken once by a formation.",
     "items": [
@@ -229,7 +229,7 @@
       },
       {
         "name": "0–1 Himmlischer",
-        "description": "Once pro army, add eine Himmlischer to a unit of Fire Warriors",
+        "description": "Once pro army, add eine Himmlischer to a Einheit Fire Warriors",
         "points": "50 Punkte"
       },
       {
@@ -283,7 +283,7 @@
             "points": "75 Punkte"
           },
           {
-            "description": "Füge bis zu zwei Rail Hammerheads, oder add bis zu zwei Fusion Hammerheads",
+            "description": "Füge bis zu zwei Rail Hammerheads oder add bis zu zwei Fusion Hammerheads",
             "points": "50 Punkte jeweils"
           }
         ]

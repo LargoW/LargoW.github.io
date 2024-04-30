@@ -4,7 +4,7 @@
   "version": "1.0.beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_IronHands",
-  "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Iron Hands Space Marine Orden oder einen der Nachfolgeorden aufstellen. The Iron Hands are notable für their heavy use of bionics und their reverence für all things mechanical, und thus their close ties to the Adeptus Mechanicus.",
+  "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Iron Hands Space Marine Orden oder einen der Nachfolgeorden aufstellen. The Iron Hands are notable für their heavy use of bionics und their reverence für all things mechanical und thus their close ties to the Adeptus Mechanicus.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "armyRules": "The <i>Sie kennen keine Furcht</i> Sonderregel applies to all Iron Hands detachments und aircraft Verbände.",
@@ -13,7 +13,7 @@
     "Sie kennen keine Furcht"
   ],
   "usage": [
-    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Iron Hands, oder eine of their successor chapters, using their preferred operational methods."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Iron Hands oder eine of their successor chapters, using their preferred operational methods."
   ],
   "units": [
     {
@@ -72,7 +72,7 @@
       "formations": [
         {
           "name": "Cybot Clan",
-          "units": "Ein Iron Hands Captain oder Techmarine, vier Taktischer Trupp plus transport, und Zwei of the following: Cybot, Hellfire Cybot, Siege Cybot",
+          "units": "Ein Iron Hands Captain oder Techmarine, vier Taktischer Trupp plus transport und Zwei of the following: Cybot, Hellfire Cybot, Siege Cybot",
           "extraUnits": [
             "Anti-Air",
             "Oberbefehlshaber",
@@ -86,7 +86,7 @@
         },
         {
           "name": "Mechanisierte Clan",
-          "units": "Ein Iron Hands Captain oder Techmarine, vier Taktischer Trupp plus transport, und Zwei of the following: Predator Annihilator, Predator Destructor oder Vindicator",
+          "units": "Ein Iron Hands Captain oder Techmarine, vier Taktischer Trupp plus transport und Zwei of the following: Predator Annihilator, Predator Destructor oder Vindicator",
           "extraUnits": [
             "Anti-Air",
             "Oberbefehlshaber",
@@ -167,7 +167,7 @@
     },
     {
       "name": "Iron Hands Navy & Collegia Titanica Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Storm Talons",
@@ -180,7 +180,7 @@
           "points": 275
         },
         {
-          "name": "0-1 Orbital Support",
+          "name": "0-1 Orbitalunterstüzung",
           "units": "Ein Angriffskreuzer",
           "extraUnits": [
             "Schlachtkreuzer"
@@ -188,7 +188,7 @@
           "points": 200
         },
         {
-          "name": "Warhound Pack",
+          "name": "Warhound Rudel",
           "units": "Zwei Warhounds - Standard oder Support Configuration",
           "extraUnits": [
             "Upgrade both Warhounds to the Panzerjägerkonfiguration: 50 Punkte"
@@ -203,7 +203,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Iron Hands Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro detachment",
     "items": [
@@ -234,7 +234,7 @@
       },
       {
         "name": "Devastoren",
-        "description": "Ersetze all Taktischer Trupp in the formation with Iron Hands Devastoren",
+        "description": "Ersetze alle Taktischer Trupp in the formation mit Iron Hands Devastoren",
         "points": "50 Punkte"
       },
       {
@@ -244,7 +244,7 @@
       },
       {
         "name": "Ironclad Cybots",
-        "description": "Ersetze bis zu zwei Cybots with Ironclad Cybots",
+        "description": "Ersetze bis zu zwei Cybots mit Ironclad Cybots",
         "points": "25 Punkte jeweils"
       },
       {

@@ -23,14 +23,14 @@
 			{"id":527, "name":"Warhounds",			"pts":75, "upgrades":[70]},
 			{"id":530, "name":"Thunderbolt Squadron",	"pts":175, "upgrades":[], "units":"2 Thunderbolt Fighters"},
 			{"id":531, "name":"Marauder Squadron",		"pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
-			{"id":532, "name":"Orbital Support",		"pts":150, "upgrades":[]}
+			{"id":532, "name":"Orbitalunterstüzung",		"pts":150, "upgrades":[]}
 		]}
 	],
 	"upgrades":[
-		{"id":9,  "name":"Leman Russ Vanquisher with a Commissar-Captain",					"pts":0},
-		{"id":10, "name":"Leman Russ Vanquisher with a Lord Commissar",			"pts":75},
-		{"id":11,  "name":"Leman Russ Thunderer with a Commissar-Captain",					"pts":0},
-		{"id":12, "name":"Leman Russ Thunderer with a Lord Commissar",			"pts":75},
+		{"id":9,  "name":"Leman Russ Vernichter mit a Commissar-Captain",					"pts":0},
+		{"id":10, "name":"Leman Russ Vernichter mit a Lord Commissar",			"pts":75},
+		{"id":11,  "name":"Leman Russ Thunderer mit a Commissar-Captain",					"pts":0},
+		{"id":12, "name":"Leman Russ Thunderer mit a Lord Commissar",			"pts":75},
 
         {"id":13, "name":"Commissar-Captain",						"pts":0},
 		{"id":14, "name":"Lord Commissar",				"pts":75},
@@ -50,7 +50,7 @@
 
 		{"id":33, "name":"4 Leman Russ Exterminators",	"pts":0},
 		{"id":34, "name":"4 Leman Russ Punishers",		"pts":0},
-		{"id":35, "name":"4 Leman Russ Demolishers",	"pts":0},
+		{"id":35, "name":"4 Leman Russ Belagerer",	"pts":0},
 		{"id":36, "name":"4 Leman Russ Conquerors",		"pts":0},
         {"id":37, "name":"4 Leman Russ",				"pts":0},
 		{"id":38, "name":"4 Leman Russ Executioners",	"pts":0},
@@ -63,7 +63,7 @@
 
 		{"id":43, "name":"3 Leman Russ Exterminators",	"pts":150},
 		{"id":44, "name":"3 Leman Russ Punishers",		"pts":150},
-		{"id":45, "name":"3 Leman Russ Demolishers",	"pts":150},
+		{"id":45, "name":"3 Leman Russ Belagerer",	"pts":150},
 		{"id":46, "name":"3 Leman Russ Conquerors",		"pts":150},
         {"id":47, "name":"3 Leman Russ",				"pts":150},
 		{"id":48, "name":"3 Leman Russ Executioners",	"pts":150},

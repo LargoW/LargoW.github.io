@@ -266,7 +266,7 @@
           "Transport",
           "Schnell wie der Wind"
         ],
-        "notes": "May carry eine unit of Warriors, Incubi, Haemonculi, Wracks oder Wyches"
+        "notes": "May carry eine Einheit Warriors, Incubi, Haemonculi, Wracks oder Wyches"
       },
       {
         "name": "Raider",
@@ -283,7 +283,7 @@
           "Transport",
           "Schnell wie der Wind"
         ],
-        "notes": "May carry zwei units of Warriors, Incubi, Haemonculi, Wracks oder Wyches."
+        "notes": "May carry zwei Einheiten Warriors, Incubi, Haemonculi, Wracks oder Wyches."
       },
       {
         "name": "Ravager",
@@ -331,7 +331,7 @@
           "Schnell wie der Wind",
           "Transport"
         ],
-        "notes": "May carry zwei units of Warriors, Incubi, Haemonculi, Wracks oder Wyches. Grotesques counts as zwei Einheiten."
+        "notes": "May carry zwei Einheiten Warriors, Incubi, Haemonculi, Wracks oder Wyches. Grotesques counts as zwei Einheiten."
       },
       {
         "name": "Barge of Pleasure",
@@ -352,7 +352,7 @@
             "Transport",
             "Schnell wie der Wind"
         ],
-        "notes": "May carry sechs units of Warriors, Incubi, Haemonculi, Wracks oder Wyches. Grotesques counts as zwei Einheiten. May only Transport units from its own formation.",
+        "notes": "May carry sechs Einheiten Warriors, Incubi, Haemonculi, Wracks oder Wyches. Grotesques counts as zwei Einheiten. May only Transport units from its own formation.",
         "crit": "The Barge takes einen zusätzlichen damage. 1D3 random units inside takes a hit."
       },
       {
@@ -373,7 +373,7 @@
             "Antigrav",
             "Schnell wie der Wind"
         ],
-        "crit": "The Vessel of Pain is zerstört. All Einheiten mitin 5cm take a hit on 6+."
+        "crit": "The Vessel of Pain wird zerstört. All Einheiten innerhalb von 5cm take a hit on 6+."
       },
       {
         "name": "Tormentor Titan",
@@ -416,7 +416,7 @@
           "Furchtlos",
           "Transport"
         ],
-        "notes": "May transport bis zu ten Infanterie Einheiten. Grotesques counts as zwei Einheiten. In addition it may carry bis zu fünf Light Vehicles oder Armoured Vehicles, oder bis zu eine Vessel of Pain oder Barge of Pleasure.",
+        "notes": "May transport bis zu ten Infanterie Einheiten. Grotesques counts as zwei Einheiten. In addition it may carry bis zu fünf leichte Fahrzeuge oder Armoured Vehicles oder bis zu eine Vessel of Pain oder Barge of Pleasure.",
         "crit": "The Executioner takes einen zusätzlichen damage. D3 random units inside takes a hit."
       }
     ]

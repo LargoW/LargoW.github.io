@@ -4,7 +4,7 @@
   "version": "0.9.0",
   "release": "2022-08-03",
   "strategy": "Elysianische Sturmtruppen Armeen haben einen Strategiewert von 3.",
-  "Initiative": "All Verbände have a Initiative of 2+.",
+  "Initiative": "Alle Verbände haben einen Initiativewert von 2+.",
   "specialRules": [
     "Mut, Disziplin und Loyalität",
     "Luftüberlegenheit",
@@ -19,8 +19,8 @@
         "Kommissar",
         "Elysianische Sturmtruppen",
         "Elysianischer Unterstützungstrupp",
-        "Elysian Mörser Squad",
-        "Elysian Sturmtruppen",
+        "Elysianischer Mörser Trupp",
+        "Elysianische Gardisten",
         "Gepanzerter Sentinel",
         "Luftlandungs-Sentinel",
         "Unterstützungs-Sentinel",
@@ -49,7 +49,7 @@
       "from": "ImperialNavy.json",
       "units": [
         "Thunderbolt",
-        "Lightning Interceptor",
+        "Lightning Abfangjäger",
         "Marauder Bomber",
         "Marauder Destroyer",
         "Lunar-Klasse Kreuzer",
@@ -61,11 +61,11 @@
   ],
   "sections": [
     {
-      "name": "Elysian Kern Verbände",
+      "name": "Elysianische Kern Verbände",
       "formations": [
         {
           "name": "0-1 Regiments Hauptquartier",
-          "units": "Ein Elysianischer Oberbefehlshaber mit einem Kommissar, sieben Elysianische Sturmtruppen, vier Valkyries.",
+          "units": "Ein Elysianischer Oberbefehlshaber mit einem Kommissar, sieben elysianische Sturmtruppen, vier Valkyries.",
           "extraUnits": [
             "Luftlandungs-Sentinels",
             "Unterstützungstrupps",
@@ -75,7 +75,7 @@
         },
         {
           "name": "Drop Troop Kompanie",
-          "units": "Ein Elysianischer Befehlshaber mit einem Kommissar, sieben Elysianische Sturmtruppen, vier Valkyries.",
+          "units": "Ein Elysianischer Befehlshaber mit einem Kommissar, sieben elysianische Sturmtruppen, vier Valkyries.",
           "extraUnits": [
             "Luftlandungs-Sentinels",
             "Unterstützungstrupps",
@@ -87,13 +87,13 @@
     },
     {
       "name": "Elysian Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände für jeweils Kern Kompanie.",
+      "description": "Bis zu zwei Unterstützungsverbände pro Kern Kompanie.",
       "formations": [
         {
           "name": "Luftlandungs-Sentinel Schwadron",
           "units": "Sechs Luftlandungs-Sentinels",
           "extraUnits": [
-            "Füge drei Sky Talons: 75 Punkte"
+            "Füge drei Sky Talons hinzu: 75 Punkte"
           ],
           "points": 175
         },
@@ -101,37 +101,37 @@
           "name": "Sentinel Schwadron",
           "units": "Vier Sentinels",
           "extraUnits": [
-            "Ersetze all Sentinels with Gepanzerter Sentinels: 25 Punkte",
-            "Ersetze all Sentinels with Unterstützungs-Sentinels: 50 Punkte"
+            "Ersetze alle Sentinels mit gepanzerten Sentinels: 25 Punkte",
+            "Ersetze alle Sentinels mit Unterstützungs-Sentinels: 50 Punkte"
           ],
           "points": 100
         },
         {
-          "name": "Storm Trooper Kompanie",
-          "units": "Acht Elysian Sturmtruppen, eine mit Kommissar, und vier Valkyries.",
+          "name": "Sturmtruppen Kompanie",
+          "units": "Acht elysianische Sturmtruppen, eine Einheit mit Kommissar und vier Valkyries.",
           "extraUnits": [
-            "Ersetze all Valkyries with Vendettas: 75 Punkte"
+            "Ersetze alle Valkyries durch Vendettas: 75 Punkte"
           ],
           "points": 350
         },
         {
           "name": "Support Zug",
-          "units": "Vier Elysian Support Squads oder vier Elysian Mörser Squads, und zwei Valkyries",
+          "units": "Vier elysianische Unterstüzungs Trupps oder vier elysianische Mörsertrupps und zwei Valkyries",
           "extraUnits": [
-            "Ersetze all Valkyries with Vendettas: 25 Punkte"
+            "Ersetze alle Valkyries durch Vendettas: 25 Punkte"
           ],
           "points": 200
         },
         {
           "name": "Tauros Venator Schwadron",
-          "units": "Vier Tauros Venators",
+          "units": "Vier Tauros Venator",
           "extraUnits": [
-            "Füge bis zu zwei Tauros Venators: 25 Punkte jeweils"
+            "Füge bis zu zwei Tauros Venator hinzu: 25 Punkte jeweils"
           ],
           "points": 150
         },
         {
-          "name": "Tauros Recon Schwadron",
+          "name": "Tauros Aufklärungsschwadron",
           "units": "Fünf Tauros",
           "points": 150
         },
@@ -143,8 +143,8 @@
       ]
     },
     {
-      "name": "Static Defenses & Imperiale LuftstreitkräfteAllies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.  Bis zu eine Tarantula formation für jeweils Tauros Recon Schwadron",
+      "name": "Stationäre Verteidigungsanlagen und Imperiale Luftstreitkräfte",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden. Bis zu ein Tarantula Verband pro Tauros Aufklärungsschwadron.",
       "formations": [
         {
           "name": "Tarantula",
@@ -153,7 +153,7 @@
         },
         {
           "name": "Lightning Schwadron",
-          "units": "Zwei Lightning Interceptors",
+          "units": "Zwei Lightning Abfangjäger",
           "points": 150
         },
         {
@@ -172,33 +172,33 @@
           "points": 175
         },
         {
-          "name": "0–1 Orbital Support",
+          "name": "0–1 Orbitalunterstüzung",
           "units": "Ein Lunar-Klasse Kreuzer",
           "points": 150,
           "extraUnits": [
-            "Ersetze the Lunar-Klasse Kreuzer mit einem Imperator-Klasse Schlachtschiff: 25 Punkte"
+            "Ersetze den Lunar-Klasse Kreuzer mit einem Imperator-Klasse Schlachtschiff: 25 Punkte"
           ]
         }
       ]
     }
   ],
-  "Erweiterungen": {
-    "title": "Elysian Erweiterungen",
+  "upgrades": {
+    "title": "Elysianische Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [
       {
         "name": "Luftlandungs-Sentinels",
-        "description": "Ersetze zwei Elysianische Sturmtruppen und eine Valkyrie with zwei Luftlandungs-Sentinels und eine Sky Talon",
+        "description": "Ersetze zwei elysianische Sturmtruppen und eine Valkyrie mit zwei Luftlandungs-Sentinels und einem Sky Talon.",
         "points": "Kostenlos"
       },
       {
         "name": "Unterstützungstrupps",
-        "description": "Ersetze zwei Elysianische Sturmtruppen und eine Valkyrie with zwei Elysianischer Unterstützungstrupps und eine Vendetta",
+        "description": "Ersetze zwei elysianische Sturmtruppen und eine Valkyrie mit zwei elysianischen Unterstützungstrupps und einer Vendetta.",
         "points": "25 Punkte"
       },
       {
         "name": "Infanterie Zug",
-        "description": "Füge zwei Elysianische Sturmtruppen und eine Valkyrie",
+        "description": "Füge zwei elysianische Sturmtruppen und eine Valkyrie hinzu.",
         "points": "75 Punkte"
       }
     ]

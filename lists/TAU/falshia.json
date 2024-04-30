@@ -77,7 +77,7 @@
         },
         {
           "name": "Fire Warrior Radiant Cadre",
-          "units": "Acht Fire Warrior Radiants, oder sechs Fire Warrior Radiants und drei Devilfish",
+          "units": "Acht Fire Warrior Radiants oder sechs Fire Warrior Radiants und drei Devilfish",
           "extraUnits": [
             "Sky Ray",
             "Bonded Team",
@@ -94,13 +94,13 @@
     },
     {
       "name": "Fal'shia Support Groups",
-      "description": " Bis zu drei für jeweils Fal'shia Cadre",
+      "description": "Bis zu drei pro Fal'shia Cadre",
       "formations": [
         {
           "name": "Hammerhead Group",
           "units": "Vier Ion oder vier Fusion Hammerheads",
           "extraUnits": [
-            "Ersetze vier Ion oder Fusion Hammerheads with vier Rail Hammerheads: 25 Punkte",
+            "Ersetze vier Ion oder Fusion Hammerheads mit vier Rail Hammerheads: 25 Punkte",
             "Gun Drones",
             "Swordfish",
             "Stingwings",
@@ -154,12 +154,12 @@
     },
     {
       "name": "Fal'shia Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
       "formations": [
         {
           "name": "Manta Dropship",
           "units": "Ein Manta",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 550
         },
@@ -187,14 +187,14 @@
         {
           "name": "Orca Dropship",
           "units": "Ein Orca",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 150
         },
         {
           "name": "0–1 Spacecraft",
           "units": "Protector Class Cruiser",
-          "Erweiterungen": [
+          "upgrades": [
             "Ersetze mit einemCustodian Class Battleship: 25 Points"
           ],
           "points": 200
@@ -202,7 +202,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Erweiterungen",
     "description": "Maximum 3 Erweiterungen pro Formation und jeweils different allowed upgrade may be taken once by a formation",
     "items": [
@@ -228,7 +228,7 @@
         "name": "0–1 Himmlischer",
         "options": [
           {
-            "description": "Once pro army, add eine Himmlischer to a unit of Fire Warriors",
+            "description": "Once pro army, add eine Himmlischer to a Einheit Fire Warriors",
             "points": "50 Punkte"
           }
         ]

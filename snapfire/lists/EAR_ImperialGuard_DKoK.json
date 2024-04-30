@@ -5,17 +5,17 @@
 	"sections":[
 		{"name":"DEATH KORPS Kern COMPANIES", "formations":[
 			{ "id":501, "name":"Death Korps Regimental HQ", "pts":350, "upgrades":[29,30,31,32] },
-			{ "id":502, "name":"Assault Company", "pts":300, "units":"DKoK Commander with a Commissar, 9 Assault Infantry, Gorgon",  "upgrades":[29,30,31,32] },
-			{ "id":503, "name":"Death Rider Company", "pts":300, "units":"Commissar, 12 Death Riders", "upgrades":[32] }
+			{ "id":502, "name":"Assault Company", "pts":300, "units":"DKoK Commander mit a Commissar, 9 Assault Infantry, Gorgon",  "upgrades":[29,30,31,32] },
+			{ "id":503, "name":"Death Rider Company", "pts":300, "units":"Commissar, 12 Todesreiter", "upgrades":[32] }
 		]},
 		{"name":"SUPPORT FORMATIONS <br/> Max 2 for each Kern Company", "formations":[
-			{ "id":510, "name":"Grenadier Company", "pts":350, "units":"DKoK Commander with a Commissar, 7 Grenadiers", "upgrades":[32] },
+			{ "id":510, "name":"Grenadier Company", "pts":350, "units":"DKoK Commander mit a Commissar, 7 Grenadiers", "upgrades":[32] },
 			{ "id":511, "name":"Leman Russ Platoon", "pts":375, "upgrades":[32] },
 			{ "id":512, "name":"Macharius Company", "pts":375, "units":"2 Macharius", "upgrades":[] },
 			{ "id":513, "name":"Artillery Emplacement", "pts":225, "upgrades":[21] },
 			{"id":509, "name":"Deathstrike Battery", "pts":225, "units":"2 Deathstrike", "upgrades":[]},
 			{ "id":514, "name":"Griffon Battery", "pts":175, "units":"3 Griffons", "upgrades":[] },
-			{ "id":515, "name":"Siege Infantry Company", "pts":300, "units":"DKoK Commander with a Commissar, 9 Siege Infantry, 40cm Gräben, 40cm Stacheldraht", "upgrades":[16,17,18,19] },
+			{ "id":515, "name":"Siege Infantry Company", "pts":300, "units":"DKoK Commander mit a Commissar, 9 Siege Infantry, 40cm Gräben, 40cm Stacheldraht", "upgrades":[16,17,18,19] },
 			{ "id":519, "name":"Flak Emplacement", "pts":175, "upgrades":[] },
 			{ "id":520, "name":"Super-Heavy Platoon", "pts":200, "upgrades":[] },
 			{ "id":521, "name":"Armoured Sentinel Squadron", "pts":125, "units":"4 Armoured Sentinels", "upgrades":[] }
@@ -25,12 +25,12 @@
 			{ "id":531, "name":"Warhounds", "pts":75, "upgrades":[70] },
 			{ "id":532, "name":"Thunderbolt Squadron", "pts":175, "units":"2 Thunderbolt Fighters", "upgrades":[] },
 			{ "id":533, "name":"Marauder Squadron", "pts":250, "units":"2 Marauder Bombers",  "upgrades":[] },
-			{ "id":534, "name":"Orbital Support",	"pts":150, "upgrades":[]}
+			{ "id":534, "name":"Orbitalunterstüzung",	"pts":150, "upgrades":[]}
 		]}
 	],
 	"upgrades":[
-		{ "id":13, "name":"DKoK Supreme Commander with a Commissar, 9 Assault Infantry, Gorgon", "pts":0},
-		{ "id":15, "name":"DKoK Supreme Commander with a Commissar, 19 Assault Infantry, 2 Gorgons", "pts":250},
+		{ "id":13, "name":"DKoK Supreme Commander mit a Commissar, 9 Assault Infantry, Gorgon", "pts":0},
+		{ "id":15, "name":"DKoK Supreme Commander mit a Commissar, 19 Assault Infantry, 2 Gorgons", "pts":250},
 
 		{"id":16, "name":"Snipers",									"pts":25},
 		{"id":17, "name":"2 Snipers",								"pts":50},
@@ -43,8 +43,8 @@
 		{ "id":22, "name":"4 Storm Chimeras", "pts":0},
 		{ "id":23, "name":"Gorgon", "pts":0},
 
-		{ "id":24, "name":"Macharius Command Tank with a Commissar (Twin Vanquishers)", "pts":0 },
-		{ "id":25, "name":"Macharius Command Tank with a Commissar (Vulcan Mega-Bolter)", "pts":0 },
+		{ "id":24, "name":"Macharius Kommandopanzer Tank mit a Commissar (Twin Vanquishers)", "pts":0 },
+		{ "id":25, "name":"Macharius Kommandopanzer Tank mit a Commissar (Vulcan Mega-Bolter)", "pts":0 },
 
 		{ "id":26, "name":"6 Leman Russ Thunderers", "pts":0},
 		{ "id":27, "name":"6 Leman Russ Annihilators", "pts":0},
@@ -54,7 +54,7 @@
 		{ "id":30, "name":"3 Leman Russ Thunderers", "pts":150},
 		{ "id":31, "name":"3 Leman Russ", "pts":150},
 
-		{ "id":32, "name":"Bane Wolf", "pts":25},
+		{ "id":32, "name":"Todeswolf", "pts":25},
 
 		{ "id":35, "name":"2 Malcadors", "pts":175},
 		{ "id":36, "name":"2 Malcador Annihilators", "pts":175},

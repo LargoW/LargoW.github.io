@@ -94,7 +94,7 @@
           "Schadenskapazität 3",
           "Unmodifizierter Rettungswurf"
         ],
-        "crit": "The Harbringer Bomber is zerstört."
+        "crit": "The Harbringer Bomber wird zerstört."
       },
       {
         "name": "Blightbringer Bomber",
@@ -110,7 +110,7 @@
           "Schadenskapazität 3",
           "Unmodifizierter Rettungswurf"
         ],
-        "crit": "The Blightbringer Bomber is zerstört."
+        "crit": "The Blightbringer Bomber wird zerstört."
       },
       {
         "name": "Chaos Xiphon Interceptor",
@@ -160,7 +160,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Fire Raptor is zerstört."
+        "crit": "The Fire Raptor wird zerstört."
       },
       {
         "name": "Chaos Thunderhawk",
@@ -249,7 +249,7 @@
           "Transport"
         ],
         "notes": "May transport zwölf Infanteristen units; Chaos Spawn, Terminatoren und Cybots zählen als zwei Einheiten. Zählt als a Thunderhawk für being transported.",
-        "crit": "The Stormbird und all units being carried are zerstört. All Einheiten mitin 5cm takes a hit."
+        "crit": "The Stormbird und all units being carried are zerstört. All Einheiten innerhalb von 5cm takes a hit."
       },
       {
         "name": "Hellbringer Class Light Cruiser",
@@ -356,7 +356,7 @@
           "Planetare Landung",
           "Transport"
         ],
-        "notes": "May transport eine formation of only the following units: Alpha Legion Marines, Alpha Legion Havocs, Alpha Legion Headhunters, Lernaean Terminatoren, Alpha Legion Cybots. After the Drop Pod lands, its Deathwind attacks all enemy Einheiten mitin 15cm. Jeweils enemy formation attacked receives a Beschussmarke für coming under fire, und an extra Beschussmarke für jeweils casualty. Then any troops carried in the Drop Pod must disembark within 5cm of the Drop Pod oder within 5cm of another unit from the same formation that has already landed, so long as all units are placed within 15cm of the Drop Pod. Drop Pod models should be removed from the board once the formation they transport has disembarked."
+        "notes": "May transport eine formation of only the following units: Alpha Legion Marines, Alpha Legion Havocs, Alpha Legion Headhunters, Lernaean Terminatoren, Alpha Legion Cybots. After the Drop Pod lands, its Deathwind attacks all enemy Einheiten innerhalb von 15cm. Jeweils enemy formation attacked receives a Beschussmarke für coming under fire und an extra Beschussmarke pro casualty. Then any troops carried in the Drop Pod must disembark within 5cm of the Drop Pod oder within 5cm of another unit from the same formation that has already landed, so long as all units are placed within 15cm of the Drop Pod. Drop Pod models should be removed from the board once the formation they transport has disembarked."
       }
     ]
   }

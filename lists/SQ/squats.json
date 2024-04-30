@@ -23,9 +23,9 @@
         "Squat Bikers",
         "Squat Hearthguards",
         "Squat Thunderers",
-        "Mole Mörsers",
+        "Tunnelmörser",
         "Rapier",
-        "Thudd Gun",
+        "Salvengeschütz",
         "Guildmaster Trike",
         "Squat Trike",
         "Squat Rhino",
@@ -66,7 +66,7 @@
           "name": "Warrior Brotherhood",
           "units": "Squat Hearthguards, neun Squat Warriors",
           "extraUnits": [
-            "Ersetze zwei Squat Warriors with zwei Rapiers, oder zwei Thunderers: 25 Punkte",
+            "Ersetze zwei Squat Warriors mit zwei Rapier Geschütze oder zwei Thunderers: 25 Punkte",
             "Füge vier Squat Warriors: 75 Punkte",
             "Kriegsherr",
             "Warrior Transport",
@@ -78,7 +78,7 @@
           "name": "Berserker Brotherhood",
           "units": "Squat Hearthguards, sieben Squat Berserkers, vier Squat Rhinos",
           "extraUnits": [
-            "Ersetze vier Squat Rhinos with vier Termites: 25 Punkte"
+            "Ersetze vier Squat Rhinos mit vier Termites: 25 Punkte"
           ],
           "points": 200
         }
@@ -86,14 +86,14 @@
     },
     {
       "name": "Wodanaz Stronghold Unterstützungsverbände",
-      "description": " Bis zu zwei Stronghold Unterstützungsverbände für jeweils Stronghold Brotherhood Formation.",
+      "description": "Bis zu zwei Stronghold Unterstützungsverbände pro Stronghold Brotherhood Formation.",
       "formations": [
         {
           "name": "Bikers",
           "units": "Sechs Squat Bikers",
           "extraUnits": [
             "Füge eine Guildmaster Trike: 25 Punkte",
-            "Ersetze bis zu drei Squat Bikers with Squat Trikes: Kostenlos"
+            "Ersetze bis zu drei Squat Bikers mit Squat Trikes: Kostenlos"
           ],
           "points": 175
         },
@@ -107,14 +107,14 @@
         },
         {
           "name": "Sentry Batterie",
-          "units": "Sechs Rapiers und/oder Tarantulas",
+          "units": "Sechs Rapier Geschütze und/oder Tarantulas",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Light Artillerie Batterie",
-          "units": "Sechs Thudd Guns und/oder Mole Mörsers",
+          "units": "Sechs Thudd Guns und/oder Tunnelmörser",
           "extraUnits": [
           ],
           "points": 200
@@ -146,7 +146,7 @@
     },
     {
       "name": "Wodanaz Stronghold Kriegsmaschinen",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Wodanaz Stronghold Kriegsmaschinen. Max eine Hellbore für jeweils Warrior Brotherhood formation with the 'Hellbore Transport' upgrade.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Wodanaz Stronghold Kriegsmaschinen. Max eine Hellbore pro Warrior Brotherhood formation mit the 'Hellbore Transport' upgrade.",
       "formations": [
         {
           "name": "Hellbore",
@@ -194,7 +194,7 @@
             "Living Ancestor",
             "Dragon Battle Car: 75 Punkte jeweils",
             "Belagerungsmörser Battle Car: 75 Punkte jeweils",
-            "Berserker Battle Car und eine unit of Squat Berserkers: 75 Punkte jeweils",
+            "Berserker Battle Car und eine Einheit Squat Berserkers: 75 Punkte jeweils",
             "0-1 Bomb Battle Car: 125 Punkte"
           ],
           "points": 200
@@ -202,7 +202,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Wodanaz Stronghold Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [
@@ -227,7 +227,7 @@
       },
       {
         "name": "Thunderer Transport",
-        "description": "Ersetze zwei Squat Rhinos with zwei Termites oder zwei Land Raiders.",
+        "description": "Ersetze zwei Squat Rhinos mit zwei Termites oder zwei Land Raiders.",
         "options": [
           {
             "description": "Termites",
@@ -241,7 +241,7 @@
       },
       {
         "name": "Warrior Transport",
-        "description": "Füge transports to the formation, bis zu the number required to transport all Infanterie Einheiten in the formation. Termites, Hellbore und Leviathan transports can not be combined with other transport options. Transports can only be taken if the entire formation can be transported.",
+        "description": "Füge transports to the formation, bis zu the number required to transport all Infanterie Einheiten in the formation. Termites, Hellbore und Leviathan transports can not be combined mit other transport options. Transports can only be taken if the entire formation can be transported.",
         "options": [
           {
             "description": "Squat Rhinos",
