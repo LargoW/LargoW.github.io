@@ -652,7 +652,7 @@
       {
         "name": "Hive Nest",
         "type": "WE",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 5,
         "cc": 5,
         "ff": 6,
@@ -665,7 +665,7 @@
           "Furchtlos",
           "Regeneration"
         ],
-        "crit": "The Hive Nest is destroyed."
+        "crit": "The Hive Nest is zerstört."
       },
       {
         "name": "Dagon Dominatrix",

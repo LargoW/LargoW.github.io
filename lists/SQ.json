@@ -150,7 +150,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Rapier Laser Destroyer"
+          "Rapier Schnitter"
         ],
         "specialRules": [
         ]
@@ -211,7 +211,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Squat Warlord, Grand Warlord, und Squat Thunderfire units takes zwei spaces jeweils. While transporting Squat Thunderfires, Squat Rhinos' speed are reduced to 20cm."
+        "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Squat Warlord, Grand Warlord, und Squat Donnerfeuer units takes zwei spaces jeweils. While transporting Squat Thunderfires, Squat Rhinos' speed are reduced to 20cm."
       },
       {
         "name": "Land Raider",
@@ -232,13 +232,13 @@
         "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Squat Warlord und Grand Warlord units takes zwei spaces jeweils."
       },
       {
-        "name": "Squat Thunderfire",
+        "name": "Squat Donnerfeuer",
         "type": "AV",
         "speed": 5,
         "armour": 5,
         "ff": 6,
         "weapons": [
-          "Squat Thunderfire Cannons"
+          "Squat Donnerfeuer Cannons"
         ],
         "specialRules": [
         ]
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "name": "Bronze Raven Gunship",
+        "name": "Bronze Raven Kanonenschiff",
         "type": "AC",
         "speed": "Bomber[*]",
         "armour": 5,
@@ -287,7 +287,7 @@
           "Schadenskapazität 3",
           "Hilfstransportschiff"
         ],
-        "crit": "The Overlord is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "The Overlord is zerstört. All Einheiten mitin 5cm suffers a hit on 6+."
       },
       {
         "name": "Termite",
@@ -309,7 +309,7 @@
       {
         "name": "Hellbore",
         "type": "WE",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 3,
         "cc": 5,
         "ff": 5,
@@ -324,7 +324,7 @@
           "Transport"
         ],
         "notes": "May transport zwölf Infanteristen units ohne Sprungmodule oder Beritten Eigenschaft transportieren. Squat Warlord units takes zwei spaces jeweils.",
-        "crit": "The Hellbore is destroyed."
+        "crit": "The Hellbore is zerstört."
       },
       {
         "name": "Goliath Mega Geschütz",
@@ -340,7 +340,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All Einheiten mitin 5cm takes a hit."
+        "crit": "The unit is zerstört. All Einheiten mitin 5cm takes a hit."
       },
       {
         "name": "Leviathan",
@@ -434,7 +434,7 @@
           "Furchtlos"
         ],
         "notes": "[*]Jeweils Berserker Battle Car may transport eine unit of Squat Berserkers. It is allowed to firefight while being transported inside the Land Train.",
-        "crit": "The last Battle Car in the train is destroyed. If no Battle Cars remain the Land Train engine is destroyed."
+        "crit": "The last Battle Car in the train is zerstört. If no Battle Cars remain the Land Train engine is zerstört."
       }
     ]
   }

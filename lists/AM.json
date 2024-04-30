@@ -309,7 +309,7 @@
       {
         "name": "Tarantula",
         "type": "LV",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 5,
         "ff": "5+/4",
         "weapons": [
@@ -342,11 +342,11 @@
       {
         "name": "Hyperios Sentry",
         "type": "LV",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 6,
         "ff": 6,
         "weapons": [
-          "Hyperios Launcher"
+          "Hyperios Raketenwerfer"
         ],
         "specialRules": [
           "Maschinengeist",
@@ -361,7 +361,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Rapier Laser Destroyer"
+          "Rapier Schnitter"
         ],
         "specialRules": []
       },
@@ -668,7 +668,7 @@
       {
         "name": "Mole",
         "type": "WE",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 5,
         "ff": 5,
         "weapons": [
@@ -685,7 +685,7 @@
       {
         "name": "Lysander Fighter",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Abfangjäger",
         "armour": 6,
         "weapons": [
           "AC Multilaser||FxF",
@@ -724,7 +724,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "3BP, MW"
@@ -739,7 +739,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "0-1x Orbital Bombardment",
+            "name": "0-1x Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "6BP, MW"
@@ -749,9 +749,9 @@
           "Pin Point|0-1 2|"
         ],
         "specialRules": [
-          "Slow to Arrive (may only arrive on the battlefield from turn 2 onwards)"
+          "Verzögerte Ankunft (may only arrive on the battlefield from turn 2 onwards)"
         ],
-        "notes": "Is equipped with either Orbital Bombardment oder zwei Pin Point attacks (may be chosen at the start of battle)"
+        "notes": "Is equipped with either Orbitales Bombardement oder zwei Pin Point attacks (may be chosen at the start of battle)"
       }
     ]
   }

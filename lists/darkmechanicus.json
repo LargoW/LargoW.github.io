@@ -128,7 +128,7 @@
       {
         "name": "Chaos Tarantula",
         "type": "LV",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 5,
         "ff": 4,
         "weapons": [
@@ -348,7 +348,7 @@
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "crit": "The Kaban Machine is destroyed. All Einheiten mitin 5cm takes a hit."
+        "crit": "The Kaban Machine is zerstört. All Einheiten mitin 5cm takes a hit."
       },
       {
         "name": "Defiler",
@@ -519,7 +519,7 @@
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ],
-        "crit": "The Ritter-Renegade is destroyed."
+        "crit": "The Ritter-Renegade is zerstört."
       },
       {
         "name": "Ritter-Tyrant",
@@ -543,7 +543,7 @@
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ],
-        "crit": "The Ritter-Tyrant is destroyed."
+        "crit": "The Ritter-Tyrant is zerstört."
       },
       {
         "name": "Ritter-Dreadblade",
@@ -596,7 +596,7 @@
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ],
-        "crit": "The Vernichter is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "The Vernichter is zerstört. All Einheiten mitin 5cm suffers a hit on 6+."
       },
       {
         "name": "Death Wheel",
@@ -617,7 +617,7 @@
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ],
-        "crit": "The Death Wheel is destroyed."
+        "crit": "The Death Wheel is zerstört."
       },
       {
         "name": "Shrine of Chaos",
@@ -838,7 +838,7 @@
           "Regeneration",
           "Daemon Engine (Nurgle)"
         ],
-        "crit": "The Plague Reaper is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "The Plague Reaper is zerstört. All Einheiten mitin 5cm suffers a hit on 6+."
       },
       {
         "name": "Ritter-Desecrator",
@@ -861,7 +861,7 @@
           "Regeneration",
           "Daemon Engine (Nurgle)"
         ],
-        "crit": "The Ritter-Desecrator is destroyed."
+        "crit": "The Ritter-Desecrator is zerstört."
       },
       {
         "name": "Plague Tower",
@@ -977,7 +977,7 @@
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Khorne)"
         ],
-        "crit": "The Ritter-Rampager is destroyed."
+        "crit": "The Ritter-Rampager is zerstört."
       },
       {
         "name": "Greater Brass Scorpion",
@@ -1000,7 +1000,7 @@
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Khorne)"
         ],
-        "crit": "The Greater Brass Scorpion is destroyed."
+        "crit": "The Greater Brass Scorpion is zerstört."
       },
       {
         "name": "Lord of Battles",
@@ -1104,7 +1104,7 @@
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Tzeentch)"
         ],
-        "crit": "The Ritter-Despoiler is destroyed."
+        "crit": "The Ritter-Despoiler is zerstört."
       },
       {
         "name": "Mirrorfiend",
@@ -1124,7 +1124,7 @@
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Tzeentch)"
         ],
-        "crit": "The runes that bind the imprisoned daemon are broken, und the Mirrorfiend is destroyed. All models within 5cm take a hit on 4+."
+        "crit": "The runes that bind the imprisoned daemon are broken, und the Mirrorfiend is zerstört. All models within 5cm take a hit on 4+."
       },
       {
         "name": "Warp Palace",

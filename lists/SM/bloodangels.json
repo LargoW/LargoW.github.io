@@ -47,16 +47,16 @@
         "Baal Predator Infernus",
         "Storm Talon",
         "Stormraven",
-        "Landing Craft",
-        "Battle Barge",
-        "Strike Cruiser",
+        "Landungsbarke",
+        "Schlachtkreuzer",
+        "Angriffskreuzer",
         "Vanguard Class Light Cruiser",
         "Drop Pod"
       ],
       "unitRules": [
         "Ehrengarde",
-        "Descent of Angels",
-        "Lucifer Pattern Engine"
+        "Abstieg der Engel",
+        "Lucifer Pattern Maschine"
       ]
     },
     {
@@ -187,15 +187,15 @@
           "points": 200
         },
         {
-          "name": "Landing Craft",
-          "units": "Ein Landing Craft",
+          "name": "Landungsbarke",
+          "units": "Ein Landungsbarke",
           "points": 325
         },
         {
           "name": "0-1 Orbital Support",
           "units": "Ein Vanguard Class Light Cruiser",
           "extraUnits": [
-            "Ersetze the Vanguard Class Light Cruiser mit einemStrike Cruiser: 50 Punkte, oder a Battle Barge: 125 Punkte"
+            "Ersetze the Vanguard Class Light Cruiser mit einemStrike Cruiser: 50 Punkte, oder a Schlachtkreuzer: 125 Punkte"
           ],
           "points": 150
         },

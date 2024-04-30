@@ -8,7 +8,7 @@
       {
         "name": "Nightwing Interceptor",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Abfangjäger",
         "armour": 5,
         "weapons": [
           "AC Synchronisierter Shuriken Geschütz",
@@ -21,7 +21,7 @@
       {
         "name": "Nightshade Interceptor",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Abfangjäger",
         "armour": 4,
         "weapons": [
           "AC Bright Lanze|2|"
@@ -46,7 +46,7 @@
       {
         "name": "Hemlock Wraithfighter",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Abfangjäger",
         "armour": 4,
         "weapons": [
           "AC Heavy D-Scythe"
@@ -68,12 +68,12 @@
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "May carry bis zu acht of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Support Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Warp Spiders, Swooping Hawks. Wraithguards und Wraithblades take zwei spaces jeweils.",
-        "crit": "The Vampire Raider und all units on board are destroyed."
+        "crit": "The Vampire Raider und all units on board are zerstört."
       },
       {
         "name": "Vampire Hunter",
@@ -89,7 +89,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Vampire Hunter is destroyed."
+        "crit": "The Vampire Hunter is zerstört."
       },
       {
         "name": "Corsair Vampire Hunter",
@@ -108,14 +108,14 @@
           "Transport"
         ],
         "notes": "May carry vier Ghost Walkers, Wasp Walkers.",
-        "crit": "The Corsair Vampire Hunter und all units on board are destroyed."
+        "crit": "The Corsair Vampire Hunter und all units on board are zerstört."
       },
       {
         "name": "Wraithship",
         "type": "SC",
         "weapons": [
           {
-            "name": "0-1x Orbital Bombardment",
+            "name": "0-1x Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "4BP, MW"
@@ -125,7 +125,7 @@
           "Pin Point|0-1|"
         ],
         "specialRules": [
-          "Is equipped with either Orbital Bombardment oder eine Pin Point attack (may be chosen at the start of battle)"
+          "Is equipped with either Orbitales Bombardement oder eine Pin Point attack (may be chosen at the start of battle)"
         ]
       },
       {
@@ -133,7 +133,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "0-1x Orbital Bombardment",
+            "name": "0-1x Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "8BP, MW"
@@ -143,7 +143,7 @@
           "Pin Point|0-1 2|"
         ],
         "specialRules": [
-          "Is equipped with either Orbital Bombardment oder zwei Pin Point attacks (may be chosen at the start of battle)",
+          "Is equipped with either Orbitales Bombardement oder zwei Pin Point attacks (may be chosen at the start of battle)",
           "Transport"
         ],
         "notes": "May carry bis zu zwölf Vampires und any units transported within them"

@@ -253,7 +253,7 @@
           "Aufklärer",
           "Teleportieren",
           "Tau Jet Packs",
-          "Zählt als Gun Drone für the purpose of being transported."
+          "Zählt als Gun Drone für die Transport Regel."
         ]
       },
       {
@@ -270,7 +270,7 @@
           "Teleportieren",
           "Markerlights",
           "Aufklärers",
-          "Zählt als Fire Warrior für the purpose of being transported."
+          "Zählt als Fire Warrior für die Transport Regel."
         ]
       },
       {
@@ -647,7 +647,7 @@
           "Tri-axis Ionenkanone|2|FwA",
           "Synchronisierter Burst Geschütz|2|",
           "Synchronisierter Smart Rakete System|2|",
-          "Nexus Rakete Array|0-1|",
+          "Nexus Raketenarray|0-1|",
           "Heavy Railcannon|0-1|FwA",
           "Pulse Ordnance Multi-Driver|0-1|FwA"
         ],
@@ -657,7 +657,7 @@
           "Tau Energiefeld",
           "Geländegängig"
         ],
-        "notes": "Entweder mit Nexus Rakete Array, Heavy Railcannon, oder Pulse Ordnance Multi Driver.",
+        "notes": "Entweder mit Nexus Raketenarray, Heavy Railcannon, oder Pulse Ordnance Multi Driver.",
         "crit": "The Tau Energiefeld is knocked offline und may not be used für the remainder of the game. Subsequent critical hits cause einen zusätzlichen point of damage."
       },
       {
@@ -677,7 +677,7 @@
           "Schadenskapazität 6",
           "Furchtlos",
           "Markerlights",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Hilfstransportschiff",
           "Tau Energiefeld",

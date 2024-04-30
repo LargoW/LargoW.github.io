@@ -610,7 +610,7 @@
         "specialRules": [
           "Schadenskapazität 3"
         ],
-        "crit": "The Skullhamma is destroyed. All Einheiten mitin 5cm takes a hit on 6+"
+        "crit": "The Skullhamma is zerstört. All Einheiten mitin 5cm takes a hit on 6+"
       },
       {
         "name": "Supa-Stompa",
@@ -814,7 +814,7 @@
       {
         "name": "Dakkajet",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Abfangjäger",
         "armour": 6,
         "weapons": [
           "AC Synchronisierter Supa Shoota|2|FxF"
@@ -860,7 +860,7 @@
         "specialRules": [
           "Schadenskapazität 2"
         ],
-        "crit": "The Bommer is destroyed."
+        "crit": "The Bommer is zerstört."
       },
       {
         "name": "Landa",
@@ -875,17 +875,17 @@
         ],
         "specialRules": [
           "Schadenskapazität 3",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Ten Killa Bots, Waaghbikes, Boys, Bosse, Kommandos, StormBoys, Grotz. Kanonänbatterie, Buggies, Skorchas, Deff Dreads takes zwei spaces jeweils. May carry vier units of Grotz in addition to any other units transported",
-        "crit": "The Landa und all units being transported are destroyed."
+        "crit": "The Landa und all units being transported are zerstört."
       },
       {
         "name": "Drop Rok",
         "type": "WE",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 3,
         "cc": 6,
         "ff": 4,
@@ -894,11 +894,11 @@
         ],
         "specialRules": [
           "Schadenskapazität 3",
-          "Planetfall[*]",
+          "Planetare Landung[*]",
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "Ten Killa Bots, Boys, Bosse, Kommandos, StormBoys, Grotz. Deff Dreads und Mega Dreads takes zwei spaces jeweils. [*] Must start the game loaded into a Blood Axes Kill Kroozer oder Battlekroozer. May only enter the game through Planetfall",
+        "notes": "Ten Killa Bots, Boys, Bosse, Kommandos, StormBoys, Grotz. Deff Dreads und Mega Dreads takes zwei spaces jeweils. [*] Must start the game loaded into a Blood Axes Kill Kroozer oder Battlekroozer. May only enter the game through Planetare Landung",
         "crit": "The Drop Rok und all units being transported are destroyed"
       },
       {
@@ -906,7 +906,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "1D6BP, MW"
@@ -920,7 +920,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "1D6BP, MW"
@@ -938,7 +938,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "1D6+4BP, MW"
@@ -947,7 +947,7 @@
           }
         ],
         "specialRules": [
-          "Slow to arrive (may only arrive from turn 2 onwards)",
+          "Verzögerte Ankunft (Darf erst ab der 2. Runde  erscheinen)",
           "Transport: May transport 12 Landas und the units carried on them"
         ]
       },
@@ -956,7 +956,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "1D6+3BP, MW"

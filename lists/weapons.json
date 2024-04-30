@@ -212,7 +212,7 @@
       ]
     },
     {
-      "name": "Orbital Bombardment 1D6BP",
+      "name": "Orbitales Bombardement 1D6BP",
       "modes": [
         {
           "firepower": "1D6BP",
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "name": "Orbital Bombardment 1D6+1BP",
+      "name": "Orbitales Bombardement 1D6+1BP",
       "modes": [
         {
           "firepower": "1D6+1BP",
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "name": "Orbital Bombardment 1D6+3BP",
+      "name": "Orbitales Bombardement 1D6+3BP",
       "modes": [
         {
           "firepower": "1D6+3BP",
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "name": "Orbital Bombardment 1D6+4BP",
+      "name": "Orbitales Bombardement 1D6+4BP",
       "modes": [
         {
           "firepower": "1D6+4BP",
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "name": "Orbital Bombardment 3BP",
+      "name": "Orbitales Bombardement 3BP",
       "modes": [
         {
           "firepower": "3BP",
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "name": "Orbital Bombardment 4BP",
+      "name": "Orbitales Bombardement 4BP",
       "modes": [
         {
           "firepower": "4BP",
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "name": "Orbital Bombardment 6BP",
+      "name": "Orbitales Bombardement 6BP",
       "modes": [
         {
           "firepower": "6BP",
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "name": "Orbital Bombardment 8BP",
+      "name": "Orbitales Bombardement 8BP",
       "modes": [
         {
           "firepower": "8BP",
@@ -355,7 +355,7 @@
       ]
     },
     {
-      "name": "AC Synchronisierter Avenger Bolt Geschütz",
+      "name": "AC Synchronisiertes Avenger Bolter Geschütz",
       "modes": [
         {
           "firepower": "3x AP5+/AT5+",
@@ -448,7 +448,7 @@
       ]
     },
     {
-      "name": "AC Bomb Racks",
+      "name": "AC Bomben",
       "modes": [
         {
           "firepower": "3BP",
@@ -799,7 +799,7 @@
       ]
     },
     {
-      "name": "AC Stasis Bomb",
+      "name": "AC Stasisbombe",
       "modes": [
         {
           "firepower": "1BP",
@@ -1018,7 +1018,7 @@
       ]
     },
     {
-      "name": "AC Rift Geschütz",
+      "name": "AC Risskanone",
       "modes": [
         {
           "firepower": "MW4+",
@@ -1177,7 +1177,7 @@
       ]
     },
     {
-      "name": "AC Rakete Array",
+      "name": "AC Raketenarray",
       "modes": [
         {
           "firepower": "2x AT5+",
@@ -4360,7 +4360,7 @@
       ]
     },
     {
-      "name": "Flamestorm Geschütz ",
+      "name": "Flammensturmgeschütz ",
       "modes": [
         {
           "firepower": "AP3+",
@@ -4372,7 +4372,7 @@
       ]
     },
     {
-      "name": "Flamestorm Geschütz",
+      "name": "Flammensturmgeschütz",
       "modes": [
         {
           "firepower": "AP3+",
@@ -4391,7 +4391,7 @@
       ]
     },
     {
-      "name": "Flamestorm Incinerator",
+      "name": "Erlöser-Flammensturm",
       "modes": [
         {
           "firepower": "AP3+",
@@ -5631,7 +5631,7 @@
       ]
     },
     {
-      "name": "Helfrost Destructor",
+      "name": "Helfrost-Destruktor",
       "modes": [
         {
           "firepower": "MW4+",
@@ -5643,7 +5643,7 @@
       ]
     },
     {
-      "name": "Helfrost Destructor",
+      "name": "Helfrost-Destruktor",
       "modes": [
         {
           "firepower": "MW2+",
@@ -5654,7 +5654,7 @@
       ]
     },
     {
-      "name": "AC Helfrost Destructor",
+      "name": "AC Helfrost-Destruktor",
       "modes": [
         {
           "firepower": "MW2+",
@@ -5676,7 +5676,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Helfrost Geschütz",
+      "name": "Synchronisiertes Helfrost Geschütz",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -5917,7 +5917,7 @@
       ]
     },
     {
-      "name": "Hunter-Killer",
+      "name": "Himmelspeer Raketenwerfer",
       "modes": [
         {
           "firepower": "AT4+/AA4+",
@@ -5926,7 +5926,7 @@
       ]
     },
     {
-      "name": "Hunter-killer missile",
+      "name": "Himmelspeer Raketenwerfer missile",
       "modes": [
         {
           "firepower": "AT2+",
@@ -6039,7 +6039,7 @@
       ]
     },
     {
-      "name": "Hyperios Launcher",
+      "name": "Hyperios Raketenwerfer",
       "modes": [
         {
           "firepower": "AT6+/AA5+",
@@ -6048,7 +6048,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Hyperios Launcher",
+      "name": "Synchronisierter Hyperios Raketenwerfer",
       "modes": [
         {
           "firepower": "AT5+/AA4+",
@@ -6078,7 +6078,7 @@
       ]
     },
     {
-      "name": "Icarus Stormcannons",
+      "name": "Icarus-Sturmkanonen",
       "modes": [
         {
           "firepower": "2x AP5+/AT5+/AA5+",
@@ -6640,7 +6640,7 @@
       ]
     },
     {
-      "name": "Laser Destroyer Array",
+      "name": "Schnitter Array",
       "modes": [
         {
           "firepower": "2x AT4+",
@@ -7635,7 +7635,7 @@
       ]
     },
     {
-      "name": "Nexus Rakete Array",
+      "name": "Nexus Raketenarray",
       "modes": [
         {
           "firepower": "5x MW5+",
@@ -8720,7 +8720,7 @@
       ]
     },
     {
-      "name": "Synchronisierte Psibolter",
+      "name": "Synchronisierter Psibolter",
       "modes": [
         {
           "firepower": "AP3+/AT4+",
@@ -8732,7 +8732,7 @@
       ]
     },
     {
-      "name": "AC Synchronisierte Psibolter",
+      "name": "AC Synchronisierter Psibolter",
       "modes": [
         {
           "firepower": "AP4+/AT4+/AA5+",
@@ -9203,7 +9203,7 @@
       ]
     },
     {
-      "name": "Rapier Laser Destroyer",
+      "name": "Rapier Schnitter",
       "modes": [
         {
           "firepower": "AP6+/AT4+",
@@ -11005,7 +11005,7 @@
       ]
     },
     {
-      "name": "Squat Thunderfire Cannons",
+      "name": "Squat Donnerfeuer Cannons",
       "modes": [
         {
           "firepower": "AP5+/AT5+/AA4+",
@@ -11016,7 +11016,7 @@
       ]
     },
     {
-      "name": "Thunderfire Geschütz",
+      "name": "Donnerfeuer Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT6+",
@@ -11552,7 +11552,7 @@
       ]
     },
     {
-      "name": "AC Doppeltsynchronisierter schwerer Bolter Turrets",
+      "name": "AC Doppeltsynchronisierte schwere Bolter Türme",
       "modes": [
         {
           "firepower": "AA4+",
@@ -12088,7 +12088,7 @@
       ]
     },
     {
-      "name": "Vengeance Launcher",
+      "name": "Vergeltungswerfer",
       "modes": [
         {
           "firepower": "Handfeuerwaffen, EA(+1)"
@@ -12710,7 +12710,7 @@
 
 
     {
-      "name": "Bolt Rifle",
+      "name": "Bolt Gewehr",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -12732,7 +12732,7 @@
       ]
     },
     {
-      "name": "Heavy Bolt Rifle",
+      "name": "Schweres Bolt Gewehr",
       "modes": [
         {
           "firepower": "AP4+",
@@ -12741,7 +12741,7 @@
       ]
     },
     {
-      "name": "Assault Bolter",
+      "name": "Angriffsbolter",
       "modes": [
         {
           "firepower": "Assault Weapon",
@@ -12761,7 +12761,7 @@
       ]
     },
     {
-      "name": "Heavy Melter Rifle",
+      "name": "Schweres Meltergewehr",
       "modes": [
         {
           "firepower": "MW4+",

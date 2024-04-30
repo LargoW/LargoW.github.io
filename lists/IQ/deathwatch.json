@@ -9,7 +9,7 @@
   "specialRules": [
     "Ad Hoc Verbände",
     "Telemetrieempfänger",
-    "Wings of the Sky Angel"
+    "Flügel der Himmelsengel"
   ],
   "usage": [
     "The following army list allows you to field an army based on Ordo Xenos with Deathwatch allies"
@@ -45,7 +45,7 @@
         "Deathwatch Land Raider",
         "Corvus Blackstar Dropship",
         "Deathwatch Thunderhawk Transporter",
-        "Dark Hunter Class Destroyer"
+        "Dark Jäger Klasse Zerstörer"
       ],
       "unitRules": [
         "Sie kennen keine Furcht"
@@ -126,7 +126,7 @@
         },
         {
           "name": "1 Dark Hunter",
-          "units": "Ein Dark Hunter Class Destroyer",
+          "units": "Ein Dark Jäger Klasse Zerstörer",
           "extraUnits": [],
           "points": 75
         }

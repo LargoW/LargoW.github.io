@@ -497,7 +497,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Rapier Laser Destroyer"
+          "Rapier Schnitter"
         ],
         "specialRules": [
         ]
@@ -516,14 +516,14 @@
         ]
       },
       {
-        "name": "Space Marine Thunderfire",
+        "name": "Space Marine Donnerfeuer",
         "type": "INF",
         "speed": 10,
         "armour": 5,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Thunderfire Geschütz"
+          "Donnerfeuer Geschütz"
         ],
         "specialRules": [
         ]
@@ -546,7 +546,7 @@
         ]
       },
       {
-        "name": "Wolf Guard Terminatoren",
+        "name": "Terminatoren der Wolfsgarde",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -722,7 +722,7 @@
         "notes": "Zählt als Sturmtrupp für die Transport Regel."
       },
       {
-        "name": "Sternguard Veterans",
+        "name": "Protektorgarde",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -739,7 +739,7 @@
         ]
       },
       {
-        "name": "Vanguard Veterans",
+        "name": "Expugnatorgarde",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -1451,7 +1451,7 @@
           "Multimelter|2"
         ],
         "specialRules": [
-          "Lucifer Pattern Engine"
+          "Lucifer Pattern Maschine"
         ]
       },
       {
@@ -1462,11 +1462,11 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Flamestorm Geschütz ",
+          "Flammensturmgeschütz ",
           "Schwerer Flammenwerfer|2"
         ],
         "specialRules": [
-          "Lucifer Pattern Engine"
+          "Lucifer Pattern Maschine"
         ]
       },
       {
@@ -1542,7 +1542,7 @@
         ],
         "specialRules": [
           "Transport",
-          "Lucifer Pattern Engine"
+          "Lucifer Pattern Maschine"
         ],
         "notes": "Darf eine Infanterie Einheit (außer Terminatoren) ohne Sprungmodule oder Beritten Eigenschaft transportieren. Armed with either Synchronisierte Laserkanone oder Synchronisierter schwerer Bolter. Razorbacks die mit einem synchronisierten schweren Bolter bewaffnet sind, haben einen FF von 4+."
       },
@@ -1569,7 +1569,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Synchronisierte Psibolter"
+          "Synchronisierter Psibolter"
         ],
         "specialRules": [
           "Transport",
@@ -1605,7 +1605,7 @@
         ],
         "specialRules": [
           "Transport",
-          "Lucifer Pattern Engine"
+          "Lucifer Pattern Maschine"
         ],
         "notes": "Darf zwei Infanterie Einheiten (außer Terminatoren) ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
@@ -1666,7 +1666,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Hunter-Killer"
+          "Himmelspeer Raketenwerfer"
         ]
       },
       {
@@ -1677,10 +1677,10 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Hunter-Killer"
+          "Himmelspeer Raketenwerfer"
         ],
         "specialRules": [
-          "Lucifer Pattern Engine"
+          "Lucifer Pattern Maschine"
         ]
       },
       {
@@ -1691,7 +1691,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Icarus Stormcannons"
+          "Icarus-Sturmkanonen"
         ]
       },
       {
@@ -1702,10 +1702,10 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Icarus Stormcannons"
+          "Icarus-Sturmkanonen"
         ],
         "specialRules": [
-          "Lucifer Pattern Engine"
+          "Lucifer Pattern Maschine"
         ]
       },
       {
@@ -1730,7 +1730,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Laser Destroyer Array"
+          "Schnitter Array"
         ]
       },
       {
@@ -1781,7 +1781,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Flamestorm Geschütz|2",
+          "Flammensturmgeschütz|2",
           "Synchronisierte Sturmkanone"
         ],
         "specialRules": [
@@ -1819,7 +1819,7 @@
         "ff": 4,
         "weapons": [
           "Synchronisierte Laserkanone|2",
-          "Synchronisierte Psibolter"
+          "Synchronisierter Psibolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1838,8 +1838,8 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Synchronisierte Psibolter",
-          "Flamestorm Incinerator|2"
+          "Synchronisierter Psibolter",
+          "Erlöser-Flammensturm|2"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1874,7 +1874,7 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Thunderfire Geschütz",
+          "Donnerfeuer Geschütz",
           "Synchronisierter Multimelter|2|"
         ],
         "specialRules": [
@@ -1947,7 +1947,7 @@
         "ff": 5,
         "weapons": [
           "Synchronisierte Laserkanone|2",
-          "Hyperios Launcher|0-1",
+          "Hyperios Raketenwerfer|0-1",
           "Whirlwind Raketenwerfer|0-1"
         ],
         "specialRules": [
@@ -1955,7 +1955,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "Entweder mit Hyperios oder Whirlwind Raketenwerfer. Darf eine Infanterie Einheit (außer Terminatoren) ohne Sprungmodule oder Beritten Eigenschaft transportieren. Zählt als Land Raider für die Transport Regel."
+        "notes": "Entweder mit Hyperios oder Whirlwind Raketenwerfer bewaffnet. Darf eine Infanterie Einheit (außer Terminatoren) ohne Sprungmodule oder Beritten Eigenschaft transportieren. Zählt als Land Raider für die Transport Regel."
       },
       {
         "name": "Land Raider Prometheus",
@@ -1976,7 +1976,7 @@
         "notes": "Darf eine Einheit Terminatoren oder zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
-        "name": "Land Raider Wrath of Mjalnar",
+        "name": "Land Raider Zorn des Mjalnar",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1984,7 +1984,7 @@
         "ff": 4,
         "weapons": [
           "Synchronisierte Laserkanone|2|",
-          "Synchronisierter Helfrost Geschütz"
+          "Synchronisiertes Helfrost Geschütz"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1996,15 +1996,15 @@
       {
         "name": "Bastion",
         "type": "WE",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 4,
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Hyperios Launcher",
+          "Hyperios Raketenwerfer",
           "Synchronisierter schwerer Bolter|2|",
-          "Rapier Laser Destroyer|0-2|",
-          "Thunderfire Geschütz|0-2|"
+          "Rapier Schnitter|0-2|",
+          "Donnerfeuer Geschütz|0-2|"
         ],
         "specialRules": [
           "Schadenskapazität 4",
@@ -2012,8 +2012,8 @@
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung"
         ],
-        "notes": "Must take either zwei Rapier Laser Destroyers oder zwei Thunderfire Cannons. A Bastion counts as a ruins terrain piece once destroyed.",
-        "crit": "The Bastion takes an extra point of damage."
+        "notes": "Muss entweder zwei Rapier Schnitter oder zwei Donnerfeuer Kanonen auswählen. Die Bastion zählt als Geländestück (Ruine) sobald sie zerstört wird.",
+        "crit": "Die Bastion verliert einen weiteren Schadenspunkt."
       },
       {
         "name": "Fellblade",
@@ -2032,7 +2032,7 @@
           "Schadenskapazität 4",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Fellblade is destroyed. Alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer."
+        "crit": "Der Fellblade wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer."
       },
       {
         "name": "Glaive",
@@ -2050,10 +2050,10 @@
           "Schadenskapazität 4",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Glaive is destroyed. Alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer."
+        "crit": "Die Glaive wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer."
       },
       {
-        "name": "Deathwatch Landing Craft",
+        "name": "Deathwatch Landungsbarke",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 4,
@@ -2066,7 +2066,7 @@
         "specialRules": [
           "Schadenskapazität 4",
           "Furchtlos",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Transport"
         ],
@@ -2074,7 +2074,7 @@
         "crit": "Die Einheit und alle transportierten Einheiten werden vernichtet. Alle Einheiten innerhalb von 5 cm erleiden einen Treffer."
       },
       {
-        "name": "Grey Knights Landing Craft",
+        "name": "Grey Knights Landungsbarke",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 4,
@@ -2082,13 +2082,13 @@
         "ff": 3,
         "weapons": [
           "Synchronisierte Laserkanone|2",
-          "AC Synchronisierte Psibolter|3"
+          "AC Synchronisierter Psibolter|3"
         ],
         "specialRules": [
           "Schadenskapazität 4",
           "Furchtlos",
           "Gläubig",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Transport"
@@ -2096,7 +2096,7 @@
         "notes": "Darf zwölf Infanterie Einheiten oder Cybots transportieren; Terminatoren und Cybots zählen als zwei Einheiten; sowie sechs beliebige Fahrzeuge (außer Cybots); Land Raider zählen als jeweils anderthalb Einheiten, aufgerundet. Kritischer Treffer: Die Einheit und alle transportierten Einheiten werden vernichtet. Alle Einheit innerhalb von 5 cm erleiden bei 4+ einen Treffer."
       },
       {
-        "name": "Stormwolf Assault Boat",
+        "name": "Stormwolf Sturmtransporter",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 5,
@@ -2105,24 +2105,24 @@
         "weapons": [
           "AC Synchronisierte Laserkanone||FxF",
           "AC Synchronisierter schwerer Bolter||",
-          "Synchronisierter Helfrost Geschütz||"
+          "Synchronisiertes Helfrost Geschütz||"
         ],
         "specialRules": [
           "Schadenskapazität 2",
           "Verstärkte Panzerung",
-          "Planetfall",
+          "Planetare Landung",
           "Transport"
         ],
-        "notes": "Darf sechs Infanterie Einheiten ohne Beritten Eigenschaft transportieren; Terminatoren und Cybots zählen als zwei Einheiten. Zählt als a Landing Craft für die Transport Regel.",
-        "crit": "The Stormwolf und all units being carried are destroyed."
+        "notes": "Darf sechs Infanterie Einheiten ohne Beritten Eigenschaft transportieren; Terminatoren und Cybots zählen als zwei Einheiten. Zählt als a Landungsbarke für die Transport Regel.",
+        "crit": "Der Stormwolf und alle transportierten Einheiten werden zerstört."
       },
       {
-        "name": "Stormfang Gunship",
+        "name": "Stormfang Kanonenschiff",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Helfrost Destructor||FxF",
+          "AC Helfrost-Destruktor||FxF",
           "AC Synchronisierte Laserkanone||FxF",
           "AC Synchronisierter schwerer Bolter||"
         ],
@@ -2130,12 +2130,12 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Stormfang is destroyed."
+        "crit": "Der Stormfang ist zerstört."
       },
       {
         "name": "Storm Talon",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Abfangjäger",
         "armour": 5,
         "weapons": [
           "AC Synchronisierte Sturmkanone||FwA",
@@ -2145,7 +2145,7 @@
       {
         "name": "Deathwatch Storm Talon",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Abfangjäger",
         "armour": 5,
         "weapons": [
           "AC Synchronisierte Sturmkanone||FwA",
@@ -2155,11 +2155,11 @@
       {
         "name": "Grey Knights Storm Talon",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Abfangjäger",
         "armour": 5,
         "weapons": [
           "AC Synchronisierte Sturmkanone||FwA",
-          "AC Synchronisierte Psibolter||FxF"
+          "AC Synchronisierter Psibolter||FxF"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf"
@@ -2180,11 +2180,11 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Antigrav",
-          "Planetfall",
-          "Descent of Angels",
+          "Planetare Landung",
+          "Abstieg der Engel",
           "Transport"
         ],
-        "notes": "May transport eine Terminator oder zwei Infanterie Einheiten without Beritten. May in addition transport eine Cybot. Zählt als a Drop Pod für the purpose of being transported."
+        "notes": "Darf eine Terminator oder zwei Infanterie Einheiten ohne Beritten Eigenschaft transportieren. Darf zusätzlich einen Cybot transportieren. Zählt als Drop Pod für die Transportregel."
       },
       {
         "name": "Corvus Blackstar Dropship",
@@ -2200,16 +2200,16 @@
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Planetfall",
-          "Wings of the Sky Angel",
+          "Planetare Landung",
+          "Flügel der Himmelsengel",
           "Transport"
         ],
-        "notes": "Darf drei Infanterie Einheiten oder Trikes. Terminatoren zählen als jeweils anderthalb Einheiten, aufgerundet. May in addition transport eine Cybot oder Land Speeder."
+        "notes": "Darf drei Infanterie Einheiten oder Trikes transportieren. Terminatoren zählen als jeweils anderthalb Einheiten, aufgerundet. Darf zusätzlich einen Cybot oder Land Speeder transportieren."
       },
       {
         "name": "Ravenwing Nephilim",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Abfangjäger",
         "armour": 5,
         "weapons": [
           "AC Synchronisierter schwerer Bolter||FxF",
@@ -2225,9 +2225,9 @@
         "speed": "Jagdbomber",
         "armour": 5,
         "weapons": [
-          "AC Rift Geschütz||FxF",
+          "AC Risskanone||FxF",
           "AC Hurricane Boltersystem||FxF",
-          "AC Stasis Bomb||FxF"
+          "AC Stasisbombe||FxF"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf"
@@ -2239,15 +2239,15 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Synchronisierter Avenger Bolt Geschütz||FxF",
-          "AC Rakete Array||FxF",
-          "AC Doppeltsynchronisierter schwerer Bolter Turrets||"
+          "AC Synchronisiertes Avenger Bolter Geschütz||FxF",
+          "AC Raketenarray||FxF",
+          "AC Doppeltsynchronisierte schwere Bolter Türme||"
         ],
         "specialRules": [
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Fire Raptor is destroyed."
+        "crit": "Der Fire Raptor ist zerstört."
       },
       {
         "name": "Storm Eagle",
@@ -2259,16 +2259,16 @@
         "weapons": [
           "AC Doppeltsynchronisierte Laserkanone||FxF",
           "AC Synchronisierter schwerer Bolter||FxF",
-          "Vengeance Launcher||"
+          "Vergeltungswerfer||"
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport vier Infanterie Einheiten without Beritten; Terminatoren und Cybots zählen als zwei Einheiten. Zählt als a Thunderhawk für the purpose of being transported.",
-        "crit": "The Storm Eagle und all units being carried are destroyed."
+        "notes": "Darf bis zu vier Infanterie Einheiten ohne die Eigenschaft Beritten oder Cybots transportieren; Terminatoren und Cybots zählen als zwei Einheiten. Zählt als Thunderhawk für die Transport Regel.",
+        "crit": "Der Storm Eagle und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Darkwing Storm Eagle",
@@ -2280,17 +2280,17 @@
         "weapons": [
           "AC Doppeltsynchronisierte Laserkanone|2|FxF",
           "AC Synchronisierter schwerer Bolter||FxF",
-          "Vengeance Launcher||FxF"
+          "Vergeltungswerfer||FxF"
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Transport"
         ],
-        "notes": "May transport vier Infanterie Einheiten without Beritten; Terminatoren und Cybots zählen als zwei Einheiten.",
-        "crit": "The Storm Eagle und all units being carried are destroyed."
+        "notes": "Darf bis zu vier Infanterie Einheiten ohne die Eigenschaft Beritten oder Cybots transportieren; Terminatoren und Cybots zählen als zwei Einheiten.",
+        "crit": "Der Storm Eagle und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Thunderhawk",
@@ -2307,12 +2307,12 @@
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport acht Infanterie Einheiten, Trikes; Terminatoren und Cybots zählen als zwei Einheiten.",
-        "crit": "The Thunderhawk und all units being carried are destroyed."
+        "notes": "Darf acht Infanterie Einheiten, Trikes oder Cybots transportieren; Terminatoren und Cybots zählen als zwei Einheiten.",
+        "crit": "Der Thunderhawk und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Thunderhawk Transporter",
@@ -2327,12 +2327,12 @@
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May carry bis zu zwei Einheiten, in beliebiger Kombination: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders counts as zwei Einheiten. In addition it may also carry any Infanterie transported in these vehicles, which counts as being located in the vehicles when disembarking.",
-        "crit": "The Thunderhawk Transporter und all units being carried are destroyed."
+        "notes": "Darf bis zu zwei Einheiten, in beliebiger Kombination, transportieren: Stalker, Hunter, Predator, Razorbacks, Rhinos und Vindicator. Land Raider zählen als zwei Einheiten. Zusätzlich dürfen alle Infanterieeinheiten die in den Fahrzeugen transportiert werden ebenfalls transportiert werden. Beim Aussteigen zählen sie als eingestiegen in den Fahrzeugen.",
+        "crit": "Der Thunderhawk Transporter und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Iron Hands Thunderhawk Transporter",
@@ -2347,12 +2347,12 @@
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May carry bis zu zwei Einheiten, in beliebiger Kombination: Cybots, Hunters, Predators, Razorbacks, Rhinos, Stalkers und Vindicators. Land Raiders counts as zwei Einheiten. In addition it may also carry any Infanterie transported in these vehicles, which counts as being located in the vehicles when disembarking.",
-        "crit": "The Thunderhawk Transporter und all units being carried are destroyed."
+        "notes": "Darf bis zu zwei Einheiten, in beliebiger Kombination, transportieren: Cybots, Hunter, Predator, Razorbacks, Rhinos, Stalker und Vindicator. Land Raider zählen als zwei Einheiten. Zusätzlich dürfen alle Infanterieeinheiten die in den Fahrzeugen transportiert werden ebenfalls transportiert werden. Beim Aussteigen zählen sie als eingestiegen in den Fahrzeugen.",
+        "crit": "Der Thunderhawk Transporter und alle units being carried are zerstört."
       },
       {
         "name": "Deathwatch Thunderhawk Transporter",
@@ -2367,12 +2367,12 @@
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May carry bis zu zwei Einheiten, in beliebiger Kombination: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders counts as zwei Einheiten. In addition it may also carry any Infanterie transported in these vehicles, which counts as being located in the vehicles when disembarking.",
-        "crit": "The Thunderhawk Transporter und all units being carried are destroyed."
+        "notes": "Darf bis zu zwei Einheiten, in beliebiger Kombination, transportieren:  Stalker, Hunter, Predator, Razorbacks, Rhinos und Vindicator. Land Raider zählen als zwei Einheiten. Zusätzlich dürfen alle Infanterieeinheiten die in den Fahrzeugen transportiert werden ebenfalls transportiert werden. Beim Aussteigen zählen sie als eingestiegen in den Fahrzeugen.",
+        "crit": "Der Thunderhawk Transporter und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Grey Knights Thunderhawk Transporter",
@@ -2382,19 +2382,19 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "AC Synchronisierte Psibolter|2|Left",
-          "AC Synchronisierte Psibolter|2|Right"
+          "AC Synchronisierter Psibolter|2|Left",
+          "AC Synchronisierter Psibolter|2|Right"
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Gläubig",
           "Unmodifizierter Rettungswurf",
           "Transport"
         ],
-        "notes": "May carry bis zu zwei Einheiten, in beliebiger Kombination: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders counts as zwei Einheiten. In addition it may also carry any Infanterie transported in these vehicles, which counts as being located in the vehicles when disembarking.",
-        "crit": "The Thunderhawk Transporter und all units being carried are destroyed."
+        "notes": "Darf bis zu zwei Einheiten, in beliebiger Kombination, transportieren:  Stalker, Hunter, Predator, Razorbacks, Rhinos und Vindicator. Land Raider zählen als zwei Einheiten. Zusätzlich dürfen alle Infanterieeinheiten die in den Fahrzeugen transportiert werden ebenfalls transportiert werden. Beim Aussteigen zählen sie als eingestiegen in den Fahrzeugen.",
+        "crit": "Der Thunderhawk Transporter und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Thunderhawk Bomber",
@@ -2406,16 +2406,16 @@
           "AC Synchronisierter schwerer Bolter|2|FxF",
           "AC Synchronisierter schwerer Bolter||Left",
           "AC Synchronisierter schwerer Bolter||Right",
-          "AC Bomb Racks||FxF"
+          "AC Bomben||FxF"
         ],
         "specialRules": [
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Thunderhawk is destroyed."
+        "crit": "Der Thunderhawk Bomber ist zerstört."
       },
       {
-        "name": "Landing Craft",
+        "name": "Landungsbarke",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 4,
@@ -2428,19 +2428,19 @@
         "specialRules": [
           "Schadenskapazität 4",
           "Furchtlos",
-          "Planetfall",
+          "Planetare Landung",
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "Darf zwölf Infanterie Einheiten, Trikes oder Cybots transportieren; Terminatoren und Cybots zählen als zwei Einheiten; plus any sechs armoured vehicle units (except H-AV, Cybots); Land Raider zählen als jeweils anderthalb Einheiten, aufgerundet.",
-        "crit": "The Landing Craft und all units being carried are destroyed. Alle Einheiten innerhalb von 5 cm erleiden einen Treffer."
+        "notes": "Darf zwölf Infanterie Einheiten, Trikes oder Cybots transportieren; Terminatoren und Cybots zählen als zwei Einheiten; sowie sechs gepanzerte Fahrzeuge (keine H-AV, Cybots); Land Raider zählen als jeweils anderthalb Einheiten, aufgerundet.",
+        "crit": "Die Landungsbarke und alle  transportierten Einheiten werden zerstört. Alle Einheiten innerhalb von 5 cm erleiden einen Treffer."
       },
       {
-        "name": "Hunter Class Destroyer",
+        "name": "Jäger Klasse Zerstörer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "1BP, MW"
@@ -2451,14 +2451,14 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport vier Infanterie Einheiten. These may only deploy on to the battlefield using Teleportieren."
+        "notes": "Darf vier Infanterie Einheiten transportieren. Diese dürfen nur mittels Teleport das Spielfeld betreten."
       },
       {
-        "name": "Dark Hunter Class Destroyer",
+        "name": "Dark Jäger Klasse Zerstörer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "1BP, MW"
@@ -2469,14 +2469,14 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport vier Infanterie Einheiten. These may only deploy on to the battlefield using Teleportieren. May in addition transport fünf Corvus Blackstars und drei Thunderhawk Transporters along with any units these transport."
+        "notes": "Darf vier Infanterie Einheiten transportieren. Diese dürfen nur mittels Teleport das Spielfeld betreten. Darf bis zu fünf Corvus Blackstar und drei Thunderhawk Transporter inklusive aller Einheiten die so transportiert werden."
       },
       {
-        "name": "Vanguard Class Light Cruiser",
+        "name": "Vanguard Klasse Angriffskreuzer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "3BP, MW"
@@ -2487,14 +2487,14 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport 12 Infanterie Einheiten, Trikes, oder Cybots; plus fünf light vehicles oder armoured vehicle units (except Trikes und Cybots); plus zwei Thunderhawks und enough Drop Pods to transport any other units being carried."
+        "notes": "Darf bis zu 12 Infanterie Einheiten, Trikes, oder Cybots transportieren; sowie fünf leichtgepanzerte Fahrzeuge oder gepanzerte Fahrzeuge (außer Trikes und Cybots); sowie zwei Thunderhawks und ausreichend Drop Pods um alle anderen Einheiten zu transportieren."
       },
       {
-        "name": "Strike Cruiser",
+        "name": "Angriffskreuzer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "4BP, MW"
@@ -2505,14 +2505,14 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport 20 Infanterie Einheiten, Trikes, oder Cybots; plus 10 light vehicles oder armoured vehicle units (except Trikes und Cybots); plus sechs Thunderhawks und enough Drop Pods oder Landing Craft to transport any other units being carried."
+        "notes": "Darf bis zu 20 Infanterie Einheiten, Trikes, oder Cybots transportieren; sowie zehn leichtgepanzerte Fahrzeuge oder gepanzerte Fahrzeuge (außer Trikes und Cybots); plus sechs Thunderhawks und genügend Drop Pods oder Landungsbarken um alle anderen Einheiten zu transportieren."
       },
       {
-        "name": "Grey Knights Strike Cruiser",
+        "name": "Grey Knights Angriffskreuzer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "4BP, MW"
@@ -2524,14 +2524,14 @@
           "Navis Bossilite",
           "Transport"
         ],
-        "notes": "May transport 20 Infanterie Einheiten, Trikes, Cybots; plus 10 light vehicles oder armoured vehicle units (except Trikes und Cybots) ; plus 6 Thunderhawks/Storm Eagles und enough Drop Pods oder Landing Craft to transport any other units being carried."
+        "notes": "Darf bis zu 20 Infanterie Einheiten, Trikes, oder Cybots transportieren; sowie zehn leichtgepanzerte Fahrzeuge oder gepanzerte Fahrzeuge (außer Trikes und Cybots); plus sechs Thunderhawks/Storm Eagles und genügend Drop Pods oder Landungsbarken um alle anderen Einheiten zu transportieren."
       },
       {
-        "name": "Battle Barge",
+        "name": "Schlachtkreuzer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "10BP, MW"
@@ -2540,10 +2540,10 @@
           }
         ],
         "specialRules": [
-          "Slow to Arrive (May only arrive from turn 2 onwards)",
+          "Verzögerte Ankunft (Darf erst ab der 2. Runde  erscheinen)",
           "Transport"
         ],
-        "notes": "May transport 30 Infanterie Einheiten, Trikes, oder Cybots; plus 20 armoured vehicle units (except Trikes oder Cybots); plus 9 Thunderhawks und enough Drop Pods oder Landing Craft to transport any other units being carried."
+        "notes": "Darf bis zu 30 Infanterie Einheiten, Trikes, oder Cybots transportieren; sowie 20 gepanzerte Fahrzeuge (außer Trikes und Cybots); plus 9 Thunderhawks und genügend Drop Pods oder Landungsbarken um alle anderen Einheiten zu transportieren."
       },
       {
         "name": "Drop Pod",
@@ -2559,10 +2559,10 @@
           }
         ],
         "specialRules": [
-          "Planetfall",
+          "Planetare Landung",
           "Transport"
         ],
-        "notes": "May transport eine formation of only the following units: Taktischer Trupp, Devastoren, Cybot, Sternguard Veterans, Wolf Guard Terminatoren, Grey Knights Strike Squad, Grey Knights Purgation Squad. After the Drop Pod lands, its Deathwind attacks all enemy Einheiten mitin 15cm. Jeweils enemy formation attacked receives a Beschussmarke für coming under fire, und an extra Beschussmarke für jeweils casualty. Then any troops carried in the Drop Pod must disembark within 5cm of the Drop Pod oder within 5cm of another unit from the same formation that has already landed, so long as all units are placed within 15cm of the Drop Pod. Drop pod models should be removed from the board once the formation they transport has disembarked."
+        "notes": "Darf einen Verband transportieren, welcher ausschließlich aus diesen Einheiten besteht: Taktischer Trupp, Devastoren, Cybot, Protektorgarde, Terminatoren der Wolfsgarde, Grey Knights Strike Squad, Grey Knights Purgation Squad. Nachdem das Drop Pod landet, attackiert das Deathwind System alle gegnerischen Einheiten innerhalb von 15cm. Jeder gegnerische, angegriffene Verband erhält eine Beschussmarke für das Beschossen werden, und eine extra Beschussmarke für jeden Verlust. Anschließend steigen alle transportierten Einheiten aus dem Drop Pod innerhalb von 5cm umd das Drop Pod oder innerhalb von 5cm zu einer anderen Einheit des selben Verbands welche bereits platziert wurde. Alle Einheiten müssen innerhalb von 15cm um das Drop Pod platziert werden. Sobald alle Einheiten ausgestiegen sind, wird das Drop Pod vom Tisch entfernt."
       },
       {
         "name": "Intercessor",
@@ -2572,7 +2572,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Bolt Rifle"
+          "Bolt Gewehr"
         ]
       },
       {
@@ -2590,14 +2590,14 @@
         ]
       },
       {
-        "name": "Heavy Intercessor",
+        "name": "Schwere Intercessor",
         "type": "INF",
         "speed": "15",
         "armour": 3,
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Heavy Bolt Rifle"
+          "Schweres Bolt Gewehr"
         ]
       },
       {
@@ -2608,11 +2608,11 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Assault Bolter"
+          "Angriffsbolter"
         ],
         "specialRules": [
           "Sprungmodule",
-          "Reinforced Armor",
+          "Verstärkte Panzerung",
           "Overlord Insertion"
         ]
       },
@@ -2649,10 +2649,10 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Heavy Melter Rifle"
+          "Schweres Meltergewehr"
         ],
         "specialRules": [
-          "Reinforced Armor"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -2666,7 +2666,7 @@
           "Flame Gauntlet|2"
         ],
         "specialRules": [
-          "Reinforced Armor"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -2682,7 +2682,7 @@
         "specialRules": [
           "Sprungmodule",
           "Overlord Insertion",
-          "Reinforced Armor"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -2750,7 +2750,7 @@
           "Servo Arm"
         ],
         "specialRules": [
-          "Reinforced Armor",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ]
       },
@@ -2767,7 +2767,7 @@
           "Energiefaust"
         ],
         "specialRules": [
-          "Reinforced Armor",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ]
       },
@@ -2798,7 +2798,7 @@
           "Las-Talon"
         ],
         "specialRules": [
-          "Reinforced Armor",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Aggressors und Eradicators counts as zwei Einheiten."
@@ -2885,7 +2885,7 @@
           "Deflektorschilde 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Astraeus is destroyed. Alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer."
+        "crit": "The Astraeus is zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer."
       }
     ]
   }

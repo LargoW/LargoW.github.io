@@ -650,7 +650,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Rapier Laser Destroyer"
+          "Rapier Schnitter"
         ],
         "specialRules": [
         ]
@@ -990,7 +990,7 @@
       {
         "name": "Todesstoss-Raketensilo",
         "type": "WE",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 5,
         "weapons": [
           "Todesstoss Rakete|2"
@@ -1504,7 +1504,7 @@
         ],
         "specialRules": [
         ],
-        "crit": "The Minotaur is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "The Minotaur is zerstört. All Einheiten mitin 5cm suffers a hit on 6+."
       },
       {
         "name": "Macharius",
@@ -1540,7 +1540,7 @@
           "Verstärkte Panzerung"
         ],
         "notes": "Must be equipped with either Synchronisierter Vanquisher Geschütz oder a Vulcan Mega-Bolter.",
-        "crit": "The Macharius is destroyed."
+        "crit": "The Macharius is zerstört."
       },
       {
         "name": "Baran Macharius",
@@ -1557,7 +1557,7 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Macharius is destroyed."
+        "crit": "The Macharius is zerstört."
       },
       {
         "name": "Macharius Medusa",
@@ -1574,12 +1574,12 @@
           "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Macharius is destroyed."
+        "crit": "The Macharius is zerstört."
       },
       {
         "name": "Defense Laser",
         "type": "WE",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 4,
         "cc": 6,
         "ff": 5,
@@ -1630,7 +1630,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "The unit is zerstört. All Einheiten mitin 5cm suffers a hit on 6+."
       },
       {
         "name": "Hellhammer",
@@ -1650,7 +1650,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "The unit is zerstört. All Einheiten mitin 5cm suffers a hit on 6+."
       },
       {
         "name": "Stormlord",
@@ -1688,7 +1688,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "The unit is zerstört. All Einheiten mitin 5cm suffers a hit on 6+."
       },
       {
         "name": "Shadowsword",
@@ -1705,7 +1705,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "The unit is zerstört. All Einheiten mitin 5cm suffers a hit on 6+."
       },
       {
         "name": "Stormblade",
@@ -1723,7 +1723,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "The unit is zerstört. All Einheiten mitin 5cm suffers a hit on 6+."
       },
       {
         "name": "Stormsword",
@@ -1741,7 +1741,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "The unit is zerstört. All Einheiten mitin 5cm suffers a hit on 6+."
       },
       {
         "name": "Stormhammer",
@@ -1760,7 +1760,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All Einheiten mitin 5cm suffers a hit on 6+."
+        "crit": "The unit is zerstört. All Einheiten mitin 5cm suffers a hit on 6+."
       }
     ]
   }

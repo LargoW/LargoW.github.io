@@ -86,7 +86,7 @@
         "Chaos Xiphon Interceptor",
         "Alpha Legion Storm Eagle",
         "Chaos Fire Raptor",
-        "Chaos Strike Cruiser",
+        "Chaos Angriffskreuzer",
         "Alpha Legion Drop Pod"
       ],
       "unitRules": [
@@ -229,8 +229,8 @@
           "points": 225
         },
         {
-          "name": "0-1 Strike Cruiser",
-          "units": "Ein Chaos Strike Cruiser",
+          "name": "0-1 Angriffskreuzer",
+          "units": "Ein Chaos Angriffskreuzer",
           "extraUnits": [
           ],
           "points": 200

@@ -7,7 +7,7 @@
       {
         "name": "Razorwing Interceptor",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Abfangjäger",
         "armour": 4,
         "weapons": [
           "AC Dark Lanze|2|",
@@ -44,18 +44,18 @@
         "specialRules": [
           "Schadenskapazität 2",
           "Schattenfelder 1",
-          "Planetfall",
+          "Planetare Landung",
           "Transport"
         ],
         "notes": "May carry bis zu acht Infanterie Einheiten without Beritten. Grotesques counts as zwei Einheiten.",
-        "crit": "The Slavebringer und all units on board are destroyed."
+        "crit": "The Slavebringer und all units on board are zerstört."
       },
       {
         "name": "Torture Class Cruiser",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitales Bombardement",
             "modes": [
               {
                 "Feuerkraft": "6BP, MW"

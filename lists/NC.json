@@ -412,7 +412,7 @@
       {
         "name": "Sentry Pylons",
         "type": "AV",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 4,
         "ff": 5,
         "weapons": [
@@ -449,7 +449,7 @@
       {
         "name": "Pylon",
         "type": "WE",
-        "speed": "Immobile",
+        "speed": "Immobil",
         "armour": 4,
         "ff": 4,
         "weapons": [
@@ -464,7 +464,7 @@
           "Teleportieren",
           "Enduring"
         ],
-        "crit": "The Pylon is destroyed. All Einheiten mitin 5cm suffer a hit on a roll of 4+."
+        "crit": "The Pylon is zerstört. All Einheiten mitin 5cm suffer a hit on a roll of 4+."
       },
       {
         "name": "Megalith",
@@ -488,7 +488,7 @@
           "Enduring"
         ],
         "notes": "May transport bis zu zwei Monoliths oder Obelisks",
-        "crit": "The Megalith's Portal is destroyed. Subsequent critical hits cause eine additional damage."
+        "crit": "The Megalith's Portal is zerstört. Subsequent critical hits cause eine additional damage."
       },
       {
         "name": "Æonic Orb",
@@ -506,7 +506,7 @@
           "Hilfstransportschiff",
           "Enduring"
         ],
-        "crit": "The Æonic Orb is destroyed. Alle Einheiten innerhalb von 5 cm erleiden einen Treffer."
+        "crit": "The Æonic Orb is zerstört. Alle Einheiten innerhalb von 5 cm erleiden einen Treffer."
       },
       {
         "name": "Abattoir",
@@ -527,7 +527,7 @@
           "Antigrav",
           "Enduring"
         ],
-        "crit": "The Abattoir's Portal is destroyed. Subsequent critical hits cause eine additional damage."
+        "crit": "The Abattoir's Portal is zerstört. Subsequent critical hits cause eine additional damage."
       }
     ]
   }

@@ -23,10 +23,10 @@
 
 		{"name":"SPACE WOLVES AIRCRAFT AND FREEBLADE KNIGHTS <br/> Max 33%", "formations":[
 			{"id":530, "name": "Storm Talon Pack", "units":"2 Storm Talons",			"pts":200, "upgrades":[]},
-			{"id":531, "name": "Stormwolf Assault Boat",											"pts":175, "upgrades":[]},
-			{"id":532, "name": "Stormfang Gunship",													"pts":150, "upgrades":[]},
+			{"id":531, "name": "Stormwolf Sturmtransporter",											"pts":175, "upgrades":[]},
+			{"id":532, "name": "Stormfang Kanonenschiff",													"pts":150, "upgrades":[]},
 			{"id":533, "name": "Knight-Freeblade 'Crimson Glaive' (Conflagration Cannon)", 			"pts":175, "upgrades":[]},
-			{"id":534, "name": "Knight-Freeblade 'Iron Wolf' (Helfrost Destructor)", 				"pts":175, "upgrades":[]},
+			{"id":534, "name": "Knight-Freeblade 'Iron Wolf' (Helfrost-Destruktor)", 				"pts":175, "upgrades":[]},
 			{"id":535, "name": "Knight-Freeblade 'Justice' (Castigator Cannon)", 				"pts":175, "upgrades":[]},
 			{"id":536, "name": "Knight-Freeblade 'Canis Rex' (Las Impulsor)", 			"pts":175, "upgrades":[]}
 		]}
@@ -59,7 +59,7 @@
 		{"id":34, "name":"Razorback (Twin Heavy Bolter)",						"pts":25},
 		{"id":35, "name":"Razorback (Twin Lascannon)",						"pts":25},
 
-		{"id":40, "name":"Land Raider Wrath of Mjalnar", 					"pts":125},
+		{"id":40, "name":"Land Raider Zorn des Mjalnar", 					"pts":125},
 
 		{"id":50, "name":"Strike Cruiser",						"pts":200},
 		{"id":51, "name":"Battle Barge",						"pts":275}

@@ -30,7 +30,7 @@
         "Squat Trike",
         "Squat Rhino",
         "Land Raider",
-        "Squat Thunderfire",
+        "Squat Donnerfeuer",
         "Iron Eagle Gyrokopter",
         "Goliath Mega Geschütz",
         "Overlord Dirigible",
@@ -120,7 +120,7 @@
           "points": 200
         },
         {
-          "name": "Thunderfire Batterie",
+          "name": "Donnerfeuer Batterie",
           "units": "Drei Squat Thunderfires",
           "extraUnits": [
             "Füge drei Squat Rhinos: 25 Punkte"

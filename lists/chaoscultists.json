@@ -256,7 +256,7 @@
           "Dämonischer Fokus",
           "Augmented Beschwörung (+D3)"
         ],
-        "crit": "The Chaos Altar is destroyed. All Einheiten mitin 5cm suffers a MW hit on 6+."
+        "crit": "The Chaos Altar is zerstört. All Einheiten mitin 5cm suffers a MW hit on 6+."
       },
       {
         "name": "Warp Altar",
@@ -278,7 +278,7 @@
             "Augmented Beschwörung (+D3)",
           "Chaos Gate"
         ],
-        "crit": "The Warp Altar is destroyed. All Daemon Legion Einheiten mitin 5cm are destroyed, all other Einheiten mitin 5cm suffers a MW hit on 6+."
+        "crit": "The Warp Altar is zerstört. All Daemon Legion Einheiten mitin 5cm are destroyed, all other Einheiten mitin 5cm suffers a MW hit on 6+."
       },
       {
         "name": "Poxwalkers des Nurgle",

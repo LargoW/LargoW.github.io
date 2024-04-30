@@ -23,12 +23,12 @@
         "Sturmtrupp",
         "Assault Bikes",
         "Raven Guard Aufklärers",
-        "Sternguard Veterans",
+        "Protektorgarde",
         "Taktischer Trupp",
         "Devastoren",
         "Cyclone Terminatoren",
         "Terminatoren",
-        "Vanguard Veterans",
+        "Expugnatorgarde",
         "Trike",
         "Land Speeder",
         "Land Speeder Storm",
@@ -41,7 +41,7 @@
         "Stalker",
         "Storm Eagle",
         "Storm Talon",
-        "Strike Cruiser",
+        "Angriffskreuzer",
         "Vanguard Class Light Cruiser",
         "Drop Pod"
       ],
@@ -92,7 +92,7 @@
       "formations": [
         {
           "name": "Sternguard Veteran",
-          "units": "Vier Sternguard Veterans plus transport",
+          "units": "Vier Protektorgarde plus transport",
           "extraUnits": [
             "Befehlshaber",
             "Anti-Air",
@@ -103,7 +103,7 @@
         },
         {
           "name": "Vanguard Veteran",
-          "units": "Vier Vanguard Veterans",
+          "units": "Vier Expugnatorgarde",
           "extraUnits": [
             "Befehlshaber",
             "Land Speeders"
@@ -191,7 +191,7 @@
           "name": "0-1 Orbital Support",
           "units": "Ein Vanguard Class Light Cruiser",
           "extraUnits": [
-            "Strike Cruiser"
+            "Angriffskreuzer"
           ],
           "points": 150
         },
@@ -276,7 +276,7 @@
         "points": "25 Punkte"
       },
       {
-        "name": "Strike Cruiser",
+        "name": "Angriffskreuzer",
         "description": "Ersetze the Vanguard Class Light Cruiser mit einemStrike Cruiser",
         "points": "50 Punkte"
       }

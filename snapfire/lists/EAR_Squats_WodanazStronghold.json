@@ -9,7 +9,7 @@
 			{"id":509, "name":"Berserker Brotherhood",	"pts":200, "units":"Squat Hearthguards, 7 Squat Berserkers", "upgrades":[]}
 		]},
 		{"name":"WODANAZ STRONGHOLD SUPPORT <br/> Max 2 for each Brotherhood", "formations":[
-			{"id":517, "name":"Thunderfire Battery",		"pts":150,  "units":"3 Squat Thunderfires",  "upgrades":[117]},
+			{"id":517, "name":"Donnerfeuer Battery",		"pts":150,  "units":"3 Squat Thunderfires",  "upgrades":[117]},
 			{"id":514, "name":"Sentry Battery",					"pts":175, "upgrades":[]},
 			{"id":510, "name":"Bikers",			"pts":175, "upgrades":[116]},
 			{"id":516, "name":"Kastelan Maniple",		"pts":50,  "units":"Squat Tech-Priest", "upgrades":[124]},
